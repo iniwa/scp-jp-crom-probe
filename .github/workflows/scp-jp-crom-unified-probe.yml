@@ -1,4 +1,4 @@
-name: SCP-JP Crom detail probe
+name: SCP-JP Crom unified probe
 
 on:
   workflow_dispatch:
@@ -12,12 +12,12 @@ permissions:
   contents: read
 
 env:
-  DETAIL_OUTPUT_DIR: detail-output
+  UNIFIED_OUTPUT_DIR: unified-output
 
 jobs:
-  detail-probe:
+  unified-probe:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
 
     steps:
       - name: Initialize diagnostic files
@@ -25,18 +25,18 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          mkdir -p "$DETAIL_OUTPUT_DIR/articles"
-          cat > "$DETAIL_OUTPUT_DIR/detail-result.json" <<'JSON'
+          mkdir -p "$UNIFIED_OUTPUT_DIR/articles"
+          cat > "$UNIFIED_OUTPUT_DIR/unified-result.json" <<'JSON'
           {
-            "schema_version": 3,
+            "schema_version": 4,
             "status": "workflow_not_started",
-            "error": "The detail probe did not overwrite this placeholder."
+            "error": "The unified probe did not overwrite this placeholder."
           }
           JSON
-          cat > "$DETAIL_OUTPUT_DIR/detail-summary.md" <<'MARKDOWN'
-          # SCP-JP Crom detail probe
+          cat > "$UNIFIED_OUTPUT_DIR/unified-summary.md" <<'MARKDOWN'
+          # SCP-JP Crom unified probe
 
-          The detail probe did not run. Check workflow-diagnostics.txt and step logs.
+          The unified probe did not run. Check workflow-diagnostics.txt and step logs.
           MARKDOWN
 
       - name: Checkout
@@ -49,24 +49,26 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Run parser tests
+      - name: Run parser and classification tests
         id: tests
         shell: bash
-        run: python -m unittest discover -s tests -v
+        run: python -m unittest discover -s tests -p 'test_unified_parser.py' -v
 
       - name: Compile probe
         id: compile
         shell: bash
-        run: python -m compileall -q scripts/scp_jp_crom_detail_probe.py
+        run: python -m compileall -q scripts/scp_jp_crom_unified_probe.py
 
-      - name: Query Crom details
+      - name: Query JP originals and translations through Crom
         id: query
         continue-on-error: true
         shell: bash
         run: |
-          python scripts/scp_jp_crom_detail_probe.py \
+          set -o pipefail
+          python scripts/scp_jp_crom_unified_probe.py \
             --since-jst '${{ inputs.since_jst }}' \
-            --output-dir "$DETAIL_OUTPUT_DIR"
+            --output-dir "$UNIFIED_OUTPUT_DIR" \
+            2>&1 | tee "$UNIFIED_OUTPUT_DIR/probe.log"
 
       - name: Capture workflow diagnostics
         if: always()
@@ -79,7 +81,7 @@ jobs:
           COMPILE_OUTCOME: ${{ steps.compile.outcome }}
           QUERY_OUTCOME: ${{ steps.query.outcome }}
         run: |
-          mkdir -p "$DETAIL_OUTPUT_DIR"
+          mkdir -p "$UNIFIED_OUTPUT_DIR"
           {
             echo "generated_at_utc=$(date -u +%Y-%m-%dT%H:%M:%SZ)"
             echo "repository=${GITHUB_REPOSITORY}"
@@ -91,36 +93,36 @@ jobs:
             echo "tests_outcome=${TESTS_OUTCOME:-unknown}"
             echo "compile_outcome=${COMPILE_OUTCOME:-unknown}"
             echo "query_outcome=${QUERY_OUTCOME:-unknown}"
-          } > "$DETAIL_OUTPUT_DIR/workflow-diagnostics.txt"
+          } > "$UNIFIED_OUTPUT_DIR/workflow-diagnostics.txt"
 
       - name: Add result to job summary
         if: always()
         shell: bash
         run: |
-          if [ -f "$DETAIL_OUTPUT_DIR/detail-summary.md" ]; then
-            cat "$DETAIL_OUTPUT_DIR/detail-summary.md" >> "$GITHUB_STEP_SUMMARY"
+          if [ -f "$UNIFIED_OUTPUT_DIR/unified-summary.md" ]; then
+            cat "$UNIFIED_OUTPUT_DIR/unified-summary.md" >> "$GITHUB_STEP_SUMMARY"
           else
-            echo "Detail summary is missing." >> "$GITHUB_STEP_SUMMARY"
+            echo "Unified summary is missing." >> "$GITHUB_STEP_SUMMARY"
           fi
           {
             echo
             echo "## Workflow step outcomes"
             echo
             echo '```text'
-            cat "$DETAIL_OUTPUT_DIR/workflow-diagnostics.txt"
+            cat "$UNIFIED_OUTPUT_DIR/workflow-diagnostics.txt"
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY"
 
-      - name: Upload detail result
+      - name: Upload unified result
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: scp-jp-crom-detail-probe
-          path: detail-output/
+          name: scp-jp-crom-unified-probe
+          path: unified-output/
           if-no-files-found: error
           retention-days: 14
 
-      - name: Fail workflow when detail probe did not succeed
+      - name: Fail workflow when probe is not fully healthy
         if: always() && steps.query.outcome != 'success'
         shell: bash
         run: exit 1
