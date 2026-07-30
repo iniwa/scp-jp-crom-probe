@@ -1146,7 +1146,21 @@ def main() -> int:
     result, code = execute(args, paths)
     try:
         write_outputs(paths, result)
-        print(paths.markdown.read_text(encoding="utf-8"))
+        counts = result.get("counts") or {}
+        # Keep stdout compact and ASCII-safe. The full Markdown is written to
+        # unified-summary.md and appended to GITHUB_STEP_SUMMARY by the workflow.
+        print(
+            json.dumps(
+                {
+                    "status": result.get("status"),
+                    "jp_originals": counts.get("jp_originals", 0),
+                    "translations": counts.get("translations", 0),
+                    "classification_issues": counts.get("classification_issues", 0),
+                    "output_dir": str(paths.root),
+                },
+                ensure_ascii=True,
+            )
+        )
     except Exception as exc:
         print(f"Failed to write outputs: {exc}", file=sys.stderr)
         return 2

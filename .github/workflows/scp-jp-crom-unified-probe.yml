@@ -63,12 +63,24 @@ jobs:
         id: query
         continue-on-error: true
         shell: bash
+        env:
+          PYTHONIOENCODING: utf-8
         run: |
-          set -o pipefail
+          # Do not pipe the full probe output through tee. The v4 probe had
+          # already written a healthy result, but the output pipeline could
+          # still return non-zero and turn the step into a false failure.
+          set +e
           python scripts/scp_jp_crom_unified_probe.py \
             --since-jst '${{ inputs.since_jst }}' \
             --output-dir "$UNIFIED_OUTPUT_DIR" \
-            2>&1 | tee "$UNIFIED_OUTPUT_DIR/probe.log"
+            > "$UNIFIED_OUTPUT_DIR/probe.log" 2>&1
+          probe_exit=$?
+          set -e
+
+          echo "exit_code=$probe_exit" >> "$GITHUB_OUTPUT"
+          echo "Probe exit code: $probe_exit"
+          tail -n 40 "$UNIFIED_OUTPUT_DIR/probe.log" || true
+          exit "$probe_exit"
 
       - name: Capture workflow diagnostics
         if: always()
@@ -80,6 +92,7 @@ jobs:
           TESTS_OUTCOME: ${{ steps.tests.outcome }}
           COMPILE_OUTCOME: ${{ steps.compile.outcome }}
           QUERY_OUTCOME: ${{ steps.query.outcome }}
+          QUERY_EXIT_CODE: ${{ steps.query.outputs.exit_code }}
         run: |
           mkdir -p "$UNIFIED_OUTPUT_DIR"
           {
@@ -93,6 +106,7 @@ jobs:
             echo "tests_outcome=${TESTS_OUTCOME:-unknown}"
             echo "compile_outcome=${COMPILE_OUTCOME:-unknown}"
             echo "query_outcome=${QUERY_OUTCOME:-unknown}"
+            echo "query_exit_code=${QUERY_EXIT_CODE:-unknown}"
           } > "$UNIFIED_OUTPUT_DIR/workflow-diagnostics.txt"
 
       - name: Add result to job summary

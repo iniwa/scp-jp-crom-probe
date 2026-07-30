@@ -1,4 +1,4 @@
-# SCP-JP Crom unified probe v4
+# SCP-JP Crom unified probe v4.1
 
 既存の詳細プローブを、**JPオリジナル＋翻訳記事の統合取得試験**へ拡張したものです。
 
@@ -96,3 +96,10 @@ articles/conflict/*
 - Safety capによる打ち切りが`False`
 
 翻訳記事が0件でも、それ自体では失敗にしません。対象期間に本当に投稿がなかった可能性と、抽出条件の問題を出力内容から確認します。
+
+## v4.1の修正
+
+- 健全な結果ファイルを生成した後、標準出力のパイプだけが失敗してworkflow全体が赤くなる偽失敗を防止。
+- Pythonの標準出力を小さなASCII安全JSONへ変更。完全な結果は従来どおり`unified-summary.md`へ保存。
+- workflowは`tee`を廃止し、`probe.log`へ直接リダイレクト。
+- 実際のPython終了コードを`query_exit_code`として診断ファイルへ記録。
