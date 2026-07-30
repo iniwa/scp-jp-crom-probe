@@ -1,105 +1,183 @@
-# SCP-JP Crom unified probe v4.1
+# SCP-JP Daily Monitor v5
 
-既存の詳細プローブを、**JPオリジナル＋翻訳記事の統合取得試験**へ拡張したものです。
+Crom GraphQL APIからSCP財団日本支部の新着記事を取得し、毎日12:20頃（JST）にGitHub Pagesへ監視用JSONを公開する本番版です。
 
 ## 監視対象
+
+### 含める
 
 - SCP報告書
 - Tale
 - GoIフォーマット
-- アートワーク
+- アートワーク・音楽
 - ハブ・サイト
 - 合作・設定集
 - エッセイ
 - ニュース
 - 外部ウィキアーカイブ
+- 上記に該当する翻訳記事
 
-次は明示的に除外します。
+### 除外する
 
 - 著者ページ・作者ページ・訳者ページ
 - コンポーネント
 - テーマ
 - `fragment` / `deleted`
 - 非表示ページ
+- 上記の作品タグを持たない管理・技術ページ
 
-## 翻訳判定
-
-単純な `jp` タグの有無だけではなく、次を組み合わせます。
-
-1. Cromの `TRANSLATOR` attribution
-2. クレジット欄の `翻訳責任者` / `翻訳者` / `翻訳年`
-3. `原題`
-4. `元記事リンク`
-5. 原語支部タグ
-
-判定結果は次の4種類です。
-
-- `jp_original`
-- `translation`
-- `unknown`
-- `conflict`
-
-原語支部タグだけで翻訳と推定できた場合は `probable` とし、workflowを失敗扱いにします。`unknown`、`conflict`、本文取得失敗も同様です。取得失敗や分類不能を「新着なし」とは扱いません。
-
-## 追加するファイル
-
-現在の `iniwa/scp-jp-crom-probe` リポジトリへ、次を追加してください。
+## 構成
 
 ```text
-.github/workflows/scp-jp-crom-unified-probe.yml
-scripts/scp_jp_crom_unified_probe.py
-tests/test_unified_parser.py
+.github/workflows/scp-jp-monitor.yml
+config/baseline.json
+scripts/scp_jp_monitor.py
+tests/test_monitor.py
+docs/scheduled-task-prompt.md
+docs/operations.md
 ```
 
-既存のv2/v3プローブは残して構いません。
+既存のv2～v4.2プローブは残して構いません。v5のワークフローは`scp_jp_monitor.py`だけを本番処理に使用します。
 
-## 実行
-
-GitHub Actionsから次を手動実行します。
+## 動作
 
 ```text
-SCP-JP Crom unified probe
+毎日12:20頃 JST
+GitHub Actions
+  ├─ monitor-stateブランチから前回状態を取得
+  ├─ Cromから新着候補を取得
+  ├─ JPオリジナル／翻訳を分類
+  ├─ タイトル、サブタイトル、著者・翻訳者を正規化
+  ├─ ネタバレなし概要作成用の短いsummary_basisを抽出
+  ├─ GitHub Pagesへhealth.json / delta.json / latest.jsonを公開
+  └─ Pagesデプロイ成功後にmonitor-stateブランチへ状態を保存
+
+毎日12:40頃 JST
+ChatGPT Scheduled Task
+  ├─ health.jsonの鮮度と正常性を確認
+  ├─ delta.jsonの未報告notification_idだけを抽出
+  └─ 新着がある場合だけ通知
 ```
 
-初回入力値:
+状態保存は**Pagesへのデプロイ成功後**に行います。デプロイ後の状態保存だけが失敗した場合、翌日に重複候補が出る可能性はありますが、記事を黙って取りこぼすことはありません。
+
+## 初期ベースライン
+
+`config/baseline.json`には、すでに紹介済みのJPオリジナル9件を登録しています。
+
+翻訳記事はベースラインに含めていません。そのため、初回の本番実行では2026年7月26日以降の翻訳記事が`delta.json`に入り、一度まとめて紹介できます。
+
+## 導入
+
+ZIPの中身を`iniwa/scp-jp-crom-probe`のリポジトリルートへ配置し、コミット・プッシュします。
 
 ```text
-2026-07-26T00:00:00+09:00
+<repository root>/
+├─ .github/workflows/scp-jp-monitor.yml
+├─ config/baseline.json
+├─ scripts/scp_jp_monitor.py
+├─ tests/test_monitor.py
+└─ docs/scheduled-task-prompt.md
+docs/operations.md
 ```
 
-## 出力
+### GitHub Pagesを有効化
 
-Artifact `scp-jp-crom-unified-probe`:
+リポジトリで次を設定します。
 
 ```text
-unified-result.json
-unified-summary.md
-probe.log
-workflow-diagnostics.txt
-articles/jp_original/*.source.txt
-articles/jp_original/*.text.txt
-articles/translation/*.source.txt
-articles/translation/*.text.txt
-articles/unknown/*
-articles/conflict/*
+Settings
+→ Pages
+→ Build and deployment
+→ Source: GitHub Actions
 ```
 
-`unified-summary.md`には、JPオリジナルと翻訳記事を別セクションで表示します。翻訳記事には原語支部、原題、元記事リンク、翻訳者、分類確度を出力します。
+追加のAPIキーやSecretsは不要です。ワークフロー内の`GITHUB_TOKEN`でPagesデプロイと`monitor-state`ブランチ更新を行います。
 
-## 合格条件
+リポジトリまたは組織のポリシーで`GITHUB_TOKEN`の書き込みが禁止されている場合は、ActionsのWorkflow permissionsで書き込みを許可してください。
 
-- `Status: ok`
-- 既存のJPオリジナル4件がすべてPresent
-- `Unknown/conflicting: 0`
-- すべての候補記事でContentが`yes`
-- 翻訳記事が存在する場合、`Translations`表に掲載される
-- Safety capによる打ち切りが`False`
+## 初回テスト
 
-翻訳記事が0件でも、それ自体では失敗にしません。対象期間に本当に投稿がなかった可能性と、抽出条件の問題を出力内容から確認します。
+GitHubのActionsから以下を実行します。
 
-## v4.1の修正
+```text
+SCP-JP daily monitor
+→ Run workflow
+→ window_days: 30
+→ now: 空欄
+```
 
-- 健全な結果ファイルを生成した後、標準出力のパイプだけが失敗してworkflow全体が赤くなる偽失敗を防止。
-- Pythonの標準出力を小さなASCII安全JSONへ変更。完全な結果は従来どおり`unified-summary.md`へ保存。
-- workflowは`tee`を廃止し、`probe.log`へ直接リダイレクト。
-- 実際のPython終了コードを`query_exit_code`として診断ファイルへ記録。
+初回の期待値は、おおむね次のとおりです。
+
+```text
+Status: ok
+Mode: bootstrap
+JP originals: 9以上
+Translations: 16以上
+New this run: 翻訳16件＋テスト時点までに追加された未報告記事
+Pending: 0
+```
+
+実行成功後、以下が公開されます。
+
+```text
+https://iniwa.github.io/scp-jp-crom-probe/health.json
+https://iniwa.github.io/scp-jp-crom-probe/delta.json
+https://iniwa.github.io/scp-jp-crom-probe/latest.json
+```
+
+また、`monitor-state`ブランチが自動作成され、ルートに`state.json`が保存されます。
+
+## 公開ファイル
+
+### `health.json`
+
+当日の取得状態です。
+
+- `status: ok` — 全候補を正常に処理
+- `status: degraded` — 一部記事が同期待ち・分類待ち。確定済み記事は公開
+- `status: error` — 全体処理失敗。新しいPagesデプロイは行わず、前回成功版を維持
+
+### `delta.json`
+
+通知候補です。初回検出から72時間保持します。
+
+主な項目:
+
+- `notification_id` — `wikidot_id`由来の安定識別子
+- `is_new_this_run`
+- `edition` — `jp_original` / `translation`
+- `genre`
+- `article_title` / `subtitle`
+- `summary_basis`
+- `content_warnings`
+- 翻訳記事の`source_branch`、`original_title`、`translators`
+
+ChatGPT側は、過去に通知済みの`notification_id`を再通知しません。
+
+### `latest.json`
+
+直近30日間の確定済み記事一覧です。監査・取りこぼし確認に使用します。
+
+## 障害時の扱い
+
+- Crom全体への接続失敗、JSON異常、上限到達など: Workflow失敗。Pagesは前回成功版を維持
+- 個別記事の本文が未同期: `degraded`。その記事は未検出扱いにせず`pending_pages`へ記録し、翌日再試行
+- 分類不能・競合: `degraded`。対象ページは状態へ保存せず再試行
+- 新着なし: `ok`かつ未報告候補0件。ChatGPTは通知しない
+- `health.json`の日付が当日でない: ChatGPTは「本日の更新未完了」として障害通知
+
+## 状態のリセット
+
+通常は`monitor-state`ブランチを手動編集しません。
+
+完全に初期化する場合は`monitor-state`ブランチを削除すると、次回実行が`config/baseline.json`からbootstrapします。この操作では翻訳記事が再び通知候補になるため、意図的なリセット時だけ行ってください。
+
+## ローカル検証
+
+```bash
+python -m unittest discover -s tests -p 'test_*.py' -v
+python -m compileall -q scripts/scp_jp_monitor.py
+```
+
+ライブ取得には外部ネットワークが必要です。

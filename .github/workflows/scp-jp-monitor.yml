@@ -1,0 +1,285 @@
+name: SCP-JP daily monitor
+
+on:
+  schedule:
+    # 03:20 UTC = 12:20 JST. GitHub may start scheduled workflows later
+    # during congestion, so the consumer notification is planned for 12:40頃.
+    - cron: "20 3 * * *"
+  workflow_dispatch:
+    inputs:
+      window_days:
+        description: Incremental lookback window in days
+        required: true
+        default: "30"
+      now:
+        description: Optional aware ISO-8601 timestamp for deterministic testing
+        required: false
+        default: ""
+      force_bootstrap:
+        description: Ignore monitor-state and rebuild from the baseline
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: scp-jp-daily-monitor
+  cancel-in-progress: false
+
+env:
+  MONITOR_OUTPUT_DIR: monitor-output
+  PYTHONIOENCODING: utf-8
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout source branch
+        id: checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        id: setup_python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Initialize working directories
+        id: initialize
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -rf "$MONITOR_OUTPUT_DIR" monitor-input
+          mkdir -p "$MONITOR_OUTPUT_DIR" monitor-input
+          : > "$MONITOR_OUTPUT_DIR/monitor.log"
+
+      - name: Load previous monitor state
+        id: previous_state
+        shell: bash
+        env:
+          FORCE_BOOTSTRAP: ${{ inputs.force_bootstrap || false }}
+        run: |
+          set -euo pipefail
+
+          if [[ "$FORCE_BOOTSTRAP" == "true" ]]; then
+            echo "available=false" >> "$GITHUB_OUTPUT"
+            echo "source=forced-baseline" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          set +e
+          git ls-remote --exit-code --heads origin monitor-state >/dev/null 2>&1
+          state_ref_result=$?
+          set -e
+
+          case "$state_ref_result" in
+            0)
+              git fetch --no-tags origin monitor-state:refs/remotes/origin/monitor-state
+              git show refs/remotes/origin/monitor-state:state.json \
+                > monitor-input/previous-state.json
+              python -m json.tool monitor-input/previous-state.json >/dev/null
+              echo "available=true" >> "$GITHUB_OUTPUT"
+              echo "source=monitor-state" >> "$GITHUB_OUTPUT"
+              ;;
+            2)
+              echo "available=false" >> "$GITHUB_OUTPUT"
+              echo "source=baseline" >> "$GITHUB_OUTPUT"
+              ;;
+            *)
+              echo "Could not determine whether monitor-state exists." >&2
+              exit "$state_ref_result"
+              ;;
+          esac
+
+      - name: Run unit tests
+        id: tests
+        shell: bash
+        run: python -m unittest discover -s tests -p 'test_*.py' -v
+
+      - name: Compile monitor
+        id: compile
+        shell: bash
+        run: python -m compileall -q scripts/scp_jp_monitor.py
+
+      - name: Build monitor feed through Crom
+        id: build_feed
+        continue-on-error: true
+        shell: bash
+        env:
+          WINDOW_DAYS: ${{ inputs.window_days || '30' }}
+          NOW_OVERRIDE: ${{ inputs.now || '' }}
+        run: |
+          set +e
+          args=(
+            --output-dir "$MONITOR_OUTPUT_DIR"
+            --baseline-file config/baseline.json
+            --window-days "$WINDOW_DAYS"
+            --notification-hours 72
+            --snapshot-days 14
+          )
+          if [ -f monitor-input/previous-state.json ]; then
+            args+=(--previous-state-file monitor-input/previous-state.json)
+          fi
+          if [ -n "$NOW_OVERRIDE" ]; then
+            args+=(--now "$NOW_OVERRIDE")
+          fi
+
+          python scripts/scp_jp_monitor.py "${args[@]}" \
+            > "$MONITOR_OUTPUT_DIR/monitor.log" 2>&1
+          monitor_exit=$?
+          set -e
+
+          echo "exit_code=$monitor_exit" >> "$GITHUB_OUTPUT"
+          echo "Monitor exit code: $monitor_exit"
+          tail -n 120 "$MONITOR_OUTPUT_DIR/monitor.log" || true
+          exit "$monitor_exit"
+
+      - name: Capture workflow diagnostics
+        if: always()
+        shell: bash
+        env:
+          CHECKOUT_OUTCOME: ${{ steps.checkout.outcome }}
+          SETUP_PYTHON_OUTCOME: ${{ steps.setup_python.outcome }}
+          INITIALIZE_OUTCOME: ${{ steps.initialize.outcome }}
+          PREVIOUS_STATE_OUTCOME: ${{ steps.previous_state.outcome }}
+          PREVIOUS_STATE_AVAILABLE: ${{ steps.previous_state.outputs.available }}
+          PREVIOUS_STATE_SOURCE: ${{ steps.previous_state.outputs.source }}
+          TESTS_OUTCOME: ${{ steps.tests.outcome }}
+          COMPILE_OUTCOME: ${{ steps.compile.outcome }}
+          BUILD_FEED_OUTCOME: ${{ steps.build_feed.outcome }}
+          BUILD_FEED_EXIT_CODE: ${{ steps.build_feed.outputs.exit_code }}
+        run: |
+          set -euo pipefail
+          mkdir -p "$MONITOR_OUTPUT_DIR"
+          {
+            echo "generated_at_utc=$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            echo "repository=${GITHUB_REPOSITORY}"
+            echo "run_id=${GITHUB_RUN_ID}"
+            echo "ref=${GITHUB_REF}"
+            echo "checkout_outcome=${CHECKOUT_OUTCOME:-unknown}"
+            echo "setup_python_outcome=${SETUP_PYTHON_OUTCOME:-unknown}"
+            echo "initialize_outcome=${INITIALIZE_OUTCOME:-unknown}"
+            echo "previous_state_outcome=${PREVIOUS_STATE_OUTCOME:-unknown}"
+            echo "previous_state_available=${PREVIOUS_STATE_AVAILABLE:-unknown}"
+            echo "previous_state_source=${PREVIOUS_STATE_SOURCE:-unknown}"
+            echo "tests_outcome=${TESTS_OUTCOME:-unknown}"
+            echo "compile_outcome=${COMPILE_OUTCOME:-unknown}"
+            echo "build_feed_outcome=${BUILD_FEED_OUTCOME:-unknown}"
+            echo "build_feed_exit_code=${BUILD_FEED_EXIT_CODE:-unknown}"
+          } > "$MONITOR_OUTPUT_DIR/workflow-diagnostics.txt"
+
+          if [ ! -f "$MONITOR_OUTPUT_DIR/monitor.log" ]; then
+            echo "monitor.log was not created." > "$MONITOR_OUTPUT_DIR/monitor.log"
+          fi
+          if [ ! -f "$MONITOR_OUTPUT_DIR/monitor-debug.json" ]; then
+            cat > "$MONITOR_OUTPUT_DIR/monitor-debug.json" <<JSON
+          {
+            "schema_version": 1,
+            "health": {
+              "status": "workflow_error",
+              "error_type": "WorkflowStepFailure",
+              "error": "The monitor did not produce monitor-debug.json.",
+              "run_id": "${GITHUB_RUN_ID}",
+              "build_feed_outcome": "${BUILD_FEED_OUTCOME:-unknown}",
+              "build_feed_exit_code": "${BUILD_FEED_EXIT_CODE:-unknown}"
+            }
+          }
+          JSON
+          fi
+          find "$MONITOR_OUTPUT_DIR" -type f -printf '%P\t%s bytes\n' \
+            | sort > "$MONITOR_OUTPUT_DIR/artifact-manifest.txt"
+
+      - name: Add monitor summary to job summary
+        if: always()
+        shell: bash
+        run: |
+          if [ -f "$MONITOR_OUTPUT_DIR/monitor-summary.md" ]; then
+            cat "$MONITOR_OUTPUT_DIR/monitor-summary.md" >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "# SCP-JP daily monitor" >> "$GITHUB_STEP_SUMMARY"
+            echo >> "$GITHUB_STEP_SUMMARY"
+            echo "Monitor summary was not generated." >> "$GITHUB_STEP_SUMMARY"
+          fi
+          {
+            echo
+            echo "## Workflow diagnostics"
+            echo
+            echo '```text'
+            cat "$MONITOR_OUTPUT_DIR/workflow-diagnostics.txt"
+            echo '```'
+            echo
+            echo "## Artifact manifest"
+            echo
+            echo '```text'
+            cat "$MONITOR_OUTPUT_DIR/artifact-manifest.txt"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload diagnostic artifact
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: scp-jp-monitor-output
+          path: monitor-output/
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Configure GitHub Pages
+        if: steps.build_feed.outcome == 'success' && github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+        uses: actions/configure-pages@v5
+
+      - name: Upload GitHub Pages artifact
+        if: steps.build_feed.outcome == 'success' && github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: monitor-output/public
+
+      - name: Deploy GitHub Pages
+        id: deployment
+        if: steps.build_feed.outcome == 'success' && github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+        uses: actions/deploy-pages@v4
+
+      - name: Persist state after successful deployment
+        if: steps.deployment.outcome == 'success'
+        shell: bash
+        run: |
+          set -euo pipefail
+          cp "$MONITOR_OUTPUT_DIR/state.json" /tmp/scp-jp-monitor-state.json
+          python -m json.tool /tmp/scp-jp-monitor-state.json >/dev/null
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git ls-remote --exit-code --heads origin monitor-state >/dev/null 2>&1; then
+            git fetch --no-tags origin monitor-state
+            git switch -C monitor-state origin/monitor-state
+          else
+            git switch --orphan monitor-state
+            git rm -rf . >/dev/null 2>&1 || true
+          fi
+
+          cp /tmp/scp-jp-monitor-state.json state.json
+          git add state.json
+          if git diff --cached --quiet; then
+            echo "State is unchanged."
+          else
+            git commit -m "chore: update SCP-JP monitor state [skip ci]"
+            git push origin HEAD:monitor-state
+          fi
+
+      - name: Fail workflow when feed generation failed
+        if: always() && steps.build_feed.outcome != 'success'
+        shell: bash
+        run: exit 1

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "bootstrap_since_jst": "2026-07-26T00:00:00+09:00",
+  "recorded_at_utc": "2026-07-30T05:00:00+00:00",
+  "description": "JP-original articles already reported during monitor design and validation. Translations are intentionally not baselined so the first production feed can introduce them.",
+  "reported_articles": [
+    {
+      "wikidot_id": "1469070013",
+      "page_name": "scp-4640-jp",
+      "article_title": "SCP-4640-JP"
+    },
+    {
+      "wikidot_id": "1469065219",
+      "page_name": "reijittai",
+      "article_title": "霊実体研究部門ハブ"
+    },
+    {
+      "wikidot_id": "1469057200",
+      "page_name": "scp-4037-jp",
+      "article_title": "SCP-4037-JP"
+    },
+    {
+      "wikidot_id": "1469052997",
+      "page_name": "scp-4543-jp",
+      "article_title": "SCP-4543-JP"
+    },
+    {
+      "wikidot_id": "1469052641",
+      "page_name": "scp-4733-jp",
+      "article_title": "SCP-4733-JP"
+    },
+    {
+      "wikidot_id": "1469052203",
+      "page_name": "scp-4119-jp",
+      "article_title": "SCP-4119-JP"
+    },
+    {
+      "wikidot_id": "1469051891",
+      "page_name": "scp-4075-jp",
+      "article_title": "SCP-L4075-JP"
+    },
+    {
+      "wikidot_id": "1469051153",
+      "page_name": "scp-3137-jp",
+      "article_title": "SCP-3137-JP"
+    },
+    {
+      "wikidot_id": "1469049627",
+      "page_name": "versus-sneak-of-the-hidden-knife",
+      "article_title": "対戦: 隠し包丁のスニーク！"
+    }
+  ]
+}
