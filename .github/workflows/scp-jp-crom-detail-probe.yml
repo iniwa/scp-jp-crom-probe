@@ -1,0 +1,126 @@
+name: SCP-JP Crom detail probe
+
+on:
+  workflow_dispatch:
+    inputs:
+      since_jst:
+        description: Inclusive cutoff in ISO-8601 format with timezone
+        required: true
+        default: "2026-07-26T00:00:00+09:00"
+
+permissions:
+  contents: read
+
+env:
+  DETAIL_OUTPUT_DIR: detail-output
+
+jobs:
+  detail-probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Initialize diagnostic files
+        id: initialize
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p "$DETAIL_OUTPUT_DIR/articles"
+          cat > "$DETAIL_OUTPUT_DIR/detail-result.json" <<'JSON'
+          {
+            "schema_version": 3,
+            "status": "workflow_not_started",
+            "error": "The detail probe did not overwrite this placeholder."
+          }
+          JSON
+          cat > "$DETAIL_OUTPUT_DIR/detail-summary.md" <<'MARKDOWN'
+          # SCP-JP Crom detail probe
+
+          The detail probe did not run. Check workflow-diagnostics.txt and step logs.
+          MARKDOWN
+
+      - name: Checkout
+        id: checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        id: setup_python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Run parser tests
+        id: tests
+        shell: bash
+        run: python -m unittest discover -s tests -v
+
+      - name: Compile probe
+        id: compile
+        shell: bash
+        run: python -m compileall -q scripts/scp_jp_crom_detail_probe.py
+
+      - name: Query Crom details
+        id: query
+        continue-on-error: true
+        shell: bash
+        run: |
+          python scripts/scp_jp_crom_detail_probe.py \
+            --since-jst '${{ inputs.since_jst }}' \
+            --output-dir "$DETAIL_OUTPUT_DIR"
+
+      - name: Capture workflow diagnostics
+        if: always()
+        shell: bash
+        env:
+          INITIALIZE_OUTCOME: ${{ steps.initialize.outcome }}
+          CHECKOUT_OUTCOME: ${{ steps.checkout.outcome }}
+          SETUP_PYTHON_OUTCOME: ${{ steps.setup_python.outcome }}
+          TESTS_OUTCOME: ${{ steps.tests.outcome }}
+          COMPILE_OUTCOME: ${{ steps.compile.outcome }}
+          QUERY_OUTCOME: ${{ steps.query.outcome }}
+        run: |
+          mkdir -p "$DETAIL_OUTPUT_DIR"
+          {
+            echo "generated_at_utc=$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            echo "repository=${GITHUB_REPOSITORY}"
+            echo "run_id=${GITHUB_RUN_ID}"
+            echo "workspace=${GITHUB_WORKSPACE}"
+            echo "initialize_outcome=${INITIALIZE_OUTCOME:-unknown}"
+            echo "checkout_outcome=${CHECKOUT_OUTCOME:-unknown}"
+            echo "setup_python_outcome=${SETUP_PYTHON_OUTCOME:-unknown}"
+            echo "tests_outcome=${TESTS_OUTCOME:-unknown}"
+            echo "compile_outcome=${COMPILE_OUTCOME:-unknown}"
+            echo "query_outcome=${QUERY_OUTCOME:-unknown}"
+          } > "$DETAIL_OUTPUT_DIR/workflow-diagnostics.txt"
+
+      - name: Add result to job summary
+        if: always()
+        shell: bash
+        run: |
+          if [ -f "$DETAIL_OUTPUT_DIR/detail-summary.md" ]; then
+            cat "$DETAIL_OUTPUT_DIR/detail-summary.md" >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "Detail summary is missing." >> "$GITHUB_STEP_SUMMARY"
+          fi
+          {
+            echo
+            echo "## Workflow step outcomes"
+            echo
+            echo '```text'
+            cat "$DETAIL_OUTPUT_DIR/workflow-diagnostics.txt"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload detail result
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scp-jp-crom-detail-probe
+          path: detail-output/
+          if-no-files-found: error
+          retention-days: 14
+
+      - name: Fail workflow when detail probe did not succeed
+        if: always() && steps.query.outcome != 'success'
+        shell: bash
+        run: exit 1

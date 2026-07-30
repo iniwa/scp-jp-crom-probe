@@ -1,73 +1,72 @@
-# SCP-JP Crom probe
+# SCP-JP Crom detail probe v3
 
-Cromの公開GraphQL APIを用いて、指定日時以降に作成されたSCP-JPのJPオリジナル記事を取得するエンドツーエンド試験です。
+メタデータ取得に成功したCromプローブの次段階です。指定日時以降の対象記事について、Cromから次を個別取得します。
 
-## v2で修正した点
+- ページソース
+- レンダリング済み本文
+- Cromの概要フィールド
+- クレジット情報
+- 別タイトル
+- 著者情報
 
-初版は `actions/setup-python` に `cache: pip` を指定しながら、リポジトリ内に `requirements.txt` / `pyproject.toml` がありませんでした。その場合、Pythonセットアップ段階で失敗し、その後 `if: always()` で動いたartifactアップロードが `probe-result.json` を見つけられず、元の原因を隠す二次エラーになることがあります。
-
-v2では以下を修正しています。
-
-- `cache: pip` を削除
-- `requirements.txt` を追加
-- Pythonセットアップ前に診断用の仮JSON・Markdown・ログを作成
-- 出力先を `artifacts/scp-jp-crom-probe/` に固定
-- ファイル単体ではなく出力ディレクトリ全体をartifact化
-- 各ステップの成否を `workflow-diagnostics.txt` に記録
-- Crom問い合わせ前に失敗しても、必ず診断artifactを残す
-
-## 配置
-
-ZIP内の**中身**をリポジトリのルートへ配置してください。
+ページソース内のクレジット欄から `タイトル:` を抽出し、SCP報告書では番号とサブタイトルを分離します。例えば、
 
 ```text
-<repository root>/
-├─ .github/workflows/scp-jp-crom-probe.yml
-├─ scripts/scp_jp_crom_probe.py
-├─ requirements.txt
-└─ README.md
+SCP-4733-JP - 吝嗇の飲食
 ```
 
-`scp-jp-crom-probe/` フォルダごと既存リポジトリの下へ置くと、ワークフローから `scripts/...` と `requirements.txt` を見つけられません。
+を次のように出力します。
 
-## GitHub Actionsでの実行
+```text
+記事タイトル: SCP-4733-JP
+サブタイトル: 吝嗇の飲食
+```
 
-1. `Actions` → `SCP-JP Crom probe` → `Run workflow`
-2. 初回は以下のまま実行
+## 追加するファイル
+
+現在の `iniwa/scp-jp-crom-probe` リポジトリへ、ZIP内の次の3か所を追加してください。
+
+```text
+.github/workflows/scp-jp-crom-detail-probe.yml
+scripts/scp_jp_crom_detail_probe.py
+tests/test_detail_parser.py
+```
+
+既存のv2プローブは残して構いません。
+
+## 実行
+
+GitHubのActionsから次を実行します。
+
+```text
+SCP-JP Crom detail probe
+```
+
+入力値は、初回はそのままです。
 
 ```text
 2026-07-26T00:00:00+09:00
 ```
 
-3. 実行後、Job summaryと `scp-jp-crom-probe` artifactを確認
+## 出力
 
-artifactには必ず次が入ります。
+Artifact `scp-jp-crom-detail-probe` に次を保存します。
 
-- `probe-result.json`
-- `probe-summary.md`
-- `probe.log`
-- `workflow-diagnostics.txt`
+```text
+detail-result.json
+detail-summary.md
+workflow-diagnostics.txt
+articles/<ページ名>.source.txt
+articles/<ページ名>.text.txt
+```
 
-## 取得条件
+`detail-summary.md`には記事タイトル、サブタイトル、JSTの投稿日時、本文プレビューが入ります。本文全体は `articles/` に保存します。
 
-- `http://scp-jp.wikidot.com` 配下
-- 指定日時以降に作成
-- `jp` タグあり
-- 非表示ではない
-- `fragment` / `deleted` カテゴリーを除外
-- SCP-JP公式新着フィード相当の記事タグを持つ
+## 合格条件
 
-また、次の4ページを個別照会します。
+- Statusが `ok`
+- Eligible articlesとDetails fetchedが一致
+- SCP-4037-JP、SCP-4543-JP、SCP-4733-JP、SCP-4119-JPがすべてPresent
+- 各記事で `Content` が `yes`
 
-- SCP-4037-JP
-- SCP-4543-JP
-- SCP-4733-JP
-- SCP-4119-JP
-
-## 成功判定
-
-- `Query Crom` が成功
-- `probe-result.json` の `status` が `ok`
-- 対象4ページの `indexed`、`in_date_range`、`present_in_recent_query` が確認できる
-
-Crom通信やGraphQL処理に失敗した場合は `status: error` として記録し、新着0件とは扱いません。
+本文取得や期待記事の確認に失敗した場合、結果ファイルを残したうえでworkflowを失敗扱いにします。取得失敗を「記事なし」とは判定しません。
