@@ -236,17 +236,27 @@ async def collect_target_statuses(
 
 
 def render_markdown(result: dict[str, Any]) -> str:
+    query = result.get("query", {})
     lines = [
         "# SCP-JP Crom probe",
         "",
-        f"- Status: **{result['status']}**",
-        f"- Generated: `{result['generated_at_utc']}`",
-        f"- Cutoff (input): `{result['query']['since_input']}`",
-        f"- Cutoff (UTC): `{result['query']['since_utc']}`",
+        f"- Status: **{result.get('status', 'error')}**",
+        f"- Generated: `{result.get('generated_at_utc', 'unknown')}`",
+        f"- Cutoff (input): `{query.get('since_input', query.get('since_input_raw', 'unknown'))}`",
+        f"- Cutoff (UTC): `{query.get('since_utc', 'unavailable')}`",
     ]
 
-    if result["status"] != "ok":
-        lines.extend(["", "## Error", "", f"```text\n{result.get('error', 'unknown error')}\n```"])
+    if result.get("status") != "ok":
+        lines.extend(
+            [
+                "",
+                "## Error",
+                "",
+                f"- Type: `{result.get('error_type', 'UnknownError')}`",
+                "",
+                f"```text\n{result.get('error', 'unknown error')}\n```",
+            ]
+        )
         return "\n".join(lines) + "\n"
 
     lines.extend(
@@ -299,25 +309,23 @@ def render_markdown(result: dict[str, Any]) -> str:
             alternate = "; ".join(
                 item["title"] for item in page["alternate_titles"]
             ) or "—"
+            title = page["title"].replace("|", "\\|")
+            alternate = alternate.replace("|", "\\|")
             lines.append(
                 f"| {page['created_at']} | {page['genre']} | {page['page_name']} | "
-                f"{page['title'].replace('|', '\\|')} | {alternate.replace('|', '\\|')} |"
+                f"{title} | {alternate} |"
             )
     return "\n".join(lines) + "\n"
 
 
 async def run(args: argparse.Namespace, paths: Paths) -> int:
-    since_input = parse_aware_datetime(args.since_jst)
-    since_utc = since_input.astimezone(timezone.utc)
-
     result: dict[str, Any] = {
-        "schema_version": 1,
+        "schema_version": 2,
         "status": "running",
         "generated_at_utc": datetime.now(timezone.utc).isoformat(),
         "query": {
             "site_prefix": SITE_PREFIX,
-            "since_input": since_input.isoformat(),
-            "since_utc": since_utc.isoformat(),
+            "since_input_raw": args.since_jst,
             "required_tag": "jp",
             "article_tags": sorted(ARTICLE_TAGS),
             "excluded_categories": ["fragment", "deleted"],
@@ -326,8 +334,20 @@ async def run(args: argparse.Namespace, paths: Paths) -> int:
     }
 
     try:
+        if args.max_pages <= 0:
+            raise ValueError("--max-pages must be positive")
+
+        since_input = parse_aware_datetime(args.since_jst)
+        since_utc = since_input.astimezone(timezone.utc)
+        result["query"].update(
+            {
+                "since_input": since_input.isoformat(),
+                "since_utc": since_utc.isoformat(),
+            }
+        )
+
         async with AsyncClient(
-            user_agent="iniwa-scp-jp-monitor-probe/0.1 (GitHub Actions)"
+            user_agent="iniwa-scp-jp-monitor-probe/0.2 (GitHub Actions)"
         ) as client:
             raw_pages, truncated = await collect_recent_pages(
                 client, since_utc, args.max_pages
@@ -351,7 +371,7 @@ async def run(args: argparse.Namespace, paths: Paths) -> int:
             }
         )
         exit_code = 0
-    except (ThaumielError, OSError, ValueError) as exc:
+    except Exception as exc:  # The probe must serialize unexpected runtime failures.
         result.update(
             {
                 "status": "error",
@@ -373,15 +393,8 @@ async def run(args: argparse.Namespace, paths: Paths) -> int:
 
 def main() -> int:
     args = parse_args()
-    if args.max_pages <= 0:
-        print("--max-pages must be positive", file=sys.stderr)
-        return 2
     paths = Paths(Path(args.output), Path(args.summary_output))
-    try:
-        return asyncio.run(run(args, paths))
-    except ValueError as exc:
-        print(str(exc), file=sys.stderr)
-        return 2
+    return asyncio.run(run(args, paths))
 
 
 if __name__ == "__main__":
