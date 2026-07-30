@@ -20,11 +20,19 @@ jobs:
     timeout-minutes: 20
 
     steps:
+      - name: Checkout
+        id: checkout
+        uses: actions/checkout@v4
+
+      # Checkout may clean untracked files from the workspace. Prepare the
+      # diagnostic/output directory only after checkout so later shell
+      # redirection cannot fail before Python starts.
       - name: Initialize diagnostic files
         id: initialize
         shell: bash
         run: |
           set -euo pipefail
+          rm -rf "$UNIFIED_OUTPUT_DIR"
           mkdir -p "$UNIFIED_OUTPUT_DIR/articles"
           cat > "$UNIFIED_OUTPUT_DIR/unified-result.json" <<'JSON'
           {
@@ -38,10 +46,6 @@ jobs:
 
           The unified probe did not run. Check workflow-diagnostics.txt and step logs.
           MARKDOWN
-
-      - name: Checkout
-        id: checkout
-        uses: actions/checkout@v4
 
       - name: Set up Python
         id: setup_python
@@ -66,9 +70,11 @@ jobs:
         env:
           PYTHONIOENCODING: utf-8
         run: |
-          # Do not pipe the full probe output through tee. The v4 probe had
-          # already written a healthy result, but the output pipeline could
-          # still return non-zero and turn the step into a false failure.
+          # Ensure the directory exists before opening probe.log. Shell
+          # redirection happens before Python starts. Without this mkdir, a
+          # checkout-cleaned directory causes an immediate exit code 1 and no
+          # result files.
+          mkdir -p "$UNIFIED_OUTPUT_DIR/articles"
           set +e
           python scripts/scp_jp_crom_unified_probe.py \
             --since-jst '${{ inputs.since_jst }}' \
