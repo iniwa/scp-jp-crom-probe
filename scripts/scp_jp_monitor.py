@@ -1250,6 +1250,28 @@ def validate_args(args: argparse.Namespace) -> None:
             raise ValueError(f"--{name.replace('_', '-')} must be positive")
 
 
+def query_since_utc(
+    *,
+    mode: str,
+    now_utc: datetime,
+    window_days: int,
+    bootstrap_since: datetime,
+) -> datetime:
+    """Return the oldest creation time that this run may query.
+
+    Incremental runs use an overlapping lookback window so delayed Crom indexing
+    can still be recovered. The window must never extend earlier than the
+    monitor's bootstrap boundary, otherwise pre-monitor history that is absent
+    from state is incorrectly marked as newly discovered.
+    """
+    bootstrap_utc = bootstrap_since.astimezone(timezone.utc)
+    if mode == "bootstrap":
+        return bootstrap_utc
+    if mode != "incremental":
+        raise ValueError(f"unsupported monitor mode: {mode}")
+    return max(now_utc - timedelta(days=window_days), bootstrap_utc)
+
+
 def execute(args: argparse.Namespace, paths: OutputPaths) -> tuple[dict[str, Any], int]:
     now_utc = (
         parse_aware_datetime(args.now).astimezone(timezone.utc)
@@ -1272,10 +1294,11 @@ def execute(args: argparse.Namespace, paths: OutputPaths) -> tuple[dict[str, Any
         state, state_source = load_state(previous_path, baseline)
         mode = "incremental" if state_source == "previous_state" else "bootstrap"
         bootstrap_since = parse_aware_datetime(str(baseline["bootstrap_since_jst"]))
-        since_utc = (
-            now_utc - timedelta(days=args.window_days)
-            if mode == "incremental"
-            else bootstrap_since.astimezone(timezone.utc)
+        since_utc = query_since_utc(
+            mode=mode,
+            now_utc=now_utc,
+            window_days=args.window_days,
+            bootstrap_since=bootstrap_since,
         )
 
         raw_pages, truncated, quota_samples = collect_recent_pages(args, since_utc)

@@ -1,4 +1,4 @@
-# SCP-JP Daily Monitor v5.1
+# SCP-JP Daily Monitor v5.1.1
 
 Crom GraphQL APIからSCP財団日本支部の新着記事を取得し、毎日06:17頃（JST）にGitHub Pagesへ監視用JSONを公開する本番版です。
 
@@ -37,7 +37,7 @@ docs/scheduled-task-prompt.md
 docs/operations.md
 ```
 
-既存のv2～v4.2プローブは残して構いません。v5.1のワークフローは`scp_jp_monitor.py`だけを本番処理に使用します。
+既存のv2～v4.2プローブは残して構いません。v5.1.1のワークフローは`scp_jp_monitor.py`だけを本番処理に使用します。
 
 ## 動作
 
@@ -61,6 +61,8 @@ ChatGPT Scheduled Task
 ```
 
 GitHub Actionsの予定時刻からScheduled Taskまで約6時間の余裕を持たせています。状態保存は**Pagesへのデプロイ成功後**に行います。デプロイ後の状態保存だけが失敗した場合、翌日に重複候補が出る可能性はありますが、記事を黙って取りこぼすことはありません。
+
+増分取得の30日ルックバックには`bootstrap_since_jst`を下限として適用します。これにより、監視開始日より前の記事が後続実行で初めて状態へ入り、誤って新着扱いされることを防ぎます。
 
 ## 初期ベースライン
 
@@ -174,9 +176,9 @@ ChatGPT側は、過去に通知済みの`notification_id`を再通知しませ�
 - `health.json.generated_at_jst`が36時間超古い、または日時として不正: ChatGPTは確認失敗として障害通知
 - `generated_date_jst`が今日と異なるだけ: 36時間以内なら処理を継続
 
-## v5.1への移行と通知候補の復旧
+## v5.1.1への移行と通知候補の復旧
 
-v5.0で72時間を超えて通知されなかった候補を復旧するため、v5.1を`main`へ反映した後に一度だけ次の設定で手動実行します。
+v5.0で72時間を超えて通知されなかった候補と、v5.0/v5.1で30日ルックバックから誤登録された監視開始日前の記事を整理するため、v5.1.1を`main`へ反映した後に一度だけ次の設定で手動実行します。
 
 ```text
 SCP-JP daily monitor
@@ -186,7 +188,7 @@ SCP-JP daily monitor
 → force_bootstrap: true
 ```
 
-この実行は`monitor-state`を無視し、`config/baseline.json`から状態を再構築します。紹介済みのJPオリジナル9件はベースラインとして除外され、その他の記事は通知候補へ戻ります。ChatGPT側の通知済み`notification_id`記憶によって、すでに通知済みの記事は再通知されません。
+この実行は`monitor-state`を無視し、`config/baseline.json`から状態を再構築します。紹介済みのJPオリジナル9件はベースラインとして除外され、監視開始日時（2026年7月26日00:00 JST）以降の記事だけが通知候補へ戻ります。監視開始日前の記事は以後の30日ルックバックでも取得対象になりません。ChatGPT側の通知済み`notification_id`記憶によって、すでに通知済みの記事は再通知されません。
 
 実行後、ChatGPT Scheduled Taskの本文を`docs/scheduled-task-prompt.md`の内容へ置き換えてください。詳細な確認項目は`docs/operations.md`に記載しています。
 

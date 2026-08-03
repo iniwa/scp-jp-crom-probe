@@ -23,6 +23,28 @@ class MonitorTests(unittest.TestCase):
             args = MODULE.parse_args()
         self.assertEqual(args.notification_hours, 168)
 
+    def test_incremental_query_cutoff_does_not_precede_bootstrap(self) -> None:
+        bootstrap = MODULE.parse_aware_datetime("2026-07-26T00:00:00+09:00")
+        now = MODULE.parse_aware_datetime("2026-08-03T06:17:00+09:00").astimezone(timezone.utc)
+        cutoff = MODULE.query_since_utc(
+            mode="incremental",
+            now_utc=now,
+            window_days=30,
+            bootstrap_since=bootstrap,
+        )
+        self.assertEqual(cutoff, bootstrap.astimezone(timezone.utc))
+
+    def test_incremental_query_cutoff_advances_after_window_passes_bootstrap(self) -> None:
+        bootstrap = MODULE.parse_aware_datetime("2026-07-26T00:00:00+09:00")
+        now = MODULE.parse_aware_datetime("2026-09-01T06:17:00+09:00").astimezone(timezone.utc)
+        cutoff = MODULE.query_since_utc(
+            mode="incremental",
+            now_utc=now,
+            window_days=30,
+            bootstrap_since=bootstrap,
+        )
+        self.assertEqual(cutoff, now - timedelta(days=30))
+
     def test_excluded_page_types(self) -> None:
         base = {
             "url": "http://scp-jp.wikidot.com/example",

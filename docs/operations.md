@@ -27,11 +27,13 @@ force_bootstrap: false
 
 通知候補は初回検出から168時間（7日間）残るため、Scheduled Taskが数日停止しても復旧後に拾い直せます。
 
+増分取得の開始時刻は`max(現在時刻-30日, bootstrap_since_jst)`です。監視開始日時より前へルックバックしないため、古い記事が後日新着として混入しません。
+
 `force_bootstrap`は`monitor-state`を無視して`config/baseline.json`から再計算する診断・復旧機能です。繰り返し使用すると翻訳記事などが再び通知候補になるため、初期構築または明示的な復旧時だけ使用してください。
 
-## v5.1移行時の一度限りの復旧
+## v5.1.1移行時の一度限りの復旧
 
-v5.0運用中に通知候補が72時間で失効した可能性があるため、v5.1を`main`へ反映した後に一度だけ次の設定で手動実行します。
+v5.0運用中に通知候補が72時間で失効し、30日ルックバックから監視開始日前の記事が誤登録された可能性があるため、v5.1.1を`main`へ反映した後に一度だけ次の設定で手動実行します。
 
 ```text
 window_days: 30
@@ -45,9 +47,13 @@ force_bootstrap: true
 2. `health.json.status`が`ok`または`degraded`である。
 3. `health.json.query.notification_retention_hours`が`168`である。
 4. `delta.json.retention_hours`が`168`である。
-5. ChatGPT Scheduled Taskの本文を`docs/scheduled-task-prompt.md`のv5.1版へ置き換える。
+5. `health.json.query.since_jst`が`2026-07-26T00:00:00+09:00`以降である。
+6. 続けて`force_bootstrap: false`で再実行し、監視開始日前の記事が`new_this_run`へ追加されないことを確認する。
+7. ChatGPT Scheduled Taskの本文を`docs/scheduled-task-prompt.md`の内容へ置き換える。
 
 ChatGPT側は過去に通知済みの`notification_id`を記憶しているため、bootstrapで候補が再生成されても通知済み記事は再通知せず、取りこぼしていた記事だけを通知します。
+
+2回目の通常実行で`new_this_run`が増える場合は、実際にその間にCromへ新規反映された記事かを`delta.json.new_this_run_ids`で確認してください。監視開始日前の記事が含まれる場合は運用を止めてください。
 
 ## 障害時
 
