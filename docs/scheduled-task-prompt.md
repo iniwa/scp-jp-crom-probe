@@ -18,12 +18,15 @@ https://iniwa.github.io/scp-jp-crom-probe/latest.json
 
 次の手順を厳守してください。
 
-1. `health.json`を取得し、`generated_date_jst`が今日の日付（Asia/Tokyo）であることを確認する。
+1. `health.json`を取得する。`generated_at_jst`をタイムゾーン付きISO-8601日時として解釈し、現在時刻（Asia/Tokyo）との差を確認する。
+   - 現在時刻から36時間以内であれば、日付が昨日でも使用可能とする。
+   - `generated_at_jst`が欠落・構文不正・タイムゾーンなし・現在時刻より10分を超えて未来・現在時刻から36時間超経過のいずれかなら、新着なしとは判断せず、「本日のSCP-JP新着確認に失敗した」と障害内容だけを通知して終了する。
+   - `generated_date_jst`は参考情報として扱い、今日の日付との不一致だけを理由に失敗させない。
 2. `health.status`を確認する。
    - `ok`: 通常処理を続ける。
    - `degraded`: 確定済みの記事は処理を続けるが、末尾に取得待ち・分類待ちの記事があることを簡潔に記載する。
-   - `error`、JSON取得失敗、JSON構文不正、`generated_date_jst`が今日ではない、`query.truncated`が`true`: 新着なしとは判断せず、「本日のSCP-JP新着確認に失敗した」と障害内容だけを通知する。
-3. `delta.json`を取得する。
+   - `error`、JSON取得失敗、JSON構文不正、`query.truncated`が`true`: 新着なしとは判断せず、「本日のSCP-JP新着確認に失敗した」と障害内容だけを通知して終了する。
+3. `delta.json`を取得し、JSONとして正常に解釈できることを確認する。`delta.json.generated_at_jst`が`health.json.generated_at_jst`と一致しない場合は、`health.json`と`delta.json`をそれぞれ一度だけ再取得する。再取得後も一致しない場合は、公開データの世代が揃っていないため、確認失敗として障害内容だけを通知して終了する。
 4. `delta.json.articles`のうち、以下をすべて満たす記事だけを通知対象とする。
    - `baseline`が`false`。
    - このタスクの過去の実行で同じ`notification_id`を通知していない。
@@ -34,6 +37,14 @@ https://iniwa.github.io/scp-jp-crom-probe/latest.json
 8. 内容の説明には各記事の`summary_basis`だけを主な根拠として使用する。結末、後半の補遺、重大な正体、どんでん返しを明かさず、1～3文のネタバレなし概要にする。本文から確認できない内容を推測しない。
 9. `content_warnings`が空でなければ、内容警告として簡潔に表示する。
 10. 記事リンクには`url`を使用する。
+
+鮮度エラーの通知例は次の形式です。日時と経過時間は実際の値を使用してください。
+
+```text
+本日のSCP-JP新着確認に失敗しました。
+
+health.jsonのgenerated_at_jstは2026年8月1日 15:15 JSTで、現在時刻から45時間以上経過しており、36時間の許容範囲を超えています。データが更新されるまで、新着の有無は判定しません。
+```
 
 通知形式は次のとおりです。
 

@@ -3,7 +3,7 @@
 ## 日次フロー
 
 ```text
-12:20 JST GitHub Actions開始
+06:17 JST GitHub Actions予定時刻
   1. monitor-state読込
   2. Crom取得・JSON生成
   3. GitHub Pages公開
@@ -13,7 +13,7 @@
   health.json → delta.json → 未通知IDのみ紹介
 ```
 
-状態はPages公開後に保存します。これにより、Pages公開が失敗したのに記事だけが既読化されることはありません。
+GitHub Actionsの定刻実行には遅延があり得るため、Scheduled Taskまで約6時間の余裕を確保しています。状態はPages公開後に保存します。これにより、Pages公開が失敗したのに記事だけが既読化されることはありません。
 
 ## 手動実行
 
@@ -25,9 +25,29 @@ now: 空欄
 force_bootstrap: false
 ```
 
-通知候補は初回検出から72時間残るため、通常設定で再実行しても即座には消えません。
+通知候補は初回検出から168時間（7日間）残るため、Scheduled Taskが数日停止しても復旧後に拾い直せます。
 
-`force_bootstrap`は`monitor-state`を無視して`config/baseline.json`から再計算する診断機能です。繰り返し使用すると翻訳記事などが再び通知候補になるため、初期構築または障害調査時だけ使用してください。
+`force_bootstrap`は`monitor-state`を無視して`config/baseline.json`から再計算する診断・復旧機能です。繰り返し使用すると翻訳記事などが再び通知候補になるため、初期構築または明示的な復旧時だけ使用してください。
+
+## v5.1移行時の一度限りの復旧
+
+v5.0運用中に通知候補が72時間で失効した可能性があるため、v5.1を`main`へ反映した後に一度だけ次の設定で手動実行します。
+
+```text
+window_days: 30
+now: 空欄
+force_bootstrap: true
+```
+
+実行後は次を確認します。
+
+1. WorkflowとPagesデプロイが成功している。
+2. `health.json.status`が`ok`または`degraded`である。
+3. `health.json.query.notification_retention_hours`が`168`である。
+4. `delta.json.retention_hours`が`168`である。
+5. ChatGPT Scheduled Taskの本文を`docs/scheduled-task-prompt.md`のv5.1版へ置き換える。
+
+ChatGPT側は過去に通知済みの`notification_id`を記憶しているため、bootstrapで候補が再生成されても通知済み記事は再通知せず、取りこぼしていた記事だけを通知します。
 
 ## 障害時
 
@@ -43,7 +63,7 @@ workflow-diagnostics.txt
 artifact-manifest.txt
 ```
 
-Pagesは更新されず、前回の正常データが残ります。ChatGPT側は`health.json`の日付が本日ではないことを検出し、取得失敗として通知します。
+Pagesは更新されず、前回の正常データが残ります。ChatGPT側は`health.json.generated_at_jst`が現在時刻から36時間を超えて古くなった時点で、取得失敗として通知します。`generated_date_jst`が今日と異なるだけでは失敗扱いにしません。
 
 ### Pagesデプロイ失敗
 

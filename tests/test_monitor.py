@@ -18,6 +18,11 @@ SPEC.loader.exec_module(MODULE)
 
 
 class MonitorTests(unittest.TestCase):
+    def test_default_notification_retention_is_seven_days(self) -> None:
+        with patch.object(sys, "argv", ["scp_jp_monitor.py"]):
+            args = MODULE.parse_args()
+        self.assertEqual(args.notification_hours, 168)
+
     def test_excluded_page_types(self) -> None:
         base = {
             "url": "http://scp-jp.wikidot.com/example",
@@ -169,7 +174,7 @@ class MonitorTests(unittest.TestCase):
         self.assertEqual(new_ids, {"200"})
         self.assertTrue(state["seen"]["100"]["baseline"])
         candidates = MODULE.notification_articles(
-            state, now_utc=now, retention_hours=72, new_ids=new_ids
+            state, now_utc=now, retention_hours=168, new_ids=new_ids
         )
         self.assertEqual([item["wikidot_id"] for item in candidates], ["200"])
 
@@ -194,6 +199,38 @@ class MonitorTests(unittest.TestCase):
         self.assertEqual(second_ids, set())
         self.assertEqual(state["seen"]["200"]["first_seen_at_utc"], first_seen)
 
+    def test_notification_retention_includes_exact_boundary(self) -> None:
+        now = datetime(2026, 7, 30, 3, 20, tzinfo=timezone.utc)
+        state = {
+            "schema_version": 1,
+            "seen": {
+                "200": {
+                    "wikidot_id": "200",
+                    "page_name": "new",
+                    "first_seen_at_utc": MODULE.utc_iso(now - timedelta(hours=168)),
+                    "last_seen_at_utc": MODULE.utc_iso(now),
+                    "baseline": False,
+                    "article": {
+                        "wikidot_id": "200",
+                        "page_name": "new",
+                        "created_at_utc": MODULE.utc_iso(now),
+                    },
+                }
+            },
+        }
+        candidates = MODULE.notification_articles(
+            state, now_utc=now, retention_hours=168, new_ids=set()
+        )
+        self.assertEqual([item["wikidot_id"] for item in candidates], ["200"])
+
+    def test_build_index_uses_delta_retention(self) -> None:
+        rendered = MODULE.build_index(
+            {"status": "ok", "generated_at_jst": "2026-07-30T12:20:00+09:00"},
+            {"retention_hours": 168, "articles": []},
+        )
+        self.assertIn("retained for 168 hours", rendered)
+        self.assertNotIn("retained for 72 hours", rendered)
+
     def test_notification_retention_expires(self) -> None:
         now = datetime(2026, 7, 30, 3, 20, tzinfo=timezone.utc)
         state = {
@@ -202,7 +239,7 @@ class MonitorTests(unittest.TestCase):
                 "200": {
                     "wikidot_id": "200",
                     "page_name": "new",
-                    "first_seen_at_utc": MODULE.utc_iso(now - timedelta(hours=73)),
+                    "first_seen_at_utc": MODULE.utc_iso(now - timedelta(hours=169)),
                     "last_seen_at_utc": MODULE.utc_iso(now),
                     "baseline": False,
                     "article": {
@@ -215,11 +252,10 @@ class MonitorTests(unittest.TestCase):
         }
         self.assertEqual(
             MODULE.notification_articles(
-                state, now_utc=now, retention_hours=72, new_ids=set()
+                state, now_utc=now, retention_hours=168, new_ids=set()
             ),
             [],
         )
-
 
     def test_execute_bootstrap_and_rerun_keep_notification_candidate(self) -> None:
         with tempfile.TemporaryDirectory() as temporary:
@@ -242,7 +278,7 @@ class MonitorTests(unittest.TestCase):
                 previous_state_file="",
                 endpoint="https://example.invalid/graphql",
                 window_days=30,
-                notification_hours=72,
+                notification_hours=168,
                 snapshot_days=14,
                 page_size=100,
                 max_pages=1000,

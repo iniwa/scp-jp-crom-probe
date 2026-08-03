@@ -198,7 +198,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--previous-state-file", default="")
     parser.add_argument("--endpoint", default=DEFAULT_ENDPOINT)
     parser.add_argument("--window-days", type=int, default=30)
-    parser.add_argument("--notification-hours", type=int, default=72)
+    parser.add_argument("--notification-hours", type=int, default=168)
     parser.add_argument("--snapshot-days", type=int, default=14)
     parser.add_argument("--page-size", type=int, default=100)
     parser.add_argument("--max-pages", type=int, default=1000)
@@ -1164,6 +1164,7 @@ def rate_limit_summary(samples: list[int | None]) -> dict[str, Any]:
 def build_index(health: dict[str, Any], delta: dict[str, Any]) -> str:
     status = html.escape(str(health.get("status") or "unknown"))
     generated = html.escape(str(health.get("generated_at_jst") or "unknown"))
+    retention_hours = html.escape(str(delta.get("retention_hours") or "unknown"))
     count = len(delta.get("articles") or [])
     return f"""<!doctype html>
 <html lang="ja">
@@ -1180,7 +1181,7 @@ def build_index(health: dict[str, Any], delta: dict[str, Any]) -> str:
   <h1>SCP-JP Daily Monitor</h1>
   <p>Status: <strong>{status}</strong></p>
   <p>Generated: <code>{generated}</code></p>
-  <p>Notification candidates retained for 72 hours: <strong>{count}</strong></p>
+  <p>Notification candidates retained for {retention_hours} hours: <strong>{count}</strong></p>
   <ul>
     <li><a href="health.json">health.json</a></li>
     <li><a href="delta.json">delta.json</a></li>

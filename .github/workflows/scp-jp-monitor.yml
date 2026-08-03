@@ -2,9 +2,10 @@ name: SCP-JP daily monitor
 
 on:
   schedule:
-    # 03:20 UTC = 12:20 JST. GitHub may start scheduled workflows later
-    # during congestion, so the consumer notification is planned for 12:40頃.
-    - cron: "20 3 * * *"
+    # 21:17 UTC = 06:17 JST on the following calendar day. This leaves
+    # more than six hours before the 12:40 JST consumer task, even if
+    # GitHub starts the scheduled workflow late.
+    - cron: "17 21 * * *"
   workflow_dispatch:
     inputs:
       window_days:
@@ -126,7 +127,7 @@ jobs:
             --output-dir "$MONITOR_OUTPUT_DIR"
             --baseline-file config/baseline.json
             --window-days "$WINDOW_DAYS"
-            --notification-hours 72
+            --notification-hours 168
             --snapshot-days 14
           )
           if [ -f monitor-input/previous-state.json ]; then
