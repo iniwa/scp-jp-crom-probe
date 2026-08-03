@@ -1,0 +1,2880 @@
+{
+  "schema_version": 1,
+  "generated_at_utc": "2026-08-03T01:46:28.108523+00:00",
+  "seen": {
+    "1469070013": {
+      "wikidot_id": "1469070013",
+      "page_name": "scp-4640-jp",
+      "first_seen_at_utc": "2026-07-30T05:00:00+00:00",
+      "last_seen_at_utc": "2026-07-30T05:00:00+00:00",
+      "baseline": true,
+      "article": null
+    },
+    "1469065219": {
+      "wikidot_id": "1469065219",
+      "page_name": "reijittai",
+      "first_seen_at_utc": "2026-07-30T05:00:00+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": true,
+      "article": {
+        "wikidot_id": "1469065219",
+        "page_name": "reijittai",
+        "url": "https://scp-jp.wikidot.com/reijittai",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "ハブ",
+        "article_title": "霊実体研究部門ハブ",
+        "subtitle": null,
+        "authors": [
+          "yanyan1"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-07-28T10:43:03.000Z",
+        "created_at_jst": "2026-07-28T19:43:03+09:00",
+        "created_by": "yanyan1",
+        "content_warnings": [],
+        "summary_basis": "本シリーズは霊実体研究部門に所属する岩場博士と野呂井博士を中心としたストーリーで構成されます。\n霊実体研究部門はその名の通り、霊体や悪霊と呼称される異常実体、それによって引き起こされる怪異、更には現世とは異なる異界、冥界のあり様について研究しています。\nですが、この部門はサイト内でも末端中の末端であり、割り当てられる予算も少なく研究室とは名ばかりの物置に追いやられているのが現状です。\nそれでも所属メンバーは己の理念の基に、人間の知恵を駆使して怪異と戦います。\nこれらは主にTale-JPで展開されていますが、一部yanyan1によって作成されたSCP-JPも本作品群には絡んできます。\n\n関連Tale-JP\n\n岩場(がんば)博士の受難\n死地送りの岩場(がんば)\n岩場(がんば)博士の友人\nファミリーレストランの怪\n岩場(がんば)博士と音\n透明スーツの怪\n岩場(がんば)博士と宿敵\n岩場(がんば)博士と報復\n岩場(がんば)博士と佐久間\n\n関連SCP-JP\n\nSCP-1019-JP\nSCP-1113-JP\nSCP-1035-JP\nSCP-1703-JP\nSCP-2389-JP\nSCP-2776-JP\nSCP-3039-JP\nSCP-4064-JP",
+        "summary_basis_type": "overview",
+        "tags": [
+          "jp",
+          "ハブ",
+          "霊実体研究部門"
+        ],
+        "rating": 29,
+        "vote_count": 31,
+        "revision_count": 5,
+        "comment_count": 0,
+        "content_hash": "sha256:13f54c03bce2de8ff6681a1a4f0d56c30ba02eafb0991360d37bde87703f0321",
+        "has_text_content": true,
+        "text_content_length": 1153
+      }
+    },
+    "1469057200": {
+      "wikidot_id": "1469057200",
+      "page_name": "scp-4037-jp",
+      "first_seen_at_utc": "2026-07-30T05:00:00+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": true,
+      "article": {
+        "wikidot_id": "1469057200",
+        "page_name": "scp-4037-jp",
+        "url": "https://scp-jp.wikidot.com/scp-4037-jp",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "SCP報告書",
+        "article_title": "SCP-4037-JP",
+        "subtitle": "タトゥーイール",
+        "authors": [
+          "tukano_ jellyfish"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-07-27T15:35:46.000Z",
+        "created_at_jst": "2026-07-28T00:35:46+09:00",
+        "created_by": "tukano_ jellyfish",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-4037-JPは自己徘徊性を有している、ニホンウナギ（Anguilla japonica）を模したタトゥーシールです。SCP-4037-JPは人体に貼り付けられた際に活性化します。活性化したSCP-4037-JPは対象の皮膚に\"滲む\"ようにして同化します。同化後のSCP-4037-JPは身体をくねらせ、対象の体表面を移動します。\n浸透及び移動の際、対象は軽微な疼痛を覚えます1。これに対する反応として対象は体表面を掻きむしり、SCP-4037-JPは掻きむしる手を避けるように移動するため結果として影響範囲が拡大します。SCP-4037-JPは20〜30時間程度かけて全身の体表面を移動した後に活動を停止し、対象から剥離します。\n特異な例として額に貼り付けられたSCP-4037-JPは、眼球部へと移動、停留しました。これにより使用者は眼球の激しい痛みと飛蚊症に類した視界の広域的な不具合を訴えました。使用者は痛みによって執拗に眼球部を擦り、これによって目を擦る指へとSCP-4037-JPを移動させることに一時的に成功するも「滑りのある動き」（対象による証言）によって即座に眼球部へとSCP-4037-JPが帰還する一連の流れを繰り返しました。最終的にSCP-4037-JPを眼球部から移動させることに成功しましたが、それまでにSCP-4037-JPの使用開始から約9時間が経過していました。\n\n眼球部に移動したSCP-4037-JP。使用者は激痛を訴えており、目を大きく動かしている。また、激しく擦られることが繰り返されたため充血が見られる。\n\nFootnotes\n1. 針で刺される痛みと形容されます",
+        "summary_basis_type": "description",
+        "tags": [
+          "jp",
+          "safe",
+          "scp",
+          "動物",
+          "移動",
+          "自律",
+          "魚類"
+        ],
+        "rating": 61,
+        "vote_count": 83,
+        "revision_count": 2,
+        "comment_count": 5,
+        "content_hash": "sha256:6395a12b42a2330fcd85005f3120f51d5f25e09c1a736040c6b881e5778db1a0",
+        "has_text_content": true,
+        "text_content_length": 1012
+      }
+    },
+    "1469052997": {
+      "wikidot_id": "1469052997",
+      "page_name": "scp-4543-jp",
+      "first_seen_at_utc": "2026-07-30T05:00:00+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": true,
+      "article": {
+        "wikidot_id": "1469052997",
+        "page_name": "scp-4543-jp",
+        "url": "https://scp-jp.wikidot.com/scp-4543-jp",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "SCP報告書",
+        "article_title": "SCP-4543-JP",
+        "subtitle": "うなぎを食べて精を出せ",
+        "authors": [
+          "taiyousun"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-07-26T16:23:59.000Z",
+        "created_at_jst": "2026-07-27T01:23:59+09:00",
+        "created_by": "taiyousun",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-4543-JPはヒト(Homo sapiens)の男性がニホンウナギ(Anguilla japonica)を摂食した際に発生が確認されている現象です(以下、対象となったヒトを被影響者と表記)。文献上の調査によって、SCP-4543-JPと見られる現象は日本において少なくとも約2000年前から記録されていることが判明しています。現在確認されている被影響者について、性別およびニホンウナギの摂食経験以外の特筆すべき共通事項は確認されていません。\n被影響者の陰茎はニホンウナギに類似した実体に置換されます(以下、当該実体を被影響陰茎と表記)。被影響陰茎の長さや直径は置換以前の陰茎と同様です。また、被影響陰茎は被影響者の陰茎のように振る舞い、勃起や射精等に類似した行為をすることが可能です。これは対象が置換以前に勃起不全等を患っていた場合も同様であり、置換により当該疾患は完治します。そのため、一部の財団研究者は、一般社会における「ウナギを食べると精力がつく」という巷説や、日本全国のウナギと性的なイメージを結びつける傾向について、SCP-4543-JPが要因の1つではないかと推測しています。\n被影響陰茎を直接/非直接問わず視認した人物は実体を被影響者の陰茎そのものであり外見的に問題はないと認識しますが、機器による計測では実体がニホンウナギであると記録されます。そのため、多くの場合で病院における検査によってSCP-4543-JPの潜在的被影響者は発覚します。\n被影響者が射精を行う場合は精子ではなく、ニホンウナギの稚魚1に外見上類似した実体が被影響陰茎より放出されます(以下、当該実体を被影響精子と表記)。被影響精子は通常の稚魚と異なりその体長が0.07〜0.1mmです。陰茎の場合と同様、被影響精子は疾患の確認されない健康な精子と概ね同様の振る舞いを見せます。\n被影響精子が腟内に放出された場合、被影響精子は腟を遡上し子宮に到達します。通常の精子と異なり、被影響精子は子宮内に生存状態で約4週間の長期間残存します。その間、被影響精子は徐々に外見が変化し、3週間ほどでにニホンウナギの成体と同様の外見となります2。また、被影響精子は成長に伴い共食いを始めとした捕食行動を行います。\n外見の変化が完了した被影響精子の付近に卵子が存在する場合、被影響精子は卵子へと運動し受精します。この際、被影響精子は卵子を子宮壁付近まで移動させた後に受精を行うなど着床を補助する行動を見せるため、その着床率は非異常の場合と比較し有為に高いです。その後、着床から出産までのプロセスは非異常のものと同様です。\n出産される実体は外見上ヒトの男性に類似しており、遺伝的にもヒトと有為な差は見られません(以下、当該実体をSCP-4543-JP-Aと表記)。しかしながら、機器による記録ではSCP-4543-JP-Aがニホンウナギに類似したヒト型実体であると記録されます。\nSCP-4543-JP-Aの陰茎には被影響陰茎と同様の性質が見られます。すなわち、SCP-4543-JP-Aの子はSCP-4543-JP-Aとなります。ヒトとSCP-4543-JP-Aの性交によるヒトの汚染/置換が懸念されたものの、そのような事例は一切確認されていません。理由の1つとして、SCP-4543-JP-Aの精神構造/振る舞いはニホンウナギと同様のものであるため、ヒトとの性交に至る場合は非常に稀であることが挙げられます。\n\n脚注\n1. シラスウナギに該当する段階\n2. 体長は変化しない",
+        "summary_basis_type": "description",
+        "tags": [
+          "euclid",
+          "jp",
+          "scp",
+          "人間型",
+          "変容",
+          "性的",
+          "擬態",
+          "生殖",
+          "視覚",
+          "魚類"
+        ],
+        "rating": 27,
+        "vote_count": 41,
+        "revision_count": 5,
+        "comment_count": 1,
+        "content_hash": "sha256:f553ab155950b06f63ff35ede5f1e935c56b02dc88f08c570ade6ede352cf4a9",
+        "has_text_content": true,
+        "text_content_length": 1980
+      }
+    },
+    "1469052641": {
+      "wikidot_id": "1469052641",
+      "page_name": "scp-4733-jp",
+      "first_seen_at_utc": "2026-07-30T05:00:00+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": true,
+      "article": {
+        "wikidot_id": "1469052641",
+        "page_name": "scp-4733-jp",
+        "url": "https://scp-jp.wikidot.com/scp-4733-jp",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "SCP報告書",
+        "article_title": "SCP-4733-JP",
+        "subtitle": "吝嗇の飲食",
+        "authors": [
+          "wavekey"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-07-26T14:45:04.000Z",
+        "created_at_jst": "2026-07-26T23:45:04+09:00",
+        "created_by": "wavekey",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-4733-JPは異常な料理店です。SCP-4733-JP-Aは[削除済]です。\nSCP-4733-JP-A(以下、-Aと表記)に対して何らかの行動を行った場合、その分の代金が発生します。代金は、その行動をとった者が、SCP-4733-JPの店主に支払う必要があります。そうしなかった場合、無銭飲食として詐欺罪が成立します。\n以下は、-Aに対する行動と代金の種類の一覧(判明しているもの)です。\n\n行動\n代金の種類\n\n-Aから生じる臭気を嗅ぐ\n嗅ぎ代\n\n-Aから生じる音声を聴く\n聴き代\n\n-Aを目視する\n覗き代\n\n-Aから生じる湯気を浴びる\n浴び代\n\n-Aから生じる熱気を受ける\n受け代\n\n-Aについて記述する\n書き代\n\n-Aについて撮影する\n撮り代\n\n-Aについて描画する\n描き代\n\n-Aについての文章を転送する\n送り代\n\n-Aについての文章を読む\n読み代\n\n-Aについて認知する\n知り代\n\n-Aについて考察する\n考え代\n\n-Aについて解釈する\n解き代\n\n当該報告書では、いかなる代金を支払う必要もない状態が保たれています。",
+        "summary_basis_type": "description",
+        "tags": [
+          "euclid",
+          "jp",
+          "scp",
+          "メタ",
+          "構造",
+          "法律",
+          "誤伝達部門",
+          "貨幣",
+          "食物",
+          "魚類"
+        ],
+        "rating": 23,
+        "vote_count": 53,
+        "revision_count": 2,
+        "comment_count": 1,
+        "content_hash": "sha256:6be2e2e1ada81231f9c2a3aacde02f571ef54f0706a9c59fd0cebd63f89f9fa6",
+        "has_text_content": true,
+        "text_content_length": 838
+      }
+    },
+    "1469052203": {
+      "wikidot_id": "1469052203",
+      "page_name": "scp-4119-jp",
+      "first_seen_at_utc": "2026-07-30T05:00:00+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": true,
+      "article": {
+        "wikidot_id": "1469052203",
+        "page_name": "scp-4119-jp",
+        "url": "https://scp-jp.wikidot.com/scp-4119-jp",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "SCP報告書",
+        "article_title": "SCP-4119-JP",
+        "subtitle": "違法建竹",
+        "authors": [
+          "AKe_2DoShI-ew"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-07-26T12:28:08.000Z",
+        "created_at_jst": "2026-07-26T21:28:08+09:00",
+        "created_by": "AKe_2DoShI-ew",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-4119-JPは長野県███村の周囲に存在する竹林です。SCP-4119-JPは███村を中心とする半径約2kmに広がっていますが、後述するSCP-4119-JP-1の影響により他の竹林に比べて野生動物の出現数は大幅に少なくなっています。\nSCP-4119-JP-1はSCP-4119-JPに自生するマダケ(Phyllostachys bambusoides)です。一般的なマダケとの構造的・生物学的な差異は確認されておらず、同様のサイクルで生殖・成長及び枯死を行い、通常の手段で伐採が可能です。\nSCP-4119-JP-1の異常性は、視認した生物に「これは建築物である」という認識災害を発生させる点です。暴露者はその理由について、\n\n内部に空洞が存在するが、これは人間が利用するためのスペースだ\n概ね規則的な構造をしており、これは設計者の意図である\n内部には水道1が存在し、ライフラインも備わっている\n建築基準法における建物の定義2にほぼ合致する\n周囲に段々と生えていくのは工事が徐々に進んでいるからだ\n\n等を挙げ、またこれらの説明を聞いた人物も認識災害に暴露し、同様の主張を行います。\n1980年代、███村はその広大な土地と付近の河川からの水を用いた農業を行っており、村の産業の多くが農業に依存していました。しかし、獣害によって農業は衰退し、███村は廃村の危機を迎えました。これに対し当初、村落が衰退することで獣害が深刻化するとの予想が村民によってなされていましたが、これらの獣害はSCP-4119-JP-1の繁茂に伴い、一気に減少しています。これは、SCP-4119-JP-1群を害獣が大量の建造物であると認識し、人間の多い密集地帯であると認識したためだと考えられています。",
+        "summary_basis_type": "description",
+        "tags": [
+          "euclid",
+          "jp",
+          "scp",
+          "植物"
+        ],
+        "rating": 80,
+        "vote_count": 106,
+        "revision_count": 2,
+        "comment_count": 3,
+        "content_hash": "sha256:8e1b19b0dfc1ecdf5a34eb0e7a08c82541d492a9d8747a327b2c1babf064edc5",
+        "has_text_content": true,
+        "text_content_length": 1318
+      }
+    },
+    "1469051891": {
+      "wikidot_id": "1469051891",
+      "page_name": "scp-4075-jp",
+      "first_seen_at_utc": "2026-07-30T05:00:00+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": true,
+      "article": {
+        "wikidot_id": "1469051891",
+        "page_name": "scp-4075-jp",
+        "url": "https://scp-jp.wikidot.com/scp-4075-jp",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "SCP報告書",
+        "article_title": "SCP-L4075-JP",
+        "subtitle": "Lost Cause",
+        "authors": [
+          "say_temple",
+          "Miya_0503"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-07-26T11:05:26.000Z",
+        "created_at_jst": "2026-07-26T20:05:26+09:00",
+        "created_by": "Miya_0503",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-L4075-JPはニュージャージー州アトランティックシティ(ネクサス-36)で発見された異常なカモメ(Larus canus)です。SCP-L4075-JPは口腔から揮発油1と同成分の液体を排出することが可能であり、その総量は直前にSCP-L4075-JPが摂取した食料・液体のそれと比例します。\nレントゲン等の非破壊検査および開腹手術により原理の解明が試みられましたが、現時点で液体を生成しているとみられる器官は体内に確認されていません。",
+        "summary_basis_type": "description",
+        "tags": [
+          "esoteric-class",
+          "jp",
+          "raisa",
+          "scp",
+          "ゴールドベイカー・ラインツ",
+          "ボハート管理官",
+          "共著",
+          "動物",
+          "国外収容",
+          "排泄",
+          "液体",
+          "炎",
+          "鳥類"
+        ],
+        "rating": 17,
+        "vote_count": 39,
+        "revision_count": 1,
+        "comment_count": 2,
+        "content_hash": "sha256:bc9db0a5ac83b9833df12b9ab89e8ce809e46c75abad4b361ec4babdcef34357",
+        "has_text_content": true,
+        "text_content_length": 10014
+      }
+    },
+    "1469051153": {
+      "wikidot_id": "1469051153",
+      "page_name": "scp-3137-jp",
+      "first_seen_at_utc": "2026-07-30T05:00:00+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": true,
+      "article": {
+        "wikidot_id": "1469051153",
+        "page_name": "scp-3137-jp",
+        "url": "https://scp-jp.wikidot.com/scp-3137-jp",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "SCP報告書",
+        "article_title": "SCP-3137-JP",
+        "subtitle": "上野ペンギン関係マップ",
+        "authors": [
+          "renerd"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-07-26T07:36:20.000Z",
+        "created_at_jst": "2026-07-26T16:36:20+09:00",
+        "created_by": "renerd",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-3137-JPは「上野ペンギン関係マップ 2023」と題されているA4巻3つ折りのリーフレット43枚です。このオブジェクトが示しているのは、SCP-3173-JP 1内に複製された恩賜上野動物園 (以降、\"81UT-上野動物園\" あるいは単に \"上野動物園\" と呼称する) の西園ペンギン池にて飼育されているケープペンギン (Spheniscus demersus) 個体群の、恋愛関係や親愛関係です。\nこれらのペンギンは、81UT-上野動物園で現在飼育されている約250種の動物の1種です。ベースライン現実の上野動物園で飼育されていた個体群の多くは、小型現実空間・SCP-3173-JP内に内包される形で81UT-上野動物園が出現した際に、同時に複製されました2。\nSCP-3137-JPが示している関係性は、一部の特徴的なものを中心に描述する形で簡略化されつつも概ね事実に即していると観察されています3が、求愛行動などが現状観察されていないものの \"LOVE\" と表記されている箇所がある点などから、\"LOVE\"・\"FRIEND\"・\"NG\" の区分は一定程度恣意的であると推測されています。\nSCP-3137-JPの描述は、オリックス不動産株式会社がすみだ水族館および京都水族館のペンギン個体群について作成している『ペンギン相関図』に一定程度類似していますが、ベースライン現実の上野動物園のペンギン個体群に関する同様のプロジェクトは存在しません。\n2023/10/14に発見された当時のオブジェクトの描述のうち特筆すべき点としては、\n\n335番を中心とした激しい恋愛的対立\n325番・326番・330番による恋愛関係と、これら個体への一方的な恋愛感情の連鎖\n全体を通して有意に多いと考えられる同性間求愛の数4\n\nなどが挙げられます。\n\n2023/10/18 12:15ごろに観察された特に大きな変化の、最も顕著な箇所。\n\nSCP-3137-JPの描述は、概ね1日に1回の頻度で変化します。これはペンギン個体群の関係性の変化を反映していると考えられています。\n2023/10/19に行われたサイト-81UT施設保守セクション・動物園課 / 動物型思念体セクション合同による大規模検査では、ペンギン個体群自体の明確な異常性は確認できませんでした。この際に実施されたDNA鑑定から各個体の雌雄5や血縁関係が調査され、またSCP-3137-JPが参照している81UT-ペンギン個体群はベースライン現実の上野動物園で飼育されている個体群と異なるということが改めて確認されました。",
+        "summary_basis_type": "description",
+        "tags": [
+          "jp",
+          "safe",
+          "scp",
+          "写真",
+          "文書",
+          "晴れの休みは上野巡りへ",
+          "知識",
+          "記述"
+        ],
+        "rating": 59,
+        "vote_count": 63,
+        "revision_count": 4,
+        "comment_count": 10,
+        "content_hash": "sha256:f808cbea3497332d6770fca75f63b7e5b4090d1181058db6713f9d87453214cd",
+        "has_text_content": true,
+        "text_content_length": 6633
+      }
+    },
+    "1469049627": {
+      "wikidot_id": "1469049627",
+      "page_name": "versus-sneak-of-the-hidden-knife",
+      "first_seen_at_utc": "2026-07-30T05:00:00+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": true,
+      "article": {
+        "wikidot_id": "1469049627",
+        "page_name": "versus-sneak-of-the-hidden-knife",
+        "url": "https://scp-jp.wikidot.com/versus-sneak-of-the-hidden-knife",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "アートワーク",
+        "article_title": "対戦: 隠し包丁のスニーク！",
+        "subtitle": null,
+        "authors": [
+          "wavekey"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-07-26T01:00:05.000Z",
+        "created_at_jst": "2026-07-26T10:00:05+09:00",
+        "created_by": "wavekey",
+        "content_warnings": [],
+        "summary_basis": "「闇寿司四包丁の1人、隠し包丁のスニークとの対戦BGM」をイメージした楽曲です(2ループ分)\n\n+ 作曲の意図\n\n隠し包丁のスニークは、四包丁の中でも最弱と言われています。一方で、その分努力家で、かつ野心家としても知られています(姑息とされることもありますが、これも野心のためでしょう)。これを表現するため「今は弱いが、高いところを目指して努力している」「ある種の熱血である」ような雰囲気の曲にしようと思いました。また、スニークは主にラーメンを回しますが、闇寿司としてはラーメンは割と王道寄りなので曲も割と王道っぽくしようとしました。\n一方で、スニークはしばしばコミカルな役？やられ役？として登場することもあります。弱いし、金欠という描写もあるため、メタ的にはそういう役になりやすいのかもしれません。こう考えると、スニークの対戦BGMは、(コミカルな雰囲気ではないでしょうが)超感動的・超シリアスな曲調であるというのも違和感があります。\nそして、スシブレードの対戦をイメージした曲ですので、対戦のBGMとして十分に盛り上がり、かつ1ループが長くないものとしたいです(実際のスシブレードの対戦がそれほど長いとは考えにくいため。もっとも、作中においては、「短時間の出来事を長く描く」「演出として長時間回る」とするケースも考えられなくはないですが)。\n以上を受け、全体的に盛り上がるようにしつつ、「王道寄りな、努力家」っぽさを表現しようとしました。そしてその際には、シリアスになりすぎないようにしています　　例えば、バイオリン系の楽器を使うとちょっとシリアスすぎる感じがしたのでやめています。これらを踏まえて、テンポの速い、ロック風なものとして作曲しました。イントロやAメロ、サビでは「今は強くないが野心に満ちている」という感じを意図しております。また、Bメロでは、敗北から成長するような、一種のエモさを出そうとしました。そして全体的に、「シリアスではないシーンで使っても問題ないような雰囲気」も狙っております。\n\n参照用: 楽譜データ(外部サイト)",
+        "summary_basis_type": "description",
+        "tags": [
+          "jp",
+          "アートワーク",
+          "スシブレード",
+          "闇寿司",
+          "隠し包丁のスニーク",
+          "音声添付"
+        ],
+        "rating": 12,
+        "vote_count": 16,
+        "revision_count": 1,
+        "comment_count": 1,
+        "content_hash": "sha256:91379eb823e9ea2e859445d6c410f6e127345467011af2f178552ed38d098aae",
+        "has_text_content": true,
+        "text_content_length": 982
+      }
+    },
+    "1469088266": {
+      "wikidot_id": "1469088266",
+      "page_name": "scp-cn-3463",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469088266",
+        "page_name": "scp-cn-3463",
+        "url": "https://scp-jp.wikidot.com/scp-cn-3463",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_translation_year",
+          "credit_original_title",
+          "credit_original_url"
+        ],
+        "source_branch": "CN",
+        "source_branch_basis": "original_url",
+        "genre": "SCP報告書",
+        "article_title": "SCP-CN-3463",
+        "subtitle": "箱を開ける",
+        "authors": [],
+        "original_title": "SCP-CN-3463 - 开盒",
+        "original_url": "https://scp-wiki-cn.wikidot.com/scp-cn-3463",
+        "original_authors": [
+          "Rye Travis"
+        ],
+        "original_year": "2022",
+        "translation_year": "2026",
+        "translation_responsible": [
+          "C-Dives"
+        ],
+        "translators": [
+          "C-Dives"
+        ],
+        "created_at_utc": "2026-08-02T12:54:36.000Z",
+        "created_at_jst": "2026-08-02T21:54:36+09:00",
+        "created_by": "C-Dives",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-CN-3463は2022/10/22にサイト-CN-07全体を物理的に消滅させた未知の異常現象です。サイト敷地内の全ての建造物、施設、職員は行方不明となり、外部との通信は即座に途絶し、かつてサイトが存在した空き地にはSCP-CN-3463-A実例群のみが散在していました。財団のオンライン端末には、連絡が完全に途絶する前のサイト-CN-07が最後に作成した、異常オブジェクト記録用の新規ページが未編集のまま、タイムアウト処理によるロック状態で残されています。これは本来、SCP-CN-3463-Aに関する情報を登録するためのページだったと推測されています。\nSCP-CN-3463-Aは松材で作られた5個1組の木箱です。それぞれの外見は完全に同一ですが、大きさは1個ずつ比例的に縮小しており、入れ子形式で他の木箱を収納できるようになっています。全てのSCP-CN-3463-A実例は開いた状態で発見されました。各箱の天面には、大きな箱から小さな箱の順に“サイト-CN-07”、“低脅威アノマリー研究エリア”、“15-102号試験室”、“D-46385”、“頭蓋骨”という刻印があります。発見当時、SCP-CN-3463-A実例のうち4個は空であり、唯一の例外である最小の箱の中には、少量の脳脊髄液と低酸素壊死を起こした大脳が収められていました。\n全てのSCP-CN-3463-A実例の蓋が閉じられ、一時独立施設 ユニット-CN-07 へ移送された際、最大の箱の刻印が“ユニット-CN-07”に変化し、他4個の箱が運搬中に消失したことが発覚しました。職員らには、運搬中の箱の中から人体がぶつかり合うような音が聞こえていました。",
+        "summary_basis_type": "description",
+        "tags": [
+          "cn",
+          "euclid",
+          "scp",
+          "人工",
+          "念力",
+          "構造",
+          "重訳"
+        ],
+        "rating": 1,
+        "vote_count": 3,
+        "revision_count": 1,
+        "comment_count": 1,
+        "content_hash": "sha256:32536f70a68fbf4bcade733ad9627583804bcff274f9473b01127d7590181c99",
+        "has_text_content": true,
+        "text_content_length": 1320
+      }
+    },
+    "1469088150": {
+      "wikidot_id": "1469088150",
+      "page_name": "utaki-02",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469088150",
+        "page_name": "utaki-02",
+        "url": "https://scp-jp.wikidot.com/utaki-02",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "Tale",
+        "article_title": "御嶽に喰む - 02. 集結",
+        "subtitle": null,
+        "authors": [
+          "Fireflyer＆kihaku＆rokurouru＆v vetman"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-08-02T12:00:06.000Z",
+        "created_at_jst": "2026-08-02T21:00:06+09:00",
+        "created_by": "rokurouru",
+        "content_warnings": [],
+        "summary_basis": "u-splash-off-sidebar\n\n語るべきことがある。\n1945年3月26日。沖縄本島が、絶海の地獄と化した日だった。\n\n第二次世界大戦末期。沖縄へと、連合軍が到達したのだ。日本全土でぼんやりと厭戦の風潮が漂う中のことだった。4月の始めには大小合わせて200隻からなる軍用艦が10万発に迫る砲弾、後に『鉄の暴風』と呼ばれるそれが本島西部目掛けて叩き込まれる。島の形状が一部変形するほどの超火力砲撃を皮切りに米陸軍の段階的な上陸が行われ、その後の地上戦はさらに苛烈を極めた。\n約3か月の激戦の後、6月22日。本島に残留していた部隊や民間人の殆どが降伏し、後に『沖縄戦』と呼ばれる一連の戦闘は幕を閉じた。両軍及び現地の民間人も含め約20万人が戦没し、とりわけ沖縄県民については当時の住民の内4人に1人が死滅する被害状況。長きに渡る地獄が過ぎ去った朝空の下、その焦土には瓦礫すらも残っていなかったという。\n\n或る少女の産声はこの僅か1日後に上がった。単独出産に挑んだ母親は栄養失調などにより衰弱死し、防空壕の中から響き渡る産声を聞きつけた米軍兵士が遺体と新生児を回収する。その後本島に設置された捕虜収容所にて身元不明新生児の育児担当者が一斉募集され、夫と生後2ヶ月の我が子を喪ったばかりの女性がこれを担った。\n結局この育ての親も終戦直後の混乱の最中に病で命を落とすが、若干6歳の少女は3人目の母親に遭遇することなく、以降ほぼ自力で混沌の時代を駆け抜けた。恐らくは2人の母が心の底から願ってくれたのであろう自らの生を貫徹するために、少女は『島袋』の姓を背負い、貪欲に生き、貪欲に学び、孤独に戦い続けた。一時は孤児院に身を寄せ、その折に米軍兵士の見様見真似からギターを極めた。成人後は食品工場での労働と米軍基地内でのバンド活動で日銭を稼いだ。\n一度だけ恋心を抱く機会はあったが、もはや青年期にはギターと工場と飽くなき生存が彼女のすべてと化していた。メンバーの1人が暴力団員に刺殺されやむなくバンドを解散した後も、ギターと労働に明け暮れ、その代わり以前より人との関りを拒みながら、1人で生き続けた。\n\n\"それ\"を知覚したのは23歳の夏だった。\n丁度『本土』の人間が挙って「戦後からの脱却」を騒ぎ立てていた時代、後に高度経済成長期と呼ばれた一連の時代の真只中である。育ての母が眠る集団墓地に向かう最中、ギターを背負ったスカジャン少女は三叉路の手前で目を閉じ、そしてもう一度見開く。ある筈のない海が眼前いっぱいに広がっていた。\n正確に言えば、この場合「ある筈がない」のは海のほうではなくスカジャンギター少女の方である。那覇市郊外を歩いていた筈の少女は、遠く石垣島の小規模な集落の路地にその身を転移していた。わけも分からぬままこの日の内に3度の転移を行うも、日を跨いだ深夜4度目の転移でついにその法則性と扱い方を心得る。以来凡そ50年間、特に誰に伝えるともなく、この能力を密かに生活の一助としながら沖縄諸島を生きた。\n\n転移能力者『島袋紀子しまぶくろのりこ』。御年76歳、夏。\n独りを体現していた彼女にとって、それは初めての\"同族\"との遭遇だった。\n\n\"ババア\"\n\nイニシャル: BBA\n種族: 人間\n性別: 女\n生年: 1945年6月頃と推定\n職責: 転移術者\n\n「──人のクレームを横から邪魔しやがって。ナニモンだガキ共」\n「こっちの台詞だ。アンタは誰でここは何処でさっきのは何だ？」\n\nそう聞いた瞬間、買い物袋を片手にサンダルの婆さんが不敵に笑む。出汁が取れそうなほど古びたスカジャンを海風にはためかせながら。今のご時世には時代錯誤も甚だしいツッパった不良少年の目で俺を見つめながら。\n\n「ただの婆さんで、お前らの同族ってとこかね」\n「同族の定義によりけりだが、つまりは何だ。アンタ──」\n\nパチン、と文字起こしする他無い、やけに残響が耳に残る音と共に、風が止んだ。ユタ(の身体を借りっぱなしの落武者殿)に続いて一気に周辺を見渡す。食卓だ。一戸建て平屋の。俺達の位置関係だけは一向に変わらないまま、位置情報だけが切り替わっている。\nアポートだ。アーティファクトを使用した形跡はない。正真正銘この婆さんの体に刻まれた能力らしい。しかもとんでもない精度で転移させやがった。座標ずれを起こして構造物にめり込み…",
+        "summary_basis_type": "opening",
+        "tags": [
+          "jp",
+          "tale",
+          "共著"
+        ],
+        "rating": 21,
+        "vote_count": 21,
+        "revision_count": 3,
+        "comment_count": 2,
+        "content_hash": "sha256:035cf1d04bb62cde6916375885ee9145d33d15caccc87f8725be2ec782a5abf3",
+        "has_text_content": true,
+        "text_content_length": 41313
+      }
+    },
+    "1469088127": {
+      "wikidot_id": "1469088127",
+      "page_name": "eve-aic-part-fourteen",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469088127",
+        "page_name": "eve-aic-part-fourteen",
+        "url": "https://scp-jp.wikidot.com/eve-aic-part-fourteen",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "Tale",
+        "article_title": "#14 湿砂を踏んで",
+        "subtitle": null,
+        "authors": [
+          "ukarayakara"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-08-02T11:44:17.000Z",
+        "created_at_jst": "2026-08-02T20:44:17+09:00",
+        "created_by": "ukarayakara",
+        "content_warnings": [],
+        "summary_basis": "まずは端的に、サイト-82は地獄と化した。\n\n私は入院着で夜の海辺を歩いていた。点滴こそ引き連れてはいないものの、全く歩きにくくて仕方がないのは私の身体のせいだろう。まだこの肉の寄せ集めは急ごしらえもいいところだ。\n新月のようで、空は一面の藍色。星も無い。無論、私は海辺に来たこともなければ、海を見たこともなかった。それを可能とするだけの全ての条件が私には揃っていなくて、これが何かの見せている夢だということはわかっていた。海には全てが集まり、洗いざらいを飲み込んでくれる気がしていた。膨張に膨張を重ねて、完全に人から遠くなった私の意識でさえも。\nおそらくは、そんな矮小な憧れがこの浜を産んだのだろう。濡れて冷たい砂が裸の足裏を擦り、夜の帳を反射する海面はどこまでも深く続いていた。浜辺には私の小さな足跡だけが残り、それも泡立つ波に攫われてすぐに消えていった。腰まで伸ばした髪が、伸びろとも頼んでいないのに軽い潮風を吸って靡く。身体を覆うようだ。\n生きていない海だった。海ははじめて訪れた場所だけれど、しかしこんなに爽やかなはずはなかった。この海のどこにも生き物の匂いがしない。海はもっと汚れていて、生き物臭くて、ちょっと顔を顰めてしまうような醜ささえ孕んでいるはずなのだ。この踏みしめた砂の下に幾万の海蛆が蠢き、藍色の海面の奥で魚が死にながら踊っているなら、当然そうなるだろう。パパが読んでくれた数多の絵本、あらゆる思い出話からそれを知っている。あの病室で。\nこれは与えられた絵の具をろくに溶きもせず塗りたくる、幼児の絵と同じような海。行ったことのない者が思い浮かべる幻想。だから、やはり、この海は偽物なのだろうと思った。ならば、この脚を這いずるつめたさはなんだろう。これが潮風でも、海水でもないならなんなのだろう。悍ましくはないが、歓迎できるものでもない。ただ、気怠い。起きたくもないのに起きてしまった、どうでもいい早朝のように。私にとってすべての朝がそうだったが。\n月もないのに輝く砂浜と、嘘っぱちの海は何も告げはしない。浜辺には何も無い。うまく歩けないまま、風を掻き分けて進む。息苦しいような気がする。考える必要がある。私がなぜここにいるのかを。視界には浜辺しかない。私の手足はあまりにも小さい。これが夢だとして、そんなに海に来たかったのだろうか？ 偽物の潮風、作り物の海面をこんなに精巧に思い浮かべるほどに？ 夢にしてはきめ細かすぎて、現実としては気味が悪いのだった。目的も恐怖もない、広いだけの夢。いや、これを見ること自体が目的だ。この場所を私がつくらなくてはいけなかった。だがまだ終わっていない。目的が別にある。\n歩く。浜辺はまだ広く見える。小さく脆い私の身体では到底歩き通せないほどに。やはり私はこの感覚を知っていた。暗く、広く、それなのにどこにも行けない場所。海にずっと来たかったはずなのに、この海は私の目的地ではない。踏みしめている砂は完全に死んでいるが、その奥には無機質な何かが眠っている。ここは元々こうでなかったのだ。そうだ。私は塗り潰したくて、その衝動に従って与えられたすべてを使った。この場所はこうでなくてはならない。\n海辺から出たいようにも、出たくないとも思った。あんなに海へ来たかったのに、私の欲しかったものはどこにもないから。私はそれを待っている。\n波の音がする。すっかり幼い私の足首を濡らす程度の、都合のいい波。前を向こうとしても、どちらにも海が広がっている気がする。私の機嫌を伺うような卑屈な波が過ぎ去ると、何もなかった浜辺に文字が刻まれる。幼い字だった。情けなかった。そして、この海は、あるいは私自身は、私に答えをくれていた。私がやらなければならないこと。私の生まれてきた理由。\n\nようこそ、E.V.E。サイト-82サーバクラスタ、メインフレームへ。\nシステムは待機しています。追加の情報を入力してください。\n\n幼げな字を眺めた。やるべきことが分かっているのは幸せだ。\n私は彼女を待っている。そう遠くないうちにやってきてくれるだろう。\nなぜなら、彼女も私を憎んでいるはずだから。\n\nハヴァ(と、Eve.aic)はエレベータを降りる。まだサイトの構造自体は変わっていないが、上層階の気配は明らかに変わっていた。かつて人が過ごしていたころには決して満ちていないはず…",
+        "summary_basis_type": "opening",
+        "tags": [
+          "eve-aic-tales",
+          "jp",
+          "tale"
+        ],
+        "rating": 4,
+        "vote_count": 4,
+        "revision_count": 2,
+        "comment_count": 1,
+        "content_hash": "sha256:2266c8ce10b998e35424dbb5e5d18379aec87c185c85bc88ed12937b9e34832f",
+        "has_text_content": true,
+        "text_content_length": 13198
+      }
+    },
+    "1469087277": {
+      "wikidot_id": "1469087277",
+      "page_name": "scp-070-vn",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469087277",
+        "page_name": "scp-070-vn",
+        "url": "https://scp-jp.wikidot.com/scp-070-vn",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_translation_year",
+          "credit_original_title",
+          "credit_original_url"
+        ],
+        "source_branch": "VN",
+        "source_branch_basis": "original_url",
+        "genre": "SCP報告書",
+        "article_title": "SCP-070-VN",
+        "subtitle": "えっと…えっと…あの…お手紙を受け取ってくれて、ありがとう…。その…直接伝えたいことがあって…。君は私の一番かわいいみかんなんだ！🍊(⁄⁄>⁄▽⁄<⁄⁄)💖",
+        "authors": [],
+        "original_title": "SCP-070-VN - えっと…えっと…あの…お手紙を受け取ってくれて、ありがとう…。その…直接伝えたいことがあって…。君は私の一番かわいいみかんなんだ！🍊(⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)💖",
+        "original_url": "https://scp-vn.wikidot.com/scp-070-vn",
+        "original_authors": [
+          "KirQ"
+        ],
+        "original_year": "2026",
+        "translation_year": "2026",
+        "translation_responsible": [
+          "C-Dives"
+        ],
+        "translators": [
+          "C-Dives"
+        ],
+        "created_at_utc": "2026-08-02T08:14:32.000Z",
+        "created_at_jst": "2026-08-02T17:14:32+09:00",
+        "created_by": "C-Dives",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-070-VNは第47代アメリカ合衆国大統領 ドナルド・ジョン・トランプとして知られる異常なバレンシアオレンジの指定名称です。SCP-070-VNのDNAは正常な人間と類似しますが、その表皮の形成と分化は一般的なバレンシアオレンジの発育プロセスに準拠しています。時間と共に、SCP-070-VNの表皮組織はクロロフィルからカロテノイドへの色素変化を起こし、同時に精油腺の形成や、熟したオレンジ特有のざらついた表面質感の発達を引き起こしています1。このプロセスはSCP-070-VNの生物学的老化と同期して進行しており2、外部要因の影響を受けません。\nヒトの行動を模倣し、アメリカ合衆国大統領として活動している間、SCP-070-VNは通常 － 異常生物学部門が記録した事例を除いて － バレンシアオレンジの他の特徴を示しません。\n補遺.01: 内部通信\n\nFrom: ワカバ・セルキロ博士\nTo: キドリ・ヴォルコワ部門長\n日付: 2025/08/01\n件名: SCP-070-VNの詳細な分析\n\n部門長殿、\n我々が入手した情報と証拠に基づき、残念ながら、当該アノマリーに関する当初の分析は正しかったと判断せざるを得ません。現職大統領が単なる“変わり者”に過ぎないことを、この部門でどれほど多くの職員が神に祈っていたことか。しかし、まさに彼のそういった特質こそ、財団が把握できていなかった異常性であることが明るみに出ました。\nもちろん、すぐにはご納得いただけないでしょうから、本件に関連する極めて異例な出来事のリストを添付します。\n\n2016/11/09の02:30頃 (EST) 、アメリカ合衆国大統領就任式の最中に、多数の出席者が目に涙を浮かべていることが確認された。公的記録では、この現象は自然な感情の表れであると解釈されているが、財団による事後分析の結果、SCP-070-VNは就任演説中に大量のリモネンを大気中に放出していたことが判明した。\n2017年以降、ホワイトハウスでは、敷地内のアリやその他の昆虫の生息数が、以前と比較して急激に減少していることが記録されている。\nSCP-070-VNと直接関わる職員の辞職率、解雇率、降格率は過去の米国政権と比較して統計的に高い。最も広く支持されている仮説は、SCP-070-VNが意図せずエチレンガスを大気中に放出し、関係者を辞職に追い込んだというものである。\n\nイスラエル首相ベンヤミン・ネタニヤフの前で“誇示”を行うSCP-070-VN。\n\n2024/07/13に発生した暗殺未遂事件以降、財団の隠密エージェントらは、SCP-070-VNが人前で表皮を露出する頻度が増加したことを確認している。この傾向は2025/04/11、ブルールームに掲示されていたバラク・オバマ元大統領の公式肖像写真を自らの写真に差し替えるという決定に繋がった。大統領府はこの決定はあくまで象徴的なものであると説明したが、異常生物学部門の見解は、自らの熟度を誇示するというバレンシアオレンジの本能の表れこそが真の動機だというものである。\n2025/07/09、SCP-070-VNは、2025/08/01からブラジル産の全製品に50%の輸入関税を課す計画を発表した。この措置の表向きの狙いはアメリカの経済的利益と国家安全保障の保護とされているが、ブラジルが世界最大のオレンジジュース輸出国であることを踏まえると、この決定は同種のスイートオレンジ (Citrus sinensis) に対する競争本能が原因ではないかと推測される。\n\n我々は、SCP-070-VNをこの種の第1号として登録するため、速やかに新たな用語を考案しました。“オレンジ人間実体” － 異常な果実系実体の分類体系におけるサブカテゴリです。\n部門長の早急なご決定をお待ちしております。\n- 異常生物学部門、セルキロ博士\n\nFrom: キドリ・ヴォルコワ部門長\nTo: ワカバ・セルキロ博士\n日付: 2025/08/01\n件名: RE:SCP-070-VNの詳細な分析\n\nワカバさん、\n部門が立てた仮説は秀逸ですが、現時点ではあくまでも仮説にすぎません。トランプ氏の行動について、より詳細な情報や記録を収集するため、ホワイトハウスに潜入しているエージェントたちに連絡しておきました。数日中…",
+        "summary_basis_type": "description",
+        "tags": [
+          "scp",
+          "ticonderoga",
+          "vn",
+          "インターナショナル",
+          "人間型",
+          "擬態",
+          "生命",
+          "画像差し止め",
+          "重訳",
+          "食物"
+        ],
+        "rating": 17,
+        "vote_count": 17,
+        "revision_count": 6,
+        "comment_count": 1,
+        "content_hash": "sha256:9ffdfcf4a54f8dd8c83cd1355e5625173b806e19dbaa16bfee32387c13888300",
+        "has_text_content": true,
+        "text_content_length": 5556
+      }
+    },
+    "1469086583": {
+      "wikidot_id": "1469086583",
+      "page_name": "congy-1",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469086583",
+        "page_name": "congy-1",
+        "url": "https://scp-jp.wikidot.com/congy-1",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "Tale",
+        "article_title": "牆",
+        "subtitle": null,
+        "authors": [
+          "Congy"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-08-02T03:12:02.000Z",
+        "created_at_jst": "2026-08-02T12:12:02+09:00",
+        "created_by": "Congy",
+        "content_warnings": [],
+        "summary_basis": "おはようございます…\n\nおはよう。行き先は？\n\n空港までで。\n\n諒解。かれこれ1時間くらいで着くぞ。ただ雨は降ってるから安全運転しなくちゃな。\n\nところで、お前さんは観光なのか、それとも仕事で来たのか？\n\n仕事ですよ。\n最近、私の組織では海外に行くことが頻繁にあって。それでなんです。\n\nそうか。この国に来て驚いたこととか、お前さんの国と違ったりするところはあるのか？\n\n特段には。\nこの国には4回くらい来たことがあるので、もう慣れてしまったのかもしれません。\nあと、あそこの街並みって、私の国とそっくりに思えるんです。\n最近は、どこ行っても大体都市は同じような見た目なんだなー、って思ってます。\n\nああ。それなら、お前さんの国と見慣れた光景が広がっているというわけか。\n\nまあ、そうですね。\n強いて言えば、私みたいな普通の人が少なくて、あなたのような動物の特徴を持っている人が多い、ってくらいか。\nていうか、それにしても後ろの車、運転が荒いですね。雨の日なのに。\n\nあの建物は何ですか？\n\n動物病院だ。最近は異常性を持つ動物専門の病院も増えているみたいだな。\nアレはまさしく国内で初めての異常動物専門病院だ。\n勿論、私のような半獣人みたいな奴は、普通に人間様向けの病院に行くがな。\n\nそうですか。\n\nお前さんは、昔ここに何があったと思う？\n\nわかりません。\n多分、農地とか、集合住宅とかがあったんじゃないですかね。\n\n違う。そんなに平和な場所ではない。\n昔、ここら辺ではあの暴動があっただろ。それがヒントだ。\n\n暴動ですか？そんなことがあったなんて、私は知りませんでした。\nじゃあ、軍事施設とかですか？あの辺は空軍基地だってありますよね？\n\n……\nブッブー。お前さんにはきっと分かると思っていたのによ。\n正解は、SCP財団とかいう組織の、極秘研究施設があった場所だ。\n否、研究施設というよりかは、強制収容所みたいな響きがお似合いの施設だ。\n\n……\n……\n\nお前さんは知らなかったのか？\n昔、人々が異常な事物について初めて知った時、あそこら辺では閉じ込められた人たちを解放しろ、\n実験という名目で命をドブに捨てるんじゃない、ってデモがあったんだよ。\nでも、財団はそれを無視した。無視するどころか、そいつらに催涙スプレーを吹きかけたんだ。\n\n……\n……\n\nやがて、非暴力的な抵抗が無意味だと悟った彼らは、必要最小限の暴力で財団の奴らに抵抗しようと決めた。\n武器は持ち合わせているものだけ。大体物を投げつける位のことしかできないだろう。\nましてや人を殺すことなどできやしないね。\nでも、財団は致死的な武力に訴えた。あそこでは数知れないくらいの銃弾が飛び交ったと教わっている。\n結局、数万人の人が死んだとも。\nで、お前ら財団はそれに対して反省も謝罪もしない、ってワケなのか？\n\n……\n……\n……いや。ちゃんと反省しています。私たち財団は過去の過ちを正し、しっかりと未来にそれを伝えていますから。\n\nそうは思えないね。\nお前さんの国の人たちは財団が好きな人が多いから知らないと思うが、\n俺たちの国ではそういった、歴史的な悲劇や財団の過去の過ちについて、みんな学校で教わっている。\nじゃあ、お前さんの国ではどうなのか？みんなそういうのに無関心じゃないか。\n財団の教育カリキュラムに入っているのか？そんな筈ないに決まってる。\n\n……違います。私たちの国の人も、財団の人たちもちゃんと、過去の過ちについてしっかりと勉強しています。\nその上で、財団は世界を守るために必要なんだって、多くの人が思っているんです。\n\nお前さんは、財団が世界を救うって、本気で思っているのだな。\nだが考えてみろ。財団が「世界を救う」って言っている裏で、お前らは俺たちの記憶を異常な方法で、いっつもまっさらにしていたよな。\nしかも、その方法を用いるために、お前らは極度に非倫理的な方法で人の命を棄てるんだぜ。\n加えてだよ、お前らは俺みたいな人畜無害な獣人やら変わった身体的特徴を持っている奴らをよく「収容」していたんだよな。\nアレは「収容」じゃなくて、俺に言わせれば「収監」だ。俺の祖父だって「収容」されていたうちの一人だ。\nお前らは、収容されている人たちのことを「人」だって思ってないんだろ。\n1000年くらいずっと、俺たちのことを牢屋に…",
+        "summary_basis_type": "opening",
+        "tags": [
+          "jp",
+          "tale",
+          "削除通知",
+          "壊された虚構"
+        ],
+        "rating": -2,
+        "vote_count": 12,
+        "revision_count": 3,
+        "comment_count": 5,
+        "content_hash": "sha256:d9dc7d583dbf96b16c5355b93a215c265be5d78053c9178561a9f83286d48f4e",
+        "has_text_content": true,
+        "text_content_length": 4543
+      }
+    },
+    "1469085163": {
+      "wikidot_id": "1469085163",
+      "page_name": "scp-716-ko",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469085163",
+        "page_name": "scp-716-ko",
+        "url": "https://scp-jp.wikidot.com/scp-716-ko",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_translation_year",
+          "credit_original_title",
+          "credit_original_url"
+        ],
+        "source_branch": "KO",
+        "source_branch_basis": "original_url",
+        "genre": "SCP報告書",
+        "article_title": "SCP-716-KO",
+        "subtitle": "常に建設中の超高層ビル",
+        "authors": [],
+        "original_title": "SCP-716-KO - 끊임없이 공사중인 마천루",
+        "original_url": "https://scpko.wikidot.com/scp-716-ko",
+        "original_authors": [
+          "Z-cian"
+        ],
+        "original_year": "2015",
+        "translation_year": "2026",
+        "translation_responsible": [
+          "C-Dives"
+        ],
+        "translators": [
+          "C-Dives"
+        ],
+        "created_at_utc": "2026-08-01T15:41:48.000Z",
+        "created_at_jst": "2026-08-02T00:41:48+09:00",
+        "created_by": "C-Dives",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-716-KOはロシアのクラスノヤルスク地方エヴェンキ地区 (Красноя́рский край, Эвенкийский район) にある建造物です (正確な所在地は担当職員にのみ開示) 。各階は面積9km2の正方形で、本稿執筆現在の高さは87km、総階数は17,085階で、今後も増築が続く見込みです。その極端な高さによって熱圏に到達しているにも拘らず、外壁から200m以内の領域では、対象が位置する場所の対流圏と同じ大気組成・温度が維持されています。この建造物は区間ごとに商業用、居住用などに目的が分かれた住商複合ビルの形態を取り、各階の中央に400m2の正方形の通路が設けられています。以下はSCP-716-KOの各区間の説明であり、高さが増すにつれて、各区間を構成する階数の増加や新たな区間の出現が発生します。\n\n1～3階 (A区間): ロビーと案内デスク。各階の説明、マップ、ガイドブックが置かれている。\n4～2107階 (B区間): 漁業区間。中央通路を除く階層全体が海水で満たされ、様々な魚類が養殖されている。建造物の外壁は半透明のミラーパネルになっており、調整によって内部に届く光量を制御できる。\n2108～5102階 (C区間): 生産区間。“工業製品”として分類される全ての品目がここで製造される。この区間の工場はいずれも半分以上が自動化されている。\n5013～7820階 (D区間): 農業区間。穀物、果実、野菜、畜産物が製造される。\n7821～8821階 (E区間): 住宅区間。下層階級のSCP-716-KO-A個体らが居住している。この区間は1階層あたりの住戸数が最も多い反面、1住戸あたりの面積が最も狭く、1階層あたりの世帯数は最低でも8,000に及ぶ。また、住宅区間の中では最も管理状態が劣悪であり、多発する犯罪が建造物全体の混乱を招くことがある。時折、J区間の風俗店や居酒屋がこの区間に移転することがある。\n8822～11029階 (F区間): 住宅区間。中流階級のSCP-716-KO-A個体らが居住している。1階層あたりの平均世帯数は2,000。それ以外に特筆すべき点は無い。\n11030～12127階 (G区間): 保管区間。建造物の全住民の食糧及び物資、並びにH区間居住者らの財産が保管されている。一部のH区間居住者は個人使用目的で階層全体を所有しており、中には最大5階層を所有する者もいる。こうした階層の大半は、H区間居住者専用のエレベーターでのみアクセスできる。\n12128～15380階 (H区間): 住宅区間。上流階級のSCP-716-KO-A個体らが居住している。1階層あたりの平均世帯数は100前後だが、1人または2人が十数階層を所有している場合もある。この区間の住民らにはいかなる制約も課されておらず、E区間で行われる人身売買に関与する者もいる。また、一部の上流階級はI区間の管理職員と癒着し、建造物全体に影響力を行使している。\n15381～15385階 (I区間): 運営区間。文書資料アーカイブ、監視カメラ制御室、管理事務室がある。建造物オーナーの私室が15385階の全体を占めており、常に厳重に閉ざされている。\n15386～16485階 (J区間): 商業・娯楽区間。食料品店、美容院、衣料品店などをはじめ、既存のあらゆる商業店舗が存在する。特定の階層にはクラブ、風俗店、居酒屋などの娯楽施設が集中している。\n16486～16620階 (K区間): 医療区間。本来はJ区間の一部だったが、医療施設が専門化するにつれて独立した区間になった。\n16621～16680階 (L区間): 研究区間。建造物全体の設備の研究開発が行われる。財団の収容措置以来、この階層で2つの新たな区間が開発された。\n16681～17073階 (M区間): 保養施設・温室区間。外壁と一部の床が強化ガラス製になっており、2～3階層が1つに統合された場所もある。\n17074～17085階 (N区間): 建設区間。上空から降りてくる建材を用いた建設工事が行われる。\n地下1～地下302階 (α区間): 地下区間。未だ開発中。\n\nSCP-716-KO内には、普通エレベーター20基、貨物用エレベーター5基、専用エレベーター3基、職員用エレベーター2…",
+        "summary_basis_type": "description",
+        "tags": [
+          "ko",
+          "safe",
+          "scp",
+          "ゲーム",
+          "プラグソフト",
+          "人間型",
+          "建造物",
+          "注目記事",
+          "瞬間移動",
+          "知性",
+          "群れ",
+          "都市",
+          "重訳"
+        ],
+        "rating": 8,
+        "vote_count": 8,
+        "revision_count": 1,
+        "comment_count": 1,
+        "content_hash": "sha256:694fe09afdb4fc7b0c848ea74eff1ea7b5f0350d17346ca4d8e8544d8b1f0a1e",
+        "has_text_content": true,
+        "text_content_length": 5021
+      }
+    },
+    "1469084961": {
+      "wikidot_id": "1469084961",
+      "page_name": "yidan-word-ladders",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469084961",
+        "page_name": "yidan-word-ladders",
+        "url": "https://scp-jp.wikidot.com/yidan-word-ladders",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "Tale",
+        "article_title": "ことばの梯子、マジカルチェンジ",
+        "subtitle": null,
+        "authors": [
+          "wavekey"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-08-01T14:45:05.000Z",
+        "created_at_jst": "2026-08-01T23:45:05+09:00",
+        "created_by": "wavekey",
+        "content_warnings": [],
+        "summary_basis": "注: JavaScriptを使用しています。うまく表示されない場合はリロードしてください。",
+        "summary_basis_type": "opening",
+        "tags": [
+          "jp",
+          "tale",
+          "依談",
+          "削除通知"
+        ],
+        "rating": -8,
+        "vote_count": 56,
+        "revision_count": 2,
+        "comment_count": 6,
+        "content_hash": "sha256:8ec6c21301018c69389bf178138d3c0f8399711f926fd3422f86e0e647ccf017",
+        "has_text_content": true,
+        "text_content_length": 118
+      }
+    },
+    "1469084651": {
+      "wikidot_id": "1469084651",
+      "page_name": "rotation",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469084651",
+        "page_name": "rotation",
+        "url": "https://scp-jp.wikidot.com/rotation",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "Tale",
+        "article_title": "訓廻",
+        "subtitle": null,
+        "authors": [
+          "salt-A"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-08-01T13:00:46.000Z",
+        "created_at_jst": "2026-08-01T22:00:46+09:00",
+        "created_by": "salt-A",
+        "content_warnings": [],
+        "summary_basis": "ROTATION\n\n“\nスシは回転しがちなもので、絶対スシは絶対に回転するものだ。\n\nエピソード I\n回転試行\n\nエピソードを閲覧\n\nエピソード II\nカマス理論\n\nエピソードを閲覧\n\nエピソード III\n超越鱏知\n\nエピソードを閲覧\n\nエピソード IV\n第八貝\n\nエピソードを閲覧\n\n幕間\nブラックバス\n\nエピソードを閲覧\n\nエピソード V\n実存的御客\n\nエピソードを閲覧\n\n幕間\n部位分割\n\nエピソードを閲覧\n\n訓廻（ROTATION）は合作によるスシの盛り合わせだ。これは、倨傲かつ完全な全体主義たる闇寿司が、そのネタの名のもとに、その傲慢なる組織の精神酢飯漬けのもとに、スシ能わざるをスし、醤油能わざるを醤油する試みを描く。\n\nこのシリーズは主にスシブレードカノンから分岐したタイムラインで展開される。キャラクター、闇寿司ファイル、他の要素は元の設定を完全に順守することなく舞台から借用され得る。",
+        "summary_basis_type": "opening",
+        "tags": [
+          "jp",
+          "tale",
+          "ジョーク",
+          "スシブレード",
+          "深淵目録",
+          "闇寿司"
+        ],
+        "rating": 24,
+        "vote_count": 60,
+        "revision_count": 4,
+        "comment_count": 6,
+        "content_hash": "sha256:999b94132ebe5677905ea4fb88f59446b9cd3cdda8b9cfcac84f6a5ae9a37146",
+        "has_text_content": true,
+        "text_content_length": 698
+      }
+    },
+    "1469084610": {
+      "wikidot_id": "1469084610",
+      "page_name": "scp-032-th",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469084610",
+        "page_name": "scp-032-th",
+        "url": "https://scp-jp.wikidot.com/scp-032-th",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_translation_year",
+          "credit_original_title"
+        ],
+        "source_branch": "TH",
+        "source_branch_basis": "tag",
+        "genre": "SCP報告書",
+        "article_title": "SCP-032-TH",
+        "subtitle": "仏法オンライン",
+        "authors": [],
+        "original_title": "SCP-032-TH ธรรมะออนไลน์",
+        "original_url": null,
+        "original_authors": [
+          "Guy777"
+        ],
+        "original_year": null,
+        "translation_year": "2026",
+        "translation_responsible": [
+          "Ring Ray"
+        ],
+        "translators": [
+          "Ring Ray"
+        ],
+        "created_at_utc": "2026-08-01T12:52:19.000Z",
+        "created_at_jst": "2026-08-01T21:52:19+09:00",
+        "created_by": "Ring Ray",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-032-THは、仏教系ウェブサイトを模したウェブページであり、そのURLは[データ削除]です。1SCP-032-THのページは、常時少なくとも5名の閲覧者を維持しなければならず、それを下回った場合、URLは再度変更されます。当該ページは単一の画面から成り、編集された映像が再生されます。その映像には、燃える土着の祠、2及びタイ語で緩やかにスクロールする「仏法箴言」3の文言が映り込んでいます。\nSCP-032-THの異常効果は不規則に、かつ長期間（最大24日）の曝露を経て発現します。影響を受けた対象者は、SCP-032-THに曝露されている間に、視覚・聴覚・発話能力・運動能力を徐々に完全に喪失し、その機序は現時点では解明されていません。その後、対象者の全身の毛孔から大量の濃褐色液が分泌され、座面を浸します。この液体は人体の脂質と同様の成分であることが判明しています。対象者がSCP-032-THから離脱できない場合、2時間以内に死亡し、同時に原因不明の発火現象により遺体は完全に焼失します。\nただし、近傍の者が対象者をモニターの前から移動させることは可能ですが、その場合、対象者の視覚・聴覚・発話能力は回復しません。\n\n補遺-1:SCP-032-THの映像内に表示される仏法箴言は以下の通りです。4\n\nผู้ที่โศกเศร้า ถึงผู้ที่จากไป亡き人を悼むは、\nเปรียบเสมือน เด็กร้องไห้稚児の哭くに似たり。\nที่ขอพระจันทร์ ในอากาศ天を望みて月を索む。\nผู้ที่ตายไปแล้ว ถูกเผา死して焚かるる者は、\nย่อมไม่รู้ถึง ญาติที่คร่ำครวญหา親の歎きを聴かず。\nฉะนั้น故に\nข้าพเจ้าจึงไม่เศร้าโศก…吾は哀哭せず……\nเมื่อเขาไปแล้วตามวิถีของเขา その道に赴きし時。\n\nFootnotes\n1. このURLは遮断が不可能です。遮断を試みた場合、URLは自動的に変更され、新たなURLの特定に多くの時間を要します。\n2. 訳注：「ศาลพระภูมิ（サーン・プラ・プーム）」は、タイの土地神を祀る小型の祠のことです。家庭や施設の敷地内に設置されることが多く、タイ文化において極めて一般的な宗教的建造物です。\n3. 訳注：「仏法箴言คติธรรม」，「คติธรรม（カティ・タム）」は、仏教の教義や格言を指す複合語で、長編経典ではなく、簡潔な訓戒や警句を意味します。本記事では「仏法箴言」と訳します。\n4. 訳注：この箴言は、生者の哀悼を「月を求める幼子」に例え、執着の無益さを説くものです。仏教の無常・無我・離執の思想に基づく死生観を表しています。",
+        "summary_basis_type": "description",
+        "tags": [
+          "keter",
+          "scp",
+          "th",
+          "オンライン",
+          "コンピュータ",
+          "変身",
+          "宗教",
+          "時間",
+          "未収容",
+          "炎",
+          "視覚",
+          "記憶媒体"
+        ],
+        "rating": -2,
+        "vote_count": 4,
+        "revision_count": 6,
+        "comment_count": 8,
+        "content_hash": "sha256:10a9263b016e22e5fe1f1bb4c4cfc6f5dadc39cbbc6e8aa0a1f524c86de567e6",
+        "has_text_content": true,
+        "text_content_length": 1753
+      }
+    },
+    "1469084447": {
+      "wikidot_id": "1469084447",
+      "page_name": "scp-cn-4477",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469084447",
+        "page_name": "scp-cn-4477",
+        "url": "https://scp-jp.wikidot.com/scp-cn-4477",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_translation_year",
+          "credit_original_title"
+        ],
+        "source_branch": "CN",
+        "source_branch_basis": "tag",
+        "genre": "SCP報告書",
+        "article_title": "SCP-CN-4477",
+        "subtitle": "戦術求解部門と8体のクイーン",
+        "authors": [],
+        "original_title": "SCP-CN-4477 - 战术求解部门与八位皇后",
+        "original_url": null,
+        "original_authors": [
+          "NiaGba"
+        ],
+        "original_year": "2026",
+        "translation_year": "2026",
+        "translation_responsible": [
+          "poshirona"
+        ],
+        "translators": [
+          "poshirona"
+        ],
+        "created_at_utc": "2026-08-01T11:47:41.000Z",
+        "created_at_jst": "2026-08-01T20:47:41+09:00",
+        "created_by": "poshirona",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-CN-4477-Aは、2036/5/8にSCP-CN-4477-Bから基底現実へ降臨したと推定される、8体の最上級多能性実体の総称です(それぞれ-1から-8までの枝番号に指定)。外見上、8体の実体はそれぞれ体格が異なっています。その顔面および声音には認知災害特性があり、曝露した者は即座かつ強制的にSCP-CN-4477-Aを追従して移動するようになります。そのため、現在に至るまでSCP-CN-4477-Aの顔面については詳細が判明していません。現在までに得られている後方から行われた観測記録を総合すると、その外見は「頭部に王冠状の器官を有し、四肢の一部が欠損しており、湾曲した鎌を携え、背中に六枚の翼を備え、浮遊しながら移動する」と要約されます。さらに観測の結果、SCP-CN-4477-Aの認知災害は、人間だけでなく、ゴキブリ、ゴイサギ、イルカなど様々な生物にも同様に有効であることが判明しています。\nSCP-CN-4477-Aは、-1および-4を除き極めて低速で移動します。しかしこの2体のみは最大で約マッハ0.6に達する高速移動が可能であり、これら2体の認知災害を受けた生物は事実上その時点で喪失したものと見なされます。またこの移動速度の差を理由として、-1、-4のみが他の5体の実体と接触できます。通常のSCP-CN-4477-Aはほとんど発声しませんが、2体のSCP-CN-4477-Aが接触した場合においては未知の言語によって会話を行っているよう観察されます。この際には、その周辺の広範囲に存在する人間が認知災害の影響を受けます。\n2036/5/8 16:36、アキヴァ放射の観測において8か所2で同時に巨大な変動が検出されました。同時に、正体不明の人型実体が出現したという報告が複数確認されました。8体のうち、人里離れた地域へ降臨した2体を除く6体は、出現するとそれぞれの地域で大規模な混乱を引き起こしました。実体本体の影響と、実体の映像がインターネット上で拡散されたことによって生じた連鎖的な影響により、その後の18分で人類のおよそ20％が失われました。実体が部分的な認知災害を有していること、および既存の手段では実体に有効な損傷を与えられないことが確認されたため、O5評議会の緊急会議において、賛成4票・反対2票・棄権1票で存続プロトコル4477.01が可決されました。当該プロトコルの内容は、ヴェールの放棄と、全財団サイトの開放による生存した人類の避難でした。\n2036/5/10 12:00の時点で、およそ6億人が各地の財団サイトとアノマリーにより緊急拡張された避難施設へ避難しました。各施設では監視塔を除き、外部との物理的・通信的な接続がすべて遮断されています。この時点で、新たな避難者が各サイトへ到着することがほとんどなくなっていたため、財団は、SCP-CN-4477-Aによって少なくとも人類の90％が失われたものと判断しました。\nSCP-CN-4477-Bは、多元宇宙MV4477に対する指定です。現在得られている痕跡は、SCP-CN-4477-AがSCP-CN-4477-Bを起源としていることを示しています。\n2036/5/10 12:00、サイト-CN-██内の休憩室において異常な奇跡術波動が検知されました。その後、職員は同地点でSCP-CN-4477-Cおよび以下の1通の書簡を発見しました。\n\n名も知らぬ兄弟へ。\n我らが『八女王聖典』の予言のとおり、邪神が我らの世界へ降臨しました。聖典の指示に従い、代々受け継がれてきた儀式を執り行うと、8人の女王が外宇宙より現れて邪神を打ち払いました。しかし、女王たちは決して我らの同胞ではなく、その聖なる声に曝された者はみな狂気へと陥ってしまいました。ほどなくして女王たちは、無数の人々を集め自らの後を行進させました。そこで我らは、聖典の記すところに従い、聖器の力を借りて女王を封印しようとしました。しかし、聖器を長き封から開いたとき、我らは女王たちに抗うことが不可能であると悟ったのです。我らに残された策は、他の兄弟たちに我らの苦難を肩代わりしてもらうことのみでした。\nこれは決して我らの本意ではなく、もちろん兄弟にこのような苦難を背負うことを求める立場にもありません。そのため、我らが教会に残され…",
+        "summary_basis_type": "description",
+        "tags": [
+          "cn",
+          "k-クラスシナリオ",
+          "neutralized",
+          "scp",
+          "コウプスコウパス",
+          "戦術求解部門"
+        ],
+        "rating": 9,
+        "vote_count": 13,
+        "revision_count": 4,
+        "comment_count": 3,
+        "content_hash": "sha256:e3135a3031ead8975fb8121f0ffdfcc00d4fcea2d968000850a7dbf69386c5a4",
+        "has_text_content": true,
+        "text_content_length": 7959
+      }
+    },
+    "1469084183": {
+      "wikidot_id": "1469084183",
+      "page_name": "utaki-01",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469084183",
+        "page_name": "utaki-01",
+        "url": "https://scp-jp.wikidot.com/utaki-01",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "Tale",
+        "article_title": "御嶽に喰む - 01. 喧騒序説",
+        "subtitle": null,
+        "authors": [
+          "Fireflyer＆kihaku＆rokurouru＆v vetman"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-08-01T10:02:08.000Z",
+        "created_at_jst": "2026-08-01T19:02:08+09:00",
+        "created_by": "Fireflyer",
+        "content_warnings": [],
+        "summary_basis": "u-splash-off-sidebar\n\n日本列島における蛇の手活動の基盤は、若き青大将と良き協力者らによって築かれた。\nしかして未だ彼の地に蛇は在らず。 — AO\n\n梅雨明け最初の日差しにオールバックを焦がされ、ため息交じりに顔を上げる。那覇の喧噪が馬鹿みたいに広がっていた。\n空港を出て2歩目のことである。凡そ一月後に夏休みシーズンを控えながらこの有様だ。道々を蠢く多様の人、人、人。そして俺。この場にいる誰よりもこの地を愛し難い俺が1人。数秒も立ち止まることを許さない混雑に紛れて市街に零れ落ちる。\n\n「クソ！」\n\n小さく悪態づいた。正常性維持機関の工作員には現状引っ掛かっていない。仮に羽田からこの地に至るまでのルートを事前に捕捉されていたとしても今からこちらを捕えるメリットは一切無いと信じ、残り少ない空席タクシーのケツを小走りで追いかける。豊見城とみぐすく市までは約5.8km程。1時間歩いてやってもいいが何にしろ車を使う事を覚えないとこの地では生きてはいけない。電車を知らん土地、沖縄。拗れた歴史と文化の終着点たる土地、沖縄。\n国頭くにがみ 改かい。御年25歳にして生まれ育った離島に蜻蛉返りする羽目になった世知辛い青年の名。あるいは俺の名だ。\n\n「高嶺までお願いします」\n「あい。お兄さん観光ですかぁ」\n「仕事です。腹立たしい事に帰省も兼ねてます」\n「あぁ帰ってきたんですねぇ。いい所ですよ豊見城は」\n\n滑り込みで捕まえたタクシーの運転手との雑談を緩やかに躱しながら後部座席に座る。動き出す車体と流れる視界。心地いい揺れと無言の最中、耳鳴りの様に幽かな残響が語りかけてくる。\n\n\"理由と結果の逆転。それを恐れるなよ、カイ\"\n\n声。車内の効きすぎた冷房とは類の違う、冬の朝の様な冷たい声。振り払う様に首を振る。すると、運転手は何かを察した素振りでクーラーの温度を2度下げた。何も察せちゃいない。\n\nアオと名乗るその女性と出会ってから凡そ1年。トラックでの逃走劇からは、今日で372日目だ。あの日、現存のどの超常勢力も復旧・解明が出来ず珍妙なガラクタと化していた負号部隊の超常通信装置を、ヴェールの内側にすらいなかったサラリーマンが半ば偶然復旧させた日。その台風の目の当事者こそが俺であり、そんな俺を財団に探知され囲われるギリギリで拾い上げたのがアオだった。\n\n\"腹が決まったと？\"\n\"撤回するつもりは無いです。俺も今日からアンタら側の人間だ\"\n\n降り掛かった状況全てに挑む啖呵を切って、晴れて俺は「青大将の協力者」という立ち位置でアオから依頼を受ける事になった。それは「アオの背中を追うひよっ子の\"手\"」として、混沌の中を生き抜くための研修も兼ねたものだ。\n\n全国に眠る、負号部隊の通信装置の復旧。\n\nそこから先は早かった。まず青大将の面々、特にアオやデッカーの旦那に超常社会で生き抜くことの何たるかをこの身を以て叩き込まれた。放浪者の図書館にお邪魔して見聞を集め、実際に俺一人で実地に足を運んで装置の復旧に駆け回った。\n超常社会はノールールの荒野じゃない。自己中心的なルールが乱立し飛び交うスクランブル交差点だ。それらを素早く察知して乗りこなさなければ、いとも簡単に死ねる。何の能力も持たず飛び込んだだけの俺がどうにか依頼をこなすには、相応の根性と冴えさせた山勘、一握りの運が必要不可欠だった。\n超常を持たなければナメられる。情報を知らなければ騙される。汎ゆる手段で抗わなければ貪られる。\n北海道ではGOCのエージェントに探知されかけ、危機一髪の隠れんぼを演じた。屋島の山奥では化け狸共とレスバして説き伏せた。忍び込んだ穴蔵では抗争に巻き込まれ、野良のフリーランス共々監禁されるところだった。全てをこの身一つで切り抜けてきた。\nそうして1年。1年だ。\"たった1年\"なのか\"1年でようやく\"なのかは分からない。ともかく1年かけて全国津々浦々のクソ装置を直して直して直しまくった結果、最終的に残った装置未復旧の地は沖縄諸島を残すのみとなった。\n\n「なあ、カイ」\n\nだから、本来はこの沖縄で俺の仕事は終わるはずだった。\n\n「なんですか」\n「これから沖縄に向かうんだろう？」\n「そうっスね。何か伝達事項でもある感じですか」\n「沖縄の地で臨時首領やってくれないか？」\n\nひたすらに足掻いた俺へ…",
+        "summary_basis_type": "opening",
+        "tags": [
+          "jp",
+          "tale",
+          "共著",
+          "青大将"
+        ],
+        "rating": 34,
+        "vote_count": 34,
+        "revision_count": 3,
+        "comment_count": 1,
+        "content_hash": "sha256:1cca6c82436fecd4f197410dffd6df0e12bfa0e15821c54a928f30abf5000267",
+        "has_text_content": true,
+        "text_content_length": 27560
+      }
+    },
+    "1469083831": {
+      "wikidot_id": "1469083831",
+      "page_name": "sfdv-commentary",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469083831",
+        "page_name": "sfdv-commentary",
+        "url": "https://scp-jp.wikidot.com/sfdv-commentary",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_translation_year",
+          "credit_original_title",
+          "credit_original_url"
+        ],
+        "source_branch": "EN",
+        "source_branch_basis": "original_url",
+        "genre": "エッセイ",
+        "article_title": "マイナス評価のテンプレートへの注釈書",
+        "subtitle": null,
+        "authors": [],
+        "original_title": "Commentary on the Standard Form for Downvotes",
+        "original_url": "https://scp-wiki.wikidot.com/sfdv-commentary",
+        "original_authors": [
+          "Communism will win"
+        ],
+        "original_year": "2026",
+        "translation_year": "2026",
+        "translation_responsible": [
+          "Tetsu1"
+        ],
+        "translators": [
+          "Tetsu1"
+        ],
+        "created_at_utc": "2026-08-01T08:39:02.000Z",
+        "created_at_jst": "2026-08-01T17:39:02+09:00",
+        "created_by": "Tetsu1",
+        "content_warnings": [],
+        "summary_basis": "2009年、すでにやり尽くされたコンセプトのリストが投稿されました。これはとりわけ構成がしっかりしていたり有用であったりしたリストということもなく（サイトの必読から削除されて遡及的に「ジョーク」タグを与えられたという不名誉な記録があります）、わずか3年にしてユーザーeric_hがやり尽くされたこととあなた：教育映画を投稿し、最大限そのページから価値を引き出そうとしました。\neric_hが「やり尽くされたこととあなた」を投稿してから数ヶ月後、彼はマイナス評価のテンプレートを投稿しました。これは、SCPが一般にDVを受ける事柄を皮肉を込めて列挙することに取り組んだものでした。これは「やり尽くされたコンセプトのリスト」よりもずっと良く、遥かに受け入れられました（2013年に追加された内容含め）が、執筆時点で14年経っているため、少々古臭くなっています。\nそこで、「やり尽くされたこととあなた」が「やり尽くされたコンセプトのリスト」に対し担っているのと同じように、このページが「マイナス評価のテンプレートStandard Form For Downvotes」（略してSFDV）の補足として機能することを願います。10年の後知恵と比類なき知性を活かし、SFDVに記載されている全ての背景情報と注釈を提供していきます。\n注意点として、リストの一部は同意できないところもありますが、これは一切eric_hをコケにする意図を持ったものではありません — SFDVは善意から書かれたものであり、これほど真剣に受け止められるつもりで書かれたものでもありません。\n\n[ ] お前はスペルチェックを忘れている\n[ ] お前は校正し忘れてる\n[ ] お前は『SCP記事の作成ガイド』を読んでいないか無視している\n[ ] お前はメインサイトに未完成のSCPを投稿した\n[ ] フォーマットが不適切だ\n[ ] お前は助詞の使い方を理解してない\n[ ] お前が英語の書き方を理解してるのか不安だ\n\nこれらは時期尚早に投稿したときに起こる問題です — つまりまだ記事を料理すべき段階か、著者がまだ勉強を続けておくべき段階か。恥じることはありません、準備ができたら改めて挑戦しましょう。\n\n[ ] クリニカルトーンが深刻に不足している\n\n2015年に遡ってみると、記事の標準的な表現方法から逸脱した記事に関して、皆今よりもずっと神経質でした。SCPとはアノマリーとその収容方法について財団が作成した文書であり、クリニカルトーンからの大きな逸脱は誤りと考えられていました。また、SCPとTaleとの間には明確な境界線を設けるべきとの意見が大部分を占めていました。\nもちろん、クリニカルトーンでSCPを書こうとして失敗した場合、それは今でもDVの要因となりえます。とはいえ最近では、意図的にクリニカルトーンを無視した記事は広く受け入れられるようになっています。\n\n[ ] お前はサメ殴りセンターに投稿するつもりだった記事を間違えてここに投稿してるようだ\n\nかつて、「サメ殴りセンター」が正式な要注意団体となる前から、SCPをSPCと誤記することのジョークが広まっていました。SFDVが言っているのはこういうことです — 「お前は校正を忘れている」の一種です。一般的に言えば、小さな誤字が1つか2つあったところでDVの要因にはなりませんが、これほど有名な誤字があるということは急いで執筆されたことを示し、それはまた別の致命的な問題の要因となりえます。\n\n[ ] 自分で自分にプラス評価をするのは不作法だ。やるなよ\n\n実際かつてはそうだったのですが、ルールが変わって今では誰でも自分でUVすることが可能になりました。とはいえ、記事の内容以外の理由でDVするのは私の記憶にある限りずっとルール違反だったはずですが、自演UVを打ち消すためだけにDVするというのは…… 例外として認められていたんでしょうか？？？ 初期のサイトはそんな感じに適当だったので、基本何でも許していました。自演UV以外はね。\n\n[ ] そのネタをフォーラムに投稿していれば、20人は投稿をやめろとアドバイスしてくれただろうに\n\n最近では、どんなアイデアでも圧倒的に不適切と判断されることはよっぽどありません — 主な例外は、偏見に満ちたもの、過剰に無神経なもの、ブライト博士が関わるものです。もしあなたのアイデアが単純に愚かだったり、調理不足だったり、ミーム臭いだけだったなら、皆は足蹴にするよりも改善するよう応援してくれる可能性の方が高いでしょう。\n\n[ ] その下書きを自分のサンドボックスに投稿していれば、20人はメインサイトに投稿するなと教えてくれただろうに\n\nこれは一つ前で述べたことに加え、「これは全くの駄作だ」とか「これはうちでやってるようなものじゃない」とかの一般的な考えも含まれます。こんな感じに。\n\n[ ] お前のSCPはSCP-___とかぶってるし、あっちよりつまらない\n\n余程有名なSCPとかでもない限り、もう誰もそんなこと気にしません。サイトにはあきれ返るほどのコンテンツがあり、ほとんどの人はそのほんの一角しか知らないので、シリーズ6の適当な+50の記事と同じ領域に立っているからといって文句をつけるのは馬鹿らしく感じます。\n\n[ ] お前のSCPは___のパクリだろう\n\n今でもこれについては気にされていますが、偶然に起きてしまうことはよっぽどあり得ないので、誠実に行動している限り心配することはありません。\n\n[ ] お前のSCPは使い回されたネタon the Cliche Listだし、過去のものを超えてない\n\n誰ももうやり尽くされたことのリストなんか気にしてません。\n\n[ ] そのD&Dのモンスターorアーティファクトor…",
+        "summary_basis_type": "opening",
+        "tags": [
+          "en",
+          "エッセイ"
+        ],
+        "rating": 30,
+        "vote_count": 32,
+        "revision_count": 2,
+        "comment_count": 3,
+        "content_hash": "sha256:16987aa20282637d90242208688cf2d2dea45082aa595a556291ae830a228afe",
+        "has_text_content": true,
+        "text_content_length": 11017
+      }
+    },
+    "1469083776": {
+      "wikidot_id": "1469083776",
+      "page_name": "scp-4330-jp",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469083776",
+        "page_name": "scp-4330-jp",
+        "url": "https://scp-jp.wikidot.com/scp-4330-jp",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "SCP報告書",
+        "article_title": "SCP-4330-JP",
+        "subtitle": "魔女の血筋",
+        "authors": [
+          "22_ SZK_47"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-08-01T08:23:47.000Z",
+        "created_at_jst": "2026-08-01T17:23:47+09:00",
+        "created_by": "22_ SZK_47",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-4330-JPは21歳のアメリカ系日本人女性のレック･オカザキ氏です。SCP-4330-JPは掃除用具に接触することで掃除用具を浮上させ、騎乗ないしは保有し続けることで飛行することが可能です。飛行中のSCP-4330-JPは一部例外を除き、外部からの干渉や空気抵抗、気温や気圧の変化の影響を無視して飛行し続けることが可能です。\n\nSCP-4330-JPは2026/5/30に静岡県浜松市中央区の上空を飛行している所を目撃した複数の民間人の通報により確認、収容されました。目撃者にはカバーストーリー「無許可のアドバルーン」を流布しました。\n\nSCP-4330-JPの飛行高度、速度、連続時間は掃除用具ごとに異なります。以下はSCP-4330-JPによる掃除用具毎の飛行形態の一覧です。最大連続時間は通常速度による高度1mでの飛行によって測定され、最高高度が1mに満たない場合はその時点での最高高度で測定しました。詳細な実験記録の閲覧に際しては大村博士に申請してください。\n\n掃除用具\n最高高度\n最高速度\n通常速度\n最大連続時間\n付記\n\n竹箒\n200 m\n40 km/h\n20 km/h\n2時間\n\n化繊箒\n120 m\n120 km/h\n40 km/h\n4時間\n\n自在箒\n60 m\n60 km/h\n20 km/h\n9時間\n旋回の際に一旦停止する\n\nフロアワイパー\n200~30 m\n60~20 km/h\n30~10 km/h\n6時間\nウェットシートの乾燥に応じて2時間かけて全ての値が徐々に低下、乾燥後は一定の値を示した\n\nウェットシート\n10~0 m\n20~0 km/h\n5~0 km/h\n2時間\n乾燥に応じて全ての値が徐々に低下\n\nカーペットローラー\n10 m\n15 km/h\n5 km/h\n1時間\n遠心力などによって粘着ロールが外れると飛行継続が不可能になる\n\nティッシュペーパー\n5 m\n3 km/h\n1 km/h\n7分/枚\n7分ごとに1枚ずつ自壊、複数枚を所持することで最大連続時間の延長が可能\n\n雑巾、布巾\n720 m\n風速に伴い変化\n42時間\n制御不能であり、風に流される形で飛行する\n\n手袋\n60 m\n80 km/h\n20 km/h\n6時間\n踏む、握る、手に着用、足に着用のいずれも同様の結果が得られた\n\nバケツ\n60 m\n40 km/h\n20 km/h\n1時間\n常時回転しているため実質的に制御不能\n\nタライ\n120 m\n20 km/h\n10 km/h\n2時間\n下降の際一旦停止し、目標高度まで自由落下する\n\nハタキ\n60 m\n20 km/h\n10 km/h\n2時間\n\nちりとり\n120 m\n0 km/h\n4時間\nその場で浮き上がるのみ、回転も不可\n\nキャニスター型掃除機\n2 m\n120 km/h\n60 km/h\n8時間\n電源に接続した時のみ飛行可能\n\nスティック型掃除機\n45 m\n120 km/h\n30 km/h\n3時間\n飛行時間に応じてバッテリーが消費された\n\nロボット掃除機\n0 m\n2 km/h\n1 km/h\n2時間\n飛行時間に応じてバッテリーが消費された\n\nたわし\n60 90 m\n80 5 km/h\n20 5 km/h\n6 12時間\n初回実験は手指保護の為の手袋の飛行結果であったため訂正\n\n石鹸\n60 m\n120 km/h\n40 km/h\n付記参照\n壁面に衝突するまで直線的に飛行、衝突と同時に飛行が終了する\n\nスプレー洗剤\n20 m\n60 km/h\n20 km/h\n付記参照\n飛行中は内部の洗剤を噴射し続け、枯渇すると飛行が終了する\n\nメラミンスポンジ\n600 m\n40 km/h\n20 km/h\n30分\n30分経過時点で飛行に用いている全てのメラミンスポンジが自壊\n\n高圧洗浄機\n200 m\n320 km/h\n320 km/h\n2秒\n制御不能\n\nインタビュー記録SCP-4330-JP: 以下はSCP-4330-JP収容初期に行われたインタビュー記録の文字起こしです。\n\n[記録開始]\n\n加尾研究員: ではあなたが何故浜松市上空を飛行していたのかについて教えていただけますか。\n\nSCP-4330-JP: はい、といっても何から話したものか。私のこの力は祖母、ええと父方の祖母ですね、から教えて貰った魔法なんです。\n\n加尾研究員: 魔法、ですか。…",
+        "summary_basis_type": "description",
+        "tags": [
+          "euclid",
+          "jp",
+          "scp",
+          "人間型"
+        ],
+        "rating": 27,
+        "vote_count": 31,
+        "revision_count": 2,
+        "comment_count": 3,
+        "content_hash": "sha256:dfe69baf699660b02779a388cedd0b894690f4931d4df4534a4bd45f9190ca30",
+        "has_text_content": true,
+        "text_content_length": 3870
+      }
+    },
+    "1469083667": {
+      "wikidot_id": "1469083667",
+      "page_name": "scp-2342-jp",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469083667",
+        "page_name": "scp-2342-jp",
+        "url": "https://scp-jp.wikidot.com/scp-2342-jp",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "SCP報告書",
+        "article_title": "SCP-2342-JP",
+        "subtitle": "ミチシメシ",
+        "authors": [
+          "phlo-fro"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-08-01T08:00:37.000Z",
+        "created_at_jst": "2026-08-01T17:00:37+09:00",
+        "created_by": "phlo-fro",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-2342-JPは概ね一般的なナミハンミョウ(Cicindela japonica)です。個体数が1匹である以上、破壊耐性の測定等は行えていませんが発見から現在に至るまで衰弱の兆候を見せていません。後述の性質からSCP-2342-JPは言語を理解していると推定されます。\nSCP-2342-JPは201█/9/██に██山へキャンプに来ていた秋道エージェントが不審な平屋(以降はSCP-2342-JP-Aに指定)を発見した事により付近の捜索が行われ発見されました。秋道エージェントは先月も██山へキャンプに来ており当時はSCP-2342-JP-Aが存在していなかったと証言しています。\nSCP-2342-JPは対面した人物(以降は対象に指定)との相互認識が成立し、対象が同時進行不可能な選択肢を有していた際に異常性が発生します。当該状況が成立した場合SCP-2342-JPは非異常のナミハンミョウが有する性質のように近接すると飛んで1~2m程度逃亡し背後を振り返る行為を繰り返します。対象がSCP-2342-JPを追いかけた場合、近接と逃亡を6回繰り返した後に対象はSCP-2342-JPと共に消失します。消失した対象とSCP-2342-JPは概ね10分後に同地点へ出現します。\n対象が消失した際、対象に取り付けられていたGPS等の機器は通信途絶し再出現で通信復帰します。消失した対象が所持していたカメラ等は通常通り機能しており、その記録内容から対象は\"その時点で有していた選択肢の内1つを選んだ未来\"を俯瞰的に経験したと推定されます。記録内容は対象が有する記憶と一致していることからも当該の推定は妥当であると考えられています。\nまたSCP-2342-JPは再出現後の対象や選択肢を有していない対象に対してSCP-2342-JP-Aへの案内を行います。SCP-2342-JP-Aの出入口はSCP-2342-JPのみが開くことができます。ただしSCP-2342-JPに帰りたい旨の説明を行うことで自由にSCP-2342-JP-Aから退出することができます。案内された対象には██山に生息する小型昆虫類の死骸と██山に存在する沢の水が提供されます。提供物に異常は存在しません。SCP-2342-JP-Aからは要注意団体\"酩酊街\"からと思われる手紙が発見されています。当該の手紙を以下に示します。\n\n勤勉なこの子の友人様へ\n\nお元気ですか。\nこの子と友人になってくれたことを嬉しく思います。\nこの子は忘れられた街に辿り着いたにも関わらず誰かの手助けをしたいと苦心しておりました。\nしかし我々は既に酩酊へ沈んだ者。\nこの子の未だ尽きぬ思いを達することは出来ぬと感じ皆様に任せることにしました。\n願わくばこの子の道案内により皆様がより良い道を歩めますように。\n皆様が忘却に至るまでこの子と友人でありますように。\n\n酩酊街より　愛を込めて",
+        "summary_basis_type": "description",
+        "tags": [
+          "jp",
+          "safe",
+          "scp",
+          "昆虫",
+          "酩酊街"
+        ],
+        "rating": 0,
+        "vote_count": 14,
+        "revision_count": 1,
+        "comment_count": 2,
+        "content_hash": "sha256:d957efebfa7f64795705265d02f5ae9e39c7d9fbd258bc99261b8604af1f77e6",
+        "has_text_content": true,
+        "text_content_length": 2248
+      }
+    },
+    "1469082471": {
+      "wikidot_id": "1469082471",
+      "page_name": "black-white-gold-whiteagain",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469082471",
+        "page_name": "black-white-gold-whiteagain",
+        "url": "https://scp-jp.wikidot.com/black-white-gold-whiteagain",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "Tale",
+        "article_title": "黒、白、金、再び白",
+        "subtitle": null,
+        "authors": [
+          "fish_paste_slice"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-08-01T00:38:40.000Z",
+        "created_at_jst": "2026-08-01T09:38:40+09:00",
+        "created_by": "fish_paste_slice",
+        "content_warnings": [],
+        "summary_basis": "影女かげおんな\n\n鳥山石燕「今昔百鬼拾遺」より『影女』\n\nものゝけある家いへには月かげに女のかげ障子せうじなどにうつると云いふ。荘子さうじにも罔両もうりやうと景と問答せし事あり。景は人のかげ也。罔両は景のそばにある微陰うすかげなり。\n\n「死ねばいいのに。」\n耳元で、年配の男の声がした。振り返っても誰もいないと思ったら、今度はうなじに湿った息を吹きかけられた。うげー。\nあーもう、これで何回目?\nあたしがここにきてからは、こんなことばっかり起こる。怖いって気持ちはとっくに薄れて、今は面倒くさいって思うようになってきた。\n幽霊をスカウトしろって言われた時は、流石に冗談だと思った。でも、それはマジだった。\nこのサイト-81UOには何故か幽霊が集まって、多くは収容もされずに共存してるんだって。そしてあたしの任務は、そこにいる死者たちを財団職員にスカウトすることだった。実際、既にそこには幽霊の職員もいるし、死んだ後も“再雇用”された財団職員だっているんだという。でも、そんな幽霊職員はさすがにまだまだ少なくて、サイトの人手も足りないらしい。\nそういうわけで、定期的に幽霊をスカウトしているんだそうだ。\n幽霊が多いっていうから、来る前はもっと怖いところだって思ってたけど、そうでもなかった。\nたしかに、火の玉や頭蓋骨が飛んでいたり、気がつくと血まみれの人が傍に立っていたりして驚かされるけど、周りの人はほとんど反応しなくて、なんというか、ここではそれが“当たり前”なんだ。そう割り切ることにした。\nそして、あたしもいつも通り自分の仕事を始めた。\n正直なところ少し怖かったけど、まずは近くを通りかかった幽霊に声をかけてみた。若い男の幽霊で、何かブツブツ言ってたけど、無反応だった。無視された……んじゃないと思う。あたしのことが分かってないみたいだ。\n小柄なおっさんの幽霊に声を掛けたら、突然頭が血まみれになって、奇声を上げてあたしに向かってきた。ぶつかると思ったけど、おっさんはそのままあたしをすり抜けて後ろに走って行った。呆気にとられているとおっさんはUターンしてきたけど、近くにいた職員が追い払ってくれた。ああいう、悪さをする幽霊もいるらしい。マジすかー。\n階段を上っていたら、女の首吊り死体が上から降ってきて、目の前でブラブラ揺れて、そのまま上に戻っていった。何も言うヒマないし。首が長くてグロいし。何がしたいの?。\nずっとこんな調子で、スカウトは難航した。そもそもあたしのこと認識してなかったり、機械みたいに同じ動きをしたり、お化け屋敷みたいに脅かしてくる相手ばっかで、話ができる相手がなかなか見つからない。\n時々、話の通じる幽霊がいたと思っても、財団に誘うと嫌そうな顔をするし、色んな理由をつけて断られる。\n例えば、自分には力が足りないとか。例えば、死んだ後まで働きたくないとか。例えば、仲間の幽霊があたしらに収容されたとか。\nまー、こういう反応は、生きてる相手も同じなんだけどさ。\n声をかけた相手が“再雇用組”だったことも、一度ある。なんでまた財団に入ったのか聞いてみたら、心残りというか未練というか、やり残したことがあるみたい。機密に関わるとかで詳しくは聞けなかったけど。\nそりゃそうだよねー。あたしらみたいな仕事に、声をかけられてハイやりますって即答するやつの方が珍しい。\nみんな、いろんな事情とか体験とか、使命とか、それぞれ何かを抱えてこの道を選ぶんだもんね。\nでも、一度断られたって、何度も話すうちに相手の抱えてるものもわかったりするし、それを解決したり吐き出したりすることで、その人の選択肢が一つ増えることもある。\nそういったアレコレを聞き出すのもあたしの仕事だ。\n\n“影ちゃん”に気が付いたのは、幽霊に声をかけ続けて三日経った頃かな。\nその影はサイトの廊下の真っ白い壁にいて、着物を着た女の人の形をしていた。髪型は時代劇のように結ってある。\nたしか、初日に話しかけた幽霊の一人だ。その時は、話しかけたのにすぐに逃げられちゃったから気にしなかったけど、それがいつの間にか、あたしが廊下を通る度に少し離れて後をついてくるようになってた。あたしが立ち止まると影も止まるし、他の幽霊に話しかけてる間はこちらを向いてじっとしている。\n現れる場所は決まった壁で、廊下の曲がり角や床には映らない…",
+        "summary_basis_type": "opening",
+        "tags": [
+          "jp",
+          "tale",
+          "サイト-81uo"
+        ],
+        "rating": 16,
+        "vote_count": 18,
+        "revision_count": 2,
+        "comment_count": 3,
+        "content_hash": "sha256:a7127f0273efe70f359c818f5e8932dd5f08e9d15a41a6beda46e0ae28aa2b37",
+        "has_text_content": true,
+        "text_content_length": 37637
+      }
+    },
+    "1469082075": {
+      "wikidot_id": "1469082075",
+      "page_name": "scp-3474-jp",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469082075",
+        "page_name": "scp-3474-jp",
+        "url": "https://scp-jp.wikidot.com/scp-3474-jp",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "SCP報告書",
+        "article_title": "SCP-3474-JP",
+        "subtitle": "汚れを愛する者",
+        "authors": [
+          "kabayaki"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-07-31T21:41:59.000Z",
+        "created_at_jst": "2026-08-01T06:41:59+09:00",
+        "created_by": "kabayaki",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-3474-JPはサイト-81██内を徘徊していたクラスC霊的実体で、江戸時代に記録された『天井嘗』という妖怪に酷似した姿をしています。ただしサイト-81██内において天井を舐める姿は確認されなかったことから近縁種であるか、人間の居住環境の変化に伴い生態が変わったと推測されています。\n\nSCP-3474-JPと同種または近縁種と思われる生物が天井の汚れを除去している図\n\nSCP-3474-JPは実体化をしない不可視状態のままサイト内を徘徊します。その際に舌を用いて手すりやパソコンやスマホ画面、布類に付着した人間の皮脂、飲食物のシミ、小型昆虫の死骸、毛や埃などの汚染を舐め取り餌にしています。移動や摂食の際に唾液や体組織などの残留物は発生しません。\nSCP-3474-JP発生起源は不明ですが、サイト-81██においては財団フロント企業であるクリーニング業者を通じて入り込んだとの説が有力視されています。当該企業へのインタビューでは『衣類や工場内のひどい汚れがいつの間にかきれいになっていたことが度々あった』との証言が得られています。\nSCP-3474-JPはサイト-81██内において『職員の私物や共有エリアが不自然にきれいになっている』という報告が上がり始めたことから調査が開始されました。その後、ハルトマン霊体撮影機によって霊的実体が撮影されたことにより、正式にSCP-3474-JPとナンバリングされました。\n初期調査によりSCP-3474-JPは危険と思われる状況下において他の汚染箇所へ転移する能力があることが確認されています。なぜ汚染箇所なのかは分かっていません。また数度のコミュニケーションの試みは失敗。活動が摂食、安全ないし餌を求めての移動や転移、人間を避ける行為に限定されることから、SCP-3474-JP研究主任である北内博士はSCP-3474-JPをクラスC1相当と認定。北内博士による収容作戦が立案、承認され作戦が開始されました。\n収容作戦ログ3474-01 - 日付20██/██/██\n\n作戦概要: SCP-3474-JPが危険時に汚染に転移する性質を利用する。サイト-81██フロア（以下、作戦フロアと呼称）に餌となる汚染及びスラント霊素固着波生成器を設置。作戦時は機動部隊がSCP-3474-JPに近づき転移を誘発。作戦フロアへSCP-3474-JPを転移させることで確実な捕獲及び収容を行う。\nSCP-3474-JPがサイト外に転移する可能性については、メトカーフ非実体反射力場発生装置を効率的に配置することで阻止する。これにより不測の事態が起こった場合でも、SCP-3474-JPをサイト-81██内部に恒常的に封じ込めることが可能となる。\n結果: 失敗。SCP-3474-JPの作戦フロア部への転移は確認されず。他の汚染箇所に転移したと見られる。\n分析: 作戦フロア以外の汚染の根絶、すなわち清掃が不十分だったと思われる。\n北内博士によるメモ: 次回作戦時までに作戦フロア周辺の清掃を強化する。清掃の手が回らないエリアはメトカーフ非実体反射力場発生装置を設置する。\n作戦失敗は私のサイト-81██の評価に関わる大問題だ。各オフィスに自主清掃点検表の配布をして清掃を促す。\n\n収容作戦ログ3474-02 - 日付20██/██/██\n\n作戦概要: 収容作戦ログ3474-01と同。メトカーフ非実体反射力場発生装置の設置箇所を拡大することで作戦フロア以外への転移を阻害し、確実な誘導を試みる。\n結果: 失敗。SCP-3474-JPは作戦フロアから離れた研究エリアに転移。貴重な試料が多数損失する事案が発生した。\n分析: 研究用に保存されていたDNA試料や培養していた動植物組織等が、汚染と判定された可能性がある。また当該時刻、この研究エリアでは複数の職員が業務に当たっていたが、SCP-3474-JPは彼らを迂回しながら摂食活動を行なっていた。\n北内博士によるメモ: 飢えにより人の存在を以前より気にしなくなったのだろうか。またサイト管理官より通達あり。今後メトカーフ非実体反射力場発生装置は研究エリアなど、重要拠点に優先的に配備するようにとのこと。装置の数にも限りがあるからやむを得ない。\n清掃強化箇所をサイト81-██全体に拡大。清掃点検表を…",
+        "summary_basis_type": "description",
+        "tags": [
+          "euclid",
+          "jp",
+          "scp",
+          "削除通知"
+        ],
+        "rating": -12,
+        "vote_count": 14,
+        "revision_count": 2,
+        "comment_count": 2,
+        "content_hash": "sha256:2fa63f3402afd4f2ad7c7e2b795a48266fca2fb310f92b8f5d73173b7da94d2f",
+        "has_text_content": true,
+        "text_content_length": 5270
+      }
+    },
+    "1469081437": {
+      "wikidot_id": "1469081437",
+      "page_name": "ambrose-little-havana",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469081437",
+        "page_name": "ambrose-little-havana",
+        "url": "https://scp-jp.wikidot.com/ambrose-little-havana",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_translation_year",
+          "credit_original_title",
+          "credit_original_url"
+        ],
+        "source_branch": "EN",
+        "source_branch_basis": "original_url",
+        "genre": "GoIフォーマット",
+        "article_title": "アンブローズ・ペケーニャ・ハバナ",
+        "subtitle": null,
+        "authors": [],
+        "original_title": "Ambrose Little Havana",
+        "original_url": "https://scp-wiki.wikidot.com/ambrose-little-havana",
+        "original_authors": [
+          "Uncle Nicolini"
+        ],
+        "original_year": "2026",
+        "translation_year": "2026",
+        "translation_responsible": [
+          "C-Dives"
+        ],
+        "translators": [
+          "C-Dives"
+        ],
+        "created_at_utc": "2026-07-31T15:26:27.000Z",
+        "created_at_jst": "2026-08-01T00:26:27+09:00",
+        "created_by": "C-Dives",
+        "content_warnings": [],
+        "summary_basis": ".\n\nアンブローズ\n\nペケーニャ・\n\nハバナ\n\nペケーニャ・ハバナの新店舗レビュー\n文責： ベルナル・サントス\n12分で読了可。\n⭐⭐★★★ (美味しいですが、真の在り方とは違いました。)\n\nかの有名料理人、チャズ・アンブローズ氏がペケーニャ・ハバナの観光地区に7月26日に出店すると初めて耳にした時、正直に白状しますが、私は半信半疑でした。アンブローズ氏はオーギュスト・エスコフィエのような第一人者ではありません － 世界各地にある彼の系列レストランのどれか一つを選んで入店するだけで、すぐにそれと分かります。彼はどちらかと言えば料理界に生息するカメレオンでして、郷土料理を自分流にアレンジし、大衆向けの大量生産料理を志向する彼なりの凡庸な理念に合わせてねじ曲げてしまうのです。そして、アンブローズ氏が私の故郷であるネクサスに出店するにあたり、マーシャル・カーター&ダーク社と提携したことを知った時には、まるで喜びを感じませんでした。\nキューバという土地は、その歴史の始まりから飢餓に苛まれてきました。スペイン人到来以前からこの地に住んでいたタイノ族は、苛烈なハリケーンや予測不可能な天候に翻弄されながら、辛うじて生計を立てている農民でした。スペイン人はそこに奴隷制、自給自足農業、そして現地特産品に対する飽くなき食欲を持ち込みましたが、その特産品は － ええ、ご想像通り、奴隷制を通じて調達されました。\nこの苦難はキューバが独立を遂げた後にも続き、庶民は上層ブルジョワジーに支配され続け、遂には1959年の革命によって、フィデル・カストロがこの小さな島の権力を掌握するに至ったのです。社会主義の導入は、ほとんどの貿易から締め出され孤立するという独自の課題をもたらし、当然のことながら、島内の飢餓を更に深刻化させました。現代のキューバ人、少なくともその大半は、配給カードと、陸や海で採れるもので糊口をしのいでいます。\n即ち、キューバは空腹の何たるかを身に染みて知っているのです。では、アンティル諸島の真珠と謳われるこの島の料理を標榜する“高級”レストランは、果たしてどう位置づけられるのでしょう？\nさっそく見ていきましょうか。\n到着\n\n私が“カリブ海の宝石”ラ・ホヤ・デル・カリベ － ペケーニャ・ハバナ観光地区、プラタ山の麓に建つマーシャル・カーター&ダーク社運営の高級ホテル － に到着すると、給仕さんたちが出迎えてくれました。すぐに気づいたのが、彼らの優雅さと細部へのこだわりです。大多数のアンブローズ系列レストランでは、顔中ニキビだらけの十代の若者や、街頭で拾い集めたようなだらしない身なりの輩が雇われています。しかし、この店舗は違いました。あらゆるやり取りが非常に洗練され、計算し尽くされていたのです。この夜に私が受けた最初の衝撃でした。ひょっとすると、アンブローズ氏に何かしらの転機が訪れ、高級路線の運営維持に対する関心を深めたのかもしれません。あるいは単純に、資金提供者を務めるマーシャル・カーター&ダーク社が一切の妥協を許さないだけかもしれません。気になるところです。\nともあれ、親愛なる読者の皆さん、この店の接客態度は実に素晴らしかったと認めざるを得ません。入店した途端、まるで何年も顔を合わせていなかった旧友であるかのように、名前で迎えてくれました。テーブルへ案内された時の温かみは比類のないものでした。更に彼らは、私が食欲を刺激する一杯としてキューバ・リブレを飲みたがっているのを既に承知しており、これは控えめに言っても嬉しい驚きでした。\n私が知っている大抵のバーとは異なり、カクテルを調合してくれたミクソロジストは、敢えてライムを飲み物の中に入れず、代わりにグラスの縁に飾りとして添えて、私が自分で追加できるように配慮してくれました。\n\n私のキューバ・リブレ。\n\n未成年、アルコールに弱い、もしくは禁酒を実践している方々のために説明すると、キューバ・リブレとは、氷をたっぷり入れたハイボールグラスかコリンズグラスで作る、とても素朴なカクテルです。ラム酒1に対してコーラ2の割合で混ぜます。前述の通り、多くのバーでは客が自分でライムを絞るのを待たずに、あらかじめ新鮮なライムジュースを加えてしまうきらいがあり、私はそれを野蛮だと感じています。しかし、改めて申し上げますが、この店ではそんなことはありませんでした。\n席に案内してくれた給仕さんは親切にも、このレシピに使われているラム酒が、ペケーニャ・ハバナ随一の製糖工場 “砂糖の王様”エル・レイ・デル・アスカル から仕入れた糖蜜を原料としていることを教えてくれました。更に、そのラム酒はかつてバーボン熟成に使われた桜材の樽で8年間寝かせたものとのこと。コーラの方はそれほど印象的ではありませんでしたが、やはりペケーニャ・ハバナの地元業者がペケーニャ・ハバナ産の砂糖を使って製造していました。ペケーニャ・ハバナで栽培されるサトウキビは時として特異性を示す場合があり、給仕さんの話によると、エル・レイ・デル・アスカルでは糖蜜を混ぜなくとも糖蜜の味がするように工夫してサトウキビを育てているほか、虫歯を防ぐ異常性も付加されているそうです。アンブローズ氏にしては大変に異例なこだわりです － 彼は大抵、業務用食品業者のシスコから食材を…",
+        "summary_basis_type": "opening",
+        "tags": [
+          "en",
+          "goi-format",
+          "mc&d",
+          "アンブローズ・レストラン",
+          "ブラックダイヤモンド・ビリオンズ",
+          "ペケーニャ・ハバナ",
+          "_アンブローズ・レストラン"
+        ],
+        "rating": 12,
+        "vote_count": 12,
+        "revision_count": 1,
+        "comment_count": 1,
+        "content_hash": "sha256:f7db646a09a04261e2a4e4f2acb5b6d6206ee03cd62ff6a8b47343cc41c38b02",
+        "has_text_content": true,
+        "text_content_length": 6557
+      }
+    },
+    "1469081372": {
+      "wikidot_id": "1469081372",
+      "page_name": "utaki-00",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469081372",
+        "page_name": "utaki-00",
+        "url": "https://scp-jp.wikidot.com/utaki-00",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "Tale",
+        "article_title": "御嶽に喰む - 00. 最果ての継承",
+        "subtitle": null,
+        "authors": [
+          "Fireflyer＆kihaku＆rokurouru＆v vetman"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-07-31T15:00:05.000Z",
+        "created_at_jst": "2026-08-01T00:00:05+09:00",
+        "created_by": "kihaku",
+        "content_warnings": [],
+        "summary_basis": "u-splash-off-sidebar\n\n「ごめんなさいゲロ吐いていいですか」\n「吐いても構わんが俺の質問に答えろ。その装置をどこで手に入れた」\n「アキバのジャンク屋です。吐いていいですか」\n\nエンジンが止まる。運転席でハンドルを握るやけに圧の強い女は数秒ほど固まった後、短い所作でドアロックを解除した。その直後に一人の男が助手席から飛び出し、両膝に手を突いた姿勢で近場の茂みに一礼。会社の昼休憩で一気にかき込んだ山掛けそばを思い出しながら、似たような流体を撒き散らす。午後の九時だった。\n腹の下の不快感を一通り絞り出した後で、男は考える。例の運転手が一向に降車の意図を見せない不審さと、一方でここでフラっと逃走しようものなら間違いなく軽トラを駆り追いかけてくるであろう現状況についてだ。しばらく鑑みたあとで、ついに観念しながら車内へ帰還する。助手席に座っただけで先ほどの荒っぽい運転がフラッシュバックしてきた。\n\n「すみませんお待たせしました」\n「いい判断だ」\n「まだ走るんですか」\n「これでラストランだ。安心しろ」\n\n女がマニュアルのシフトレバーを掴むのを発車の合図だと見て、咄嗟にドア左上に付いたグリップを掴む。それと同時に先程まで視界に入らなかった宵闇が自身の目の中に飛び込んできた。\n男には自覚がある。自信だってある。今の今まで自分がこういった非日常とは無縁な「ただのサラリーマン」を真正面から演じてきた自信が。にも関わらずこの現状だ。\n仕事終わりの帰り道、八王子から突如軽トラックに連れ込まれて、ここまでどれくらいの距離を走ったのだろうか。わかることは二つ。己が乗るこの軽トラックが何者かに追われていることと──運転手の女は決して自分の味方ではなく、しかし敵でもないということ。電灯の明かりすら入らない山道を白い軽トラが駆ける。\n\n「それじゃあ本当に\"これ\"があいつらの目的だったってことですか？」\n「お前が乗車して以降3回目の肯定になるが、そういうことだ」\n「んなことを考えている暇が、この道で」\n「悪いとは思ってる。だが連中が看守であることを考えれば」\n「頭から爪先まで全編満遍なく意味分かんないッス」\n\nよろしい。と目の前のヘアピンカーブを一捌きすると、女は改まった様に背を伸ばして呟いた。\n\n「君にはこれから私達の話をすることになる」\n\n「──超常、蛇の手、青大将、正常性維持機関にヴェール政策……」\n「理解してもらえたか？」\n「一応は。マジで一応」\n\n「ここまで来たら一先ず大丈夫だろう」と軽トラを留めてから約20分。濁流の様に爆速で叩き付けられた、荒唐無稽ながらそれと一蹴するにはあまりにも危機一髪な情報と現状である。その全てになんとか折り合いをつけて、男はひとまず一番最初に思いついた適当な引き出しに話を突っ込んだ。\n\n「要するに貴女は、あー、\"青大将\"の……？」\n「アオでいい」\n「アオさん。何だったんですこの逃走劇は」\n「君を追っていたのは十中八九\"財団\"の尖兵だ。危うかったな」\n\nそれよりも、と一呼吸おいてアオと名乗る女は少し帽子のつばを押し上げる。洗濯機の中身が如くもみくちゃにされていたから、今初めてその目を拝んだ。車の内外に溢れかえる闇、更に言えば深々と被っているキャップ帽の落ち影の中にあってなお薄黄色を錯覚する輝きを帯びているような。何の捻りも無いたとえではあるが、爬虫類じみた切れ味がある。\n\n「君が今握りしめてるそれについての話が先だな。国頭改くにがみかい」\n\n\"それ\"。即ち己が片手に持っている古ぼけた装置の事である。さしずめ学生が模試や試験で使うICプレーヤーを120倍古くしたような、何ともトンチキな印象を放つ装置だ。本体下部にダイヤルと数個のボタンをこしらえ、恐らくは独学を頼りに自作したのであろう意図不明な電子基盤を少々露出している、縦長のスマートフォンを数枚重ねたようなボリュームの“何か”。\n\n「つまる所俺が突然首根っこ掴まれてこの暴走に巻き込まれた全ての原因はコイツだと」\n「あぁ」\n「……このガラクタが、原因だと？」\n「確かに君にも我々にもかの組織にもそいつは無用のガラクタだった。つい先日まではな」\n\n「修復したんだろう？その装置を、君が」\n\nこの装置と彼──国頭改の関係については暫し成り行きを語る必要がある。\n\n事の始まりは数…",
+        "summary_basis_type": "opening",
+        "tags": [
+          "jp",
+          "tale",
+          "共著",
+          "青大将"
+        ],
+        "rating": 46,
+        "vote_count": 52,
+        "revision_count": 7,
+        "comment_count": 2,
+        "content_hash": "sha256:235fd6fec593a514bf0238ad466cc8e226b7fee701d9fdc5b85b16d0c75f1fef",
+        "has_text_content": true,
+        "text_content_length": 6713
+      }
+    },
+    "1469081308": {
+      "wikidot_id": "1469081308",
+      "page_name": "scp-5649",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469081308",
+        "page_name": "scp-5649",
+        "url": "https://scp-jp.wikidot.com/scp-5649",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_translation_year",
+          "credit_original_title",
+          "credit_original_url"
+        ],
+        "source_branch": "EN",
+        "source_branch_basis": "original_url",
+        "genre": "SCP報告書",
+        "article_title": "SCP-5649",
+        "subtitle": "盲目なる忘却",
+        "authors": [],
+        "original_title": "SCP-5649 - Blind Oblivion",
+        "original_url": "https://scp-wiki.wikidot.com/scp-5649",
+        "original_authors": [
+          "ubergoober"
+        ],
+        "original_year": "2025",
+        "translation_year": "2026",
+        "translation_responsible": [
+          "radian462"
+        ],
+        "translators": [
+          "radian462"
+        ],
+        "created_at_utc": "2026-07-31T14:28:39.000Z",
+        "created_at_jst": "2026-07-31T23:28:39+09:00",
+        "created_by": "radian462",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-5649は、深宇宙のケンタウルス区域/██の内部に位置する非実体です。SCP-5649は重力質量による影響を及ぼしますが、それ以外の点では従来の手段で検出することは不可能です。SCP-5649は検出可能な光や粒子、放射線を放出しません。SCP-5649は不可視であり、触れることができず、慣性質量を有しません。収集されたデータの分析は、SCP-5649が存在論的に無であり、存在する能力の欠如そのものを体現していることを示しています。調査の結果、SCP-5649は再帰的知覚もつれを発生させる能力を有していることが示唆されました。 詳細は添付されている注記を参照してください。\nシステム障害前のNAV-Tのデータストリームの抜粋が添付されています。\nNAV-Tデータログ\n\n日付\nセンサーチャンネル\n測定値\nメモ\n\n1965\nLUM\n11,930 lx\nセクター█-███の星光レベルは正常。\n\n1966\nLUM\n4,019 lx\nセクターからの照度が66%低下。遮蔽物や宇宙塵雲は確認されていない。再較正は成功しなかった。\n\n1967\nLUM\n0 lx\n光が一切検出されなくなった。ケンタウルス座タウ星はもはや観測不可能である。星までの距離と光速の遅延を考慮すると、消滅は131年前に発生したとされる。データは複数の機器によって裏付けられている。\n\n1968\nMASS\n4.98 x 1032 kg\nセクター█-███にて、大質量星または中間質量ブラックホールと一致する、重力の存在を検出。可視光源なし。無実体の疑いがあり、深層スキャンが予定されている。\n\n1970\nTRK\nΔθ = +0.034°\nSCP-5649は進路を調整。これはNAV-Tが開始した大規模な軌道スキャンに続いて発生した。脅威レベルは黒●に指定された。\n\n1972\nRAD-MW\n0 K (全帯域)\nケンタウルス区域/██では、宇宙マイクロ波背景放射が検出不可能である。エリアは全ての電磁波を吸収しているように見える。\n\n1974\nTRK\nv = -0.595c\n太陽系通過予測: 89.2年後。軌道は非弾道的である。データから、アクティブセンサーがPingを送信するたびに、SCP-5649の進行ベクトルがわずかに変動していることが示された。パターン記録済み。\n\n2016\nASTRO\nセクターマップのチェックサムに失敗。\n影響領域内での星パターンの捕捉に失敗。保存された星図は劣化しており、ケンタウルス座イオタ星への参照はnullを返す。距離に基づけば、当該星は58.6年前に消失したと推測されている。オブジェクトは、それ以降大幅に接近している。この消滅は、NAV-Tのシステム改修に続いて発生したことが確認されている。\n\n2018\nSIGNAL\nRTT 遅延: +8.21s\n時空の歪みが確認された。レイテンシーの相違については現在調査中。\n\n2019\nCAM\n[添付画像を参照。]\n未解決。\n\n2020\nGRAV\n歪み半径: 0.62 AU\n検出された物体の重力場が約0.01AU/日の速度で拡大中。この重力曲率は一般相対性理論に反している。拡大率の急上昇は、NAV-Tによる広範囲なスキャンと相関関係にある。\n\n2020\nSYS-ALL\n8つの致命的なシステム障害。\nNAV-Tの機器に連鎖障害が発生。発生源はSCP-5649の座標と特定された。双方向観測の可能性については調査中。\n\n2021\nSIGNAL\n[データ破損]\nSignalモジュールは回復不能である。\n\n2022\nTRK\n加速度ベクトルの狂いを確認。速度(v)は-0.859cに調整された。\n更新された到達予測: 3.61年。オブジェクトはApollyonに再分類された。内部調査の結果、すべての観測を中止することが推奨された。提言は却下された。\n\n2024\nRLT\nヒュームフィールドが崩壊した。\n物理定数(G, c, ℏ)はnullを返す。SCP-5649は、既存存在の集合の外側にある。システムクエリ: \"define: existence\"は循環参照を返した。\n\n2025\nASTRO\nケンタウルス座アルファ星A・Bの突然の消滅\n数日後、プロキシマ・ケンタウリも同様に消滅。消滅が発生したのは約4.3年前。これらの恒星が存在…",
+        "summary_basis_type": "description",
+        "tags": [
+          "apollyon",
+          "classiccon2025",
+          "en",
+          "scp",
+          "地球外",
+          "観測",
+          "crom:series-6"
+        ],
+        "rating": -4,
+        "vote_count": 6,
+        "revision_count": 2,
+        "comment_count": 1,
+        "content_hash": "sha256:8814661f860168b4891a3dcd189daf1c3e620c0e89edfad012edd3e227574e57",
+        "has_text_content": true,
+        "text_content_length": 2446
+      }
+    },
+    "1469080796": {
+      "wikidot_id": "1469080796",
+      "page_name": "scp-4065-jp",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469080796",
+        "page_name": "scp-4065-jp",
+        "url": "https://scp-jp.wikidot.com/scp-4065-jp",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "SCP報告書",
+        "article_title": "SCP-4065-JP",
+        "subtitle": "黙進する神鎧",
+        "authors": [
+          "Lava_731"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-07-31T11:56:19.000Z",
+        "created_at_jst": "2026-07-31T20:56:19+09:00",
+        "created_by": "Lava_731",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-4065-JPは、常時歩行を継続する2体の実体です（以下、SCP-4065-JP-A、B。SCP-4065-JPと表記されている場合、この2体を示すもの）。その外見は白色の鎧であり、全身には金装飾が施されています。表面は風化、腐食により変色し、蔦や地衣類が付着しています。SCP-4065-JP-Bの胸部中心には金色の宝石が埋め込まれており、内部には正体不明の液体が入っています（以下、SCP-4065-JP-B-1）。\nSCP-4065-JPは、進路方向全体を覆う障害物がある場合、対象を一定時間物理接触が不可能な状態へ変化させます。この異常性により、このオブジェクトの収容は不可能と結論付けられています。\nSCP-4065-JPの歩行速度は時速約800mで、障害物等に接触しない様考慮されていると考えられています。SCP-4065-JP-A、Bは現時点で一度も900km以内に接近した事が無く、体長はA、B共通で約170cmです。SCP-4065-JP-Aの移動ルートは常に周辺地域の最高標高地点を経由する傾向にあり、山頂や展望台等の地点において平均██分間、頭部を水平に旋回させる動作が観測されます。",
+        "summary_basis_type": "description",
+        "tags": [
+          "apollyon",
+          "jp",
+          "scp",
+          "削除通知"
+        ],
+        "rating": -18,
+        "vote_count": 20,
+        "revision_count": 8,
+        "comment_count": 2,
+        "content_hash": "sha256:48a39357a860e8c4622f4001b5699e9f67960ec855ed18e3f66e2c9d0b518da7",
+        "has_text_content": true,
+        "text_content_length": 6780
+      }
+    },
+    "1469080787": {
+      "wikidot_id": "1469080787",
+      "page_name": "scp-l369",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469080787",
+        "page_name": "scp-l369",
+        "url": "https://scp-jp.wikidot.com/scp-l369",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_original_url"
+        ],
+        "source_branch": "EN",
+        "source_branch_basis": "original_url",
+        "genre": "SCP報告書",
+        "article_title": "SCP-L369",
+        "subtitle": null,
+        "authors": [],
+        "original_title": null,
+        "original_url": "https://scp-wiki.wikidot.com/scp-l369",
+        "original_authors": [
+          "feathersnake"
+        ],
+        "original_year": "2026",
+        "translation_year": null,
+        "translation_responsible": [
+          "Radi-gon"
+        ],
+        "translators": [
+          "Radi-gon"
+        ],
+        "created_at_utc": "2026-07-31T11:50:33.000Z",
+        "created_at_jst": "2026-07-31T20:50:33+09:00",
+        "created_by": "Radi-gon",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-L369はウズベキスタン、タシュケントのM.リヨジ通り21番地に位置する集合住宅の904号室を構成する最低でも一つ以上の構成物です。市の都市計画文書によれば、この部屋の床面積は65 m²であり、居間1室、寝室2室、浴室1室、および台所1室を有しています。財団による観測期間を通して、すべての窓は厚手のカーテンと段ボールによって塞がれた状態となっています。\n904号室にまつわる情報を記録することは不可能です。財団は当該集合住宅へのドローン投入任務を3度に渡り実行し、侵入・探索・退出に成功しているにも関わらず、それらによって収集された情報は一切回収されていません。レーダー、外部設置型マイクおよび光ファイバーカメラを用いた内部調査の試みも同様に成功していません。\nウズベキスタンの独立以前、同地はGRU\"P\"部局によって管理されていました。同機関の局員による集合住宅への進入は4度試みられ、そのうち3度は問題なく帰還できたものの、隊員らは内部の状況についていかなる情報も報告することができませんでした。また、当該集合住宅のこれまでの居住者に関する公的文書や逮捕記録、雇用記録は一切発見されていません。\n904号室の入口は財団の監視下において開閉していることが確認されています。これは、堆積した塵の変化、財団が提供した物品の消失、および扉周辺に新たな擦り傷が出現していることから判断されています。様々な種類の紙に書かれたメモが、週に2～3回の頻度で904号室の扉に現れます。しかし、継続的な監視にもかかわらず、いかなる機器や職員も、扉が開閉する瞬間や開いた状態の扉を記録することには成功していません。\n以下は、904号室の扉から回収されたメモの一例です。\n\n2010/08/23, 09:02\n新聞\n平焼きパン ×2\n卵\n小麦粉 1 kg\n牛肉 0.5 kg\nニンニク\nトマト\n緑茶\nクミス1（前とは異なる銘柄）\n\n2010/09/12, 09:04\n新聞\n平焼きパン ×2\nジャガイモ 1 kg\nアンズ（熟しすぎていないもの）\n縫い物用の青い糸\n\n2011/09/22, 17:01\n新聞\n平焼きパン ×2\n牛ひき肉 1 kg\n米 5 kg\nローリエ\nトマト\nホルティツィア・ウォッカ2 ×2本\n疾病に関する教科書\n嚥下障害のある女性向けの薬\n\n2011/09/24, 09:00\n平焼きパン ×2\nニンジン ×4\nタマネギ ×2\n解熱剤\n\n2011/09/26, 09:03\n新聞\n食用油 1本\nジャガイモ 1 kg\n牛ひき肉 1 kg\n当分の間、薬は必要ありません\n\n2011/09/28, 09:02\n新聞\nヨーグルト\nソムサ3\n市場の肉団子\n前回添付した彼女の写真はそちらからは見えなかったのでしょう。病状を説明してみます。彼女は物を飲み込めず、食べても吐いてしまいます。皮膚は硬くなり、青白さを増しています。本で調べてみました。もしかすると肺炎でしょうか？ 治療法はありますか？\n\n2011/10/03, 09:05\n私が渡したサンプルは調べてもらえましたか？ そもそも、そちらには見えていたのでしょうか？\nソムサ\n塩\n砂糖\n牛乳\n柔らかいパン\n\n2011年10月12日 09:01\n咳？\n筋肉の衰え？\n口臭？\n妻を助けてください、一向に良くならないんです\n新聞\n\n2011/10/20 09:02\n白い布\nローズウォーター\nイスリクの枝45\nシャベル\n\n2011年10月20日 21時09分、財団のエージェントはリヨジ通り21番地の裏庭に掘り返されたばかりの穴を発見しました。発掘の結果、65歳の中央アジア系女性の遺体が発見されました。死因は誤嚥性肺炎を伴い進行した食道扁平上皮癌と、併発した進行性全身性強皮症によるものと判明しました。死亡時刻は同日午前5時30分頃と推定されています。\n遺体とともに布製の護符が埋葬されており、その内部からはクルアーンの一節が記された小さな羊皮紙が発見されました。6遺体とともに正式な身元を示す書類は発見されなかったため、身元確認は現在も継続中です。\n\n2011/11/02, 09:01\n新聞\n平焼きパン ×1\nラム肉のプロフ7\nベロモルカナル8紙巻きたばこ 1箱\n\n脚注\n1. 訳注: おそらく、馬乳酒のこと。馬の乳を原料とした乳酒の…",
+        "summary_basis_type": "description",
+        "tags": [
+          "euclid",
+          "gru-p-部局",
+          "lost-series",
+          "scp",
+          "反ミーム",
+          "建造物",
+          "文書"
+        ],
+        "rating": -1,
+        "vote_count": 9,
+        "revision_count": 4,
+        "comment_count": 1,
+        "content_hash": "sha256:2056226e37f704eb4d1f4482ba41485c0f41e5ceccd6f41f8a8df30fa0940235",
+        "has_text_content": true,
+        "text_content_length": 3135
+      }
+    },
+    "1469080477": {
+      "wikidot_id": "1469080477",
+      "page_name": "scp-2174-jp",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469080477",
+        "page_name": "scp-2174-jp",
+        "url": "https://scp-jp.wikidot.com/scp-2174-jp",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "SCP報告書",
+        "article_title": "SCP-2174-JP",
+        "subtitle": "が\"は「芽殖孤虫」の\"が",
+        "authors": [
+          "Tutu-sh"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-07-31T10:30:34.000Z",
+        "created_at_jst": "2026-07-31T19:30:34+09:00",
+        "created_by": "Tutu-sh",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-2174-JPは芽殖孤虫（Sparganum proliferum）として知られる、ヒト（Homo sapiens）に対する寄生性と次元移動能力を持つ条虫綱裂頭条虫目裂頭条虫科に属する扁形動物です。SCP-2174-JPは1 mmから1 cm程度におよぶプレロセルコイド段階の幼虫のみが観察されており、出芽による増殖を行います。自然界にヒトの天敵が事実上存在せず、宿主から離脱して次の宿主に移動する経路が長らく未知であったことから、種として存続する至近的理由が不明とされてきました。\nSCP-2174-JPはヒトに対し致死的な芽殖孤虫症を引き起こします。SCP-2174-JPが体内に侵入したヒトは腫脹部に強い掻痒感を覚え、頭痛・悪寒・疼痛などの症状をきたします。掻痒感から腫脹部を爪などで掻いた場合容易に表皮が破裂し、多量の膿・滲出液・血液などとともに無数の大小種々の虫体が蠢動しながら流出する場合があります。非人為的なSCP-2174-JPの感染経路は特定されておらず、確実な予防方法は存在しません。\nヒト体内に侵入したSCP-2174-JPは体内で無分別に増殖し、皮膚あるいは内臓へ侵襲します。SCP-2174-JPにより形成される移動性腫瘤は宿主体の極めて広範囲におよびます。皮下をSCP-2174-JPが移行するほか、骨格筋のみならず肺や心臓などの胸腹腔内臓器内に多数の虫体を含む膿瘍や凝固壊死巣を形成する事例、また虫体を含む肉芽組織が骨髄を置換して骨髄腔を充填し骨梁を圧迫する事例などが知られます。発見が遅れた場合、最終的にSCP-2174-JPが全身の組織に播種して宿主は死亡します。\nヒト体内で無性生殖を繰り返し増殖したSCP-2174-JPは、中間宿主であるヒトが物理的ないし概念的に消費される際、捕食者や分解者などの体内へ移行します。ヒトは火、石器・金属器、火薬などの技術を獲得して以降他の捕食者による脅威を低減させましたが、その一方で発達した脳に起因する複数の宗教体系を創出し、信仰を食餌とする多数の異常存在を誘引しました。ヒトが文明を発展させて以降のSCP-2174-JPは、主に生贄という形でヒトを消費する種々の神格実体や、それに準ずる存在を終宿主あるいは第2中間宿主としています。\nSCP-2174-JPによる寄生虫感染症はSWN-001実体に対しても致死的な経過を辿ることが確認されています。",
+        "summary_basis_type": "description",
+        "tags": [
+          "jp",
+          "scp",
+          "thaumiel",
+          "ワーム",
+          "動物",
+          "寄生",
+          "異次元",
+          "種族",
+          "空想科学部門"
+        ],
+        "rating": 38,
+        "vote_count": 46,
+        "revision_count": 2,
+        "comment_count": 3,
+        "content_hash": "sha256:2d6d1e012330d555ac3ba44fb7891bfb059e145c75c42ebd244d0d12bbbd0773",
+        "has_text_content": true,
+        "text_content_length": 1769
+      }
+    },
+    "1469079789": {
+      "wikidot_id": "1469079789",
+      "page_name": "scp-3628-jp",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469079789",
+        "page_name": "scp-3628-jp",
+        "url": "https://scp-jp.wikidot.com/scp-3628-jp",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "SCP報告書",
+        "article_title": "SCP-3628-JP",
+        "subtitle": "証人",
+        "authors": [
+          "kamamberu"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-07-31T07:33:48.000Z",
+        "created_at_jst": "2026-07-31T16:33:48+09:00",
+        "created_by": "kamamberu",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-3628-JPは、高さ約8cmの卓上呼び出しベルです。\nSCP-3628-JPの前で、特定の質問を脳内で思い浮かべベルを鳴らすと、異常性が発生します。質問が以下の条件に一致する場合、その正答を知る人物が、使用者に最も近い閉鎖された扉から出現します。\n・単一の客観的な回答が存在する\n・過去または現在の事実について尋ねている\n・少なくとも1名の生存している人間が正答を知っている\n出現する人物の年齢、健康状態、服装は、SCP-3628-JPが使用された時点のものと一致します。対象者と扉の間にある距離や障害物は影響しません。対象者は出現の直前までいた場所から消失し、扉を開けた状態で出現します。この際、対象者は質問への回答を必ず発言します。正答を知る人物が複数存在する場合、質問された事実に最も関与した人物が出現します。",
+        "summary_basis_type": "description",
+        "tags": [
+          "jp",
+          "safe",
+          "scp",
+          "削除通知"
+        ],
+        "rating": -13,
+        "vote_count": 13,
+        "revision_count": 7,
+        "comment_count": 2,
+        "content_hash": "sha256:e79dc045e1d27822799176004d32e8d96409438dfc99daa125cf41d5dedf3451",
+        "has_text_content": true,
+        "text_content_length": 2443
+      }
+    },
+    "1469076426": {
+      "wikidot_id": "1469076426",
+      "page_name": "scp-8143",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469076426",
+        "page_name": "scp-8143",
+        "url": "https://scp-jp.wikidot.com/scp-8143",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translator",
+          "credit_original_title"
+        ],
+        "source_branch": "EN",
+        "source_branch_basis": "tag",
+        "genre": "SCP報告書",
+        "article_title": "SCP-8143",
+        "subtitle": "低評価",
+        "authors": [],
+        "original_title": "SCP-8143 - The Downvote",
+        "original_url": null,
+        "original_authors": [],
+        "original_year": "2026",
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [
+          "Umiverse"
+        ],
+        "created_at_utc": "2026-07-30T17:17:20.000Z",
+        "created_at_jst": "2026-07-31T02:17:20+09:00",
+        "created_by": "Umiverse",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-8143は、\"絶対的な合意\"あるいは\"完璧\"に対する宇宙の免疫反応です。これは以下のように現れます：\n主要形態:\n宙に浮く逆赤色三角形（▼）であり、全人類の総合的な満足度と同期して脈動します。活性化すると多種多様な影響を引き起こす周波数を放出します。最も一般的な影響は以下の通りです：\n\n完璧な円を描こうとすると鉛筆が折れる\n「5/5」の評価が「4.9/5」と表示される\nクッキー缶の最後の1枚が、常にほんのり焦げている\n\nこれらの現象の影響度は、対象がどれほど\"完璧\"とみなされているかに応じて変動します。\n人類全体の幸福感、畏怖、あるいは満足度が特に高まった場合、二次的影響が発生します：\n\n不変の真理をアーカイブしたページに「404 Not Found」エラーが表示される\n英雄たちの彫像において、最も称賛されている特徴に正確に亀裂が生じる\nすべてのAI生成アートにおいて、最大解像度で表示した際に明らかにけｋっかんのあるピクセルが1つ生じる\n\nSCP-8143の主要な出現ポイントは収容下にあるものの、特定のオブジェクト、事象、あるいは存在が「完璧である」と大人数が合意した場所であればどこでも、財団は上記現象の発生を阻止することができません。\n歴史的インシデント\nSCP-8143は過去に何度も出現したと考えられており、以下のような例が挙げられます：\n\nアレクサンドリア図書館インシデント\n法医学的ミーム解析によると、有名な大火の直前には以下の現象が発生していたようです。：\n\nすべての巻物に同時に1つの誤字が生じた\n司書たちが「昨日の方が言葉が綺麗だった」と報告した\n遺跡から「▼ ▼ ▼ ▼ ▼」と書かれた粘土板が発見された\n\nヴァン・ゴッホの修正\n化学分析により以下が判明しました：\n\n『星月夜』には本来、完璧な渦巻状の星が9個描かれていた\n最初の9個が崩れ始めた後、現在の10個目が描き加えられた\n画家の最期の言葉は「奴らが私にもう1つ描き加えさせようとしている」であった\n\nインターネットにおける収容違反（2016年）\n『Pokémon GO』が72時間にわたりメディアで100%の好意的なレビューを獲得した際：\n\nすべてのピカチュウのモデルの耳がわずかに左右非対称になった\nゲームの評価が4.99/5に固定化された\nナイアンティック社の口コミが一時的に、星1レビューへと置きき換わった\n\n理論的メカニズム\n\n完璧の基準値\n長期にわたる研究の結果、あらゆる概念が以下の状態に達した際にSCP-8143が活性化すると結論付けられました：\n\n10,000人以上のサンプルグループにおいて100%の支持を得る\n建設的な批評がないまま7年連続で経過する\nレビューサイトのスｋコアが四捨五入して100%になる\n\nSCP-8143の物理的距離に近い物体、イベント、実体ほど、より小さな概念でより大きな影響を受けます。。\n\n収容プロトコル\n財団は以下の手段により、SCP-8143の文書の支持率を89.27%に維持しています：\n\n奇数段落に意図的な誤字脱字を挿入すること\nページごとに1つの客観的に誤った事実を含めること\n睡眠不足の█████博士に校正を行わせること",
+        "summary_basis_type": "description",
+        "tags": [
+          "apollyon",
+          "en",
+          "scp",
+          "概念",
+          "歴史",
+          "通信",
+          "crom:series-9"
+        ],
+        "rating": 8,
+        "vote_count": 12,
+        "revision_count": 9,
+        "comment_count": 1,
+        "content_hash": "sha256:6a458e3c3e6b4fbc4e845fa97ce17c12095c23d15eea9a4760611affb7ec0182",
+        "has_text_content": true,
+        "text_content_length": 3190
+      }
+    },
+    "1469075542": {
+      "wikidot_id": "1469075542",
+      "page_name": "scp-l500",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469075542",
+        "page_name": "scp-l500",
+        "url": "https://scp-jp.wikidot.com/scp-l500",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_translation_year",
+          "credit_original_title",
+          "credit_original_url"
+        ],
+        "source_branch": "EN",
+        "source_branch_basis": "original_url",
+        "genre": "SCP報告書",
+        "article_title": "SCP-L500",
+        "subtitle": "MME.",
+        "authors": [],
+        "original_title": "SCP-L500 - MME.",
+        "original_url": "https://scp-wiki.wikidot.com/scp-l500",
+        "original_authors": [
+          "CRAt26"
+        ],
+        "original_year": "2026",
+        "translation_year": "2026",
+        "translation_responsible": [
+          "radian462"
+        ],
+        "translators": [
+          "radian462"
+        ],
+        "created_at_utc": "2026-07-30T15:14:14.000Z",
+        "created_at_jst": "2026-07-31T00:14:14+09:00",
+        "created_by": "radian462",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-500は、中国山東省の水東の西に位置するとされている、夏譚という町です。SCP-500は存在しません。SCP-500の存在が確認されたことは一度もありません。SCP-500が存在することの信じ込みは、何かしらの異常によって拡散されているわけではないと見られています。噂の出所を遡ると、近隣の町村や省で、その町がかつて存在していたと信じ込む人々が増えていると報道した地方紙やテレビ番組にたどり着きます。報道によると、夏譚は突然自壊し、何も残らなかったとされています。その地域で、大量死イベントが発生した記録は存在しません。特筆すべき点として、そのイベントで家族を亡くしたと語る者は誰一人として名乗り出ていません。仮にSCP-500が実際に発生していた場合、生存している親族は存在しません。\n夏譚の存在を信じる人々の多くは、最初に認知されるよりもはるか前、おそらく数か月か数年前にそのイベントが発生したと主張しています。SCP-500は集合的記憶として突然発生し、多くの人々はその町の存在に関する情報を一斉に伝え始めました。その情報は素早く拡散され、その現象を耳にした人々はしばしば、発生したイベントの記憶を取り戻したと主張しました。SCP-500に関する説明は極めて多種多様でした。多くの人は全住民に急速に広がった疫病や病原体の結果1だと主張していた一方、超自然、あるいは地球外を起源とするイベントだと信じ込んでいた人々も存在しました。洪水や嵐によって地域の食料備蓄が破壊され、その影響を住民が受けた、あるいは政府による精密攻撃の標的にされたとさえ主張する人々も存在しました。地方のマスメディアはこの話題を素早く取り上げ、地域全体にさらに広く拡散させました。 このことが話をより扇情的なものにした可能性もありますが、ほとんどの証拠はそうではないことを示しています。その言い伝えが広まった当初から残虐さは同程度であり、また、混乱の中で曖昧になった詳細は大部分が町の歴史に関連していたと考えられています。\nSCP-500の歴史は大部分が非論理的です。詳細に共通点はなく、様々な証言の断片から再構築されたものです。なぜイベントが発生したかについては、それらからほとんど手がかりが得られません。その町での市民の暴動が起こった歴史は存在せず、政治的に安定していたようでした。外部からの影響や注目を浴びることは特にありませんでした。これ以上調査を行っても、新しい結果を得られないと考えられます。現在、町の存在を示す唯一の証拠は、消滅直前で撮影されたとされる出所不明の写真です。この写真の背景に映っている、吊るされた遺体の身元は特定されていません。\nその地域では、埋葬地を特定するために、複数の民間団体が発掘を行ってきました。現在まで、夏譚に居住していたとされる2,534人の遺体は発見されていません。\n\nFootnotes\n1. これが前述の行動の変化をもたらした可能性があります。",
+        "summary_basis_type": "description",
+        "tags": [
+          "en",
+          "esoteric-class",
+          "lost-series",
+          "scp",
+          "シリーズ0",
+          "都市"
+        ],
+        "rating": 7,
+        "vote_count": 11,
+        "revision_count": 1,
+        "comment_count": 1,
+        "content_hash": "sha256:18cc5af119eb6d92a802e50b7a7429f195859946c9f5b601272b5fb20e361a39",
+        "has_text_content": true,
+        "text_content_length": 1978
+      }
+    },
+    "1469074566": {
+      "wikidot_id": "1469074566",
+      "page_name": "scp-069-vn",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469074566",
+        "page_name": "scp-069-vn",
+        "url": "https://scp-jp.wikidot.com/scp-069-vn",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_translation_year",
+          "credit_original_title",
+          "credit_original_url"
+        ],
+        "source_branch": "VN",
+        "source_branch_basis": "original_url",
+        "genre": "SCP報告書",
+        "article_title": "SCP-069-VN",
+        "subtitle": "夜警",
+        "authors": [],
+        "original_title": "SCP-069-VN - Người Gác Đêm",
+        "original_url": "https://scp-vn.wikidot.com/scp-069-vn",
+        "original_authors": [
+          "KirQ",
+          "Nya Piece"
+        ],
+        "original_year": "2021",
+        "translation_year": "2026",
+        "translation_responsible": [
+          "Kevin Nguyen_JP"
+        ],
+        "translators": [
+          "Kevin Nguyen_JP"
+        ],
+        "created_at_utc": "2026-07-30T09:54:36.000Z",
+        "created_at_jst": "2026-07-30T18:54:36+09:00",
+        "created_by": "Kevin Nguyen_JP",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-069-VNは、ベトナム戦争に従軍して現地で戦死したアメリカ陸軍兵、リチャード・アルフレッド・ヒル（1942-1967）の霊的実体です。SCP-069-VNはOG-107作業服を着用し、弾薬が装填されていない制式M1911A1自動拳銃を携行しています。\nSCP-069-VNは、会話および周囲の環境との物理的相互作用が可能である点を除き、顕著な異常性を有していません。SCP-069-VNは午前0時から午前1時までの間、当該区域内1に出現します。出現後、SCP-069-VNは以下の行動を取ります:\n\n周辺区域の巡回。\n周囲の植物の手入れ。\n区域内に立ち入った人物への威嚇2。\n\n発見経緯: SCP-069-VNは2015年7月、██████村に「幽霊」が出現する様子を捉えた映像についての報告を財団が受けたことで、初めて発見されました。当初、財団はこの映像を編集された偽造映像と判断し、調査優先度を低く設定していました。しかし、地元紙の記事やSCP-069-VNを撮影した映像が相次いで公開されたため、財団は本格的な調査を開始しました。現地に派遣された調査チームはSCP-069-VNの存在を確認しました。異常存在に関連する情報は全て削除され、映像および関連資料は捏造されたものであるとするカバーストーリーが流布されました。事件関係者には規定の手順に従って記憶処理が施されました。\n現地到着後、調査チームは行軍中の部隊を装い、村内に一時駐留しました。00:23、屋外で警戒に当たっていたエージェント・ジェラルド・フォードが偶然SCP-069-VNと遭遇しました。SCP-069-VNに関する事前情報を得ていたフォードは、直ちにSCP-069-VNへ接近し、会話を試みました。以下は、エージェント・フォードが携行していた録音機器の音声を書き起こしたものです。\n注意: SCP-069-VNは英語でのみ意思疎通が可能です。以下の会話は全て日本語に翻訳されています。\n\n<記録開始, 2015/07/24 00:24>\n\n[SCP-069-VNは周辺を巡回しており、エージェント・フォードと遭遇する]\nSCP-069-VN: (エージェント・フォードに銃を向ける） そこの君、止まれ。ここで何をしている？\nエージェント・ジェラルド・フォード: アメリカ陸軍第131偵察旅団所属、ジェラルド・フォード一等兵だ。君は？\nSCP-069-VN: (銃を下ろし、敬礼する） やあ、戦友。アメリカ陸軍コンピュータ・システム技術司令部第311通信旅団所属、リチャード・アルフレッド・ヒル二等兵です。まさか、もう一度アメリカ人に会えるとは思いませんでした。先ほどは失礼しました。この村に見知らぬ人間が入ってくると、ついああしてしまうんです。\nエージェント・ジェラルド・フォード: 気にするな。それより、どうして君はここにいる？ なぜ幽霊のような姿になっているんだ？\n[エージェント・フォードは椅子を2脚運び、そのうち1脚をSCP-069-VNに渡す。両者は着席する]\nSCP-069-VN: ありがとうございます。もう随分と昔のことですし、私自身もよく覚えていません。どうして私がここにいるのかというと――ベトナム戦争ですよ。ご存じでしょう。私は同年代の仲間6人と部隊を組み、1964年にベトナムへ送られました。初めは、先の大戦のような惨劇を目にしたくなくて、入隊するつもりはありませんでした。ですが、担任の教師が祖国の輝かしい勝利について何度も語っていたものですから、血気盛んな私たちは、家族に誇りに思ってもらおうと志願したんです。若かったんですよ。分かるでしょう。\n[沈黙]\nSCP-069-VN: 私たちの任務は情報収集と本部との通信でした。ほかの部隊が戦場へ向かう間、私たちは後方で頭を使う仕事をしていたわけです。いろいろな場所へ送られましたよ。旅行だったなら楽しかったでしょうが、あの状況ではそうもいきませんでした。\nエージェント・ジェラルド・フォード: 分かる。戦争だからな。だが、どうして今もこうして姿を現せるんだ？ とっくに戦死しているはずだろう？\nSCP-069-VN: おそらく、神がそうお望みになったのでしょう。ベトナムに従軍した2年間、私は何の罪もない大勢の民間人が、私の同胞の…",
+        "summary_basis_type": "description",
+        "tags": [
+          "100-vn",
+          "neutralized",
+          "scp",
+          "vn",
+          "人間型",
+          "共著",
+          "知性",
+          "軍事",
+          "霊体",
+          "非実体"
+        ],
+        "rating": 7,
+        "vote_count": 9,
+        "revision_count": 2,
+        "comment_count": 1,
+        "content_hash": "sha256:6cefeae3cf97f74193c7f3ac54196921ccbb4318bceb98fb43a6daf3713d25c2",
+        "has_text_content": true,
+        "text_content_length": 4776
+      }
+    },
+    "1469070960": {
+      "wikidot_id": "1469070960",
+      "page_name": "scp-6718",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469070960",
+        "page_name": "scp-6718",
+        "url": "https://scp-jp.wikidot.com/scp-6718",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_translation_year",
+          "credit_original_title",
+          "credit_original_url"
+        ],
+        "source_branch": "EN",
+        "source_branch_basis": "original_url",
+        "genre": "SCP報告書",
+        "article_title": "SCP-6718",
+        "subtitle": "しかし、あの世に何もないとしたら？",
+        "authors": [],
+        "original_title": "SCP-6718 - But if there's Nothing on the Other Side?",
+        "original_url": "https://scp-wiki.wikidot.com/scp-6718",
+        "original_authors": [
+          "TroutMaskReplica"
+        ],
+        "original_year": "2023",
+        "translation_year": "2026",
+        "translation_responsible": [
+          "radian462"
+        ],
+        "translators": [
+          "radian462"
+        ],
+        "created_at_utc": "2026-07-29T14:07:44.000Z",
+        "created_at_jst": "2026-07-29T23:07:44+09:00",
+        "created_by": "radian462",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-6718は既知のあらゆる次元と現実における、死後の世界の恒久的な喪失をもたらした異常現象です。SCP-6718の原因及び原理は判明していませんが、以下の事象が観測されています。\n\nかつて死亡し、「死後の世界」にいた全ての個人は恒久的にロストしました。\n死後の世界へのアクセス及び個人の蘇生に利用されていた装置や手段は、もはや機能していません。\n死後の世界に関連するアノマリー1は無力化されました。",
+        "summary_basis_type": "description",
+        "tags": [
+          "apollyon",
+          "en",
+          "scp",
+          "三ツ月イニシアチブ",
+          "戦術神学部門",
+          "改稿",
+          "未収容",
+          "死後",
+          "crom:series-7"
+        ],
+        "rating": 11,
+        "vote_count": 21,
+        "revision_count": 4,
+        "comment_count": 2,
+        "content_hash": "sha256:aef7c98b325d6ecbc232862dca32eaf36089cca02ae8e71351071047b36707bd",
+        "has_text_content": true,
+        "text_content_length": 2894
+      }
+    },
+    "1469070611": {
+      "wikidot_id": "1469070611",
+      "page_name": "format-screw-hub",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469070611",
+        "page_name": "format-screw-hub",
+        "url": "https://scp-jp.wikidot.com/format-screw-hub",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translator",
+          "credit_translation_year",
+          "credit_original_title",
+          "credit_original_url"
+        ],
+        "source_branch": "EN",
+        "source_branch_basis": "original_url",
+        "genre": "ハブ",
+        "article_title": "フォーマットスクリュー ハブ",
+        "subtitle": null,
+        "authors": [],
+        "original_title": "Format Screw Hub",
+        "original_url": "https://scp-wiki.wikidot.com/format-screw-hub",
+        "original_authors": [
+          "Henzoid",
+          "Tstaffor",
+          "TopDownUnder",
+          "コントリビューター一同 (合作)"
+        ],
+        "original_year": "2021",
+        "translation_year": "2026",
+        "translation_responsible": [],
+        "translators": [
+          "oplax-counterpoint"
+        ],
+        "created_at_utc": "2026-07-29T11:40:19.000Z",
+        "created_at_jst": "2026-07-29T20:40:19+09:00",
+        "created_by": "oplax-counterpoint",
+        "content_warnings": [],
+        "summary_basis": "Contributors\n\nハブの大部分はHenzoid、Tstaffor、TopDownUnderが作成しました。記事説明のアイデアをくれたLAN 2DとCroquemboucheにもここで感謝申し上げます！\n\nハブに項目を追加したいですか？いいですね！このハブでは001→ENナンバー→他支部ナンバーの順番で並べられており、その中でそれぞれ数字順に並べられていることに留意してください。あなたの項目を追加する場所を見つけられたら、以下のテンプレートをそこにコピー＆ペーストしてください。\n訳注: 本ハブページはENの翻訳記事です。JP記事を本ページに直接追加することはおやめください。\n\n+ コピー用のコード\n\n項目について、もしくはより一般の事項についての質問がある場合は、お気軽にTopDownUnderまで、Wikidot PMかDiscordでご連絡ください。\n\n番号\n\n説明\n\n001提言\n\nギアーズ博士の提言\n\nSCPファイルの形式が標準化される前に書かれました。\n\nノットガルの提言\n\nSCP-001は自身についての記述を読むのが大好きです。\n\nメタ・アイクの提言 (未訳)\n\nSCP-0001は生物機構的機械の創造という事実を遡及的に捏造することで生み出されました。その文書が持つ夢のような性質ゆえに、詳細は非常に鮮明かつ霧がかったように曖昧です。\n\nマクドクトラートの提言 (未訳)\n\nSCP-001は最初であること (primacy) に干渉を及ぼすアノマリーです。ファイルは、第一という観念をひとの現実から除去することによって収容されています。\n\nペダンティークの提言\n\n[データ削除済]\n\n[データ削除済]\n\nなにか心躍るものを期待して、あなたは画面を見つめる。まさか何も無いのか？そう、何も無い。黒塗りの文字列が一団となって並んでいるだけだ。あなたはがっかりして溜息をつき、ハブページへ戻ろうとしている。その瞬間、カーソルが「タブを閉じる」バツ印の上に乗ったその瞬間に、あなたはページ下部にクロスリンクが設定されていることに気が付いた。\nクリックする。\nクリックする。\nクリックする。\nクリックする。\nクリックする。\nクリックする。\nクリックする。\nクリックする。\nクリックする。\nクリックする。\n立ち去る。\nクリックする。\nクリックする。\nクリックする。\nクリックする。\n\nWMDDの提言 (未訳)\n\n我々が申し訳ないと思っていることを、あなたには知っておいて欲しく思う。\n\nタフトの提言\n\n[aaaaCC62SS DEN—-]\n\nSCP\n\nSCP-3 (未訳)\n\nSCP-31は2ここにリストされています3。これを知っておくことは大事だと\"誰か\"は考えたということでしょう。— O5-174\n\nSCP-245\n\nSCP-245はゲームの中でしか記述できません。5\n\nSCP-426\n\n私はトースターで、私は一人称で言及されなければならないんだ。\n\nSCP-579\n\n[データ削除済]\n\nSCP-586\n\n一文につき一単語、必ず誤った言葉になってシマウマす。\n\nSCP-732\n\nファイルを書き換えることがD3<!、おれはチョーｓげえ自画自賛的なみンなぶｋｋｒ12jeOI!#@HDEhr23uoirhfo234hそして文書をめちゃくちゃにしようと試3218943892rrfffw\n\nSCP-931\n\n見て取らば　皆な五七五に　書かせしむ\n\nSCP記事に収容されています。\n7901-PCSは接続したものをなんでも逆転させます。\n\n7901-PCS\n\nSCP-1159\n\n(訳注: クレジット不明のため音声差し止め)\n\nSCP-1463\n\n収容プロトコルは標準的な形式で記録されています。\nファイルが修正されました。ファイルを再読み込みして表示します。\n収容プロトコルはそれを読む人の主観に基づいて改訂されます。\n\nSCP-1561\n\n陛下の特別封印令議定書SCPは、王のものたるに相応しく、そうあるべき形式にて記述されるという大いなる栄誉に預かりました！\n\nSCP-1654\n\n本記事はプロトコル命令のみから構成されています。\n\nSCP-1665\n\n（英語で回答）\n橫のカギ\n18. SCP-1665はクロスワード______として出現します。\n\nSCP-1839\n\nあなたが魚であるということを絶えず思い出させてくれます。なにしろ、あなたは実際、魚なのです。\n\nSCP-1893\n\n「どうなるんだ？」きみが尋ねた。\n「ええと、」おれは落ち着いて答えた。「架空の物語を書くんだ、もちろん、それ自身についての。」\nこんなくだらない質問にもおれは答えられないのか。おれは僅かに笑った。\n\nSCP-2062\n\nオブジェクトクラス: Kronecker\n\nSCP-2111\n\n[4.63%] cd H/secure/reports/scp/scp-2111 エラー: scpは正常に動作していません\n\nSCP-2161\n\nホ　ワ　　イ　　　ト　　　　ス　　　　　　ペ　　　　　　　　　ー　　　　　　　　　　　　ス\n\nSCP-2170\n\n検証済: 僕はSCP-2170。僕は話がしたいだけ。\n\nSCP-2212\n\nURA-9611\n\nよく知られていない文書形式で閉じ込められた、強力な物質的情報災害。\n\nSCP-2251\n\nこれについて書かれた文章は180°回転して表示されます。\n\nSCP-2256\n\nこれ██████れた情報をどんどん劣化させる巨大な███。\n\nSCP-2316\n\nあなたは水中の死体に見覚えがないことを継続的に確認しなければなりません。\n下へ下へ下へ\n\n_\n\n湖に戻るんだ\n\nSCP-2342\n\nSCP6\n\nSCP-2383\n\nこれ に つい て 書か れ た 資料 は どの よう な もの で も 500 単語 ちょうど の 長さ 長い 長さ 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長さ 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長さ 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長い 長…",
+        "summary_basis_type": "overview",
+        "tags": [
+          "en",
+          "ハブ",
+          "共著",
+          "合作",
+          "画像差し止め",
+          "音声添付"
+        ],
+        "rating": 35,
+        "vote_count": 37,
+        "revision_count": 12,
+        "comment_count": 2,
+        "content_hash": "sha256:cd3161808b4d196a748ca4f1897e2e90a17e3b6aef5ab2041e61c47731eed52e",
+        "has_text_content": true,
+        "text_content_length": 15443
+      }
+    },
+    "1469070229": {
+      "wikidot_id": "1469070229",
+      "page_name": "scp-567-ko",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469070229",
+        "page_name": "scp-567-ko",
+        "url": "https://scp-jp.wikidot.com/scp-567-ko",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_translation_year",
+          "credit_original_title",
+          "credit_original_url"
+        ],
+        "source_branch": "KO",
+        "source_branch_basis": "original_url",
+        "genre": "SCP報告書",
+        "article_title": "SCP-567-KO",
+        "subtitle": "アリス殺し",
+        "authors": [],
+        "original_title": "SCP-567-KO - 앨리스 죽이기",
+        "original_url": "https://scpko.wikidot.com/scp-567-ko",
+        "original_authors": [
+          "igangsu"
+        ],
+        "original_year": "2021",
+        "translation_year": "2026",
+        "translation_responsible": [
+          "walksoldi"
+        ],
+        "translators": [
+          "walksoldi"
+        ],
+        "created_at_utc": "2026-07-29T10:44:16.000Z",
+        "created_at_jst": "2026-07-29T19:44:16+09:00",
+        "created_by": "walksoldi",
+        "content_warnings": [
+          "コンテンツ警告: 本作品には殺人、死、身体的危害などに関する具体的な描写が含まれます。"
+        ],
+        "summary_basis": "説明: SCP-567-KOは約300枚ほどの白紙で構成されている本です。表紙には、不可解な落書きとともに \"Fac.\" というサインが残されています。SCP-567-KOを構成する紙の検査から、少なくとも1940年代以前に作成されたものと推定されています。\nSCP-567-KOの表紙をめくると、白紙の上に序詩と目次が現れます。そのままページを順々にめくると、1865年に出版された『不思議の国のアリス』を脚色した内容が現れます。無作為な順序でページをめくる行為に対してはいかなる異常性も確認されていません。結末部に到達してからしばらくすると、SCP-567-KOの全ページが白紙に変化します。この時に表紙をめくると、前回とは異なる内容が現れます。\nSCP-567-KOにおける脚色には、全体を通して加虐的な描写の頻度の増加や、原本には存在しないキャラクターの登場、主人公の年齢・性格・行動の変化、物語上の対立要素の追加などが挙げられます。これは新たな物語が始まる度に悪化しているように見受けられます。SCP-567-KOに現れる内容に一貫して観測される点は、必ず主人公のアリスが死亡して作品が締めくくられることです。",
+        "summary_basis_type": "description",
+        "tags": [
+          "ko",
+          "safe",
+          "scp",
+          "ファクトリー",
+          "文書",
+          "記述"
+        ],
+        "rating": 9,
+        "vote_count": 11,
+        "revision_count": 2,
+        "comment_count": 1,
+        "content_hash": "sha256:aa0aa42d22b74ef7060c8ecd49f0e57e76b55e9d45e8e1b39da3c00022c88032",
+        "has_text_content": true,
+        "text_content_length": 3692
+      }
+    },
+    "1469070217": {
+      "wikidot_id": "1469070217",
+      "page_name": "down-the-silver-river",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469070217",
+        "page_name": "down-the-silver-river",
+        "url": "https://scp-jp.wikidot.com/down-the-silver-river",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_translation_year",
+          "credit_original_title",
+          "credit_original_url"
+        ],
+        "source_branch": "EN",
+        "source_branch_basis": "original_url",
+        "genre": "Tale",
+        "article_title": "銀の川の下流にて",
+        "subtitle": null,
+        "authors": [],
+        "original_title": "Down the Silver River",
+        "original_url": "https://scp-wiki.wikidot.com/down-the-silver-river",
+        "original_authors": [
+          "SunnyClockwork"
+        ],
+        "original_year": "2015",
+        "translation_year": "2026",
+        "translation_responsible": [
+          "Bluesky0"
+        ],
+        "translators": [
+          "Bluesky0"
+        ],
+        "created_at_utc": "2026-07-29T10:38:46.000Z",
+        "created_at_jst": "2026-07-29T19:38:46+09:00",
+        "created_by": "Bluesky0",
+        "content_warnings": [],
+        "summary_basis": "クリスタルの砂浜の先へと、\nそして銀の川の下流へとあなたを連れて行こう。\nそうしたらあなたにお見せしよう。\n我々は皆、神の創造物であるのだと。\n\nこの芸術家は昔から流れを見続けてきていた。だが、彼はこのようなものを見たことが無かった。\n流れ。古くから彼の芸術の道を導いている、彼が知る全ての創造の源。彼は、いつ流れを彼の心から彼の筆の先端へ、真っ白な霧が迫り来る空虚から彼が存在する本当の現実へ移すべきかを知っていた。彼は、どのようにそれの向きを変えるか、どのようにその押す力を彼の現実の創作へ、さらには超現実の創作へと使えばいいのかを知っていた。そして彼は、それが世界で唯一美しいものだと考えていた。\n彼はおそらく、司祭の説教を聞き、異質な信仰を学ぶその場所に入ろうとした時に良くない決定をしたのだろう。時計仕掛けと金属の教会、そのように彼は聞いていた。彼はただそれを、何か新しいことへ視点を広げ、始めるために流れを解放するための一つの可能性として活用しようとしただけだった。なんと言っても、彼はずっとスチームパンク作品が好きだった。そしてこの教会が提供するものはそのような作品となんら相違無いように見えた。\nだが今、その芸術家は川の中に立っていた。そして全ては違っていた。真っ白な霧は未だそこにある。けれど今は押し寄せる熱い蒸気と混ざり合っていた。彼が立つかつては空っぽで空虚だった川底は、今や金属と歯車仕掛けによって構成されていた。下方から輝きと美しさが放たれる。彼が見たことの無いような景色だった。\n彼は瞬いて、まるで自分の感覚に騙されているように感じた。だが、彼がもう一度目を開けた時、光景は移り彼はそれ以上に信じられないものを見た。\n彼はまだ流れの上に立っているが、今や彼はその外側も眺めていた。彼は雄大な歯車仕掛けの機械を目撃した。全てのギアが軋む音を立てて噛み合い、完璧に足並みを揃えて回る。彼は流れも見ている。もはや彼がずっと知っていたような空虚の中を漂うものではなかったが、巨大な機械の中のトンネルを通って流れ、機械の動きと同調してねじれ、曲がっていた。そして彼の目はその動きをほとんど捉えられていない。真鍮の機構がその川を沸騰させ、熱い蒸気がその水面から立ち上っている。歯車の駆動する音はその下からだ。\nその一瞬、彼は目撃した光景に目を奪われ、衝撃を受けて茫然としていた。けれど次の瞬間、彼は再び瞬きをして、彼の膝をつたって絶え間なく激しく流動する流れと共に川へと戻った。しかし精神の川底は未だそこにあり、けれどよりいっそう輝き、わずかに揺れている。彼は水に手を伸ばすため身を屈めた。\nけれどそこには水は無かった。\n壮大な機械が作り上げた精神の川底で、水銀の川が燃えるような熱さの蒸気の中を絶え間なく流れる。\n\n芸術家は、心に染み付き夢にも現れる、彼が見たあの新しい光景をもとに創作を始めていた。絵の具とブラシを投げ捨て、歯車とパイプと配線を集めた。時計のカチカチ音を体内に感じる。\n彼はいつもと同じように作業する。けれど鉛筆と紙とではない。真鍮と鉄と銀と共にだ。彼はその部品を芸術作品を作り上げるように組み上げていった。流れの囁き声と機械の唸る声の中、一つのギアが完璧に他のギアと噛み合った。彼はどうやって歯車仕掛けを組み上げていけばいいか学んだことはなかった。けれど彼は生まれた時からその技能を持ち合わせていたかのように組み上げていった。\n彼の手が輝く表面をなぞる度、彼はもう一度銀の川を見た。川は今や真鍮の機械に彫られた線を激しく流れ、うねり、落ちていく。彼は穏やかな言葉を、作品を通して紡ぐ。そして巨大な機械が聞き、いつの日か自分と話してくれることを望んでいる。\nまだ失敗続きだ。\n神を模倣する試みの中、彼はただ怪物を作っていた。唸るような音を上げる機械は完全に噛み合ってはいない。歯車仕掛けはカチカチ音を鳴らさないか、間違った歌を歌う。機構は崩壊するか、ぎこちなく動くだけかだ。彼はルネサンスの巨匠が描いた聖人や神のような、彼の夢に出てきた歯車仕掛けの美しさをとらえることを目標としていたが、結局彼自身の未熟な技術が彼の道に立ち塞がることに気づいた。\n\n芸術家は創作を辞めた。道具と素材をわきに退けて、広大な銀の川をふらつく彼の精神と共に一人で部屋に閉じこもった。彼は…",
+        "summary_basis_type": "opening",
+        "tags": [
+          "are-we-cool-yet",
+          "en",
+          "tale",
+          "壊れた神の教会"
+        ],
+        "rating": 4,
+        "vote_count": 4,
+        "revision_count": 1,
+        "comment_count": 0,
+        "content_hash": "sha256:32897fe30e1b7d51f4360717c10bdc2b04dcd7eb0afd289b1626a05a0fbf8c38",
+        "has_text_content": true,
+        "text_content_length": 2519
+      }
+    },
+    "1469070198": {
+      "wikidot_id": "1469070198",
+      "page_name": "sweetness",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469070198",
+        "page_name": "sweetness",
+        "url": "https://scp-jp.wikidot.com/sweetness",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_translation_year",
+          "credit_original_title",
+          "credit_original_url"
+        ],
+        "source_branch": "EN",
+        "source_branch_basis": "original_url",
+        "genre": "Tale",
+        "article_title": "可愛い子",
+        "subtitle": null,
+        "authors": [],
+        "original_title": "Sweetness",
+        "original_url": "https://scp-wiki.wikidot.com/sweetness",
+        "original_authors": [
+          "TroyL",
+          "Anonymouse99"
+        ],
+        "original_year": "2012",
+        "translation_year": "2026",
+        "translation_responsible": [
+          "Bluesky0"
+        ],
+        "translators": [
+          "Bluesky0"
+        ],
+        "created_at_utc": "2026-07-29T10:24:25.000Z",
+        "created_at_jst": "2026-07-29T19:24:25+09:00",
+        "created_by": "Bluesky0",
+        "content_warnings": [],
+        "summary_basis": "彼はそれが父親のすることだとして、彼女の涙を拭い、額にかかっている髪をそっとかき上げた。「大丈夫だよ、可愛い子。」彼は優しく言った。「大丈夫だよ…」\n可愛い子。母は彼女が生まれた日からずっとそう呼んでいた。そして、彼女が彼を見上げると、彼の娘の輝く緑色の目がその唇に浮かぶ微笑みを彼の心まで届けた。そして彼は、いつものように彼女が見た悪夢は過ぎ去るであろうことを知っていた。\n「わかってるわ、パパ。」と彼女は言った。彼女の小さな手が彼の中指と人差し指を握りしめていた。\n彼が指を引っ張っても、彼女は離さなかった。そして彼はゆっくりと笑いかけた。彼女は笑顔を返した。「お話をしてくれない？パパ。」とリクエストした。\n彼はつい笑ってしまった。彼女は夢を見たと嘘をついたのか？もしや涙すらも？彼は知らなかった。けれど確かに今彼はここにいて、起きていて、そして子供にしかできないような恐怖からの素早い立ち直りぶりに安心していたため、彼は承諾した。\n「もちろんだ、可愛い子…」と言った。\n\nわるい男の人と、その兵たちによって塔に閉じ込められている、一人のお姫さまがいました。彼女はとっても美しくて⸺「ママみたいにきれいなの、パパ？」と彼女が遮った。⸺きれいだよ。サラワットの山々にのぼる朝日のようにきれいなんだよ、お姫さま。\nそしてね、泣いていたんだよ、僕の愛しい子。お姫さまは泣いて、さけんで、周りにあたりちらして、そして昼も夜もお父さまである王さまに会いたいな、とゆめ見ていました。もしわるい男の人と、その兵たちから逃げきることさえできたら、王さまに会うことさえできたら。そしていっしょに、あの男を国からおいだしてずっと幸せに平和にすごすことができるのに！\nもちろん、お姫さまの声こそが、あいつらがお姫さまを閉じこめている理由でした。お姫さまは、とっても美しく、世界のどんなものよりもずっと美しく歌いました。そしてわるい男の人とその兵たちはその歌を自分たちのものにしたいと考えたから、お姫さまはとらわれたままになっているのです。\nわるい人の兵たちの中に、お姫さまのお父さまに仕える、ちゅうじつな一人の騎士がいました。彼はかしこくて、ゆうかんで⸺「その人の名前は！？」⸺おっと、可愛い子。これは言えないんだ。もしその名前を声に出したら、彼は見つかっちゃうだろうからね。だけど、彼はいい人だ。お姫さまの国民たちの中で、それはりっぱな人で、そしてお姫さまが逃げられるようにと、お姫さまに道具やおくり物やかざり物をこっそりわたしていました。もうすぐ、その時がやってきます… お姫さまは、ただその時を待っていました。\nある日、お姫さまは外からさけび声を聞きました。そして大きな音が空気をさいてなりひびきました。お姫さまはしずかになって、その泣き声やさけび声も押しころしました。というのも、お姫さまは彼女の騎士とそのじゅうしゃが大きなものと一緒に近づいてくるのを見つけたからです。それはきんぞくの馬で⸺「そのお馬さんのお名前を教えてほしいの。パパ。」⸺その名はアジズ！そして彼らはすばやくお姫さまを連れ去り、彼女の馬であるアジズのせなかに乗せて、すばやく彼女を帰り道につかせ、お姫さまをこうげきしてもう一度つかまえようとするためにやってくるあの男とたたかいました。そのけんはすばやく、とてもすばやく動き、わるい男の手下たちを切りさいていきます。\nお姫さまはちゅうじつなアジズにのって、ながい帰り道のあとに彼女のお父さまの王国へととうちゃくしました。しかし、彼女たちが進むと同時に、アジズは物語を話しました⸺「アジズは話せたの？」⸺もちろん、話せるんだ！アジズはりっぱで、忠実な馬なんだ。そしてアジズはお姫さまに、さばくやジーニー、そして、けんやなべやぬい針のような、ひみつのほかのきんぞくのことについてさえもお話ししました。そしてこの旅はながくて大変なものでしたが、ついにお姫さまはお父さまのおしろを見つけることができました。そしていそいで入ったけれど、見つけたのはきずつけられたお父さまでした。\nその日はひどい日でした… 彼女のお父さまはいだいで、せいじつで、すてきな人でした。世界でもっともすごい人だったのです。けれど彼はひどくきずつけられていました。彼はとてもかしこくて、強い人で、死ぬことなんてないほどでした。…",
+        "summary_basis_type": "opening",
+        "tags": [
+          "en",
+          "tale",
+          "共著",
+          "壊れた神の教会"
+        ],
+        "rating": 3,
+        "vote_count": 5,
+        "revision_count": 1,
+        "comment_count": 1,
+        "content_hash": "sha256:0b1bf4e5bbf91b417afcf51f986274a00496975c6a80cc5f4eb228b2f70571cb",
+        "has_text_content": true,
+        "text_content_length": 3077
+      }
+    },
+    "1469070119": {
+      "wikidot_id": "1469070119",
+      "page_name": "rapture",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469070119",
+        "page_name": "rapture",
+        "url": "https://scp-jp.wikidot.com/rapture",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_translation_year",
+          "credit_original_title",
+          "credit_original_url"
+        ],
+        "source_branch": "EN",
+        "source_branch_basis": "original_url",
+        "genre": "Tale",
+        "article_title": "有頂天",
+        "subtitle": null,
+        "authors": [],
+        "original_title": "Rapture",
+        "original_url": "https://scp-wiki.wikidot.com/rapture",
+        "original_authors": [
+          "marslifeform"
+        ],
+        "original_year": "2012",
+        "translation_year": "2026",
+        "translation_responsible": [
+          "Bluesky0"
+        ],
+        "translators": [
+          "Bluesky0"
+        ],
+        "created_at_utc": "2026-07-29T10:11:39.000Z",
+        "created_at_jst": "2026-07-29T19:11:39+09:00",
+        "created_by": "Bluesky0",
+        "content_warnings": [],
+        "summary_basis": "彼は高く高く飛び上がった。白い翼が音もなく羽ばたき、彼の体は彼を地面へと引き摺り下ろそうとする重力に逆らい急上昇する。まもなくその姿は雲の中へと埋まり、薄い羽根は莫大な水分と混ざり合う。全身を思い切り伸ばすことの、なんと気持ちのいいことか！もう一度彼の戦車チャリオットに乗り、下に広がる人々の価値を余さず見渡せることの、なんと素晴らしいことか！\nその生き物は一人で笑った。これほど素晴らしいご馳走は、そしてこんなに心地良い音は実に久しぶりだった！あぁ、彼がもっと大食らいであったなら、ここに留まっていただろうに！もう彼は誘惑への立ち向かい方を知っていた。彼は普段静かな地獄を立ち去る前に、求めていたものをただひたすら喰らい尽くしたのだ。それなのに、彼はまだ最高のものがどこかにあると知っていて、それを見つけることを運命付けられていた。\nすぐに美しき歌が大気を突き抜けて彼を呼んだ。おお、これだろうか？これこそが救世主だろうか？すぐさま彼は音に向かって飛び込んだ。\n\n彼女は背筋を伸ばして大聖堂の正面で導き手のように立っていた。教会はこの音楽家を再び手に入れ、その声を礼拝堂に響かせていた。信者が列を成して入り、席へと座る。列の後ろに列、集団の後ろに集団。聖職者達は一列に並び、部屋が埋められていくのを静かに眺めていた。靴と地面がぶつかる音だけが響き、人々が座るたびにベンチの軋む音が機械的な曲調を崩した。そして、最後の教徒が座り、祭壇のふもとに立っていた男が口を開いた。\n「信者達よ。今日は、我らが歌声を取り戻したことを祝おうではないか。彼女は異端者、すなわち財団によって我々の手から奪われた。」彼は財団の名を冒涜的な言葉の如く吐き捨てた。そして信者達もざわざわと同意した。「しかし！異端者どもは打ち砕かれた！奴らの力は衰え、奴らの支配は崩れた。」どよめきは同意の唸り声と共に大きくなる。「奴らは我々の預言者を幾度もなく打ち倒してきた！我々の真実を黙らせようと試みてきた！我らが神を冒涜し、我らが歌手を苦しめた！」轟くざわめきの中、憤怒を叫び、怒りに顔を赤くする。「奴らは不信心である！奴らは神の敵対者である！我らはこの悪を打ちのめし、壊れたるものの全てを組み上げねばならぬ！」会衆は熱狂し、地面を踏み鳴らしながら大音量の歓声を上げている。\n祭壇の前に立つ男が手を挙げ、教会に響く音が歌姫の歌声だけになるまで待った。彼は静かに、冷静にその安定した律動を口に出した。\n「壊れたる我々が来る。壊れたる我々は出会う。壊れたる我々は戦う。」\n彼はそう繰り返した。安定したリズムで繰り返すと、群衆もそれに続いた。\n「壊れたる我々が来る。壊れたる我々は出会う。壊れたる我々は戦う。」\n聖歌は音量を上げていき、より多くの人が言葉を口に出した。そして叫びになり、そして絶叫になり、再び足並みを揃え踏み鳴らす。どれだけ熱狂してもなお、拍子は変化しない。会衆はひどく熱中し盛んに聖歌を歌い続けたため、その背後、入り口に現れた青白い影は気付かれなかった。\n\nなんて素晴らしいんだ！\n彼は多くの場所へ多くの巡礼を行なってきたが、まだこのようなご馳走を見つけられる場所は無かった。彼は聖歌のリズミカルなノイズに身を浸すだけでほぼ満足できていた。\nほぼ。\n一番後ろの席に座っている者たちは、完璧に不意を突かれた。彼らの前の列の者たちは、終焉を迎える前にかろうじて振り返ることができた。その後、秩序に基づく集会は混沌の大虐殺へと変貌した。痛みの叫びが誇り高き宣言に取って代わる。男も、女も、子供も、家族も、互いを踏みつけ、祭壇を目指し、神よ我々を守りたまえと祈る。無駄だった。各々の恐怖の咽び泣きが、各々の痛みに満ちた絶叫が、各々そして全員の混乱と嘆願の叫び声が彼をさらに成長させる。彼は通路を歩いて前に進みながら、その美しい光景にゆっくりと身を浸していた。祭壇のふもとへ辿り着き、その頃には羽は教会のすべての角へ届くまでに巨大に成長していた。腕を広げて、手のひらを天国へ向けた。その人影は満足げなため息を吐き、血が彼の身体中に飛び散っては水のように流れ落ちた。舌なめずりして心ゆくまでその味を味わう。すぐに、あまりにもすぐに部屋にいる全ての人間は死んでしまった。肉と金属が壁や床を覆う。なのに、食事はまだ終わっていないことに彼は…",
+        "summary_basis_type": "opening",
+        "tags": [
+          "en",
+          "game-day",
+          "tale",
+          "壊れた神の教会"
+        ],
+        "rating": 4,
+        "vote_count": 4,
+        "revision_count": 1,
+        "comment_count": 1,
+        "content_hash": "sha256:50926dd5dabc78db2bb2f87bfa5b36bdfd1960869c39839441ed4bef59e9178e",
+        "has_text_content": true,
+        "text_content_length": 2343
+      }
+    },
+    "1469058739": {
+      "wikidot_id": "1469058739",
+      "page_name": "scp200vncontesthub",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469058739",
+        "page_name": "scp200vncontesthub",
+        "url": "https://scp-jp.wikidot.com/scp200vncontesthub",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_translation_year",
+          "credit_original_title",
+          "credit_original_url"
+        ],
+        "source_branch": "VN",
+        "source_branch_basis": "original_url",
+        "genre": "ハブ",
+        "article_title": "SCP-200-VNコンテスト",
+        "subtitle": null,
+        "authors": [],
+        "original_title": "Cuộc Thi SCP-200-VN",
+        "original_url": "http://scp-vn.wikidot.com/scp200vncontesthub",
+        "original_authors": [
+          "SCP-VN Wikiスタッフ"
+        ],
+        "original_year": "2026",
+        "translation_year": "2026",
+        "translation_responsible": [
+          "Congy"
+        ],
+        "translators": [
+          "Congy"
+        ],
+        "created_at_utc": "2026-07-27T21:26:25.000Z",
+        "created_at_jst": "2026-07-28T06:26:25+09:00",
+        "created_by": "Congy",
+        "content_warnings": [],
+        "summary_basis": "日程\n\n2021年、ベトナム支部が公式支部となったことを記念し、コミュニティはSCP-100-VN執筆コンテストを開催することを決定しました。それから5年が経ち、SCP-VN Wikiはクオリティと文体の両方について進歩を遂げました。そこで、コミュニティにとっての新章として、管理チームはSCP-200-VN執筆コンテストを以下のテーマで開催することをお知らせいたします。\n\"Sứ mệnh, Chiến dịch, Phát kiến\"\n\"使命、作戦、発見\"\n\n執筆: 今！\n投稿日時: 2026/07/22, GMT+7\n投稿締切: 2026/10/15, GMT+7\n投票締切: 2026/10/30, GMT+7\n\n}, \"dummy-ondomready-block\");\n\n//]]>\n\nエントリー\n参加するには\nタグ付与の方法\nルール\n\nエントリーは2026年7月22日午前12:00(GMT+7)の投稿開始時にここにリストされます。\n\n+ 投稿順にエントリーを表示するにはここをクリック +\n\n- リストを閉じるにはここをクリック -\n\n1. ご自身のエントリーをURL'200-vn<あなたのユーザー名>'に投稿してください。例: SCPFoundationVietnamという名前のユーザーがエントリーを投稿する場合は、200-vnscpfoundationvietnamというURLになります。このページはあなた(もしくは、共著の場合は共著者の一人)が投稿しなければなりません。\n\n— 参加を希望する海外ユーザーが投稿するためには、まずベトナム語支部のメンバーになる必要があります。 —\n\n2. このページに表示されるようにするため、\"200-vn\"タグを付与してください。\n\n— 投稿が開始されるまで投稿しないでください。スタッフからの警告を受けます！ —\n\n3. 記事のディスカッションに、希望する上位5つの番号(SCP-001-VNからSCP-299-VNまでのうち利用可能な番号、SCP-200-VNを除く)を、可能であれば降順で投稿してください。コンテスト終了後、スタッフがUVのランキングに基づき、あなたのエントリーをご希望のスロットに配置します。番号を投稿しない場合、番号の配置待ちの順番を失い、記事がランダムなスロットに配置される可能性があります。\n4. SCP-100-VNは当コンテストのための特別なスロットであり、2位のエントリーに授与されます。ただし、その記事の著者がこの賞を受け取ることを望まない場合は、他の希望スロットを検討する前に、次に得点の高い作品にSCP-100-VNスロットが授与されます。\n\n前述の通り、エントリーに\"200-VN\"タグを付与すると、当ハブに表示されます。あなたがご自身でタグを付与することに抵抗がなければ、ご自身でエントリーにタグを付与することを推奨いたします。タグの付与をよりスムーズに行うために、タグ付与の初心者向けガイドと利用可能なタグ一覧を用意しています。ご自身でタグを付与する際は必ずこれらをご参照ください。そうでない場合は、Wikiスタッフにお任せください！\n\n— 許可なく\"scp-vn\"タグを付与しないでください！これはタグ付与チームが行う必要があります。 —\n\nご質問がある場合は、WikidotのプライベートメッセージまたはベトナムSCP財団コミュニティ公式Discordサーバー経由で、スタッフチームのメンバーに気兼ねなくお問い合わせください。\n\n以下のルールは一般的なものであり、いかなる場合においてもコンテスト運営委員による決定が最終的なものとなります。ルール違反となる行為が何であるかについてご不明な点がある場合は、運営委員のメンバーにお問い合わせください。\n\nお互いに優しく接しましょう。本当に。\n順位はWikidotの総評価数に基づき、降順で決定されます(個人的利益のための悪意のあるVoteは含まれません)。\n自身の総合評価数を上げる、または競争相手の総合評価数を下げる為に通常でないかつ/または不正な行為を行った参加者は、当コンテストにおいて記事が失格となります。また、当該参加者は追加の懲戒処分を受けたり、今後のコンテストへの参加が禁止される可能性もあります。不正行為の例としては以下のものがあげられますが、これらに限定されません。\n\n競争相手のエントリーを、投稿されてから数分以内に悪意を持って一斉にDVする。\n自身の作品について、他人にスパムメッセージを送信する。\n自身の作品であれ他人の作品であれ、エントリーにUV/DVすることを他人に呼びかける。記事を他人に紹介することは許可されていますが、単に投票を呼び掛けることは禁止されていることに留意してください。\n\nコンテスト応募作品のアイデアは、承認プロセス1に従う必要はありません。\n参加者は、それが以前サイトに投稿されたことがない場合に限り、既存のアイデアと下書きの使用を許可されます。",
+        "summary_basis_type": "overview",
+        "tags": [
+          "vn",
+          "コンテスト",
+          "ハブ",
+          "重訳"
+        ],
+        "rating": 18,
+        "vote_count": 18,
+        "revision_count": 1,
+        "comment_count": 1,
+        "content_hash": "sha256:3088e98f2029d17f4060638416e5c23b8812d9021bb27f3de45bfd56c1249c49",
+        "has_text_content": true,
+        "text_content_length": 4597
+      }
+    },
+    "1469057324": {
+      "wikidot_id": "1469057324",
+      "page_name": "scp-l909",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469057324",
+        "page_name": "scp-l909",
+        "url": "https://scp-jp.wikidot.com/scp-l909",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_translation_year",
+          "credit_original_title",
+          "credit_original_url"
+        ],
+        "source_branch": "EN",
+        "source_branch_basis": "original_url",
+        "genre": "SCP報告書",
+        "article_title": "SCP-L909",
+        "subtitle": "それはどこへ行くのか？",
+        "authors": [],
+        "original_title": "SCP-L909 - Where does it go?",
+        "original_url": "https://scp-wiki.wikidot.com/scp-l909",
+        "original_authors": [
+          "Athabuen"
+        ],
+        "original_year": "2026",
+        "translation_year": "2026",
+        "translation_responsible": [
+          "C-Dives"
+        ],
+        "translators": [
+          "C-Dives"
+        ],
+        "created_at_utc": "2026-07-27T16:32:43.000Z",
+        "created_at_jst": "2026-07-28T01:32:43+09:00",
+        "created_by": "C-Dives",
+        "content_warnings": [],
+        "summary_basis": "説明: わたしはただねむりたいだけだつた\n\nロドルフ・ドラクロワの肖像画、1855年。\n\nSCP-909は重量1.42 kgのヒトの脳です。錬金術的な処理によって、その本来の保持者であるロドルフ・ドラクロワ1が1897年に後頭葉から発生した脳卒中で死亡して以降、劣化の進行は最小限に抑制されています。頭頂葉の5ヶ所に顕著な腐敗が見られ、最大の腐敗部位は直径3.4cmです。前頭葉は平均値に比べて萎縮しています。化学組成が ████████ であるピンク色の有機沈着物の層がアイテム全体を覆っており、その厚さは部位によって最大3mmに及びます。記録によると、これらの特徴は回収当初から存在していました。\nSCP-909の主要な異常性は、その内部を循環する血液に及ぼす影響にあります。文書909A-1903-4に概説される装置と工程を介して、SCP-909にはその生物学的機能の大部分を再現させることが可能です。これには、血液の分配や、頭頂葉の特定領域における神経活動の誘発が含まれます。1904年に行われ、1942年と1968年に再実施された徹底的な検査の結果、当該オブジェクトはこの活動中も知覚力を持たず、刺激に反応を示さないことが確認されました。 どうしてわたしにゆくすえをしることができただろうか\nSCP-909は既に白血球を保有しておらず、実質的に自己免疫反応を欠いているため、SCP-909に循環させる血液はどのような血液型でも問題ありません。この状態において、SCP-909は循環血液を [編集済] 、█種類の化学的記憶処理薬として合成可能な、E-909と指定される化合物に変換します。この現象の根源は、ドラクロワがかつて ███████ アフリカの ████ ████ 周辺地域で採取された ███████ 属の植物に由来する粗製記憶処理薬を用いた自己実験を行った結果、SCP-909が大量の [DATA LOST] を含有しているためだと仮定されています。しかしながら、消耗が許容される被験者らを利用して当該現象を再現する取り組みは、これまでのところ失敗に終わっています。再現個体は例外なく産出化合物の効果が弱く、200-400サイクルが経過すると特性を失います。SCP-909が未解明の機序によって [DATA LOST] を自己生成し、その内部濃度を維持していることは明らかです。このプロセスの解明にはSCP-909の完全な解剖が必要であり、その結果としてSCP-909が無力化されるリスクが伴うため、この課題の研究はより高性能な撮像技術が開発されるまで無期限に中止されています。\nわたしたちはわすれるためにこれをつくつた、だれがわたしをせめられるだろうか\n十分に理解されていない副次的な異常性は、SCP-909についての知識が、SCP-909の産出化合物から派生した記憶処理薬を投与された経験がある人物に及ぼす影響として現れます。これらの人物は2-5ヶ月ほどかけて重症化する夜驚症や不眠症の頻発を経験する場合がありますが、必ずしも影響を受けるとは限りません。本稿執筆現在 (1976/03/02) 、この副次異常性については更なる調査が進行中です。",
+        "summary_basis_type": "description",
+        "tags": [
+          "en",
+          "esoteric-class",
+          "lost-series",
+          "scp",
+          "オネイロイ",
+          "マリオン・ホイーラー",
+          "メタ",
+          "化学",
+          "反ミーム部門",
+          "変容",
+          "死体",
+          "神経",
+          "第五教会",
+          "精神影響",
+          "血液"
+        ],
+        "rating": 7,
+        "vote_count": 9,
+        "revision_count": 1,
+        "comment_count": 1,
+        "content_hash": "sha256:25cca09f17196e0c329e8a86628dbff7b296844881f93ef3b29210bdf47ca74d",
+        "has_text_content": true,
+        "text_content_length": 9299
+      }
+    },
+    "1469056213": {
+      "wikidot_id": "1469056213",
+      "page_name": "scp-7618",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469056213",
+        "page_name": "scp-7618",
+        "url": "https://scp-jp.wikidot.com/scp-7618",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_translation_year",
+          "credit_original_title",
+          "credit_original_url"
+        ],
+        "source_branch": "EN",
+        "source_branch_basis": "original_url",
+        "genre": "SCP報告書",
+        "article_title": "SCP-7618",
+        "subtitle": "霧",
+        "authors": [],
+        "original_title": "The Fog",
+        "original_url": "https://scp-wiki.wikidot.com/scp-7618",
+        "original_authors": [
+          "CowscantgoMoo"
+        ],
+        "original_year": "2023",
+        "translation_year": "2026",
+        "translation_responsible": [
+          "radian462"
+        ],
+        "translators": [
+          "radian462"
+        ],
+        "created_at_utc": "2026-07-27T12:10:46.000Z",
+        "created_at_jst": "2026-07-27T21:10:46+09:00",
+        "created_by": "radian462",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-7618は記録された全事例の約10%で発生している、認識災害を有する霧の変異体です。\nSCP-7618の内部にいる人物は、起こりうる未来についての短い幻覚を体験します。それらの未来は曖昧なものであり、大部分が断片的なビジョンや強い感情的反応によって構成されています。証拠が不足しているにもかかわらず、全ての対象は幻覚の正確さと実現性について全面的に信じ込みます。\nそれらの確信はクラスA記憶処理によって取り除くことが可能です。",
+        "summary_basis_type": "description",
+        "tags": [
+          "en",
+          "keter",
+          "scp",
+          "予知",
+          "天候",
+          "幻覚",
+          "気体",
+          "火急鎮静部門",
+          "精神感応",
+          "視覚",
+          "認識災害",
+          "crom:series-8"
+        ],
+        "rating": 9,
+        "vote_count": 9,
+        "revision_count": 6,
+        "comment_count": 1,
+        "content_hash": "sha256:d0214e8fe064da132597c149fdb6291438457951c7a58ab8ffb7d1970318b7f5",
+        "has_text_content": true,
+        "text_content_length": 7719
+      }
+    },
+    "1469052336": {
+      "wikidot_id": "1469052336",
+      "page_name": "scp-cn-3363",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469052336",
+        "page_name": "scp-cn-3363",
+        "url": "https://scp-jp.wikidot.com/scp-cn-3363",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_translation_year",
+          "credit_original_title",
+          "credit_original_url"
+        ],
+        "source_branch": "CN",
+        "source_branch_basis": "original_url",
+        "genre": "SCP報告書",
+        "article_title": "SCP-CN-3363",
+        "subtitle": "真桑友佳梨",
+        "authors": [],
+        "original_title": "SCP-CN-3363 - 真桑友佳梨",
+        "original_url": "https://scp-wiki-cn.wikidot.com/scp-cn-3363",
+        "original_authors": [
+          "Kcorena"
+        ],
+        "original_year": "2024",
+        "translation_year": "2026",
+        "translation_responsible": [
+          "walksoldi"
+        ],
+        "translators": [
+          "walksoldi"
+        ],
+        "created_at_utc": "2026-07-26T13:35:19.000Z",
+        "created_at_jst": "2026-07-26T22:35:19+09:00",
+        "created_by": "walksoldi",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-CN-3363は2021/3/14に自殺した真桑友佳梨の死体です。生前はサイト-CN-10086の内勤部門の職員であり、以下に挙げられる様々な異常性を有していました。\n\n当該職員は一種のテレパシーや念動力を有していたようです。部門職員によれば、「当該職員が言葉を発したところは一度も目撃されておらず、一日の大半を自身のデスクにて完全に静止したまま過ごしていて、一切の動きを見せなかった。唯一、部門主任から何らかの協力を呼びかけられた時にのみ反応を見せたが、自身の業務は必ず期限内に完遂していた。こうした状況の下で、部門の全職員は当該職員が伝えようとしている意図や考えを理解できていた」とのことです。\n当該職員は内勤部門以外の職員から一度も目撃されたことがありません — 内勤部門の監視カメラは長らく故障したまま放置されていたため、映像記録も一切残されていません。部門職員によれば、当該職員は毎日、胡俊沢部門主任の誘いで共に退社し、翌朝にも共に出社していたとのことです。ただし、胡俊沢がサイトを出て以降の監視カメラ映像では、当該職員の足取りに関する情報は一切確認できませんでした。他部門の職員が内勤部門を訪れた際、当該職員は必ず様々な偶然　(例えばトイレ休憩や業務報告など) を理由として公共の場に居合わせていませんでしたが、このような説明は上述した異常性と矛盾しています。\n部門職員によれば、当該職員は毎日、前日と比べて顔や身体に大小様々なあざが新たに増えており、それらは消えることなく残っていたようです。\n当該職員が務めていた役職は2003年に設立されており、そこに配属された歴代の職員はいずれも上記の異常性を有していました。\n部門職員によれば、部門主任はオブジェクトのことを、人間ではなく、複雑な学名を持つある種の進化種だと述べたことがあるようです。この情報の真偽については現状不明です。\n\nその死に関しても多数の異常が見られました。\n\n当該職員は就任から7ヶ月23日後に死亡していますが、その役職の歴代の就任者は、いずれも就任から11ヶ月7日後 (誤差1日以内) に死亡していました。加えて、歴代の就任者の死因は業務外での様々な事故によるものであり、自殺ではありませんでした。\nこの役職の歴代の就任者とは異なり、内勤部門の職員はオブジェクトの死後も生前の名前と容姿を記憶していました。\nオブジェクトの死亡直後から、死体が比較的深刻な腐敗を呈し始めました。歴代の就任者の死体が一切発見されていないため、この異常性が共通のものであるのか否かは現状不明です。\n当該職員の死因は首吊り自殺と報告されています。こうした事案では通常、職員間の人的ネットワークを分析し、自殺の原因を分析し、現場の証拠写真を残すのが一般的な手順です。しかしながら、内勤部門は通例に反し、一向にこの手順に着手しようとしていません。\n\n上述した異常性に起因する信用問題により、真桑友佳梨の真の死因を究明するための調査が計画されました。内勤部門主任の胡俊沢はこの件に対して不可解な反応を見せ、調査への同意と積極的な協力の意向を見せた一方で、以下の条件を要求しました。\n\nオブジェクトを部門の外に移動させてはならず、解剖や、破壊を伴う調査を実施してはならず、接触もしてはならない。\n調査は内勤部門の職員のみが実施するものとし、手掛かりや資料を得るために他部門の職員と交流してはならない。\n調査期間中はオブジェクトに関する映像資料を残してはならず、撮影を試みてはならない。\n\n上記の条件は許可されました。最終的に調査員に指定されたのは、この業務に並外れた意欲と情熱を示していた、内勤部門職員の顧嘉一でした。\n調査結果は以下の通りです。\n\nオブジェクトおよび歴代の就任者はいずれも人的ネットワークを持っておらず、また過去の居住地や移動経路についても一切特定できませんでした。今回の調査の深度や範囲を考慮すると、前述の職員は内勤部門以外の何処にも存在しないものと結論付けられます。\nオブジェクトが生前に毎月の給与を受領するのに用いていた銀行口座は、実際には胡俊沢部門主任の名義で運用されており、給与の受け取りのみに利用されていました。毎年1月27日になると、この給与は化粧品や贅沢品 (たいていは高級バッグや財布)、女性用衣…",
+        "summary_basis_type": "description",
+        "tags": [
+          "cn",
+          "euclid",
+          "scp",
+          "コウプスコウパス",
+          "サイト-cn-10086",
+          "死体"
+        ],
+        "rating": 9,
+        "vote_count": 9,
+        "revision_count": 3,
+        "comment_count": 1,
+        "content_hash": "sha256:82b0a52a445592e87edc456826ebed7d75aefc13e2af3c36ee348fd345e1e61d",
+        "has_text_content": true,
+        "text_content_length": 7828
+      }
+    },
+    "1469051986": {
+      "wikidot_id": "1469051986",
+      "page_name": "scp-164-de",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469051986",
+        "page_name": "scp-164-de",
+        "url": "https://scp-jp.wikidot.com/scp-164-de",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translator",
+          "credit_translation_year",
+          "credit_original_title",
+          "credit_original_url"
+        ],
+        "source_branch": "DE",
+        "source_branch_basis": "original_url",
+        "genre": "SCP報告書",
+        "article_title": "SCP-164-DE",
+        "subtitle": "愛を込めた複製",
+        "authors": [],
+        "original_title": "SCP-164-DE - Mit Liebe kopiert",
+        "original_url": "http://scp-wiki-de.wikidot.com/scp-164-de",
+        "original_authors": [
+          "dr ore"
+        ],
+        "original_year": "2018",
+        "translation_year": "2025",
+        "translation_responsible": [],
+        "translators": [
+          "Mas_kera_de"
+        ],
+        "created_at_utc": "2026-07-26T11:33:41.000Z",
+        "created_at_jst": "2026-07-26T20:33:41+09:00",
+        "created_by": "Mas_kera_de",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-164-DEは白色に塗装されたコンピュータの操作装置と、直径1m、厚さ10cmの黒色の円盤に固定された直径30cmの紫色の球体で構成される機械です。この球体は固い表面を持ちますが、半透明の内部は常に動き続けているように見え、様々な模様を示し続けています。これらの模様に意味があると仮定した場合、その意味は現時点では把握できていません1。この球体と円盤の材質は現時点では不明ですが、現在も調査が続けられています。円盤には操作装置から伸びる30本の銅線が粘着テープで固定されており、円盤との間で符号化された電気信号を送受信しています。当該装置全体の重量は約70kgです。装置全体には僅かな損耗の兆候が見られるものの、一般的な230VのACコンセントを操作装置に接続することで稼働できます。\n操作装置はキーボード、マウス、ブラウン管モニタ、総容量100GBの複数枚のメモリーカードなど、様々なコンピュータ部品で構成されています。操作装置にはバイナリコードで符号化されたデータの入力や、USBポートを介したデータの読み出しや貼り付けを行うことができ、その後にSCP-164-DEを作動させることができます。また、様々なデータをハードディスクに保存し、後から修正や再読み出しを行うことも可能です2。現時点ではシステムのストレージ容量の限界は確認できていませんが、これは恐らく当該オブジェクトの非コンピュータ技術的部品が原因であると考えられます。ただし、当該装置には複数のバグが存在し、時折、入力されたデータではなくメモリ内のデータが読み出されることがあります。このため、現在財団はSCP-164-DEのメモリにコマンドを保存することを控えています。\nSCP-164-DEが起動すると、モニタにテキストエディタのウィンドウが表示されます。このウィンドウにはQWERTZ配列キーボードで入力可能なすべての文字を入力できるほか、ウィンドウの脇にあるUSBメモリのアイコンを利用して、接続された記憶媒体やメモリから.txtファイルの内容を挿入することも可能です。このエディタには別に「生成」という文字が書かれたボタンが存在しますが、これはシステムがバイナリコードで表現された物理オブジェクトの有効な記述を認識した場合にのみ選択可能となります。有効と認識されるには、寸法や形状、対象を構成する個々の物質の分子レベルでの記述がデータに含まれていなければなりません。また、物質の構造や凝集状態なども入力可能です。\nSCP-164-DEが有効な「生成」コマンドを受信すると球体が発光し、当該オブジェクトが設置されている室内のランダムな地点に未知の発生源から物質を生成し始めます。この出現地点が常に満たす唯一の条件は、決して別の物体の内部には現れず、SCP-164-DEの黒色円盤に対して平行な平面上に出現することです3。生成される物質の形状と種類は、SCP-164-DEに入力された仕様に準拠しており、他物質との反応性を含め、同種の一般的な物質と全く同様の挙動を示します。そのため、当該オブジェクトへの損傷を避けるために、高反応性物質や非通常物質を用いた実験は現在停止されています。液体を生成した場合、容器で受け止めない限り、目標面の約10cm上方に順次出現し、地面へと広がります。生成した気体は室内の空気に混ざり始めるため、SCP-164-DEは有用な気体の生成には適しません。大きさと質量に関しては、SCP-164-DEが設置された空間によってのみ制限されると考えられます。\nSCP-164-DEが物体を生成するのに要する時間は、その複雑性や大きさ、組成によって大きく異なります。また、形状と組成が複雑であるほど、材料の密度が高いほど、物体が大きいほど、構成する化学元素が重いほど、SCP-164-DEは生成プロセスに長い時間を要することが既に判明しています。SCP-164-DEは10cm x 10cm x 10cm寸法の中実構造の鉄製立方体を生成するのに通常10秒を要しますが、実験的に長さ10cmの鉛製プレッツェルを生成した際には5分の処理時間が観測されました。\n回収経緯: ████████にて同一人物が複数出現したことで、財団はSCP-164-DEを認知しました。コンピュータ技術者でありアマチュ…",
+        "summary_basis_type": "description",
+        "tags": [
+          "de",
+          "scp",
+          "thaumiel",
+          "コンピュータ",
+          "テイア",
+          "ドイツscp財団",
+          "外部エントロピー",
+          "球体",
+          "破壊不可能",
+          "電子デバイス"
+        ],
+        "rating": 1,
+        "vote_count": 3,
+        "revision_count": 2,
+        "comment_count": 1,
+        "content_hash": "sha256:1a4f7e56eb961481826a0be18a52d3110ec775e9d20c066a47560db9236e4e2d",
+        "has_text_content": true,
+        "text_content_length": 7632
+      }
+    },
+    "1469051983": {
+      "wikidot_id": "1469051983",
+      "page_name": "scp-l057",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469051983",
+        "page_name": "scp-l057",
+        "url": "https://scp-jp.wikidot.com/scp-l057",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_translation_year",
+          "credit_original_title",
+          "credit_original_url"
+        ],
+        "source_branch": "EN",
+        "source_branch_basis": "original_url",
+        "genre": "SCP報告書",
+        "article_title": "SCP-L057",
+        "subtitle": "スナッフ・スワップ",
+        "authors": [],
+        "original_title": "SCP-L057 - Snuff Swap",
+        "original_url": "https://scp-wiki.wikidot.com/scp-l057",
+        "original_authors": [
+          "KatyaStrangelove"
+        ],
+        "original_year": "2026",
+        "translation_year": "2026",
+        "translation_responsible": [
+          "C-Dives"
+        ],
+        "translators": [
+          "C-Dives"
+        ],
+        "created_at_utc": "2026-07-26T11:32:32.000Z",
+        "created_at_jst": "2026-07-26T20:32:32+09:00",
+        "created_by": "C-Dives",
+        "content_warnings": [],
+        "summary_basis": "説明: 2015年6月5日、財団はある却下された博士論文の一環として行われた研究に着目しました。論文は既にSCP-L057への言及を全て削除したうえで再提出されていたため、必要な収容措置は最小限に抑えられました。原文からの関連する抜粋を以下に掲載します。\n\nランニングタイトル: 残虐な死の表現の拡散\n\n████ 1\n\n残虐な死の表現の拡散\n博士論文\n███ █████ 大学\n社会科学部\n社会学科\n社会学博士号取得要件の\n一部として提出\n著者\n███████ █. ████\n\n2015年 3月\n\n[無関係なページを省略]\n\n本研究においては、複数の研究参加者が説明または言及した残虐メディアのうち25例が確認された。これらの事例への言及数は2件から13件の範囲だった。その内容に関する説明は、参加者間で若干のばらつきがあったものの、より詳細な点について議論されるほどに正確性が低下するという予想通りのパターンに従うものだった。\nこれらの事例のうち、ある特定の殺人事件の映像記録1については、研究参加者の73%が明確に言及するという統計的異常が認められた。この異常は証言自体から明らかになったもので、映像を視聴した参加者の過半数は、その内容を一見すると無関係な細部まで正確に回想できた。加害者らが履いていた靴のスタイル、被害者に浴びせられた特定の罵倒語 (その具体的な言い回しを含む) 、背景に折り畳まれた水玉模様の傘があったことなどは、調査対象者の70-80%によって裏付けられた。\n更に特異な点として、問題の動画の中心的要素に関する証言は、想定される基準値よりも遥かに高い割合で参加者ごとに差異があった。研究参加者の88%は、映像中で実行されたか、録画前に発生していたかにかかわらず、身体切断に言及した。以下の図4に示すように、54%は動画の再生中に切断が行われたと報告した。このうち28%は、切断された体肢または指が、加害者らのうち一人によって画面外に持ち出されるのを見たと回想した。この出来事を目撃した研究参加者の61%は、問題の人物が黒いバラクラバ帽をかぶり、正面にスタッズ付きの十字架があしらわれたパーカーを着ていたと述べた。全員が、この男性はカメラから意図的に目を逸らしていたと断言した。\n図5は、この動画の説明に認められた更なる異常点を詳述するものである。身体切断の発生を証言した研究参加者の21%は、画面上には他にも体肢や指が映っていたと述べた。身体切断は起こらなかったと報告した参加者の38%も同様の主張を行った。これらの余分な部位は全て被害者のそれと同一であると説明され、一部の参加者は一致する痣の存在について証言した。\n\nSCP-L057の発見以降、追加の研究が財団によって実施されています。その調査結果を当初の研究と照合した結果、腕5本、手9本、指63本が依然として行方不明であると断定されました。\n\nFootnotes\n1. SCP-L057と指定。",
+        "summary_basis_type": "description",
+        "tags": [
+          "en",
+          "keter",
+          "lost-series",
+          "scp",
+          "記憶媒体"
+        ],
+        "rating": 3,
+        "vote_count": 5,
+        "revision_count": 1,
+        "comment_count": 1,
+        "content_hash": "sha256:89e488b55b2798e21bc3446f68174bd04f8026cefb9101236ff12ec8a0fd2f1e",
+        "has_text_content": true,
+        "text_content_length": 1984
+      }
+    },
+    "1469050858": {
+      "wikidot_id": "1469050858",
+      "page_name": "r-sinano-chuo-co-jp-2025-04-24-8k2m9n",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469050858",
+        "page_name": "r-sinano-chuo-co-jp-2025-04-24-8k2m9n",
+        "url": "https://scp-jp.wikidot.com/r-sinano-chuo-co-jp-2025-04-24-8k2m9n",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_translation_year",
+          "credit_original_title",
+          "credit_original_url"
+        ],
+        "source_branch": "CN",
+        "source_branch_basis": "original_url",
+        "genre": "Tale",
+        "article_title": "青蔵高原にEVE-LHC施設が完成 A.E.T.H.E.R.コンソーシアム、超常物理学研究の大きな一歩",
+        "subtitle": null,
+        "authors": [],
+        "original_title": "青藏高原EVE-LHC设施成功落成 A.E.T.H.E.R.联合体超自然物理研究迈出关键一步",
+        "original_url": "https://scp-wiki-cn.wikidot.com/r-sinano-chuo-co-jp-2025-04-24-8k2m9n",
+        "original_authors": [
+          "Hppp"
+        ],
+        "original_year": "2026",
+        "translation_year": "2026",
+        "translation_responsible": [
+          "mememe_meme"
+        ],
+        "translators": [
+          "mememe_meme"
+        ],
+        "created_at_utc": "2026-07-26T06:00:15.000Z",
+        "created_at_jst": "2026-07-26T15:00:15+09:00",
+        "created_by": "mememe_meme",
+        "content_warnings": [],
+        "summary_basis": "トップ｜朝刊・夕刊｜速報｜マイページ\n\n科学\n青蔵高原にEVE-LHC施設が完成　A.E.T.H.E.R.コンソーシアム、超常物理学研究の大きな一歩\n公開: 2025年4月24日 09:30\n\n▲EVE-LHC施設の一部。全長87kmに及ぶこの超伝導磁気リングは、人類史上最大規模の超常物理実験装置である。（写真提供：A.E.T.H.E.R.コンソーシアム広報室）\n【北京発】SCP財団が主導し、複数の超常研究機関が参加するA.E.T.H.E.R.コンソーシアム（Anomalous Energy, Thaumatology & Hume Engineering Research Consortium／異常エネルギー・奇跡論学・ヒューム工学研究コンソーシアム）は今月22日、中核研究施設の一つであるEVE粒子大型ハドロン衝突型加速器（EVE-LHC）が、中国・青蔵高原縁辺部の低地脈干渉地域において完成し、試験運用段階へ移行したことを正式に発表した。\nこれは1998年のヴェール崩壊以来、人類による異常現象の体系的科学研究が画期的な一歩を踏み出したことを意味する。2018年の正式発足以来、A.E.T.H.E.R.コンソーシアムはスイス・ジュネーブやアメリカ・カリフォルニア州などにおいて、TRCI（Thaumatology-Reality Collision Interface／奇跡論-現実衝突界面）試作機や、HIA-Array（ヒューム場干渉計アレイ）初号観測施設をはじめとする複数の中小規模研究設備を稼働させてきた。EVE-LHCは、同コンソーシアムの計画において初めて建設が完了した旗艦級大型施設となる。\n\n▲A.E.T.H.E.R.コンソーシアムのロゴ\n\nA.E.T.H.E.R.コンソーシアム科学委員会の報道官であり、元SCP財団研究部門責任者でもあるエレノア・ハーパー博士によれば、EVE-LHCの基本設計はクロミウム博士が提唱したEVE基本粒子モデルに基づいている。本施設ではEVE粒子ビームを前例のないエネルギースケールまで加速し、EVE場を構成する3種類の奇跡論基本粒子──ν粒子（Nuon）、η粒子（Etaon）、π粒子（Pion）──を衝突させることで、さらに深層に存在すると考えられる「始原EVE構造」の検出を目指すという。実験が成功すれば、人類は通常物理学の標準模型に相当する「EVE粒子標準模型」を初めて確立することになり、超常物理学の統一大理論への突破口になると期待されている。\n「LHCの設計と建設では、通常の粒子加速器では想像もできないような技術的課題に直面しました」とハーパー博士は落成式で語った。「私たちは物質粒子を加速するだけでなく、ビームを取り巻くEVE場を同時に維持・制御しなければなりません。全長87kmのトンネルには、エバーハート共振器の原理に基づく1万2千基を超えるエネルギー供給ノードと、高強度アラド反動に耐え得るスクラントン現実安定錨アレイが組み込まれています。言ってしまえば、一本のトンネルの中で粒子加速器と巨大な奇跡論反応炉を同時に稼働させているようなものです」\nEVE-LHCの建設地に青蔵高原が選ばれたのは偶然ではない。コンソーシアム本部は以前より、同地域に深く埋蔵された古テチス海遺構を利用して地脈エネルギーハブを構築していた。この遺構は、旧大陸で最も強力かつ安定した「奇跡論反応炉」であることが確認されており、EVE-LHCの超高エネルギー実験に必要な地脈エネルギーの供給を支えている。施設建設にあたっては、中国国家超常地質動力学実験室（NLGD）および中国科学院奇跡論・超常現象研究所（ITAP, CAS）が、地脈安定性に関する重要なデータと技術支援を提供した。\n注目すべきは、EVE-LHCがA.E.T.H.E.R.コンソーシアムの計画する唯一の大型設備ではないという点だ。2022年に公表された『超常物理学インフラ整備白書』によれば、今後10年間でヒューム場干渉計アレイ（HIA-Array）の拡充や、日本・筑波に建設予定の生体奇跡論学専門研究施設などの整備も進められる予定である。EVE-LHCの完成は、この壮大な科学構想を形作る重要な一片に過ぎない。\n一方で、大規模EVE衝突実験については安全性を懸念する声も上がって…",
+        "summary_basis_type": "opening",
+        "tags": [
+          "1998",
+          "cn",
+          "tale",
+          "信濃中央新聞"
+        ],
+        "rating": 8,
+        "vote_count": 8,
+        "revision_count": 1,
+        "comment_count": 1,
+        "content_hash": "sha256:a89821fa44919668ac781e7447e451a9826c211818158c633aa8a9096fd3856f",
+        "has_text_content": true,
+        "text_content_length": 4294
+      }
+    },
+    "1469050857": {
+      "wikidot_id": "1469050857",
+      "page_name": "market-garden-art",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469050857",
+        "page_name": "market-garden-art",
+        "url": "https://scp-jp.wikidot.com/market-garden-art",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_translation_year",
+          "credit_original_title",
+          "credit_original_url"
+        ],
+        "source_branch": "CN",
+        "source_branch_basis": "original_url",
+        "genre": "アートワーク",
+        "article_title": "硝煙の彩: 我らこそ戦争 魔法少女たちの1944年 共同芸術設定集",
+        "subtitle": null,
+        "authors": [],
+        "original_title": "硝烟绘彩：吾等即战争 魔法少女们的1944 联合艺术设定集",
+        "original_url": "https://scp-wiki-cn.wikidot.com/market-garden-art",
+        "original_authors": [
+          "breaddddd",
+          "yulo",
+          "mrpasserby",
+          "oxygennine"
+        ],
+        "original_year": "2026",
+        "translation_year": "2026",
+        "translation_responsible": [
+          "mememe_meme"
+        ],
+        "translators": [
+          "mememe_meme"
+        ],
+        "created_at_utc": "2026-07-26T06:00:11.000Z",
+        "created_at_jst": "2026-07-26T15:00:11+09:00",
+        "created_by": "mememe_meme",
+        "content_warnings": [],
+        "summary_basis": "我らこそ戦争 設定集\n\n警告: この記事には大量の画像が含まれており、合計で50MBあります。\n\nここをクリックして入る\nbreadddddとYulo、MrPasserby、OxygenNineによるプレゼンツ\n\n目次を開く\n\n目次を閉じる\n\n表紙\n\nPDFをダウンロード",
+        "summary_basis_type": "description",
+        "tags": [
+          "cn",
+          "アートワーク",
+          "共著",
+          "我らこそ戦争"
+        ],
+        "rating": 22,
+        "vote_count": 22,
+        "revision_count": 3,
+        "comment_count": 3,
+        "content_hash": "sha256:a4c46c19fdbf87768ec826204290f0ed767bcc4b1c93e43fdd64cfd4cd74235e",
+        "has_text_content": true,
+        "text_content_length": 855
+      }
+    },
+    "1469050856": {
+      "wikidot_id": "1469050856",
+      "page_name": "bellum-sumus-hub",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469050856",
+        "page_name": "bellum-sumus-hub",
+        "url": "https://scp-jp.wikidot.com/bellum-sumus-hub",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_translation_year",
+          "credit_original_title",
+          "credit_original_url"
+        ],
+        "source_branch": "CN",
+        "source_branch_basis": "original_url",
+        "genre": "ハブ",
+        "article_title": "我らこそ戦争 ハブページ",
+        "subtitle": null,
+        "authors": [],
+        "original_title": "吾等即战争 中心页",
+        "original_url": "https://scp-wiki-cn.wikidot.com/bellum-sumus-hub",
+        "original_authors": [
+          "MrPasserby"
+        ],
+        "original_year": "2026",
+        "translation_year": "2026",
+        "translation_responsible": [
+          "mememe_meme"
+        ],
+        "translators": [
+          "mememe_meme"
+        ],
+        "created_at_utc": "2026-07-26T06:00:06.000Z",
+        "created_at_jst": "2026-07-26T15:00:06+09:00",
+        "created_by": "mememe_meme",
+        "content_warnings": [],
+        "summary_basis": "隐藏 移出鼠标 | 关闭\n\n+ 进行评分\n\n- 进行评分\n\n[メインタイムライン]\n[核心設定]\n[関連ページ]\n\n回到标题\n跳至底部\n\nIch habe gesehen, dass die Völker sich gegenseitig feindselig gesinnt sind und dass sie sich stillschweigend, unbewusst, dumm, bereitwillig und unschuldig gegenseitig töten. Ich habe gesehen, dass die klügsten Köpfe der Welt weiterhin Waffen erfinden und Artikel schreiben, um diese Feindseligkeiten und Mordhandlungen raffinierter und dauerhafter zu machen.\n私は見た。民族が互いに憎み合い、そして無言のうちに、無自覚に、愚かにも、自ら望んで、何の罪もなく、互いを殺し合っているのを。私は見た。世界でもっとも聡明な頭脳を持つ者たちがなおも兵器を発明し、文章を書き続け、その憎悪と殺戮をより巧妙に、より永続的なものへと変えているのを。\n——エーリヒ・マリア・レマルク、『西部戦線異状なし』\n\n我らこそ戦争\nハブページ\n\n1700s\n\n植民地拡大\n\n異種族の先住民など、所詮は商品に過ぎない。彼らの歴史は、忘れ去られることを宿命づけられていた。\n人種の混交が進むにつれ、私たちは自らがどこから来たのかさえ忘れてしまった。かつては、南アジアのドワーフ連邦や南アメリカのフォレストエルフ共和国など、多くの異種族国家が繁栄していた。しかし、植民地時代にそのすべてが衰退し、征服され、虐殺された。\n彼らが火縄銃を“それら”へ向けたとき、より高位の何者かは、思わず微笑みを浮かべた。それこそが、彼女の望んでいた光景ではなかったか。\n\n1914\n\n第一次世界大戦\n\n“すべての戦争を終わらせるための戦争”。\n\n1922\n\nローマ進軍\n\n1922年10月、イタリア国家ファシスト党党首ベニート・アミルカーレ・アンドレア・ムッソリーニは黒シャツ隊を率いてローマへ進軍し、暴動を起こして武力による政権奪取を成し遂げ、イタリア首相に就任した。\n\n1928\n\n独裁体制\n\nムッソリーニは議会制を強制的に廃止し、ファシズム独裁体制を樹立した。あらゆる政党と民衆団体は解散を命じられ、民族排外主義が煽動された。\nイタリアは、すでに戦争という車輪へと縛り付けられていた。\n\n1929\n\n世界恐慌\n\n1929年10月24日、ニューヨーク証券取引所は暴落した。資本主義経済に内在する周期的な病が再び発症した。そして今回、その規模はかつてないものだった。ファシズムという種子は、すでに地中へ蒔かれていた。あとは芽吹くだけだった。\n戦争の女神は呼びかけている。彼女は渇望している。彼女は待ち望んでいる。\n\n1931\n\n満州事変\n\n日本の関東軍は、中国軍が鉄道を爆破したと虚偽の非難を行い、それを口実として戦端を開いた。東北地方の人々と撤退しなかった東北軍部隊は抗日義勇軍を組織し、決然として戦場へ赴く。東北地方の魔法少女たちもまた、抗日遊撃隊へ加わった。\nこうして、長きにわたる世界大戦の幕が上がった。\n\n1935\n\n汪兆銘暗殺事件\n\n1935年11月1日、国民党第四回中央執行委員会第六回全体会議の開幕式後、国民党のナンバー2であった汪兆銘は、集合写真の撮影中、記者を装った孫鳳鳴に銃撃されるという暗殺事件に遭い、その場で死亡した。\nこの事件により、蔣介石は国民党内で最高指導者としての地位をより確固たるものとし、自らの勢力をさらに拡大していった。\n\n1936\n\nスペイン内戦\n\n1936年7月18日、反乱が正式に勃発した。フランシスコ・フランコ率いる反乱軍は、ドイツおよびイタリアのファシスト勢力による介入軍とともに共和国首都マドリードへ四度にわたる大規模攻勢を仕掛けた。一方、共和国政府は内部に潜伏したスパイの暗躍によって前後から圧迫され、双方の戦力差は歴然としていた。\n1939年3月28日、マドリードは反乱軍の手に落ちる。4月1日、共和国政府は打倒され、フランコ独裁政権がスペイン全土を覆った。\n\n西安事件\n\n汪兆銘が銃撃された後、中国国民党左派は一時的に優勢となった。対外的危機の切迫は、もはやいかなる内部対立にも優先されるものとなっていた。12月12日、張学良と楊虎城による蔣介石への“兵諫”の結果、最も絶望的な同盟――国共連合政府が成立した。\n同じ年、日本とドイツは、真に反人類的な技術――制御可能な魔女化――に関する研究成果の共有を開始する。それは、この先数十年にわたり連合軍の頭上に付きまとう悪夢となる。\n漢奸粛清運動\n\n反帝・愛国を掲げる漢奸粛清運動が大々的に展開された。この運動の最初の標的となったのは周仏海とその一派であり、彼らは次々と逮捕・収監され、人民による裁きを受けることになった。\n\n1937年7月7日\n\n盧溝橋事件\n\n“戦死するとも、亡国の民にはならず！”\n日本による全面的な中国侵略戦争が始まった。黒き旭日が、東アジアの空へと昇り始める。\n\n1937\n\nIAMA前身組織の発展\n\n中国戦線および東南アジア戦線では、多数の魔法少女が自発的に組織を結成し、大日本帝国の侵略に対する抵抗を開始した。\n\n1939年9月1日\n\nポーランド侵攻\n\n“ポーランドは滅びず。我らがなお生きる限り、ポーランドは決して滅びない！”\n親衛隊第39師団“魔女”――Hexen-SSは、驚異的な速度でポーランドの半土を焦土へと変えた。歩兵を主力とするポーランド軍の抵抗はほとんど意味を成さず、魔女軍団の真の戦力は、この戦いで初めて世界の前に姿を現した。\nこうして第二次世界大戦は全面戦争へと発展する。ファシズム勢力はもはや何ものにも憚ることなく膨張を続け、地球全土をその鷲の爪で掴み取ろうとしていた。\n\n1939\n\nIAMA前身組織の完成\n\n世界の未来を左右するこの戦争において、あらゆる国家、民族、そして個人の運命は互いに結び付いていた。世界各地に散らばっていた魔法少女たちは組織化され、この戦争へと身を投じる。\n私たちは、もはや孤立してはいない。\n\n1940\n\nバトル・オブ・ブリテン\n\nナチス・ドイツによるイギリス侵攻作戦“アシカ作戦”に対抗するため、英独両国は空軍史上最大規模の航空戦を繰り広げた。数か月に及ぶ空中戦の末、ドイツ軍はイギリス空軍主力を壊滅させることも、都市爆撃によってイギリスを屈服させることもできなかった。…",
+        "summary_basis_type": "overview",
+        "tags": [
+          "cn",
+          "ハブ",
+          "我らこそ戦争"
+        ],
+        "rating": 14,
+        "vote_count": 14,
+        "revision_count": 2,
+        "comment_count": 1,
+        "content_hash": "sha256:5f9cb07f6cb322d6fb5f06deb53601d09338da325ac81fdaf280b7c3f583aa46",
+        "has_text_content": true,
+        "text_content_length": 20193
+      }
+    },
+    "1469047357": {
+      "wikidot_id": "1469047357",
+      "page_name": "scp-l408",
+      "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "last_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469047357",
+        "page_name": "scp-l408",
+        "url": "https://scp-jp.wikidot.com/scp-l408",
+        "edition": "translation",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "credit_translation_responsible",
+          "credit_translation_year",
+          "credit_original_title",
+          "credit_original_url"
+        ],
+        "source_branch": "EN",
+        "source_branch_basis": "original_url",
+        "genre": "SCP報告書",
+        "article_title": "SCP-L408",
+        "subtitle": "クラブ（グ）レイブ",
+        "authors": [],
+        "original_title": "Crab (G)rave",
+        "original_url": "https://scp-wiki.wikidot.com/scp-l408",
+        "original_authors": [
+          "Anorrack"
+        ],
+        "original_year": "2026",
+        "translation_year": "2026",
+        "translation_responsible": [
+          "Tetsu1"
+        ],
+        "translators": [
+          "Tetsu1"
+        ],
+        "created_at_utc": "2026-07-25T15:51:54.000Z",
+        "created_at_jst": "2026-07-26T00:51:54+09:00",
+        "created_by": "Tetsu1",
+        "content_warnings": [],
+        "summary_basis": "Due to a unique mutation on their claw, specimens can teleport. They have little control over their final destination.\n\nAnorrack\n\nこちらが私の著者ページです。\n写真はWikimediaから、CC 4.0。\n\nアイテム番号: SCP-L408\nオブジェクトクラス: Keter Neutralized\nアーカイブ済特別収容プロトコル: 収容下に置ける最大個体数は1000体とします。負傷した個体及び上限を超過した個体は焼却処分されます。\nSCP-L408の瞬間移動を防ぐ有効な手段は発見されていません。\n収容プロトコル更新 (2013/05/12): 収容下に置ける最大個体数は500体とします。\n収容プロトコル更新 (2013/08/15): 収容されている個体の腹部に小型のGPSトラッカーを固定します。\n収容プロトコル更新 (2014/02/01): 収容下に置ける最大個体数は200体とします。\n\n幼体のHemigrapsus個体、サイト-34レクリエーションルームのウォータークーラー内部から発見。\n\nアーカイブ済説明: SCP-L408は極めて希少な真洞窟性カニの一種であるHemigrapsus estellinesisの総称です。SCP-L408は長時間淡水に耐えることが可能ですが、比重1.031の高塩分水域に生息することを好みます。\n右の鋏脚と関節のキチン質に生じた特有の突然変異により、Hemigrapsusは鋏を鳴らすことで空間を折り曲げる能力を有しており、実際のまたは知覚した脅威に対して付近の1水源の内外に瞬間移動することが可能です。この能力は卵内で発達するようであり、卵塊も瞬間移動することが確認されています。\n瞬間移動時に最終目的地をほとんど制御できないことから、この突然変異は種内で比較的最近発生したものと考えられています。瞬間移動の対象となる唯一既知の必要条件は、その場所が高含水率であることのみです。これは、瞬間移動先の温度、容積、圧力、密度、相、溶質、物質組成を考慮していません。更に、SCP-L408は群生性であるため、一斉瞬間移動が引き起こされることがあり、しばしば大量死に至ります。\nアノマリーは1964年、サイト-34の定期メンテナンス中に発見されました。サイトの浄水場内でコロニーが発見されました。米陸軍工兵部隊によって付近の塩泉から追いやられたものと思われます。\n注目すべきインシデント (日付昇順):2\n\n個体の場所\n回復費用 (USD)\n注\n\nサイト-34カフェテリアウォータークーラー\n$20\n水の味に関する苦情が相次いだ後、死亡した個体が発見された。\n\nコーヒーの中の氷\n$450\n2匹のSCP-L408による氷の瞬間的な移動によってコーヒーカップが粉砕され、ジェレミー・オーブス警備員が重度の火傷を負った。\n\nサイト-34レクリエーションサウナ\n$1,410\nサイトのレクリエーションサウナは700匹のSCP-L408で埋め尽くされた。当時サウナを使用していた研究員3名は無事に救助された。回収された個体の大部分は生きたまま茹でられていた。\n\n3オンスの水\n$15,320\nジェレミー・オーブス警備員が医師の診察を受けた際、その胃の中の3オンスの水の中に4匹の成体が現れた。個体は胃から摘出されたが、それまでに彼は胃の内壁に深刻な裂傷を負った。\n\nサイト-34上空に形成された積乱雲\n$170,000\n最初の瞬間移動発生後、数時間にわたり郡全体での「カニの雨」の報告が続いた。\n\nサイト-34男性用トイレ\n$780\n男性用トイレの使用中の便器の一つが300匹のSCP-L408で満たされた。その後、ジェレミー・オーブス警備員は業務中の負傷のため医務室に入院した。\n\nジェレミー・オーブス警備員\n$50,000\nオーブスが副鼻腔の痛みと目の炎症を報告した後、左の眼窩に約70個の卵が埋め込まれているのが発見された。\n\n水分が5%未満のシアン化物溶液\n$450\nSCP-[編集済]の収容に使用されている溶液内に2匹の個体が瞬間移動した。毒性の溶液から逃れるため、その後ウォータークーラーに瞬間移動し、溶液でクーラーを汚染した。個体が収容されるまでに、研究員2名と警備員1名がシアン化物中毒で入院した。\n\nタピオカティー5杯\n$170\nカフェテリアで提供されたタピオカティーに2個の卵塊が混入しているのが発見された。ジェレミー・オーブス警備員は甲殻類アレルギーを発症していたためにアナフィラキシーショックを経験した。オーブスはその後入院した。\n\nウォーターベッド\n$10\n1匹の個体が3週間囲いから消失していた。後にジェレミー・オーブス警備員の兵舎において、散発的に「挟まれる」感覚のために夜間連続して睡眠できていないことを述べた後に、彼のウォーターベッド3内から発見された。\n\nジェレミー・オーブス警備員\n$24,000\nオーブスが数日間にわたり睾丸に極度の痛みを訴えていた後、彼の陰嚢から生きた幼体が摘出された。\n\nフルーツポンチのボウル\n$300\nジェレミー・オーブス警備員の手術後回復祝いパーティーにおいて、…",
+        "summary_basis_type": "opening",
+        "tags": [
+          "en",
+          "keter",
+          "lost-series",
+          "neutralized",
+          "scp",
+          "動物",
+          "水中",
+          "生命",
+          "甲殻類",
+          "瞬間移動",
+          "種族"
+        ],
+        "rating": 4,
+        "vote_count": 4,
+        "revision_count": 1,
+        "comment_count": 1,
+        "content_hash": "sha256:252a0e3ce683bd8afd38dca43c76506876af61d0b57d2fe746405376da01e642",
+        "has_text_content": true,
+        "text_content_length": 3825
+      }
+    }
+  }
+}
