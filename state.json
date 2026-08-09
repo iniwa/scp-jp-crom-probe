@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-08-08T21:43:56.371766+00:00",
+  "generated_at_utc": "2026-08-09T21:45:45.493018+00:00",
   "seen": {
     "1469070013": {
       "wikidot_id": "1469070013",
@@ -14,7 +14,7 @@
       "wikidot_id": "1469065219",
       "page_name": "reijittai",
       "first_seen_at_utc": "2026-07-30T05:00:00+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": true,
       "article": {
         "wikidot_id": "1469065219",
@@ -64,7 +64,7 @@
       "wikidot_id": "1469057200",
       "page_name": "scp-4037-jp",
       "first_seen_at_utc": "2026-07-30T05:00:00+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": true,
       "article": {
         "wikidot_id": "1469057200",
@@ -118,7 +118,7 @@
       "wikidot_id": "1469052997",
       "page_name": "scp-4543-jp",
       "first_seen_at_utc": "2026-07-30T05:00:00+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": true,
       "article": {
         "wikidot_id": "1469052997",
@@ -175,7 +175,7 @@
       "wikidot_id": "1469052641",
       "page_name": "scp-4733-jp",
       "first_seen_at_utc": "2026-07-30T05:00:00+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": true,
       "article": {
         "wikidot_id": "1469052641",
@@ -232,7 +232,7 @@
       "wikidot_id": "1469052203",
       "page_name": "scp-4119-jp",
       "first_seen_at_utc": "2026-07-30T05:00:00+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": true,
       "article": {
         "wikidot_id": "1469052203",
@@ -270,8 +270,8 @@
           "scp",
           "植物"
         ],
-        "rating": 84,
-        "vote_count": 110,
+        "rating": 86,
+        "vote_count": 112,
         "revision_count": 4,
         "comment_count": 3,
         "content_hash": "sha256:3c4f9c17dda69f43adc01268725b85a4fc1d7b12e28c759a2ad08eff2a79c99c",
@@ -283,7 +283,7 @@
       "wikidot_id": "1469051891",
       "page_name": "scp-4075-jp",
       "first_seen_at_utc": "2026-07-30T05:00:00+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": true,
       "article": {
         "wikidot_id": "1469051891",
@@ -344,7 +344,7 @@
       "wikidot_id": "1469051153",
       "page_name": "scp-3137-jp",
       "first_seen_at_utc": "2026-07-30T05:00:00+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": true,
       "article": {
         "wikidot_id": "1469051153",
@@ -399,7 +399,7 @@
       "wikidot_id": "1469049627",
       "page_name": "versus-sneak-of-the-hidden-knife",
       "first_seen_at_utc": "2026-07-30T05:00:00+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": true,
       "article": {
         "wikidot_id": "1469049627",
@@ -452,7 +452,7 @@
       "wikidot_id": "1469088266",
       "page_name": "scp-cn-3463",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469088266",
@@ -513,7 +513,7 @@
       "wikidot_id": "1469088150",
       "page_name": "utaki-02",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469088150",
@@ -563,7 +563,7 @@
       "wikidot_id": "1469088127",
       "page_name": "eve-aic-part-fourteen",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469088127",
@@ -613,7 +613,7 @@
       "wikidot_id": "1469087277",
       "page_name": "scp-070-vn",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469087277",
@@ -728,7 +728,7 @@
       "wikidot_id": "1469085163",
       "page_name": "scp-716-ko",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469085163",
@@ -846,7 +846,7 @@
       "wikidot_id": "1469084651",
       "page_name": "rotation",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-07T21:53:20.853025+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469084651",
@@ -899,7 +899,7 @@
       "wikidot_id": "1469084610",
       "page_name": "scp-032-th",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-07T21:53:20.853025+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469084610",
@@ -964,7 +964,7 @@
       "wikidot_id": "1469084447",
       "page_name": "scp-cn-4477",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-07T21:53:20.853025+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469084447",
@@ -1023,7 +1023,7 @@
       "wikidot_id": "1469084183",
       "page_name": "utaki-01",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-07T21:53:20.853025+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469084183",
@@ -1074,7 +1074,7 @@
       "wikidot_id": "1469083831",
       "page_name": "sfdv-commentary",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-07T21:53:20.853025+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469083831",
@@ -1130,7 +1130,7 @@
       "wikidot_id": "1469083776",
       "page_name": "scp-4330-jp",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469083776",
@@ -1181,7 +1181,7 @@
       "wikidot_id": "1469083667",
       "page_name": "scp-2342-jp",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469083667",
@@ -1234,7 +1234,7 @@
       "wikidot_id": "1469082471",
       "page_name": "black-white-gold-whiteagain",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469082471",
@@ -1335,7 +1335,7 @@
       "wikidot_id": "1469081437",
       "page_name": "ambrose-little-havana",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469081437",
@@ -1396,7 +1396,7 @@
       "wikidot_id": "1469081372",
       "page_name": "utaki-00",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469081372",
@@ -1434,8 +1434,8 @@
           "共著",
           "青大将"
         ],
-        "rating": 60,
-        "vote_count": 66,
+        "rating": 61,
+        "vote_count": 67,
         "revision_count": 8,
         "comment_count": 2,
         "content_hash": "sha256:3d7d1c69fb78d824e398c0803464d805200a8f321dc74ec9a2f796d191e7aaa0",
@@ -1447,7 +1447,7 @@
       "wikidot_id": "1469081308",
       "page_name": "scp-5649",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469081308",
@@ -1559,7 +1559,7 @@
       "wikidot_id": "1469080787",
       "page_name": "scp-l369",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469080787",
@@ -1618,7 +1618,7 @@
       "wikidot_id": "1469080477",
       "page_name": "scp-2174-jp",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469080477",
@@ -1725,7 +1725,7 @@
       "wikidot_id": "1469076426",
       "page_name": "scp-8143",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469076426",
@@ -1780,7 +1780,7 @@
       "wikidot_id": "1469075542",
       "page_name": "scp-l500",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469075542",
@@ -1840,7 +1840,7 @@
       "wikidot_id": "1469074566",
       "page_name": "scp-069-vn",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469074566",
@@ -1905,7 +1905,7 @@
       "wikidot_id": "1469070960",
       "page_name": "scp-6718",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469070960",
@@ -1968,7 +1968,7 @@
       "wikidot_id": "1469070611",
       "page_name": "format-screw-hub",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469070611",
@@ -2029,7 +2029,7 @@
       "wikidot_id": "1469070229",
       "page_name": "scp-567-ko",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469070229",
@@ -2091,7 +2091,7 @@
       "wikidot_id": "1469070217",
       "page_name": "down-the-silver-river",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469070217",
@@ -2149,7 +2149,7 @@
       "wikidot_id": "1469070198",
       "page_name": "sweetness",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469070198",
@@ -2208,7 +2208,7 @@
       "wikidot_id": "1469070119",
       "page_name": "rapture",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469070119",
@@ -2266,7 +2266,7 @@
       "wikidot_id": "1469058739",
       "page_name": "scp200vncontesthub",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469058739",
@@ -2324,7 +2324,7 @@
       "wikidot_id": "1469057324",
       "page_name": "scp-l909",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469057324",
@@ -2393,7 +2393,7 @@
       "wikidot_id": "1469056213",
       "page_name": "scp-7618",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469056213",
@@ -2459,7 +2459,7 @@
       "wikidot_id": "1469052336",
       "page_name": "scp-cn-3363",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469052336",
@@ -2519,7 +2519,7 @@
       "wikidot_id": "1469051986",
       "page_name": "scp-164-de",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469051986",
@@ -2581,7 +2581,7 @@
       "wikidot_id": "1469051983",
       "page_name": "scp-l057",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469051983",
@@ -2640,7 +2640,7 @@
       "wikidot_id": "1469050858",
       "page_name": "r-sinano-chuo-co-jp-2025-04-24-8k2m9n",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469050858",
@@ -2698,7 +2698,7 @@
       "wikidot_id": "1469050857",
       "page_name": "market-garden-art",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469050857",
@@ -2759,7 +2759,7 @@
       "wikidot_id": "1469050856",
       "page_name": "bellum-sumus-hub",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469050856",
@@ -2816,7 +2816,7 @@
       "wikidot_id": "1469047357",
       "page_name": "scp-l408",
       "first_seen_at_utc": "2026-08-03T01:46:28.108523+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469047357",
@@ -2881,7 +2881,7 @@
       "wikidot_id": "1469092590",
       "page_name": "scp-609-cs",
       "first_seen_at_utc": "2026-08-03T22:16:44.097285+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469092590",
@@ -2942,7 +2942,7 @@
       "wikidot_id": "1469091884",
       "page_name": "scp-153-vn",
       "first_seen_at_utc": "2026-08-03T22:16:44.097285+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469091884",
@@ -3005,7 +3005,7 @@
       "wikidot_id": "1469091067",
       "page_name": "scp-4989-jp",
       "first_seen_at_utc": "2026-08-03T22:16:44.097285+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469091067",
@@ -3060,7 +3060,7 @@
       "wikidot_id": "1469080003",
       "page_name": "scp-173-ko-j",
       "first_seen_at_utc": "2026-08-03T22:16:44.097285+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469080003",
@@ -3170,7 +3170,7 @@
       "wikidot_id": "1469097261",
       "page_name": "scp-272-de",
       "first_seen_at_utc": "2026-08-04T22:20:40.762985+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469097261",
@@ -3230,7 +3230,7 @@
       "wikidot_id": "1469094116",
       "page_name": "a-bitter-taste",
       "first_seen_at_utc": "2026-08-04T22:20:40.762985+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469094116",
@@ -3288,7 +3288,7 @@
       "wikidot_id": "1469102629",
       "page_name": "to-punch-a-hole-in-the-world",
       "first_seen_at_utc": "2026-08-05T22:18:57.055922+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469102629",
@@ -3338,7 +3338,7 @@
       "wikidot_id": "1469102224",
       "page_name": "scp-574-fr",
       "first_seen_at_utc": "2026-08-05T22:18:57.055922+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469102224",
@@ -3405,7 +3405,7 @@
       "wikidot_id": "1469101545",
       "page_name": "mea-culpa-empty-title",
       "first_seen_at_utc": "2026-08-05T22:18:57.055922+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469101545",
@@ -3455,7 +3455,7 @@
       "wikidot_id": "1469107496",
       "page_name": "scp-redacted-jp-j",
       "first_seen_at_utc": "2026-08-07T01:02:04.217755+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469107496",
@@ -3494,8 +3494,8 @@
           "ジョーク",
           "削除通知"
         ],
-        "rating": -68,
-        "vote_count": 68,
+        "rating": -69,
+        "vote_count": 69,
         "revision_count": 4,
         "comment_count": 1,
         "content_hash": "sha256:cf497601e3fb99564c831c3712d3f82bded1bc448d1a849eae2c0be6be9fab9d",
@@ -3507,7 +3507,7 @@
       "wikidot_id": "1469106859",
       "page_name": "scp-l618",
       "first_seen_at_utc": "2026-08-07T01:02:04.217755+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469106859",
@@ -3557,8 +3557,8 @@
           "可視光",
           "炎"
         ],
-        "rating": 12,
-        "vote_count": 16,
+        "rating": 13,
+        "vote_count": 17,
         "revision_count": 1,
         "comment_count": 2,
         "content_hash": "sha256:a0d0b9f34aea78b730766c2dc6ea5c866f7a1f81cc050c7cf2614e2cefc364f3",
@@ -3626,7 +3626,7 @@
       "wikidot_id": "1469106624",
       "page_name": "scp-7630",
       "first_seen_at_utc": "2026-08-07T01:02:04.217755+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469106624",
@@ -3677,8 +3677,8 @@
           "知性",
           "crom:series-8"
         ],
-        "rating": -3,
-        "vote_count": 5,
+        "rating": -4,
+        "vote_count": 6,
         "revision_count": 1,
         "comment_count": 1,
         "content_hash": "sha256:a9a3b301314af416fd89ff94763fbe5f208d98e3721ffc0b30a384f22a44fbe7",
@@ -3690,7 +3690,7 @@
       "wikidot_id": "1469106359",
       "page_name": "scp-cn-1109-j",
       "first_seen_at_utc": "2026-08-07T01:02:04.217755+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469106359",
@@ -3882,7 +3882,7 @@
       "wikidot_id": "1469105959",
       "page_name": "reo-ripper-artwork",
       "first_seen_at_utc": "2026-08-07T01:02:04.217755+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469105959",
@@ -3919,8 +3919,8 @@
           "アートワーク",
           "蛸葦廃船"
         ],
-        "rating": 70,
-        "vote_count": 70,
+        "rating": 71,
+        "vote_count": 71,
         "revision_count": 19,
         "comment_count": 0,
         "content_hash": "sha256:61dd893998e69f8dbe65f7b0dff0f5c57715c1fb16d4ee67f7eefbdc3c134657",
@@ -3932,7 +3932,7 @@
       "wikidot_id": "1469110522",
       "page_name": "scp-4055-jp",
       "first_seen_at_utc": "2026-08-07T21:53:20.853025+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469110522",
@@ -3983,7 +3983,7 @@
       "wikidot_id": "1469110272",
       "page_name": "continuum",
       "first_seen_at_utc": "2026-08-07T21:53:20.853025+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469110272",
@@ -4020,10 +4020,10 @@
           "tale",
           "依談"
         ],
-        "rating": 28,
-        "vote_count": 28,
+        "rating": 29,
+        "vote_count": 29,
         "revision_count": 1,
-        "comment_count": 2,
+        "comment_count": 3,
         "content_hash": "sha256:b29526e9c7bbda8b5f1b39a5002031a0aa10eb9385984d35d111134dfed7c1d2",
         "has_text_content": true,
         "text_content_length": 3627
@@ -4033,7 +4033,7 @@
       "wikidot_id": "1469109010",
       "page_name": "jogaksang-proposal",
       "first_seen_at_utc": "2026-08-07T21:53:20.853025+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469109010",
@@ -4082,10 +4082,10 @@
           "ジョーク",
           "重訳"
         ],
-        "rating": 33,
-        "vote_count": 35,
+        "rating": 35,
+        "vote_count": 37,
         "revision_count": 1,
-        "comment_count": 1,
+        "comment_count": 2,
         "content_hash": "sha256:3741cb38d4ad6c1f02e876010223cb0bdf527eb5abf182729409bd126bcfc836",
         "has_text_content": true,
         "text_content_length": 2330
@@ -4095,7 +4095,7 @@
       "wikidot_id": "1469108601",
       "page_name": "scp-2573-jp",
       "first_seen_at_utc": "2026-08-07T21:53:20.853025+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469108601",
@@ -4147,7 +4147,7 @@
       "wikidot_id": "1469121878",
       "page_name": "scp-4699-jp",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469121878",
@@ -4198,8 +4198,8 @@
           "睡眠",
           "蒐集院"
         ],
-        "rating": 1,
-        "vote_count": 1,
+        "rating": 4,
+        "vote_count": 16,
         "revision_count": 3,
         "comment_count": 1,
         "content_hash": "sha256:85d1860d58e36b4ba417d113c963817263e050d2cf4f60b00810fac777dde9c9",
@@ -4211,7 +4211,7 @@
       "wikidot_id": "1469121638",
       "page_name": "k-b-3205",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469121638",
@@ -4241,7 +4241,7 @@
         "created_at_jst": "2026-08-09T04:01:05+09:00",
         "created_by": "Isa7",
         "content_warnings": [],
-        "summary_basis": "あの日々よ再び\n\n※画像はイメージです。\n\n品番\n型番\n対応種\n価格\n安心プラン価格\n\nか-B-3205\nSin-01S\n短毛種\n¥ 1650\n¥ 1850〜\n\nか-B-3205\nSin-01L\n長毛種\n¥ 1850\n¥ 2100〜\n\nか-B-3205\nSin-02\n鳥類\n¥ 1800\n¥ 1950〜\n\nか-B-3205\nSin-03\n爬虫類\n¥ 1800\n¥ 1950〜\n\nか-B-3205\nSin-04(予定)\n魚類(予定)\n¥ 12000(予定)\n¥ 15200〜(予定)\n\n完全再現のため、事前にお客様からペットの遺物(骨や被毛など)の一部をお預かりさせていただきます。その後、遺物はご購入いただいたか-B-3205に格納してお返しいたします。\n本製品の初期立ち上げに不安がございます場合は、お気軽にご相談ください。安心プランをご用意しています。\n\n特徴\n\n小首を傾げる仕草、此方を見つめる瞳、覚えさせた芸の全てをニッソハマグリが再現します。\n病みつきになったにおい、心地よい感触の被毛、愛おしい重みに至るまでニッソコウジカビは再現します。\n\n仕様\n\n最愛のペットが残した遺物の小さな一欠片よりご利用可能です。\n菌床のメンテナンス以外のお世話は基本的に必要ありません。お客様が与える愛情・愛着が主な栄養源です。\n耐用年数はニッソハマグリが120年、ニッソコウジカビは70年ほどを想定しております。ご利用を中断なさる場合は、同梱している処理剤をお使い頂いた後に遺物の回収を行なってください。\n\n利用上の注意\nか-B-3205と触れ合う際は製品の落下にご注意下さい。胞子嚢部分の脱落により被毛の再現に異常をきたします。また、菌床はおおよそ150日〜200日で分解に伴う崩壊が発生するため、同封いたしました手順書の説明に則って交換を行ってください。\n\n説明書: か-B-3205 \"最愛の蜃気楼\"はニッソハマグリとニッソコウジカビの共生によって誕生した、ペットロスに悩むお客様に寄り添った夢の製品です。\nニッソハマグリ\n\n弊社の生物部門が中国の伝説上の生物である「蜃」をシナハマグリ(Meretrix petechialis)で再現した生き物です。内側に抱え込んだ物体の物体記憶や遺伝子情報を夢取管(入水管)を通して取り込むと出霧菅(出水官)から情報を含んだ霧状の分泌物──いわゆる蜃気楼を吐き出します。ニッソハマグリは吐き出された蜃気楼による擬態を視認したお客様の愛情を糧にしてペットの仕草や姿を耐用年数まで再現し続けます。\nニッソコウジカビ\n\n蛤岐研究員の開発した新種のコウジカビ(Aspergillus oryzae)です。弊社保有の独自超常技術により、穀類以外でも生育する適応力と湿度に頼らない発育性、調節可能な胞子嚢を獲得しました。また、ヒト寄生虫からヒントを得た効率的なエネルギー代謝性を獲得した事で菌床交換の頻度低減を実現しました。このニッソコウジカビは、他生物との安定した共生関係を構築し、宿主側の有利となる補助を行う生態を有しています。この生態を応用して、宿主であるニッソハマグリが発生させる蜃気楼に合わせて最愛のペットのにおい・毛や羽毛を含めた質感・重みを自然に再現しています。\n\n研究者コメント\nか-B-3205開発プロジェクトを立ち上げたきっかけは、私が最愛のペットであるしらたま(ジャンガリアンハムスター)を亡くした際に感じた喪失感と、同僚からの「代わりを買ってみてはどうか？」と言われたことに対して抱いた「あの子の代わりはいない」という強い思いからでした。\n研究を重ねて誕生したか-B-3205のプロトタイプであるしらたまは現在、本カタログ執筆時点で3回の菌床移動を経て654日目の生存を記録し、毎日一緒に出勤しています。\nお客様からのご相談や製品アンケートの内容を受けて、現在販売中のか-B-3205に魚類対応品種の追加が決定いたしました。鋭意開発中ですので、完成まで少々お待ちいただけると幸いです。また、研究の発展により、条件付きではありますが新たなサービスを開始しております。是非ご検討ください。\n生物部門所属　研究員　蛤岐 一三うむき　かずみ\n\nお客様の声:\n\n購入型番Sin-02: 雛の頃から可愛がっていたペーちゃん(キンカチョウ)を亡くし、心配になる程に塞ぎ込んでしまった孫娘に笑ってほしくて、こちらの商品を購入しました。届いてから数日経った頃に、私が可愛がっている愛猫がペーちゃんを死なせてしまった事を改めて謝罪したところ、孫娘は小粒の豆大福を両手で抱えながら「ペーちゃんも許すって」と、笑って許してくれました。今では孫娘は毎日楽しそうに豆大福へ話しかけています。　　　76歳女性\n\n購入型番Sin-01: 最初は半信半疑でした。こんな真っ白なカビが生えたおにぎりが私の可愛いゆきちゃん(ファンシーラット)になるだなんて。けど、2日目からでしたでしょうか。ふとケージを見たらいたんです、ゆきちゃんが。それからは、ゆきちゃんに求められるまま毎日抱っこして過ごしています。この温かさと毛並みをもう離したくありません。　　　22歳女性\n\n購入型番Sin-01S: ライフサポートサービスのお陰で、介助犬として長年連れ沿ってくれたハッピー(ラブラドールレトリバ…",
+        "summary_basis": "あの日々よ再び\n\n※画像はイメージです。\n\n品番\n型番\n対応種\n価格\n安心プラン価格\n\nか-B-3205\nSin-01S\n短毛種\n¥ 1650\n¥ 1850〜\n\nか-B-3205\nSin-01L\n長毛種\n¥ 1850\n¥ 2100〜\n\nか-B-3205\nSin-02\n鳥類\n¥ 1800\n¥ 1950〜\n\nか-B-3205\nSin-03\n爬虫類\n¥ 1800\n¥ 1950〜\n\nか-B-3205\nSin-04(予定)\n魚類(予定)\n¥ 12000(予定)\n¥ 15200〜(予定)\n\nご購入後、か-B-3205の最終調整のためにお客様からペットの遺物(骨や被毛など)の一部をお預かりさせていただきます。\n本製品の初期立ち上げに不安を覚える場合はお気軽にご相談ください。安心プランをご用意しております。\n\n特徴\n\n小首を傾げる仕草、此方を見つめる瞳、覚えさせた芸の全てをニッソハマグリが再現します！\n病みつきになったにおい、心地よい感触の被毛、愛おしい重みに至るまでニッソコウジカビは再現します！\n\n仕様\n\n最愛のペットが残した遺物の小さな一欠片よりご利用可能です。\n菌床のメンテナンス以外のお世話は基本的に必要ありません。お客様が与える愛情・愛着が主な栄養源です。\n耐用年数はニッソハマグリが120年、ニッソコウジカビは70年ほどを想定しております。ご利用を中断なさる場合は、同梱している処理剤をお使い頂いた後に遺物の回収を行なってください。\n\n説明書: か-B-3205 \"最愛の蜃気楼\"はニッソハマグリとニッソコウジカビの共生によって誕生した、ペットロスに悩むお客様に寄り添った夢の製品です。現在、Sin-01〜03まで展開しており、それぞれが哺乳類・鳥類・爬虫類の被毛や鱗の質感の再現性に特化したニッソコウジカビの型番となっております。\nか-B-3205は、過酷な環境にも柔軟に適応でき、ニッソハマグリの排泄物はニッソコウジカビの餌となるため、飼育環境の整備・管理は菌床の交換を除いてとても簡単です。また、安心プランに記載の定期メンテナンスサービスをご利用頂ければ、か-B-3205の飼育に不慣れなお子様、生活の激変により以前と同等の管理が難しい方や身体的な不安を抱えるご高齢の方も、格段に負担の無い状態でか-B-3205と生活していただけると思います。\nニッソハマグリ\n\n弊社の生物部門が中国の伝説上の生物である「蜃」をシナハマグリ(Meretrix petechialis)で再現した生き物です。内側に抱え込んだ物体の物体記憶や遺伝子情報を夢取管を通して取り込むと出霧菅から情報を含んだ霧状の分泌物──いわゆる蜃気楼を吐き出します。ニッソハマグリは吐き出された蜃気楼による擬態を視認したお客様の愛情を糧にしてペットの仕草や姿を耐用年数まで再現し続けます。\nニッソコウジカビ\n\n蛤岐研究員の開発した新種のコウジカビ(Aspergillus oryzae)です。弊社保有の独自超常技術により、穀類以外でも生育する適応力と湿度に頼らない発育性、調節可能な胞子嚢を獲得しました。また、ヒト寄生虫からヒントを得た効率的なエネルギー代謝性を獲得した事で菌床交換の頻度低減を実現しました。このニッソコウジカビは、他生物との安定した共生関係を構築し、宿主側の有利となる補助を行う生態を有しています。この生態を応用して、宿主であるニッソハマグリが発生させる蜃気楼に合わせて最愛のペットのにおい・毛や羽毛を含めた質感・重みを自然に再現しています。\n\n利用上の注意\nか-B-3205と触れ合う際は製品に強い衝撃(叩きつける等)を与えないで下さい。胞子嚢部分の脱落により被毛の再現に異常をきたします。また、菌床はおおよそ150日〜200日で分解に伴う崩壊が発生するため、同封いたしました手順書の説明に則って交換を行ってください。\n\n研究者コメント\nか-B-3205開発プロジェクトを立ち上げたきっかけは、私が最愛のペットであるしらたま(ジャンガリアンハムスター)を亡くした際に感じた喪失感と、同僚からの「代わりを買ってみてはどうか？」と言われたことに対して抱いた「あの子の代わりはいない」という強い思いからでした。\n研究を重ねて誕生したプロトタイプのか-B-3205は、本カタログ執筆時点で3回の菌床移動を経て654日目の生存を記録し、かつての\"しらたま\"として私と毎日一緒に職場に出勤しています。\n製品版として調整したか-B-3205は、嬉しい事に沢山のお客様が抱えるペットロスの苦しみを癒しているとの報告をいただいています。このことを受け、さらに多くの方にか-B-3205を利用していただきたいと思い、ニッソコウジカビの魚類特化品種の開発を開始しました。完成まで少々お待ちいただけると幸いです。また、条件付きではありますが、弊社より既存のサービスと並行して新たなサービスの提供が行われます。是非とも皆様には利用を検討いただければと思います。\n生物部門所属　研究員　蛤岐 一三うむき　かずみ\n\nお客様の声:\n\n購入型番Sin-02: 雛の頃から可愛がっていたペーちゃん(キンカチョウ)を亡くし、心配になる程に塞ぎ込んでしまった孫娘に笑ってほしくて、こちらの商品を購入しました。届いてから数日経った頃に、私が可愛が…",
         "summary_basis_type": "opening",
         "tags": [
           "goi-format",
@@ -4250,20 +4250,20 @@
           "日本生類創研",
           "_日本生類創研"
         ],
-        "rating": -1,
-        "vote_count": 1,
-        "revision_count": 2,
+        "rating": 2,
+        "vote_count": 10,
+        "revision_count": 4,
         "comment_count": 1,
-        "content_hash": "sha256:696d1fc14ed4155d1285e6932325f7c3cf42812bc0e36b1fbc99d69579679c90",
+        "content_hash": "sha256:29e5b3f36b4882b96c9968023dddf2a1adf9be6db6c5926930c64f4e91f30663",
         "has_text_content": true,
-        "text_content_length": 3204
+        "text_content_length": 3542
       }
     },
     "1469121546": {
       "wikidot_id": "1469121546",
       "page_name": "scp-4190-jp",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469121546",
@@ -4302,8 +4302,8 @@
           "夢コン26",
           "睡眠"
         ],
-        "rating": 3,
-        "vote_count": 7,
+        "rating": 6,
+        "vote_count": 12,
         "revision_count": 1,
         "comment_count": 1,
         "content_hash": "sha256:6b6a11d3df3654a2df8c20fbafd8b378b3f3620a57f57ae1815a64ec5172d0d5",
@@ -4315,7 +4315,7 @@
       "wikidot_id": "1469121423",
       "page_name": "practical-examination-6777-after",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469121423",
@@ -4353,20 +4353,20 @@
           "夢コン26",
           "実技試験"
         ],
-        "rating": 2,
-        "vote_count": 2,
-        "revision_count": 2,
-        "comment_count": 1,
-        "content_hash": "sha256:4e26a2368671e9a5d504efd23ceb344ac25305a585562768df864196566430c9",
+        "rating": 3,
+        "vote_count": 9,
+        "revision_count": 3,
+        "comment_count": 2,
+        "content_hash": "sha256:1cb9645ff4e6209840574fe2a0b72d32869e3a8b271dde94e6024ccac50d9912",
         "has_text_content": true,
-        "text_content_length": 12666
+        "text_content_length": 12619
       }
     },
     "1469121371": {
       "wikidot_id": "1469121371",
       "page_name": "scp-3209-jp",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469121371",
@@ -4406,20 +4406,20 @@
           "幻覚",
           "睡眠"
         ],
-        "rating": 1,
-        "vote_count": 3,
-        "revision_count": 4,
-        "comment_count": 1,
-        "content_hash": "sha256:8777d4cca51f762c85b7aa355591714ce3772d40dba85c4fee4c6d1e5a5fa59b",
+        "rating": 3,
+        "vote_count": 11,
+        "revision_count": 5,
+        "comment_count": 3,
+        "content_hash": "sha256:e7c07ed59ff30cfe1dcbb09281b4dedb1d8e121dd095945100e62d47fa52cb59",
         "has_text_content": true,
-        "text_content_length": 3625
+        "text_content_length": 3631
       }
     },
     "1469121144": {
       "wikidot_id": "1469121144",
       "page_name": "tutu-sh-s-proposal-ii",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469121144",
@@ -4464,10 +4464,10 @@
           "種族",
           "節足動物"
         ],
-        "rating": 8,
-        "vote_count": 8,
+        "rating": 24,
+        "vote_count": 24,
         "revision_count": 5,
-        "comment_count": 1,
+        "comment_count": 4,
         "content_hash": "sha256:8b419acacffc7b9c745011b6c59b9f6e65807b2b869ffa7fab94966d224683e5",
         "has_text_content": true,
         "text_content_length": 17616
@@ -4477,7 +4477,7 @@
       "wikidot_id": "1469121010",
       "page_name": "melt-koorinoue",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469121010",
@@ -4514,10 +4514,10 @@
           "tale",
           "夢コン26"
         ],
-        "rating": 13,
-        "vote_count": 13,
+        "rating": 18,
+        "vote_count": 22,
         "revision_count": 2,
-        "comment_count": 1,
+        "comment_count": 2,
         "content_hash": "sha256:20ff71efa70fac833fc0ccafad64eb3e10d3731e57c881d587c49fece5224c26",
         "has_text_content": true,
         "text_content_length": 1666
@@ -4527,7 +4527,7 @@
       "wikidot_id": "1469121006",
       "page_name": "a-n-1942",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469121006",
@@ -4567,8 +4567,8 @@
           "難波謙司",
           "_日本生類創研"
         ],
-        "rating": 10,
-        "vote_count": 10,
+        "rating": 29,
+        "vote_count": 29,
         "revision_count": 6,
         "comment_count": 1,
         "content_hash": "sha256:787b41f6d95c1d3bac437c91ddae9eb1bd6c9e8b17437f2e5c099750835c5ffb",
@@ -4580,7 +4580,7 @@
       "wikidot_id": "1469120991",
       "page_name": "the-correct-role-of-an-directer-jp",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469120991",
@@ -4619,8 +4619,8 @@
           "共著",
           "夢コン26"
         ],
-        "rating": 1,
-        "vote_count": 5,
+        "rating": 3,
+        "vote_count": 15,
         "revision_count": 1,
         "comment_count": 1,
         "content_hash": "sha256:c9c0ce0b3e2804d319f0e6b870665021e1195ce9448907e6692bc50e554029c4",
@@ -4632,7 +4632,7 @@
       "wikidot_id": "1469120984",
       "page_name": "scp-4155-jp",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469120984",
@@ -4674,8 +4674,8 @@
           "夢コン26",
           "認識災害"
         ],
-        "rating": 3,
-        "vote_count": 9,
+        "rating": 1,
+        "vote_count": 21,
         "revision_count": 3,
         "comment_count": 4,
         "content_hash": "sha256:ec62e9869eb4bf637e6b734835964c3cb171bc37c012877c0aaee9b81bcf454e",
@@ -4687,7 +4687,7 @@
       "wikidot_id": "1469120978",
       "page_name": "wake-up",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469120978",
@@ -4724,8 +4724,8 @@
           "tale",
           "夢コン26"
         ],
-        "rating": 2,
-        "vote_count": 8,
+        "rating": 7,
+        "vote_count": 15,
         "revision_count": 1,
         "comment_count": 1,
         "content_hash": "sha256:23eca019dab4c81d0fb28143cc682e37cafa21e44b7c66982bb9ee8c9c2c34e4",
@@ -4737,7 +4737,7 @@
       "wikidot_id": "1469120964",
       "page_name": "scp-4169-jp",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469120964",
@@ -4773,25 +4773,26 @@
           "jp",
           "safe",
           "scp",
+          "削除通知",
           "動物",
           "夢コン26",
           "生命",
           "鳥類"
         ],
-        "rating": -8,
-        "vote_count": 10,
-        "revision_count": 1,
-        "comment_count": 1,
-        "content_hash": "sha256:7f38c4f8f52e6bbbeaba8fcded270d69ec1192ae112d723796632058129aa4cc",
+        "rating": -15,
+        "vote_count": 19,
+        "revision_count": 3,
+        "comment_count": 4,
+        "content_hash": "sha256:e190b933939f2bd896b9587cec43a03a67fabd43c742d652c11e62947c51fc3d",
         "has_text_content": true,
-        "text_content_length": 1604
+        "text_content_length": 1573
       }
     },
     "1469120959": {
       "wikidot_id": "1469120959",
       "page_name": "scp-4946-jp",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469120959",
@@ -4835,10 +4836,10 @@
           "睡眠",
           "集団意識"
         ],
-        "rating": 10,
-        "vote_count": 10,
+        "rating": 21,
+        "vote_count": 23,
         "revision_count": 1,
-        "comment_count": 1,
+        "comment_count": 3,
         "content_hash": "sha256:8bfe4d93b105dfbe50864854ba87932edc2243dfb507e0c576302152dc722778",
         "has_text_content": true,
         "text_content_length": 9370
@@ -4848,7 +4849,7 @@
       "wikidot_id": "1469120958",
       "page_name": "scp-4801-jp",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469120958",
@@ -4890,8 +4891,8 @@
           "死体",
           "睡眠"
         ],
-        "rating": 6,
-        "vote_count": 8,
+        "rating": 14,
+        "vote_count": 16,
         "revision_count": 5,
         "comment_count": 1,
         "content_hash": "sha256:d5adcb63a88dfd8a4111da334be362c4383af57a3abe3906dca54200d4e36ed4",
@@ -4903,7 +4904,7 @@
       "wikidot_id": "1469120957",
       "page_name": "scp-4696-jp",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469120957",
@@ -4946,8 +4947,8 @@
           "睡眠",
           "移動不可能"
         ],
-        "rating": 8,
-        "vote_count": 8,
+        "rating": 15,
+        "vote_count": 15,
         "revision_count": 1,
         "comment_count": 1,
         "content_hash": "sha256:336190ee8cf530f9b807613d84c8ff3ea9fa53d98a8bcdec1fc9ae4891e3fdfb",
@@ -4959,7 +4960,7 @@
       "wikidot_id": "1469120956",
       "page_name": "scp-4007-jp",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469120956",
@@ -5000,10 +5001,10 @@
           "排泄",
           "芸術"
         ],
-        "rating": 22,
-        "vote_count": 22,
+        "rating": 68,
+        "vote_count": 68,
         "revision_count": 1,
-        "comment_count": 1,
+        "comment_count": 5,
         "content_hash": "sha256:3ed1fff675a4e1ad2b4bf96a03a15cbc9c85ee28d444e6face06d73246f9e799",
         "has_text_content": true,
         "text_content_length": 1441
@@ -5013,7 +5014,7 @@
       "wikidot_id": "1469120954",
       "page_name": "carroll-958-genesis",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469120954",
@@ -5054,8 +5055,8 @@
           "夢コン26",
           "_シカゴ・スピリット"
         ],
-        "rating": 9,
-        "vote_count": 9,
+        "rating": 19,
+        "vote_count": 19,
         "revision_count": 7,
         "comment_count": 1,
         "content_hash": "sha256:958d674efc5722cecdf06b06d2ea3068a1d188ce7c6994608409e1304db170c0",
@@ -5067,7 +5068,7 @@
       "wikidot_id": "1469120952",
       "page_name": "scp-4320-jp",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469120952",
@@ -5109,10 +5110,10 @@
           "夢コン26",
           "装飾品"
         ],
-        "rating": 7,
-        "vote_count": 7,
+        "rating": 29,
+        "vote_count": 31,
         "revision_count": 1,
-        "comment_count": 1,
+        "comment_count": 2,
         "content_hash": "sha256:cc606c8fd5eee02a4207a06f09aa3447f89c653281ee27cb734f2ab1c4df40ef",
         "has_text_content": true,
         "text_content_length": 7452
@@ -5122,7 +5123,7 @@
       "wikidot_id": "1469120950",
       "page_name": "garagara-shoppingpage-laptop",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469120950",
@@ -5160,8 +5161,8 @@
           "夢コン26",
           "_その他団体-jp"
         ],
-        "rating": 7,
-        "vote_count": 9,
+        "rating": 17,
+        "vote_count": 21,
         "revision_count": 1,
         "comment_count": 1,
         "content_hash": "sha256:a826fefc9a08674c327d9d6b8fac788555643da398b18f7dd7671d17a5c45c91",
@@ -5173,7 +5174,7 @@
       "wikidot_id": "1469120949",
       "page_name": "scp-4606-jp",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469120949",
@@ -5214,8 +5215,8 @@
           "睡眠",
           "精神影響"
         ],
-        "rating": 0,
-        "vote_count": 6,
+        "rating": 4,
+        "vote_count": 12,
         "revision_count": 1,
         "comment_count": 1,
         "content_hash": "sha256:a10f877bd24cd3012595dcc769a396ca55fd9709dc47c49ca36d3fdb9ac626db",
@@ -5227,7 +5228,7 @@
       "wikidot_id": "1469120947",
       "page_name": "scp-4507-jp",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469120947",
@@ -5273,10 +5274,10 @@
           "酩酊街",
           "霊体"
         ],
-        "rating": 7,
-        "vote_count": 9,
+        "rating": 12,
+        "vote_count": 16,
         "revision_count": 2,
-        "comment_count": 1,
+        "comment_count": 2,
         "content_hash": "sha256:ac573e927b6a360220281f37dcbce35e1c1eed59f20875f80e1e9835cb5620f2",
         "has_text_content": true,
         "text_content_length": 6094
@@ -5286,7 +5287,7 @@
       "wikidot_id": "1469120945",
       "page_name": "share-my-xxx",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469120945",
@@ -5324,10 +5325,10 @@
           "ジョーク",
           "夢コン26"
         ],
-        "rating": 5,
-        "vote_count": 39,
+        "rating": 21,
+        "vote_count": 83,
         "revision_count": 3,
-        "comment_count": 6,
+        "comment_count": 7,
         "content_hash": "sha256:e5f300603e24c6576c03884ea9896df445f48cca8a809e7e6e62f31b44e85731",
         "has_text_content": true,
         "text_content_length": 3270
@@ -5337,7 +5338,7 @@
       "wikidot_id": "1469120944",
       "page_name": "dream-novel-for-my-dream",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469120944",
@@ -5367,29 +5368,30 @@
         "created_at_jst": "2026-08-09T00:00:09+09:00",
         "created_by": "Bookmarker",
         "content_warnings": [],
-        "summary_basis": "あなたに贈る夢物語\n\n待宵-Mayoi-\n2036. 08. 09 00:00\n\n一富士ばくぅはバーチャルライバーである。\n彼女がライバーとして最初に活動を始めたのは、Twitter。2021年、少し汗ばみ始める七月の初めのことだった。この時からずっと使っているお馴染みの挨拶、「一富士二はなし三にばくぅ〜！どうも、一富士ばくぅです〜！1」のテキストとともに立ち絵のシルエットが最初に投稿されたその日から、私はひっそりと彼女の動向を追っていた。理由はもう思い出せない。たぶん、推しのVtuberが卒業して暇だったとか、その時ハマっていたアニメのキャラに似ていたとか、そんなどうでもいい理由だったはずだ。とにかく、私がばくとも2に名を連ねたのは、その活動の黎明期のことだったのである。\n\nYouTubeでの活動が始まったその日。初配信の同接3はほんの数十人だったけれども、彼女は間違いなく『特別』だった。落ち着いているけれど元気な口調とそれによく似合うよく通る可愛らしい声を一度聞けば、これからいくらでも人気が出るだろうという確信が持てた。しかし、彼女の特質はそれが主というわけでは全くない。\n空腹なる獏の神。そう名乗った彼女は、この時から既に他のライバーとは大きく違った『キャラ付け』でアピールをしていた。\n「好きなもの？もちろん、見てくれるみんなの気持ちだよ！」\n「ぼくはバーチャルな神様だから、まだ肉体はないんだよね〜。」\n「みんなが応援してくれたら、いつか本当に会いにいけるかも！」\nこの頃もそうだが、バーチャルライバーというのは概ねそのキャラクターのバックボーンを細かく設定し、最低限の設定を守って活動するのが定番である。しかしながら、ACの人権問題や伝承部族との外交摩擦など多くの社会問題が残る当時、バーチャルライバーの背景設定にはとにかく『架空の国』『架空の組織』『架空の学校』、といった当たり障りのないものばかりが用いられていた。大手事務所のキャラ付けにケモノ耳やツノ、魔法使いなどの『センシティブ』な設定が用いられるようになったのは、2030年代に入ってからのことである4。2021年当時の時勢など、現代とは比べるべくもないだろう。一富士ばくぅは、その風潮を完全に無視してデビューした個人勢ライバーだった。\n神が生きて喋り、AFCが反差別を叫び、本物のエルフがファンタジー小説を告発する。\nそんな時代に、薄紫のバク耳と尻尾を生やして淡く輝く光輪と翼を持ったバーチャルライバー、一富士ばくぅ……体を持たない夢食いの女神は、颯爽と現れたのである。\n\nとはいえ、どこのバックアップを受けているわけでもない個人勢ライバーがセンシティブな設定を持っていたところで世間がすぐに気にするわけではない。そういった方面からのバッシングとは無縁のまま、一富士ばくぅは順調に登録者数を増やしていった。時々『通常一般的な生物には発声不可能な音域の奇声』や『ありえない速度で魔方陣を埋めるゲームの配信』などが小さなバズを引き起こすこともあったが、それまでの彼女は知る人ぞ知るマイナーなバーチャルライバーに過ぎなかった。\n最初に彼女が大きな話題になったのは、ベートーベンの交響曲第九番の演奏&歌唱をぶっ通しで五周という、あまりにも異常なピアノの演奏配信だった。\n予告の時点でまず、私たちばくともは大騒ぎだった。そもそも、ピアノが弾けるという話自体が初耳だったのである。時々ゲームBGMに使われているクラシックを聞き取って曲を解説することがあったのでクラシックに明るいことは知っていたが、交響曲のピアノソロ耐久配信は理解の範疇を超えていた。\n「昔からクラシック好きでさ、5万人記念にやってみようかなって」\n「第九はいいよ〜。今回はリスト先生のピアノアレンジですけどね、ちゃんとフルで、歌もやりますから」\n「5万人記念だから、五周！シンプルでいいよね、でしょ？」\nさらりと言ってのけるが、この楽曲は一演奏に一時間強を要する巨編である。これまでも時々耐久配信などで10時間を超えるログが残っていることはあったが、よりによってピアノ演奏。しかも、1ループ15分程度の歌唱パートつきである5。\nしかし、彼女はやってのけた。\n2036年現在、5時間と20分の再生時間を誇るアーカイブの再生数は200万回を超えている。同接は5…",
+        "summary_basis": "あなたに贈る夢物語\n\n待宵-Mayoi-\n2036. 08. 09 00:00\n\n一富士ばくぅはバーチャルライバーである。\n彼女がライバーとして最初に活動を始めたのは、Twitter。2021年、少し汗ばみ始める七月の初めのことだった。この時からずっと使っているお馴染みの挨拶、「一富士二はなし三にばくぅ〜！どうも、一富士ばくぅです〜！1」のテキストとともに立ち絵のシルエットが最初に投稿されたその日から、私はひっそりと彼女の動向を追っていた。理由はもう思い出せない。たぶん、推しのVtuberが卒業して暇だったとか、その時ハマっていたアニメのキャラに似ていたとか、そんなどうでもいい理由だったはずだ。とにかく、私がばくとも2に名を連ねたのは、その活動の黎明期のことだったのである。\n\nYouTubeでの活動が始まったその日。初配信の同接3はほんの数十人だったけれども、彼女は間違いなく『特別』だった。落ち着いているけれど元気な口調とそれによく似合うよく通る可愛らしい声を一度聞けば、これからいくらでも人気が出るだろうという確信が持てた。しかし、彼女の特質はそれが主というわけでは全くない。\n空腹なる獏の神。そう名乗った彼女は、この時から既に他のライバーとは大きく違った『キャラ付け』でアピールをしていた。\n「好きなもの？もちろん、見てくれるみんなの気持ちだよ！」\n「ぼくはバーチャルな神様だから、まだ肉体はないんだよね〜。」\n「みんなが応援してくれたら、いつか本当に会いにいけるかも！」\nこの頃もそうだが、バーチャルライバーというのは概ねそのキャラクターのバックボーンを細かく設定し、最低限の設定を守って活動するのが定番である。しかしながら、ACの人権問題や伝承部族との外交摩擦など多くの社会問題が残る当時、バーチャルライバーの背景設定にはとにかく『架空の国』『架空の組織』『架空の学校』、といった当たり障りのないものばかりが用いられていた。大手事務所のキャラ付けにケモノ耳やツノなどの『センシティブ』な設定が用いられるようになったのは、2030年代に入ってからのことである。2021年当時の時勢など、現代とは比べるべくもないだろう。一富士ばくぅは、その風潮を完全に無視してデビューした個人勢ライバーだった。\n神が生きて喋り、AFCが反差別を叫び、本物のエルフがファンタジー小説を告発する。\nそんな時代に、薄紫のバク耳と尻尾を生やして淡く輝く光輪と翼を持ったバーチャルライバー、一富士ばくぅ……体を持たない夢食いの女神は、颯爽と現れたのである。\n\nとはいえ、どこのバックアップを受けているわけでもない個人勢ライバーがセンシティブな設定を持っていたところで世間がすぐに気にするわけではない。そういった方面からのバッシングとは無縁のまま、一富士ばくぅは順調に登録者数を増やしていった。時々『通常一般的な生物には発声不可能な音域の奇声』や『ありえない速度で魔方陣を埋めるゲームの配信』などが小さなバズを引き起こすこともあったが、それまでの彼女は知る人ぞ知るマイナーなバーチャルライバーに過ぎなかった。\n最初に彼女が大きな話題になったのは、ベートーベンの交響曲第九番の演奏&歌唱をぶっ通しで五周という、あまりにも異常なピアノの演奏配信だった。\n予告の時点でまず、私たちばくともは大騒ぎだった。そもそも、ピアノが弾けるという話自体が初耳だったのである。時々ゲームBGMに使われているクラシックを聞き取って曲を解説することがあったのでクラシックに明るいことは知っていたが、交響曲のピアノソロ耐久配信は理解の範疇を超えていた。\n「昔からクラシック好きでさ、5万人記念にやってみようかなって」\n「第九はいいよ〜。今回はリスト先生のピアノアレンジですけどね、ちゃんとフルで、歌もやりますから」\n「5万人記念だから、五周！シンプルでいいよね、でしょ？」\nさらりと言ってのけるが、この楽曲は一演奏に一時間強を要する巨編である。これまでも時々耐久配信などで10時間を超えるログが残っていることはあったが、よりによってピアノ演奏。しかも、1ループ15分程度の歌唱パートつきである4。\nしかし、彼女はやってのけた。\n2036年現在、5時間と20分の再生時間を誇るアーカイブの再生数は200万回を超えている。同接は5万人を超え、…",
         "summary_basis_type": "opening",
         "tags": [
           "1998",
           "jp",
           "tale",
+          "ttt社",
           "ただの夢",
           "夢コン26"
         ],
-        "rating": 10,
-        "vote_count": 10,
-        "revision_count": 3,
+        "rating": 22,
+        "vote_count": 22,
+        "revision_count": 6,
         "comment_count": 1,
-        "content_hash": "sha256:1ad5af5509f9673d8a521190bd9ae0b7cbf7e43e118540225fb04150113f0b95",
+        "content_hash": "sha256:3edd64b47848330aac9c7d3fb7c1dabf7b3dccd728cfc843b161046b3c3d9237",
         "has_text_content": true,
-        "text_content_length": 13268
+        "text_content_length": 13150
       }
     },
     "1469120942": {
       "wikidot_id": "1469120942",
       "page_name": "scp-4096-jp",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469120942",
@@ -5431,8 +5433,8 @@
           "睡眠",
           "音声添付"
         ],
-        "rating": 9,
-        "vote_count": 11,
+        "rating": 25,
+        "vote_count": 27,
         "revision_count": 3,
         "comment_count": 1,
         "content_hash": "sha256:5a641f648d54db98d0f14009c509938dd1e93866a734d21026a2814b56030009",
@@ -5444,7 +5446,7 @@
       "wikidot_id": "1469120943",
       "page_name": "even-so-you-are-still-alive",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469120943",
@@ -5481,20 +5483,20 @@
           "tale",
           "夢コン26"
         ],
-        "rating": 11,
-        "vote_count": 13,
-        "revision_count": 3,
-        "comment_count": 1,
-        "content_hash": "sha256:990b254b81e1121343b4e95cd2926c487a16a4a4144e49e306626c7d7eeaed83",
+        "rating": 32,
+        "vote_count": 34,
+        "revision_count": 8,
+        "comment_count": 3,
+        "content_hash": "sha256:eb302f44c7cb11510a206cef472710e82be4a11d6bf1852180ad7d176fbe9e76",
         "has_text_content": true,
-        "text_content_length": 26373
+        "text_content_length": 26359
       }
     },
     "1469120939": {
       "wikidot_id": "1469120939",
       "page_name": "scp-4994-jp",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469120939",
@@ -5531,14 +5533,15 @@
           "keter",
           "scp",
           "人型",
+          "削除通知",
           "夢コン26",
           "超電救助隊hero",
           "軍事"
         ],
-        "rating": -6,
-        "vote_count": 10,
-        "revision_count": 3,
-        "comment_count": 1,
+        "rating": -16,
+        "vote_count": 22,
+        "revision_count": 4,
+        "comment_count": 2,
         "content_hash": "sha256:ffbfc4a574d83e4fb3330b2608bb6039ad56a0aa6f982d8675d8538ff8a96dc2",
         "has_text_content": true,
         "text_content_length": 5360
@@ -5548,7 +5551,7 @@
       "wikidot_id": "1469120941",
       "page_name": "kyougoku08-the-devil",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469120941",
@@ -5585,10 +5588,10 @@
           "tale",
           "吹上人事官"
         ],
-        "rating": 5,
-        "vote_count": 5,
+        "rating": 10,
+        "vote_count": 10,
         "revision_count": 1,
-        "comment_count": 1,
+        "comment_count": 2,
         "content_hash": "sha256:d23c44dd73deb10de1b29bb49931d15df2da206948be02bc4f078aa3c841bb91",
         "has_text_content": true,
         "text_content_length": 18298
@@ -5598,7 +5601,7 @@
       "wikidot_id": "1469120940",
       "page_name": "scp-4443-jp",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469120940",
@@ -5628,7 +5631,7 @@
         "created_at_jst": "2026-08-09T00:00:02+09:00",
         "created_by": "Snowy-Yukinko",
         "content_warnings": [],
-        "summary_basis": "説明: SCP-4443-JPは、東京都内において発生している睡眠中の人体転移現象です。現在SCP-4443-JPの対象の共通点として挙げられているのは以下となります。\n\n東京23区内に在住している。\n一人暮らしである。\n入学・就職を機として東京に転入した。\n転入以前、暮らしていた住居が首都圏外にある。\n親族の中で東京に在住している人間が他に存在しない。\n最近の1年間で地元へ帰省した総合時間が1ヶ月未満である。\n\nSCP-4443-JP-Aは、SCP-4443-JP対象の転移先の空間に対する指定です。外観は対象が東京転入以前に暮らしていた住居及びその周辺の空間に酷似していますが、少なくとも転移発生時においては、参照地点の風景とSCP-4443-JP-Aの外観は一致せず、むしろ対象が当該地点に居住していた時期のそれに類似すると考えられています。推定される季節は夏がほとんどです。これは一般的な東京転入者の帰省時期の偏りに由来すると考えられています。天候は常に晴れであり、内部には対象を除く一切の動物が存在していません。\n対象が転移時にGPSを装着した場合、上記の参照地点に対応する基底現実上の地点が示されますが、当該地点に実際の対象が確認できないことから、SCP-4443-JP-Aは一種の空間重複であると考えられています。しかしながら、SCP—JP-Aの映像が夢イメージ抽出装置によってのみ抽出可能な点、少なくとも対象の脳波はレム睡眠時の特徴を有している点、仮に対象がGPSの地点ないし相応する空間重複に転移していた場合、前述した装置での遠隔測定は距離的な問題によりそもそも不可能である点など、一般的な空間重複には不可解な要素が挙げられます。\nSCP-4443-JP-Aからの脱出方法として現在確認されているのが、対象が内部の自身の実家内に入り、自身が以前使用していた寝具で入眠することです。これらの知識を対象が得ているかは定かではありません。また、対象が自室に入った時点で空間内の構造が一部変化しますが、ほとんどの場合対象はその時点で「強烈な眠気」を訴える傾向があり、入室後も探索を続ける対象は多くありません。\n再出現した対象者の睡眠-覚醒リズムに異常な点は見受けられません。覚醒した対象からはSCP-4443-JP-Aに対する記録が聴取できますが、通常の夢と同様、比較的短期間で忘却されます。なお、覚醒後の対象はしばしば「寝不足」「睡眠の質低下」と解釈されうる疲労感を覚えることがわかっています。SCP-4443-JPは概ね1週間程度持続して発生する傾向があるため、上記の症状を示した人物を診療・観察下に置くことで、比較的精度の高い収容・調査が可能となっています。\n以下は、\"Sleep Care Program\"来院者から得た典型的なSCP-4443-JP-Aの探査記録です。\n\n探査記録\n\n日時: 2026/08/14\n主要関係者: 25歳男性、睡眠の質の検査に対する実験協力のため来院。SCP-4443-JP-Aの参照地点は静岡県██市██周辺。\n備考: 描写は夢中人物の主観を平文化したものである。客観的でない内容が含まれることに留意せよ。\n\n<夢イメージ捕捉>\n開始地点\n\n{$caption}\n\n天気は晴れ、入道雲が遠くに観測できるが、熱感はない。探査時刻、参照地点の実際の天気は曇りのち雨であった。\n対象は河川敷の階段に座っている。対象は立ち上がり、そのまま階段を登って道路に出る。当該の道路は対象の小学生時の通学路と一致する。対象は戸惑いを見せるも、自身の実家に相当する地点へ向かって歩き始める。\n道路・幹線道路\n\n{$caption}\n\n対象は幹線道路沿いの歩道を横切っている。車道に車はないが、対象は赤信号の点灯した交差点前で停止し、振り返る。振り返った先、交差点の一角には大きい駐車場を備えた靴屋が存在する。対象が足元を見ると、高校時代に当該の店舗で買った、通学用のシューズを履いていることに気づく。信号が青に変わると同時に、対象は横断歩道を渡る。\n\n商店街\n対象はアーケード街に入り、中を歩く。対象にとって特筆すべき点として、アーケード街内部に駄菓子屋が1軒存在している。\n\n{$caption}\n\n駄菓子屋の店頭にはカプセルトイや壁掛けの玩具が陳列されており、…",
+        "summary_basis": "説明: SCP-4443-JPは、東京都内において発生している睡眠中の人体転移現象です。現在SCP-4443-JPの対象の共通点として挙げられているのは以下となります。\n\n東京23区内に在住している。\n一人暮らしである。\n入学・就職を機として東京に転入した。\n転入以前、暮らしていた住居が首都圏外にある。\n親族の中で東京に在住している人間が他に存在しない。\n最近の1年間で地元へ帰省した時間が合計1ヶ月未満である。\n\nSCP-4443-JP-Aは、SCP-4443-JP対象の転移先の空間に対する指定です。外観は対象が東京転入以前に暮らしていた住居及びその周辺の空間に酷似していますが、少なくとも転移発生時においては、参照地点の風景とSCP-4443-JP-Aの外観は一致せず、むしろ対象が当該地点に居住していた時期のそれに類似すると考えられています。推定される季節は夏がほとんどです。これは一般的な東京転入者の帰省時期の偏りを始めとする対象の自意識に由来すると考えられています。天候は常に晴れであり、内部には対象を除く一切の動物が存在していません。\n対象が転移時にGPSを装着した場合、上記の参照地点に対応する基底現実上の地点が示されますが、当該地点に実際の対象が確認できないことから、SCP-4443-JP-Aは一種の空間重複であると考えられています。しかしながら、SCP—JP-Aの映像が夢イメージ抽出装置によってのみ抽出可能な点、少なくとも対象の脳波はレム睡眠時の特徴を有している点、仮に対象がGPSの地点ないし相応する空間重複に転移していた場合、前述した装置での遠隔測定は距離的な問題によりそもそも不可能である点など、一般的な空間重複には不可解な要素が挙げられます。\nSCP-4443-JP-Aからの脱出方法として現在確認されているのが、対象が内部の自身の実家内に入り、自身が以前使用していた寝具で入眠することです。これらの知識を対象が得ているかは定かではありません。また、対象が自室に入った時点で空間内の構造が一部変化しますが、ほとんどの場合対象はその時点で「強烈な眠気」を訴える傾向があり、入室後も探索を続ける対象は多くありません。\n再出現した対象者の睡眠-覚醒リズムに異常な点は見受けられません。覚醒した対象からはSCP-4443-JP-Aに対する記録が聴取できますが、通常の夢と同様、比較的短期間で忘却されます。なお、覚醒後の対象はしばしば「寝不足」「睡眠の質低下」と解釈されうる疲労感を覚えることがわかっています。SCP-4443-JPは概ね1週間程度持続して発生する傾向があるため、上記の症状を示した人物を診療・観察下に置くことで、比較的精度の高い収容・調査が可能となっています。\n以下は、\"Sleep Care Program\"来院者から得た典型的なSCP-4443-JP-Aの探査記録です。\n\n探査記録\n\n日時: 2026/08/14\n主要関係者: 25歳男性、睡眠の質の検査に対する実験協力のため来院。SCP-4443-JP-Aの参照地点は静岡県██市██周辺。\n備考: 描写は夢中人物の主観を平文化したものである。客観的でない内容が含まれることに留意せよ。\n\n<夢イメージ捕捉>\n開始地点\n\n{$caption}\n\n天気は晴れ、入道雲が遠くに観測できるが、熱感はない。探査時刻、参照地点の実際の天気は曇りのち雨であった。\n対象は河川敷の階段に座っている。対象は立ち上がり、そのまま階段を登って道路に出る。当該の道路は対象の小学生時の通学路と一致する。対象は戸惑いを見せるも、自身の実家に相当する地点へ向かって歩き始める。\n道路・幹線道路\n\n{$caption}\n\n対象は幹線道路沿いの歩道を横切っている。車道に車はないが、対象は赤信号の点灯した交差点前で停止し、振り返る。振り返った先、交差点の一角には大きい駐車場を備えた靴屋が存在する。対象が足元を見ると、高校時代に当該の店舗で買った、通学用のシューズを履いていることに気づく。信号が青に変わると同時に、対象は横断歩道を渡る。\n\n商店街\n対象はアーケード街に入り、中を歩く。対象にとって特筆すべき点として、アーケード街内部に駄菓子屋が1軒存在している。\n\n{$caption}\n\n駄菓子屋の店頭にはカプセルトイや壁掛け…",
         "summary_basis_type": "description",
         "tags": [
           "euclid",
@@ -5638,20 +5641,20 @@
           "晴れの休みは上野巡りへ",
           "睡眠"
         ],
-        "rating": 8,
-        "vote_count": 12,
-        "revision_count": 2,
+        "rating": 14,
+        "vote_count": 28,
+        "revision_count": 3,
         "comment_count": 1,
-        "content_hash": "sha256:46e6511caa0d6d90724145244025699f01ac837a9079fa0987557f6ebf053375",
+        "content_hash": "sha256:0daaebedaf8eed6ec2a69c322d9d66415a763943f5747277b662e9b023fc30a1",
         "has_text_content": true,
-        "text_content_length": 4859
+        "text_content_length": 4878
       }
     },
     "1469120938": {
       "wikidot_id": "1469120938",
       "page_name": "the-nuclear-possibility",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469120938",
@@ -5689,10 +5692,10 @@
           "ボハート管理官",
           "夢コン26"
         ],
-        "rating": 8,
-        "vote_count": 10,
+        "rating": 4,
+        "vote_count": 30,
         "revision_count": 1,
-        "comment_count": 1,
+        "comment_count": 2,
         "content_hash": "sha256:f4cad0e841e370073c7c1dccd19493f7eaa3ccae4cf8c2725c0b20eb455ef38b",
         "has_text_content": true,
         "text_content_length": 5814
@@ -5702,7 +5705,7 @@
       "wikidot_id": "1469120460",
       "page_name": "scp-r029-jp-j",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469120460",
@@ -5743,8 +5746,8 @@
           "儀式",
           "死体"
         ],
-        "rating": 25,
-        "vote_count": 29,
+        "rating": 30,
+        "vote_count": 36,
         "revision_count": 2,
         "comment_count": 3,
         "content_hash": "sha256:e719a44fac80d3cb8a1d64f6bb2a21dc2c5d804db0081e0c3aacf8aecbe54526",
@@ -5756,7 +5759,7 @@
       "wikidot_id": "1469120436",
       "page_name": "scp-4021-jp",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469120436",
@@ -5791,12 +5794,13 @@
         "tags": [
           "euclid",
           "jp",
-          "scp"
+          "scp",
+          "削除通知"
         ],
-        "rating": -12,
-        "vote_count": 12,
-        "revision_count": 1,
-        "comment_count": 0,
+        "rating": -15,
+        "vote_count": 15,
+        "revision_count": 2,
+        "comment_count": 1,
         "content_hash": "sha256:ec8c535a81ed55b0165622e6d8b6f4fd48e190dcb8629e8c47b6aaaa1f975070",
         "has_text_content": true,
         "text_content_length": 3305
@@ -5806,7 +5810,7 @@
       "wikidot_id": "1469120137",
       "page_name": "gwontae-0118",
       "first_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
-      "last_seen_at_utc": "2026-08-08T21:43:56.371766+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
       "baseline": false,
       "article": {
         "wikidot_id": "1469120137",
@@ -5856,6 +5860,747 @@
         "content_hash": "sha256:dbf93879f7f2f97ec7ceadac7439c99a9d1453bc732b47efa56a2290db5d84c8",
         "has_text_content": true,
         "text_content_length": 1820
+      }
+    },
+    "1469126789": {
+      "wikidot_id": "1469126789",
+      "page_name": "queen-of-desires",
+      "first_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469126789",
+        "page_name": "queen-of-desires",
+        "url": "https://scp-jp.wikidot.com/queen-of-desires",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "Tale",
+        "article_title": "卑欲の女王／星夜、裏切りの名の下に",
+        "subtitle": null,
+        "authors": [
+          "Ruka_Naruse"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-08-09T17:37:31.000Z",
+        "created_at_jst": "2026-08-10T02:37:31+09:00",
+        "created_by": "Ruka_Naruse",
+        "content_warnings": [],
+        "summary_basis": "< 九剣の塔 | 卑欲の女王／星夜、裏切りの名の下に |\n\n0\n\n父さんは椅子に凭れない。黙々と日刊紙に目を通す速度は異様に一様で、3分と20秒おきに、ばさりと頁を捲っていく。いつだったか、それを心の中で数えていたら、「声に出てますよ」と釘を刺されたのを憶えている。\n「父さん、今日は遅いの？」\n「いいえ、いつも通りに帰りますよ」\n「ふ～ん、そっか」\n食べかけのコロネットをカプチーノにつけて頬張る。私がカプチーノをソーサーに溢れさせている一方で、父さんの皿にはパンくずひとつも落ちていない。\n「では、時間なのでお先に。アリソンも遅れないように」\n「行ってらっしゃい、父さん」\n玄関を開けた父さんの、背中が夏の陽気に呑まれていく。なんてことは無い、昨日にもあって、明日にも続く日々だ。\n\n卑欲の女王\n\n1\n\n「……んん、暑い……」\n珍しく、寝苦しさで目を覚ました。枕は僅かに寝汗を滲ませるばかりで、確かに何か見ていた筈の夢は、残滓すらも残されていない。\n図書館の外郭、昼夜を問わず冷たく曖昧な陽光が注ぐ白磁色の森。その中にポツンと建てられたこの家で、体は久しく感じたことのない熱を帯びていた。\n「まぁ、いっか……」\n体調に支障を来している感覚もない。さっと軽く汗を流してしまおう。\nサイドテーブルに置いたロザリオと、一枝の黒い杖を纏めて掴み取り、寝室を後にする。湿った肌着をカゴに脱ぎ捨て、ひんやりとしたシャワールームに足を踏み入れる。\n「……あれ？」\n不意に、据え付けられた鏡の中の私と目が合う。その目元は、泣き腫らしたように赤く染まっていた。\n◇\n「こんにちは、ミディさん！」\n「あら、珍しく遅かったじゃない。カルディナ」\n古めかしいタイプライターを囲う、仄暗い部屋。相も変わらず作業には向かないその部屋で、真っ赤な衣装の私カルディナと正反対な、黒いレースを身に纏う彼女ミディが私を待っていた。\n「ごめんなさい、少し仕度に手間取ってしまって」\n「いいわよ、怒ってる訳じゃないし……見ての通り、あなた以外も来てないのよね」\n確かに、この部屋には私と彼女の他には誰も居ない。通常、カタログの編纂作業は4,5人の黒の女王によって行われる。今日も、約束では他にあと2人来るはずだったのだが。\n「今日来るのは……ダチュラさんとモナムールさんでしたっけ」\n「そうね、どちらもあまり約束をすっぽかすタイプでもないと思うのだけど……まぁ、居ないものは仕方ないし、代役を探しましょうか」\nここ放浪者の図書館は、数多の世界に跨って存在する、いわばラウンドアバウトのようなものだ。流石に私のように図書館の領域で生活を完結させている黒の女王はそう居ないが、それでも日常生活の大半をこの図書館で過ごしている黒の女王は少なくない。故に、適当に心当たりを当たれば代役ぐらいすぐに捕まえられる。\n︙\n「今日は見てないですよ、ムラサキさん。というより、ここ3日間はって言うべきかも」\n噎せ返る茶葉の香りが充満するその部屋には、壊さなくては開けようのない木箱と、時折カトラリーが収納された本棚がパズルのように組み上がり、四方の壁面を支配している。そこを自身の居場所としていた筈の黒の女王の姿はなく、かわりに彼女の友人たるブロンドの犬獣人が首を横に振った。\n︙\n「カサブランカなら最後に会ったのは先月だったなかぁ。一緒に卓を囲んだのが最後だよ」\n大小、新旧さまざまなテレビがこちらを向いている。好き勝手にてんでばららな番組を放映したり、あるいは砂嵐を垂れ流しているそれらは、全てが合わさると不思議とひとつの音楽を奏でているようだ。それらを個々の情報として愉しんでいた3頭9腕の異星人は、ヌタウナギのような外観の尻尾で黒の女王の不在を告げた。\n︙\n「ヴォドニーク？すまないが、僕のようなアリモドキモドキの脳みそでは君たち黒の女王を見分けられないんだ！でも、ここによく来ていた黒の女王が今週は来ていないのは確かだね！」\n天井から本棚が生えている、その無秩序さがある意味図書館らしい部屋。情報収集を何よりの趣味としている彼女は、\"ここはアタリが多いんですよ\"と得意げに語り、頻繁に足を運んでいた筈だった。しかし今日そこにいたのは、シルクハットを被った、概ね蟻に見える体長1m強の生物だけだった。\n︙\n「ミディさん、これって……」\n「……偶然…",
+        "summary_basis_type": "opening",
+        "tags": [
+          "jp",
+          "tale",
+          "夢コン26",
+          "黒の女王"
+        ],
+        "rating": 6,
+        "vote_count": 6,
+        "revision_count": 4,
+        "comment_count": 1,
+        "content_hash": "sha256:386a708fd3ee742c2db3bb4bf0d4bc9a3f6d18ac0907819da00d3324ab91ef41",
+        "has_text_content": true,
+        "text_content_length": 32574
+      }
+    },
+    "1469125338": {
+      "wikidot_id": "1469125338",
+      "page_name": "this-is-creepy-pasta-cn-4000",
+      "first_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469125338",
+        "page_name": "this-is-creepy-pasta-cn-4000",
+        "url": "https://scp-jp.wikidot.com/this-is-creepy-pasta-cn-4000",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "Tale",
+        "article_title": "宇宙の果ての怖すぎ屋敷",
+        "subtitle": null,
+        "authors": [
+          "©snoj"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-08-09T15:12:47.000Z",
+        "created_at_jst": "2026-08-10T00:12:47+09:00",
+        "created_by": "snoj",
+        "content_warnings": [],
+        "summary_basis": "引用・参考文献:\nSCP-CN-4000 - 宇宙の果ての小屋\n恐怖！超可怕的宅邸！！（中国語版）\n恐怖！怖すぎ屋敷！！（日本語版）\n抜き打ちテストは勇気を持って\nデス・ヨシオ\nアニヲタwiki「SCP-5000」より仮説１\n\nこの著者の他の作品\nこの著者の他の怖すぎ屋敷\nこの著者の他の怖すぎ屋敷2\n\n──書くのはもう、ここまで！\n\n忘れずに、探しに来てくださいね。このカプセルはずっと、君を待っています。\n\n僕たちが宇宙の果てでまた会う、その日まで。\n\n思考転写進行中……\n\n「呜哇，这里是哪里？うわ、ここはどこだ。」\n我一醒来就发现自己被困在一个陌生的房间里俺は目が覚めると知らない部屋に閉じ込められていた。。随后，我注意到自己被戴上了连接着十吨重物的脚镣そして、10t程の錘がいっぱい繋がった足枷が嵌められていることに気づく。。简直就像是拖着雪橇的爱斯基摩犬まるでソリを引くエスキモー犬のようだ。（雪橇是脚，爱斯基摩犬是重物(ソリが足、エスキモー犬が錘)）。\n「好臭！くさい！」\n一股大便的味道……难道我要死在这里了吗？うんちの匂いがする……俺はここで死ぬのか？\n\n中略\n\n思考接続、同҈̨͡期҈҇͢完了҉̨͖̞̱́̓͋͝。\n\n璋҈̡͔̞͉̦҇̽̑佹҈̧̯̳̣͎̩͇͛̄͠・潵҈̞̙̙͙̲̭̝̙̜̦̭̰͍̅̀̀̂̎̌̐̇̑́̉̒̔̔婁҈̣͍̤̝̟͔͎̳͈͈̣͓͖͍͇͚̫̝͕̬̘̃̉̀̆͆̃̇͋͌̂̇̌̾ͅ潵҈̞̙̙͙̲̭̝̙̜̦̭̰͍̅̀̀̂̎̌̐̇̑́̉̒̔̔:\n璋҈̡͔̞͉̦҇̽̑佹҈̧̯̳̣͎̩͇͛̄͠・潵҈̞̙̙͙̲̭̝̙̜̦̭̰͍̅̀̀̂̎̌̐̇̑́̉̒̔̔婁҈̣͍̤̝̟͔͎̳͈͈̣͓͖͍͇͚̫̝͕̬̘̃̉̀̆͆̃̇͋͌̂̇̌̾ͅ潵҈̞̙̙͙̲̭̝̙̜̦̭̰͍̅̀̀̂̎̌̐̇̑́̉̒̔̔: 起きてよ\n璋҈̡͔̞͉̦҇̽̑佹҈̧̯̳̣͎̩͇͛̄͠・潵҈̞̙̙͙̲̭̝̙̜̦̭̰͍̅̀̀̂̎̌̐̇̑́̉̒̔̔婁҈̣͍̤̝̟͔͎̳͈͈̣͓͖͍͇͚̫̝͕̬̘̃̉̀̆͆̃̇͋͌̂̇̌̾ͅ潵҈̞̙̙͙̲̭̝̙̜̦̭̰͍̅̀̀̂̎̌̐̇̑́̉̒̔̔:\n璋҈̡͔̞͉̦҇̽̑佹҈̧̯̳̣͎̩͇͛̄͠・潵҈̞̙̙͙̲̭̝̙̜̦̭̰͍̅̀̀̂̎̌̐̇̑́̉̒̔̔婁҈̣͍̤̝̟͔͎̳͈͈̣͓͖͍͇͚̫̝͕̬̘̃̉̀̆͆̃̇͋͌̂̇̌̾ͅ潵҈̞̙̙͙̲̭̝̙̜̦̭̰͍̅̀̀̂̎̌̐̇̑́̉̒̔̔: 起きてってば\n璋҈̡͔̞͉̦҇̽̑佹҈̧̯̳̣͎̩͇͛̄͠・潵҈̞̙̙͙̲̭̝̙̜̦̭̰͍̅̀̀̂̎̌̐̇̑́̉̒̔̔婁҈̣͍̤̝̟͔͎̳͈͈̣͓͖͍͇͚̫̝͕̬̘̃̉̀̆͆̃̇͋͌̂̇̌̾ͅ潵҈̞̙̙͙̲̭̝̙̜̦̭̰͍̅̀̀̂̎̌̐̇̑́̉̒̔̔:\n璋҈̡͔̞͉̦҇̽̑佹҈̧̯̳̣͎̩͇͛̄͠・潵҈̞̙̙͙̲̭̝̙̜̦̭̰͍̅̀̀̂̎̌̐̇̑́̉̒̔̔婁҈̣͍̤̝̟͔͎̳͈͈̣͓͖͍͇͚̫̝͕̬̘̃̉̀̆͆̃̇͋͌̂̇̌̾ͅ潵҈̞̙̙͙̲̭̝̙̜̦̭̰͍̅̀̀̂̎̌̐̇̑́̉̒̔̔: そろそろ、君の命をいただく。凶悪な殺人鬼だから。\n\n_\n\n目を覚ます？お久しぶり。\n\nうわ、ここはどこだ。\n貴様はまだ、覚えているだろうか？　あの、恐怖の御屋敷を。宿敵と闘いを繰り広げた、あの時のことを。\n暖房であたたまったソファには、美しい舞台衣装が一揃い置かれている。貴様はそれを着て、何かを思い出そうとばかりにタップダンスを始めた。ｼｬｶｼｬｶと揺れるのは、10トン程の錘おもりがいっぱい繋がった足枷だ。湿り気のあるエスキモー犬から、鼻水が滴り落ちている。茶卓の方形の墓の上に、色とりどりの自分の名前が刻まれている。\nその時だった。ドアがゆっくりと、静かに押し開かれ、足掛け28年の過酷な任務を成し遂げた面つらで、白衣の男が入ってきた。男は貴様を見て、そしてエスキモー犬を見て、再び貴様を見やる。\n\n莫 望宇モー・ワンユー: 誰だお前は！？\n貴様: 俺は、鏃҈̧̠̙͖̫͚͉͛̌͝偣҉̧̜̮̳̟̯̞̟͇̋̚͠炲҉幓マン（属性：闇）。\n\nくたびれた風体の博士は、恐怖で足を震わせている。その様はまるで、得意でもないのに狩猟に連れ出され、アムールトラに出くわした時の子犬のようだった（彼はチャウチャウ犬）。\nそれよりも、だ。熱々のマントウ1を掴み、無造作に頬張りながら、貴様は不思議に思う。いったい…",
+        "summary_basis_type": "opening",
+        "tags": [
+          "jp",
+          "tale",
+          "夢コン26"
+        ],
+        "rating": 8,
+        "vote_count": 12,
+        "revision_count": 1,
+        "comment_count": 1,
+        "content_hash": "sha256:b5108cec112bbf34d742f681a4c21f79885e83de222e3e57cb3dc414001fcade",
+        "has_text_content": true,
+        "text_content_length": 12203
+      }
+    },
+    "1469125121": {
+      "wikidot_id": "1469125121",
+      "page_name": "scp-2252-jp",
+      "first_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469125121",
+        "page_name": "scp-2252-jp",
+        "url": "https://scp-jp.wikidot.com/scp-2252-jp",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "SCP報告書",
+        "article_title": "SCP-2252-JP-可惜夜",
+        "subtitle": "可惜夜",
+        "authors": [
+          "kashiwanoha"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-08-09T14:12:57.000Z",
+        "created_at_jst": "2026-08-09T23:12:57+09:00",
+        "created_by": "Kashiwanoha",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-2252-JPは、使用者に主観時間異常と認知異常を引き起こす、約43×63cmの枕です。\nSCP-2252-JPを視認した直近の睡眠から12時間以上経過した人物は、SCP-2252-JPを用いて就寝したいという欲求を抱きます。この人物がSCP-2252-JPを用いて就寝すると、以下のような特徴をもつ夢を見ます。\n\n実際の睡眠時間と比べて、夢で経過する時間が長い。（主観時間が延長される）\n現実との差異が比較的小さく、夢であることを認識できない。\n夢の中にSCP-2252-JPが出現し、必ずこれを用いて就寝する。そのため、異常性に繰り返し暴露する。（「夢の中で夢を見る」と形容されます。）\n繰り返しに伴い、主観時間の延長や現実との差異が指数関数的に拡大する。\n\nSCP-2252-JPを用いて就寝した人物は、SCP-2252-JPを引き離すこと以外で覚醒しません。\n\n発見経緯: SCP-2252-JPは、██県██市の病院において、複数の患者が長期の睡眠状態に陥り、覚醒後に記憶障害を示したという通報を機に財団に発見されました。\n院長への聞き取りによって、当オブジェクトは不明な寝具の販売業者を通じて導入されたことが判明しました。財団による追跡調査が行われましたが、販売業者および製造元の特定には至っていません。\n院内に存在していた全てのSCP-2252-JPは回収されました。\n以下は、覚醒した暴露者へのインタビュー記録です。\n\n対象: 木ノ原直之氏\nインタビュアー: 嶋田研究員",
+        "summary_basis_type": "description",
+        "tags": [
+          "jp",
+          "safe",
+          "scp",
+          "夢コン26"
+        ],
+        "rating": -4,
+        "vote_count": 4,
+        "revision_count": 6,
+        "comment_count": 1,
+        "content_hash": "sha256:ec3acee3c01cfa94cf45567f99a682cfa9e227810f5317cc535d9bcdd37f938b",
+        "has_text_content": true,
+        "text_content_length": 5598
+      }
+    },
+    "1469124953": {
+      "wikidot_id": "1469124953",
+      "page_name": "scp-4128-jp",
+      "first_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469124953",
+        "page_name": "scp-4128-jp",
+        "url": "https://scp-jp.wikidot.com/scp-4128-jp",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "SCP報告書",
+        "article_title": "SCP-4128-JP - 夢換金キャンペーン",
+        "subtitle": null,
+        "authors": [
+          "solvex"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-08-09T13:26:39.000Z",
+        "created_at_jst": "2026-08-09T22:26:39+09:00",
+        "created_by": "solvex",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-4128-JPはhttp://dream-buyer.███からアクセスを可能とするWebサイトです。SCP-4128-JPは電子メールや各種ネットサービス内のDM、PMで送られます。送り主は｢夢換金キャンペーン｣と名乗り、逆探知などの試みはすべて失敗しています。送られる相手は日本国内の人物に限定され、傾向として経済的に不安定な立場に置かれる人物が多く、また同一人物に複数回送られた例はありません。送られる際のメッセージ文は共通して以下の文章となります。\n\n当選おめでとうございます！\nこのたびあなたは夢換金キャンペーンの対象として選ばれました。\nもしいらない夢がございましたら下記リンクからの出品を、送信日から一週間以内きお願いいたします。\nhttp://dream-buyer.███\n\nSCP-4128-JPは上記夢換金に関する説明文と、その下に並ぶ送信フォームで構成されています。説明文は以下の通りです。\n\nアクセスいただきありがとうございます。\nこちらでは夢換金についてご説明させていただきます。\n夢換金では言葉の通り、あなたの将来の夢そのものの取引を行わせていただきます。\n下記送信フォームにあなたが抱く夢についてと、お使いの銀行口座を記載していただきますと、その夢に応じた金額を後日送金いたします。\n送金については最大で5営業日までにはさせていただきます。\nまた送信後の夢の返品、またはご質問は一切受け付けておりません。\n\n説明に従い自身の夢について記載した上で送信をすると、後日に指定した口座に振り込まれます。この金額については最低で1万円から最大で1500万円と幅があり、かつ夢や対象者との関連性が不明瞭です。また振り込みが行われてからは対象者からは、記載した夢と関連する技能が消失し、これは再び学習しても定着しません。\n対象者の夢および振込金額の抜粋例\n\n記載された夢\n振込金額\n\n開業医になる。\n9万円\n\n教師になって生徒全員を東大に合格させる。\n156万円\n\n不老不死になる。\n233万円\n\n米農家として新しい品種を開発する。\n55万円\n\n飼育員になってゾウの世話をする。\n431万円\n\nウルトラマンコスモスになる。\n1500万円\n\n警察官になる。\n78万円\n\nお嫁さんになる。\n1万円\n\n漫画家として賞を取る。\n530万円\n\n5000兆円欲しい。\n25万円\n\n一流芸能人になる。\n445万円\n\nインタビュー記録4128-JP-5\n\n対象: 橋本一朗太氏\nインタビュアー: Agt. 礼田",
+        "summary_basis_type": "description",
+        "tags": [
+          "jp",
+          "keter",
+          "scp",
+          "オンライン",
+          "夢コン26"
+        ],
+        "rating": -1,
+        "vote_count": 7,
+        "revision_count": 1,
+        "comment_count": 1,
+        "content_hash": "sha256:265816de7e2045c1b8d6c3062fb1cd2316222c78dbfb91589453100c4035275a",
+        "has_text_content": true,
+        "text_content_length": 2956
+      }
+    },
+    "1469124898": {
+      "wikidot_id": "1469124898",
+      "page_name": "a-n-0201",
+      "first_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469124898",
+        "page_name": "a-n-0201",
+        "url": "https://scp-jp.wikidot.com/a-n-0201",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "GoIフォーマット",
+        "article_title": "す-B-0201 \"夢幻ユメクイ・ドリーマーサービス\"販売カタログ",
+        "subtitle": null,
+        "authors": [
+          "©︎indonootoko"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-08-09T13:06:55.000Z",
+        "created_at_jst": "2026-08-09T22:06:55+09:00",
+        "created_by": "indonootoko",
+        "content_warnings": [],
+        "summary_basis": "去りゆく家族に久遠の佳夢を\n\n夢幻ユメクイ・ドリーマーサービス\n\n品番\n型番\n単位\n価格\n\nす-B-0201\nSB1-1\n1か月\n¥ 200,000 -\n\n出資者価格\n\n品番\n型番\n単位\n価格\n\nす-B-0202\nSB2-1\n1か月\n¥ 19,800 -\n\n特徴\n\n対象となる生物に永久の安眠と安息を。\n休眠状態で老化速度を0.0007%まで抑制！　実質的な不老を実現。\n夢をモニター可能。様子を確認できます。\n入眠と覚醒は自在に制御可能。貴方と家族にとって最良の選択を。\n\n仕様\n\n当研究所が開発した「ムゲンユメクイ」を用いた不老休眠サービスです。\nムゲンユメクイの特異性範囲内に入った生物は、その性質により休眠状態に至ります。\n休眠中は代謝が急激に低下し、実質的な不老状態になります。\n休眠状態の生物はムゲンユメクイの性質が作用し、明るく楽しい夢を見続けます。\n\n▲ムゲンユメクイ\n\n説明書: す-B-0201は当研究所が2025年より運営している生物の不老休眠サービスです。当研究所で生み出されたバク「ムゲンユメクイ」の特異性を利用しており、冷凍技術や化学薬品を利用した不老休眠と比較して、安全かつ低負荷な不老休眠を実現しています。\nムゲンユメクイは古代中国の伝承に搭乗する「ユメクイ」を当研究所が復元/改良したバクであり、他の生物が見る夢を養分として代謝する特異性を持つ神話生物種です。ユメクイ種は他者の夢へ直接侵入し、その存在の悪夢を摂食して糧とする特異な生態を持ちます。夢界などのパブリックな触媒を介さずに他者の夢に直接介入する高度な能力を有していますが、この能力にはいくつか欠点が存在します。「夢に接続する関係上自分も睡眠する必要があり、外敵に対し無防備になる」「対象の睡眠の質によっては十分な栄養を得られない」「対象が移動してしまうと接続を一方的に切断されてしまう」など、夢を喰らうという生態が生存に有利とは言えず、種として繁栄しませんでした。\nムゲンユメクイは上記欠点を補うことが可能な特異性を有しています。常に休眠状態であり、休眠状態のムゲンユメクイ周囲800 m範囲に存在する生物の大脳に、セロトニンやアデノシンなどの睡眠誘導物質に頼らない異常な休眠をもたらします。範囲内に存在する生物は、範囲外に脱出しない限り休眠から目覚めることはありません。これにより周囲の生物を不老休眠状態にし、外敵からの攻撃や対象の移動を阻止します。\nまた、ムゲンユメクイによって齎される不老休眠下では、見ている夢の内容が「良い夢」になるように誘導されます。この能力は当研究所が選択的に付与した特異性ではないため、発現の過程特異性か明らかになっていません。ムゲンユメクイは通常のユメクイ種とは異なり「良い夢」を好んで摂食する傾向があり、対象の生物が見終わった「良い夢」を選択的に摂食しています。これはムゲンユメクイ自身の「味の好み」から発現した特異性であると予想されています。これら「良い夢」に関する特異性も、メラトニンなどの良い夢を惹起する物質を介しておらず、完全にムゲンユメクイの特性に由来した現象となっています。\n※ ムゲンユメクイは高齢の個体であり、摂食する夢の量はごく僅かです。そのため、ムゲンユメクイが「良い夢」を食い尽くしてしまうことはありません。\nムゲンユメクイはその特異性により、当研究所のTエリアに勤務していた職員全員を休眠状態にし、施設を機能不全に陥らせた経験があります。この事件自体はお客様各位の出資によって作成された装置によって解決しており、職員全員とのコンタクトも完了しています。現在、Tエリア全体がす-B-0201を提供するための専用施設として利用されており、勤務職員は休眠状態のまま夢界から現世に逆接続する形で業務に就いています。す-B-0201の利用開始および利用停止の際には、この休眠職員がお客様とやり取りを行い、お預かりした生物のお世話と入所/退所の移動を担当します。\n\n注意①\nムゲンユメクイの味覚的な好みにより、す-B-0201をご利用いただけるのは「人間に対して好意的な生物」に限られます。該当しない存在が旧Tエリア領域内に進入した場合、休眠状態にはなるものの、夢を見ることはありません。脳内物質を介さない休眠下で、夢を見ることができない状態が長期間続いた場合、対象の生物の精神に深刻なダメージを与えます。\n\nこの場合、当研究所はお客様に対し返金対応を行った上でサービスを中断させていただきます。継続してサービスをご利用いただくことはできませんので、ご了承ください。\n\n注意②\nムゲンユメクイの特異性影響下で見る夢は、休眠に際してセロトニンやメラトニンなどの睡眠ホルモンが作用していない関係上、対象となっている生物の脳内にある記憶が重要な役割を果たします。ムゲンユメクイは対象の生物の記憶の中から良い夢の材料となってくれる記憶を見つけてくれますが、対象となる生物が若年である場合はこの記憶の構築が不十分である場合があり、良い夢を見ることが出来ず、崩壊したカオスな夢を見る可能性があります。\n\nこの状態を放置すると対象の生物の精神を破壊する恐れがあるため、当研究所職員の判断で利用を中止する場合があります。若年個体の生物で当サービスを利用する際は、予めご承知お…",
+        "summary_basis_type": "opening",
+        "tags": [
+          "goi-format",
+          "jp",
+          "夢コン26",
+          "日本生類創研",
+          "_日本生類創研"
+        ],
+        "rating": 12,
+        "vote_count": 12,
+        "revision_count": 1,
+        "comment_count": 2,
+        "content_hash": "sha256:61247d1dbe4b311ef39803efc8abea09efaf4874715a15482853e6f3965ff594",
+        "has_text_content": true,
+        "text_content_length": 4427
+      }
+    },
+    "1469124549": {
+      "wikidot_id": "1469124549",
+      "page_name": "kankan-s-proposal-iii",
+      "first_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469124549",
+        "page_name": "kankan-s-proposal-iii",
+        "url": "https://scp-jp.wikidot.com/kankan-s-proposal-iii",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "その他作品",
+        "article_title": "KanKanの提言III - SCP-001-JP - 蛸葦廃船",
+        "subtitle": null,
+        "authors": [
+          "KanKan"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-08-09T11:51:51.000Z",
+        "created_at_jst": "2026-08-09T20:51:51+09:00",
+        "created_by": "KanKan",
+        "content_warnings": [],
+        "summary_basis": "著者ページ\n\n2018/08/01\n\n日本国██県██市██村において、[ PQLが閲覧上限値を超過しています]及び[ PQLが閲覧上限値を超過しています]が初めて発見されました。\n\n通知\nAK-2018の完了を阻止するため、Kušumプロトコルが実施されています。当該アイテムはKušumクラスに分類され、収容リソースはAK-2018の阻止に使用されることが決定されました。担当職員は一時的に当該アイテム収容の任を解かれ、新たにAK-2018阻止に関連する業務に割り当てられます。\n問い合わせは受け付けられません。\n\nアイテム番号: SCP-001-JP\n収容クラス: Kušum1\n\nレベル4/001-JP\n機密\n\nSCP-001-JP-μの画像化例\n\n特別収容プロトコル: N/A\n説明: SCP-001-JPは人類の精神に隣接して存在している超意識空間です。SCP-001-JPは、黒い液体で満たされた海洋のような様相を呈しています。SCP-001-JP内部にはタコやそれに類する軟体生物群を模した形而上実体が複数存在しており、また船を模した形而上実体（SCP-001-JP-μ）が存在しています。SCP-001-JP-μは知性と自我を有しており、本稿執筆時点において「蛸葦廃船」を自称しています。\nSCP-001-JPに存在する形而上実体群は、しばしば基底現実に超常現象として顕現します。この顕現は実体単体によるものではなく、SCP-001-JP-μが関与しているものと推定されています　　SCP-001-JP-μはこれら形而上実体群への干渉能力を有しており、干渉を受けた実体はSCP-001-JPから消失するとともに基底現実において超常現象として顕現します。具体的な干渉プロセスについては解明されていません。\nSCP-001-JPへのアクセスは、有知性霊魂インタフェース構造（ISIC）による単方向の観測・映像中継のみが可能です。一方で、SCP-001-JP-μは基底現実を観測可能であるようであり、ISICによる観測に対し積極的にメッセージを発信します　　このときのメッセージは日本語で陳述され、かつ概ね七・七・七・五音の都々逸2調が採られます。この形式はSCP-001-JP-μのみならずSCP-001-JP-μが関与している超常現象においても同様ですが、一部事例においては五・七・五音の川柳調が採られる場合も見られます。なお、SCP-001-JP-μから発されるメッセージには微弱な認識災害が含まれており、曝露者には音声だけでは聞き取れないようなメッセージの意味の一部が伝搬します。当該特性の有害性については研究中です。\n以下は、観測の結果SCP-001-JP-μから得られたメッセージの一例です。除染済ではあるものの、認識災害の曝露者による書き起こしであることに留意してください。\n\n映像記録\n\n<記録開始>\nSCP-001-JPの内部を、SCP-001-JP-μが運航している。ISICが起動すると、SCP-001-JP-μが観測点に接近する。やがて、メガホンを介したような音声が観測され始める。\nSCP-001-JP-μ: ようこそ船へ。あなたが心、今ぞ壺にて生まれ出づ。\nSCP-001-JP-μがさらに接近し、甲板にヒト型の影が複数確認できるようになる。\nSCP-001-JP-μ: 人の夢見は遍く在りて、いつか夢見は偏らん。\nSCP-001-JP-μの人影は、アシで構成されているように見える。\nSCP-001-JP-μ: 受難の海に漂うタコは、現実で成るアタマムシ。\nSCP-001-JP-μの人影が、観測点に向かって網を投げる。\nSCP-001-JP-μ: さあさ今こそ顕現の時。歌え歌えよ千秋楽。\n汽笛の音とともに、SCP-001-JP-μが観測点から離れていく。\nSCP-001-JP-μ: 蛸葦廃船、その暗きより、オラショの声が鳴り響く。\nしばらくして、SCP-001-JP-μが映像外へと出ていく。\n<記録終了>\n\n2018/08/02\n\n光量は変化していないにも拘らず、太陽が肉眼で視認できるようになりました。太陽表面には巨大な[ PQLが閲覧上限値を超過しています]が確認できます。\n\n補遺001-JP.1: 発見経緯\n2018年までの間に、SCP-001-JPを起源とする超常現象が173件確認されていました。当時はSCP-001-JPの存在は確認されていなかったものの、いずれの超常現象にもタコやそれに類する軟体生物・都々逸調といった共通の要素が確認されていたため、これら現象の根源となる存在が仮定されました。\n2018/01/21、心理学部門による財団職員の精神走査が実施された際、SCP-001-JPが職員の精神に隣接して存在していることが判明しました。ISICによる観測が実施され、説明項に記載の映像記録が得られました。以降も複数回ISICによる観測が実施され、SCP-001-JP-μによる形而上実体への干渉、およびそれと連動するようにして発生する基底現実における超常現象が記録されました。これらを根拠として、SCP-001-JPおよびSCP-001-JP-μが一連の超常現象の根源であると断定されました。\n2018/02/24、SCP-00…",
+        "summary_basis_type": "opening",
+        "tags": [
+          "001提言",
+          "esoteric-class",
+          "jp",
+          "neutralized",
+          "scp",
+          "夢コン26",
+          "未収容",
+          "植物",
+          "現実改変",
+          "異次元",
+          "船舶",
+          "蛸葦廃船",
+          "認識災害",
+          "集団意識",
+          "頭足類"
+        ],
+        "rating": 18,
+        "vote_count": 20,
+        "revision_count": 3,
+        "comment_count": 1,
+        "content_hash": "sha256:0d3e10d6fe0aa967f82220a85513386067f80f42d6b8532ff8d57855c6683bac",
+        "has_text_content": true,
+        "text_content_length": 17080
+      }
+    },
+    "1469123926": {
+      "wikidot_id": "1469123926",
+      "page_name": "scp-4667-jp",
+      "first_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469123926",
+        "page_name": "scp-4667-jp",
+        "url": "https://scp-jp.wikidot.com/scp-4667-jp",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "SCP報告書",
+        "article_title": "SCP-4667-JP - 夢を現実に",
+        "subtitle": null,
+        "authors": [
+          "Riarutuikyu"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-08-09T08:57:10.000Z",
+        "created_at_jst": "2026-08-09T17:57:10+09:00",
+        "created_by": "Riarutuikyu",
+        "content_warnings": [],
+        "summary_basis": "アイテム番号: SCP-4667-JP\nオブジェクトクラス: Keter\n特別収容プロトコル: SCP-4667-JPの目撃者がいた場合、情報を聴取した後、クラスB記憶処理を実施して下さい。SCP-4667-JPの異常性から、積極的な確保の試みは行われていません。\n概要: SCP-4667-JPは、不定期に不特定の地点に出現する若年男性です。およそ2〜3日に1回の頻度で日本国内に出現しますが、SCP-4667-JPが出現する具体的な時間、場所を推測する方法は現時点では発見されていません。SCP-4667-JPが出現している間は、周囲の人々はSCP-4667-JPの存在に一切違和感を抱きません。ミーム感染、あるいは現実改変に近い異常性を有していると推測されています。SCP-4667-JPの能力は出現の度に異なり、駐車場の20階から落下しても無傷であったという報告もあれば、自動車に轢かれて死亡したという報告も確認されています。SCP-4667-JPの出現時間も大きく異なり、今まで、最短は5分程度、最長は6時間程度まで確認されています。\nSCP-4667-JPは周囲の認識を一時的に改変するのみでそれ以外の影響が現時点で確認されていないため、積極的な確保は行われていません。\n補遺1: 以下は、SCP-4667-JPの目撃者へのインタビューです。\nインタビュー記録4667-JP-1\n\n対象: SCP-4667-JPの目撃者（以下、目撃者と記す）\n\nインタビュアー: ██研究員\n\n付記: SCP-4667-JPが最初に出現した際のインタビュー。\n\n<録音開始>\n\n██研究員: では、██1さんが見た男性について教えて頂けますか？\n\n目撃者: はい、えっと、大学の廊下内ですれ違って、その時に話したんですけど、その時は違和感とか変な感じはなくて、その人が突然消えた後におかしい、って急に感じました。\n\n██研究員: なるほど、何か消える予兆のようなものはありませんでしたか？\n\n目撃者: あ、はい、えと、突然急に消えた感じです。なんか、えと、はい、\n\n██研究員: ゆっくり話してもらって良いですよ。あまり起こらないことなのでパニックに陥っているかもしれませんが、大丈夫ですか？\n\n目撃者: あ、はい、だ、大丈夫です。ちょっと驚いてます。まさか急に人が消えるなんて思ってなかったし、しかもそれまで全く知らない人と話してたんで、はい。\n\n██研究員: その男性についてどう感じたのですか？\n\n目撃者: なんか、なんでかわかんないんですけど、その時は小学校の幼馴染だと思ってました。私、中学校に行く時に転校したんですけど、その前の小学校の頃の友達って思ってました。自然と話も合ったし。\n\n██研究員: 男性の特徴はありましたか？\n\n目撃者: いや、極普通の男の人って感じでした。\n\n██研究員: なるほど、質問に答えて頂きありがとうございました。\n\n<録音終了>\n\n終了報告書: インタビュー後、目撃者にはクラスB記憶処理を実施した。\n\nインタビュー記録4667-JP-2\n\n対象: SCP-4667-JPの目撃者（以下、目撃者と記す）\n\nインタビュアー: ██研究員\n\n付記: SCP-4667-JPの行動が著しく特殊であったため、記載。\n\n<録音開始>\n\n██研究員: では、██2さんについて教えて下さい。\n\n目撃者: なんか変な奴でした。\n\n██研究員: どのように変でしたか？\n\n目撃者: なんかね、いや、そいつをなぜか途中まで友達だと思ってた自分も変なんですけど、急に「これ夢だよー」とか言ってくるんですよ。ほんとに変な奴でした。普通に不審者でしたよ。勿論聞く耳持たなかったですけどね。夢な訳ないし。無視ですよ無視。\n\n██研究員: なるほど。その男性に何か特徴はありましたか？\n\n目撃者: 変なこと言ってたの以外は普通の男ですね。\n\n██研究員: なるほど、質問に答えて頂きありがとうございました。\n\n<録音終了>\n\n終了報告書: インタビュー後、目撃者にはクラスB記憶処理を実施した。\n\nインタビュー記録4667-JP-3\n\n対象: SCP-4667-JPの目撃者（以下、目撃者と記す）\n\nインタビュアー: ██研究員\n\n付記: 現時点で最新の目撃者へのインタビュー。\n\n<録音開始>\n\n██研究員: では、██3さんが見た男性について教えて下さい。\n\n目撃者: はい、えっと、まず特徴とかから話せば良いですかね？\n\n██研究員: どこからでも結構です。\n\n目撃者: まず、若かったですね。10代か20代くらいだと思います。身長はちょっと低めでしたね。ちょっと痩せ型でした。\n\n██研究員: なるほど。では、██さんがその男性を目撃した経緯について教えて下さい。\n\n目撃者: 学校の図書室で友達と一緒に本を借りていたんですけど、急に男性が現れて。しかも、その時なぜか俺、その男性を友達だと思ってたんですよね。よく考えたら同じ学年でも後輩でもないし、おかしいんですけど。でも、その時はなんでか分からないんですけどそう思ってました。\n\n██研究員: なるほど。\n\n目撃者: その男性が本を選ぶのに悩んでて、それで、友達と一緒に「早く本選べよー。俺達先に借りとくぞ？」みたいなこと言っ…",
+        "summary_basis_type": "opening",
+        "tags": [
+          "jp",
+          "keter",
+          "scp",
+          "削除通知"
+        ],
+        "rating": -7,
+        "vote_count": 9,
+        "revision_count": 10,
+        "comment_count": 3,
+        "content_hash": "sha256:ef10969799a4b72a2d88f0363389f5b3358e759ae431e5d11690ce0ca879c862",
+        "has_text_content": true,
+        "text_content_length": 6004
+      }
+    },
+    "1469123112": {
+      "wikidot_id": "1469123112",
+      "page_name": "scp-jpn13-235",
+      "first_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469123112",
+        "page_name": "scp-jpn13-235",
+        "url": "https://scp-jp.wikidot.com/scp-jpn13-235",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "GoIフォーマット",
+        "article_title": "SCP-JPN13-235 - “ド”は「ドーナツ」の“ド”",
+        "subtitle": null,
+        "authors": [
+          "eringiumexe"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-08-09T05:25:27.000Z",
+        "created_at_jst": "2026-08-09T14:25:27+09:00",
+        "created_by": "eringiumexe",
+        "content_warnings": [],
+        "summary_basis": "カノンハブ-FR » 太陽が沈む時 ハブ » SCP-JPN13-235\n\neringiumexeの著者ページ\n\nセクター識別子: SCP-JPN13\nオブジェクト番号: 235\n脅威タイプ: keter(暫定)\n脅威レベル: ●(低)\n封じ込め手順: SCP-JPN13-235はそれ自体が差し迫った脅威であるとはみなされていません。望まずにSCP-JPN13-235に遭遇した場合、速やかに再度入眠することが最も早く、かつ安全に影響から免れる方法であると考えられています。\nSCP-JPN13-235の正確な性質は不特定多数の有志財団メンバーによる協力のもと、調査が継続されています。SCP-JPN13-235に遭遇した場合、可能であれば当ページにその状況を記載してください1。編集権限は解放されていますが、いわゆる荒らし行為に該当する編集は差し戻されます。希望する場合は匿名での報告も可能です。内容について当ページに記載したくない場合は、プライバシーポリシーに則った財団非公開アーカイブへの収載処理がなされます。\nローカル手順: 現在SCP-JPN13-235の発生条件や影響範囲の調査が試行されています。調査にご協力頂ける財団メンバーは、安藤俊明(財団ID:A_Toshi)までご連絡ください。\n2026/08/09追記：SCP-JPN13-235を利用して違法行為を行わないでください。財団は非公開のものを含めたSCP-JPN13-235の痕跡の特徴や調査方法を警視庁と共有しており、SCP-JPN13-235が関連する犯罪の痕跡は法務機関において有効な証拠として取り扱われます。当ページへのアクセス履歴は記録されており、財団が必要と判断した場合その情報が捜査機関に開示される場合があります。\n説明: SCP-JPN13-235は東京都内で夜間に人間が消失する現象です。SCP-JPN13-235の発生の条件は、東京都内で眠っている人物(以下、遭遇者)が深夜0時から夜明け前の間に目を覚ますことであると見られます。ただし、詳しい発生条件については不明な点が多く、アラームなどを用いてSCP-JPN13-235の発生を人為的に再現する試みには成功していません。\nSCP-JPN13-235の影響下では遭遇者が確認可能な全ての人物が消失すると報告されます。消失した人物の衣服や持ち物などはその場に残されるようです。一方でインフラなどの都市機能やインターネット回線が利用可能な状態で維持されることも報告されているほか、事象が発生したとされる時刻に目が覚めており何事もなく過ごしていたとする非遭遇者の報告も散見されます。\nSCP-JPN13-235の影響から脱する条件は、遭遇者が再度入眠することであると考えられています。消失した人間は遭遇者の入眠中、不明なタイミングで再出現するものと見られますが、その瞬間を観測することに成功した報告はありません。遭遇者が日の出まで入眠しなかった場合、これとともに異常に強い眠気に襲われます。この現象と消失事象との関連は不明ですが、この眠気に抗って覚醒を保った報告はなされておらず、これが実質的にはSCP-JPN13-235の影響時間の上限として振る舞うものとみなされます。\n遭遇報告 - 2026/6/2: 6月1日の11:40ごろに就寝した報告者(安藤俊明)は、6月2日 午前2時未明に急な尿意のため起床しました。用を足した後、寝室に戻った段階で報告者の妻である安藤沙苗の不在に気づきました。\n寝室の電気をつけて妻を探した報告者は妻が就寝時に着用していた肌着を含む衣服を発見しました。衣服に脱いだような痕跡はなく、「抜け殻のような」または「妻の肉体だけが消失したような」と言えるような配置でした。確認した限りでは衣服を着替えた痕跡もなく、玄関の靴もそのままでした。スマートフォンや財布も自宅に残されていました。\n妻が何も持たずに家を出たとは考えがたく、事件性を考え警察に通報を行ったものの応答がありませんでした。車を運転して最寄りの交番に直接向かおうとしましたが、車道に車が停止していたため通行できず、車での移動は断念しました。停止していた車には誰も乗っていませんでした。運転席のシートベルトは掛かった状態で放置されており、運転手のものと見られる衣服が放置されていました。\n\n↑質問です。車が停止していたとのことですが、エンジンやサイドブレーキはかかっていましたか？運転中に運転手が消失したのであれば交通事故が多発していてもおかしくないように思えます。(観隅)\n\nご質問ありがとうございます。車のエンジンはかかっていないようでした。サイドブレーキについては確認できませんでしたが、坂道に停止していた車もその場に止まっていたので車のサイドブレーキは引いてあったものと推測できます。(安藤)\n\nこの段階で、深夜とはいえ一切の人の気配がしないことに気づきました。注意して見れば、路上にも衣服や靴が転がっていました。失踪したのが妻だけではないということがだんだんとわかってきました。ようやく辿りついた交番の椅子には警官の制服だけがもたれかかっていました。\n妻が外出したわけでも連れ去られたわけでもなく、頼るあてもない以上、自宅に帰る他にできることは残っていませんでし…",
+        "summary_basis_type": "opening",
+        "tags": [
+          "goi-format",
+          "jp",
+          "夢コン26",
+          "太陽が沈む時",
+          "太陽が沈む時-scp",
+          "_その他団体-他支部"
+        ],
+        "rating": 10,
+        "vote_count": 12,
+        "revision_count": 6,
+        "comment_count": 1,
+        "content_hash": "sha256:e3f9f6b5bbac4e20506d92910d29684dca89be1ef9559e5bc1823317c001092b",
+        "has_text_content": true,
+        "text_content_length": 7096
+      }
+    },
+    "1469123054": {
+      "wikidot_id": "1469123054",
+      "page_name": "amamiya-reika-origin-1",
+      "first_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469123054",
+        "page_name": "amamiya-reika-origin-1",
+        "url": "https://scp-jp.wikidot.com/amamiya-reika-origin-1",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "Tale",
+        "article_title": "天宮姉妹の落ちた夢",
+        "subtitle": null,
+        "authors": [
+          "©︎p51"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-08-09T04:46:55.000Z",
+        "created_at_jst": "2026-08-09T13:46:55+09:00",
+        "created_by": "p51",
+        "content_warnings": [],
+        "summary_basis": "この著者の他の作品\n\n接触\n\n柔らかな日差しが降り注ぐ日曜日の朝、リビングのソファに体育座りをして、膝の間に顔を伏せる少女がいた。ソファの前のテーブルには、両手で抱えなければ持てない大きさの本が置いてある。\nそこに別の少女が現れ、体育座りの子に声をかけた。\n「どーしたの？レイちゃん」\n声を掛けられた少女──天宮 麗花あまみや れいかは顔を上げた。彼女の頬は赤く染まっている。\n「おがあざんも、おどうざんも、あぞんでぐれないの」\n涙と鼻水で濁った妹の訴えを聞き、天宮 帝華あまみや ていかは唇を尖らせた。このような妹の姿を見るのは初めてではない。\n「仕方ないなあ。レイちゃん、お姉ちゃんと一緒に遊ぼう！」\n幼い妹の手を引き、帝華は共用の自室へ向かった。部屋の真ん中に腰を下ろした帝華は、膝の上に麗花を乗せて本を開き、妹が読めないという言葉を1つずつ丁寧に教え始める。最初の内はぐずっていた麗花も次第に落ち着きを取り戻していった。\n読書を終えて休憩を挟んだ2人は近所の原っぱに出かけた。草原を駆け回る間、麗花は何度も足をもつれさせたが、帝華が手を握っていたおかげで転ぶことはなかった。楽しい時間はあっという間に過ぎ去り、姉妹も気付かぬ間に空は赤く染まっていく。\n夕日が照らす河川敷、アスファルトの舗装路に手をつないだ2つの長い影が伸びる。\n「お姉ちゃん」と、小柄な少女が声を掛ければ「なぁに？」と、隣の少女が問いを返す。\n「わたし、たっくさん努力して、凄い人になって、お姉ちゃんを幸せにしてあげる」\n麗花は今日覚えたばかりの言葉をさっそく使いこなしていた。帝華は優しく妹の頭を撫でる。\n「それじゃあ、レイちゃんが凄い人になれるよう、私も手伝ってあげる。一緒に頑張ろうね」\n「ありがとう。お姉ちゃん！」\n姉妹は寄り添いあって帰り道を行く。\n姉の助けを借りつつ自主的に励んだ研鑽の結果、麗花は小学校1年生までに四則計算や漢字の読み書きといった技能に加え、同年代の平均を超える運動能力を身に付けた。\n\n深夜に目を覚ました帝華は下段で眠る妹を起こさないよう慎重に2段ベッドの梯子を下りた。\n(のど渇いた)\nキッチンで水を飲んでから自室に戻る途中、両親の寝室から明かりが漏れていることに気付く。近付いてみると中から話し声が聞こえてきた。\n(なんだろう。もしかして、次のお話の準備？)\n帝華の両親は、彼女が幼い頃からどんな絵本にも載っていない不思議な物語を聞かせてくれた。妖精たちの島、物語が現実になる町、無限に広がる図書館……彼女は両親の口から紡がれる物語の虜になり、幼稚園を卒業するまでは魔法使いになることを真剣に考えていたほどだ。\n(お父さんとお母さんが忙しくなくなったら、レイちゃんにも聞かせてあげたいな)\nそんなことを考えつつ、寝室の扉にそっと耳を当てる。\n「帝華と麗花の仲はどうかな？」\n「仲良しみたい。帝華ちゃん、すっかりお姉さんが板についてる」\n「それはよかった」\n妹ができたと聞かされた時、帝華は父と母の関心を奪われることを酷く恐れた。毎晩のように枕を濡らし、生まれてきてもいない妹の悪口を言いふらして両親に叱られることもあった。\n「そういえば聞いた？帝華ちゃん、理科の授業でアルコールランプの実験をしたらしいの。だけど、同じ班の子がランプを割っちゃって火事になりかけたんですって。怖いわねぇ」\n「そうだな」\n「あなたの魔法酒コレクションもちゃんと管理しないと……ねえ、聞いてる？」\n「ごめん。考え事してた」\n1人で泣いている麗花を放っておけず少しだけ遊んであげたことが切っ掛けで、帝華の認識は変わった。最初は1度だけのつもりだったはずが、寂しそうな妹の頼みを無碍にできず、帝華は何度も遊び相手を務めることになる。そんな日々を送る内に麗花への負の感情は薄れ、素直で可愛らしい妹への愛情が帝華の心を満たしていった。\n「なによ考え事って」\n「麗花のことだ。帝華に任せっきりだろ」\n「仕方ないでしょう。麗花が生まれた時は落ち着いてたけど、今はいろいろ立て込んでるじゃない」\n数年前から、両親は娘たちの面倒を見る暇すらないほど忙しそうにしていた。最初は父か母のどちらかが家を空ける程度だったが、今では2人して家を空けることも珍しくない。\n「図書館の利用者として異海の侵蝕防止に協力するのは確かに大切だ。で…",
+        "summary_basis_type": "opening",
+        "tags": [
+          "jp",
+          "tale",
+          "夢コン26",
+          "天宮博士"
+        ],
+        "rating": 1,
+        "vote_count": 3,
+        "revision_count": 1,
+        "comment_count": 1,
+        "content_hash": "sha256:0428b837d57a3db1d00c40f4ae24bef008b27536840804f42acc03de6e1904b3",
+        "has_text_content": true,
+        "text_content_length": 12179
+      }
+    },
+    "1469122827": {
+      "wikidot_id": "1469122827",
+      "page_name": "scp-4471-jp",
+      "first_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469122827",
+        "page_name": "scp-4471-jp",
+        "url": "https://scp-jp.wikidot.com/scp-4471-jp",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "SCP報告書",
+        "article_title": "scheduled to delete - 夢散",
+        "subtitle": null,
+        "authors": [
+          "phlo-fro"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-08-09T03:28:20.000Z",
+        "created_at_jst": "2026-08-09T12:28:20+09:00",
+        "created_by": "phlo-fro",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-4471-JPは既に死亡した生物がクラスⅣ霊的実体(以降はSCP-4471-JP-Aに指定)として出現する現象です。SCP-4471-JPは以下に示す発生条件を満たした人物(以降は対象に指定)が任意の布団と枕を使用した際に発生します。\n\n対象が出現させる生物(以降は元生体に指定)の愛用品または元生体の体組織の一部を現時点で有していること\n対象が元生体と生前に互いを認知していること\n対象が元生体の名前を憶えていること\n対象が元生体に対して何らかの強い思いを有していること\n\nSCP-4471-JP-Aは通常視認不可能ですが対象は問題なく視認することができます。また周囲の人物もハルトマン霊体撮影機を用いることで視認可能です。またSCP-4471-JP-Aは本来有するはずの念動力や異常な移動能力等を使用した例は存在せず、元生体の気質に関わらず非常にリラックスした形態で出現します。\nSCP-4471-JPの発生に対象の睡眠は必要無く、SCP-4471-JP-Aは対象が覚醒していた際にはコミュニケーションを取るように行動し、対象が睡眠状態にあった場合にはその場で対象を眺めるように行動します。SCP-4471-JP-Aのコミュニケーション能力を含むあらゆる性質は元生体と完全に同一であり、ミーム汚染等を受けたまま死亡した場合その影響は完全に除去された形態で出現します。SCP-4471-JP-Aの存在時間は不定であり最大で約12時間存在し続けた記録があります。\nSCP-4471-JP-Aは元生体の記憶を完全に保持しており、出現回数による記憶の摩耗は現在まで確認されていません。また同一のSCP-4471-JP-Aは連続的に出現させることは出来ず最低でも1ヶ月の間隔が必要です。\n以上の性質から桑里博士によりアノマリーの実験で死亡したDクラス職員に対してSCP-4471-JPを発生させることでのインタビュー実行が提言されました。当該の提言はアノマリーの異常性を調査する上で非常に有効であるかつ、死亡した職員に苦痛が生じない倫理的な物であったため提言は可決されオブジェクトクラスがThaumielに再分類されました。",
+        "summary_basis_type": "description",
+        "tags": [
+          "esoteric-class",
+          "jp",
+          "scp",
+          "削除通知",
+          "夢コン26"
+        ],
+        "rating": -10,
+        "vote_count": 12,
+        "revision_count": 3,
+        "comment_count": 4,
+        "content_hash": "sha256:78b3e2915a5b540be391dd382ca06f4c3962beff9a1baf1c7f436f924a1aba18",
+        "has_text_content": true,
+        "text_content_length": 2823
+      }
+    },
+    "1469122700": {
+      "wikidot_id": "1469122700",
+      "page_name": "scp-4084-jp",
+      "first_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469122700",
+        "page_name": "scp-4084-jp",
+        "url": "https://scp-jp.wikidot.com/scp-4084-jp",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "SCP報告書",
+        "article_title": "SCP-4084-JP - おや(すみ)知らず",
+        "subtitle": null,
+        "authors": [
+          "wavekey"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-08-09T03:00:05.000Z",
+        "created_at_jst": "2026-08-09T12:00:05+09:00",
+        "created_by": "wavekey",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-4084-JPは異常なシングルベッドです。\nSCP-4084-JPを用いて睡眠を行った人物は、異常な夢(SCP-4084-JP-A)を見ます。睡眠者は必ずSCP-4084-JP-Aを見るうえ、起床時までそれを忘却することはありません。また、SCP-4084-JP上でSCP-4084-JP-A以外の夢を見た事例は確認されていません。\nSCP-4084-JP-A内では、睡眠者自身が歯科治療用のベッドに横たわっていることを認識します。睡眠者は、SCP-4084-JP上での姿勢に関わらず、SCP-4084-JP-A内では仰向けの体勢を取っています。SCP-4084-JP-A内で睡眠者が動作を行う試みには成功していません。\nSCP-4084-JP-A内において、睡眠者自身の正面には、歯科医師と思われる人物が存在しています。ただし、その人物は全体的に不明瞭に認識され、性別・人種・年齢・体格などが判然としません。\n歯科医師実体は、一般的な歯科検診と同様の手法・道具を用いて、睡眠者の歯を検査します。SCP-4084-JP-A内における睡眠者の歯の状態は、現実世界における睡眠者の歯の状態と一致することが判明しています。\n睡眠者の歯に虫歯などの異常がない場合、歯科医師実体は消失します。その後、睡眠者は起床します。\n一方で、虫歯などの異常な歯がある場合、歯科医師実体はペンチを出現させ、当該歯の抜去を行います。特筆すべき点として、歯科医師実体は、歯科用の鉗子ではなく工具としてのペンチを用いていることが挙げられます。また、本来なら抜歯以外の処置が適切といえる状態の歯に対しても、抜去が行われます。加えて、麻酔やそれに類する処置が一切行われていないため、夢中であるにもかかわらず、睡眠者は激しい痛みを感じます。なお、歯科医師実体は、「痛かったら手を挙げてください」旨の発言をしますが、先述の通り、睡眠者は動作を行うことができません。ただし、出血や、歯茎・神経の損傷などといった事象は発生しないようです。\n抜歯後、睡眠者は、歯科医師実体の顔が認識できるようになります。その顔は、睡眠者自身のものに酷似します。歯科医師実体は、睡眠者から抜歯した歯と同じ歯を自身から抜歯します。そして、その歯を、睡眠者の抜歯された部分に挿入します。挿入された歯は十数秒で完全に固定されます。なお、歯科医師実体の抜去された歯は、即座に生えます。\nその後、睡眠者は起床します。現実世界において、睡眠者の異常な歯は、不明な原理で完治しています。歯が治療される瞬間の観察には成功していません。\n\nshare",
+        "summary_basis_type": "description",
+        "tags": [
+          "jp",
+          "safe",
+          "scp",
+          "人間型",
+          "削除通知",
+          "医療",
+          "夢コン26",
+          "家具",
+          "幻覚",
+          "感覚",
+          "歯",
+          "生物学",
+          "睡眠",
+          "記憶影響"
+        ],
+        "rating": -9,
+        "vote_count": 15,
+        "revision_count": 2,
+        "comment_count": 2,
+        "content_hash": "sha256:70b1ba55b01d2513a0d34d63a1731431e96b292618dd712ffeccc02d7b359df3",
+        "has_text_content": true,
+        "text_content_length": 1299
+      }
+    },
+    "1469122256": {
+      "wikidot_id": "1469122256",
+      "page_name": "scp-4646-jp",
+      "first_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469122256",
+        "page_name": "scp-4646-jp",
+        "url": "https://scp-jp.wikidot.com/scp-4646-jp",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "SCP報告書",
+        "article_title": "SCP-4646-JP - 46億年目におやすみを",
+        "subtitle": null,
+        "authors": [
+          "Something_funya2"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-08-09T00:11:05.000Z",
+        "created_at_jst": "2026-08-09T09:11:05+09:00",
+        "created_by": "Something_funya2",
+        "content_warnings": [],
+        "summary_basis": "説明: SCP-4646-JPは、1999年に発生した、地球上の複数地点で確認された現実性強度の低下現象です。これはSCP-30012に代表される低現実性空間に類似した影響を発生させます。\n具体的には、低現実性空間内に存在する者は周囲の低現実性に侵され、自身の現実性が低下することで、意識を保ったまま固体状態を失い、液体、気体、ゲルなど流体の特性を得て空間へ拡散します。\nこのため、低現実性空間の被影響者は自然風などの外部要因による拡散や攪拌に伴い、自我の離散あるいは混濁を経験します。被影響者由来の有意識流体が拡散によって通常現実性領域へ到達した場合、希釈された状態のまま現実性を再獲得し、死亡します。\n以下は、現実性低下事象が発生した地点のリストです。\n\n地点名\n発生日時、被害者数\n\nコロンビア共和国キンディオ県一部地域\n1999/01/25　4,900人\n\n台湾南投県集集鎮一部地域\n1999/05/03　13,749人\n\nトルコ共和国コジャエリ県イズミット市全域\n1999/08/17　43,959人\n\nアメリカ合衆国オクラホマ州全域、カンザス州全域、テキサス州全域\n1999/09/21　0人\n\n財団はSCP-4646-JPの収容を目的に複数の作戦を展開しましたが、第4の事案を最後にSCP-4646-JPの発生が確認されていないことを受けて、全ての作戦行動は無期限に凍結されています。SCP-4646-JPの発生機序および収容方法が判明した一方で、再発可能性を否定できないことからオブジェクトクラスはEuclidに変更されています。\n事案解決を主導した八宮 一樹 博士(財団対話部門所属、臨床心理士)の報告について、現在も地球意識への接続を含む再現性確認が行われています。\nSCP-4646-JP事象収束経緯: 八宮博士は、極地における職員の心理的ケアを目的として、1998/11/01から財団日本支部南極調査隊に同行していました。\n以下は、1回目のSCP-4646-JP現象が発生した1999/01/25に行われていた面談の音声記録です。面談対象である千寿 花音 博士は財団に所属する地磁気学者であり、5年以上にわたって南極の地磁気データ収集業務に従事しています。\n\n<記録開始>\n\n八宮博士: お疲れ様です。今回はどのような御用件でしたか？\n千寿博士: おや、アロマか。良い香りだ、リラックスして話せそうじゃないか。いやね、恥ずかしながら夢が怖いんだ。\n八宮博士: 夢ですか。脳が情報整理のために見せるものですから、ストレスの原因を表すことが多いと言われています。詳しく聞かせてください。\n千寿博士: 不思議なことに、天体衝突の夢ばかり見ている。そもそも私は眠りが深い体質だから夢は見ないんだが、最近は毎晩毎晩、小天体が私に落ちてくる夢を見る。妙な事に、ここ最近の業務でも趣味でも、宇宙に関わることは経験していないんだよ。\n八宮博士: その夢を見るようになってから、具体的な困り感はありますか？\n千寿博士: シンプルに怖いね。毎回小天体が自分に当たった瞬間に目が覚めるんだ。よく眠れていないし、日常でもふとした瞬間に小天体への恐怖に怯える瞬間がある。\n八宮博士: 財団の航空宇宙局が地球外文明を発見できるほどの技術を持っていて、彼らが迎撃できない規模の天体が確認されていない事実はご存知ですよね。\n千寿博士: うん、理性の部分では絶滅級の天体衝突は起こらないと分かってはいるんだ。たまに来る小天体だって、航空宇宙局が迎撃してくれている。それでも、夢の内容が怖いんだ。\n八宮博士: 安全だと理解できていて、なお安心できないほど怖いと。いつから隕石の夢を？\n千寿博士: はっきりと自覚したのは、去年の秋口だったろうか。\n八宮博士: それだけ長く、しかも同じ悪夢を見続けているのですね。夢の印象を把握したいので、絵に起こしてもらえませんか？\n[千寿博士が了承し、八宮博士と雑談しながら夢の内容を絵に起こしていく。]\n千寿博士: できたよ。こういう感じだと思う。\n八宮博士: 大きな隕石ですね。空一面を覆っている。これが落ちてくる夢となれば、それは怖いでしょう。日常生活に影響を与えるのも分かります。\n千寿博士: そうなんだよ。どうしたらいいと思う？\n八宮博士: 悪夢そのものに働きかけてみ…",
+        "summary_basis_type": "description",
+        "tags": [
+          "euclid",
+          "jp",
+          "scp",
+          "夢コン26",
+          "惑星",
+          "集団意識"
+        ],
+        "rating": 18,
+        "vote_count": 20,
+        "revision_count": 7,
+        "comment_count": 1,
+        "content_hash": "sha256:bd530d23d45925415d686f11d6ae5635b588743f422819d009c73fd3c49ffc6e",
+        "has_text_content": true,
+        "text_content_length": 18028
+      }
+    },
+    "1469122079": {
+      "wikidot_id": "1469122079",
+      "page_name": "mortal-emulator-tenbu",
+      "first_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469122079",
+        "page_name": "mortal-emulator-tenbu",
+        "url": "https://scp-jp.wikidot.com/mortal-emulator-tenbu",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "Tale",
+        "article_title": "安易にSNSに自撮りを上げるべきではない - 定命種エミュレータ事例集",
+        "subtitle": null,
+        "authors": [
+          "kyoudo _m"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-08-08T22:29:43.000Z",
+        "created_at_jst": "2026-08-09T07:29:43+09:00",
+        "created_by": "Kyoudo _m",
+        "content_warnings": [],
+        "summary_basis": "この著者の他の作品\n\n登録日：2026/8/13\nタグ：SNS やらない方がよいこと 人間 自撮り インターネット\n\n5W1H+Then状況説明\n\nWho(誰が)\n筆者（長命種，転生型）が\n\nWhen(いつ)\nしばらく前に\n\nWhere(どこで)\n定命種たちのSNSコミュニティに\n\nWhy(なぜ)\n1人飲みの楽しさを自慢したくなったため\n\nHow(どのように)\n酒と肉を両手に持った写真を撮り\n\nWhat(何をした)\n投稿した\n\nThen(どうなった)\n「どうやって撮ったのか」とSNS上で騒がれ、正体がバレるかと肝を冷やすことになった\n\n前提条件\n\n筆者は定命種のフリをしてSNS上で彼らと交流していた。\n投稿当時、久々の酒でテンションが上がっていた。\n\n定命的行動ブレイクポイント\n\n個人情報が特定されるリスクから、定命種は安易に写真をインターネットに上げない\nほとんどの定命種は二本以上の手を持っていない。\n\nどうすればよかったか\n\n自撮りをあげなければよかった。\nあげる場合にも定命種と私たちの種族の肉体的違いを考慮すべきだった。\n\n備考\n\n結局私の正体として挙がったのはゲームやマンガのキャラの名前ばかりで、種族がバレることはなかった。\n安心したが、自分の種族の名前が出ないことに少し落ち込んでしまった。\n少し前まではあんなに像や絵を描いてくれていたのに、諸行無常である。\n\n関連する投稿(タグ基準)\n\n恋人を不死にするべきではない\n星座にするというのは慰謝料にならない\n月に模様を描くというのは賞状代わりにならない\n顔が醜くても嫁にもらった妻は大切にすべきである\n妻の見るなと芸人のするなは全く意味が違う\n誰かのために不死の薬を探す時は相手の寿命も考慮したほうがいい\n食材の排出元がなんだろうともてなしてくれた時に相手を斬ってはいけない\n\n«宣伝の予算をケチるべきではない|自分の逸話を元に人肉を食べていたとしても信徒とは限らない»\n\nshare",
+        "summary_basis_type": "opening",
+        "tags": [
+          "jp",
+          "tale"
+        ],
+        "rating": 13,
+        "vote_count": 27,
+        "revision_count": 7,
+        "comment_count": 0,
+        "content_hash": "sha256:ab123a85b22be827c2918633f3965ae1179714b1cf3faa86839582bd3697c522",
+        "has_text_content": true,
+        "text_content_length": 960
+      }
+    },
+    "1469122016": {
+      "wikidot_id": "1469122016",
+      "page_name": "ok",
+      "first_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "last_seen_at_utc": "2026-08-09T21:45:45.493018+00:00",
+      "baseline": false,
+      "article": {
+        "wikidot_id": "1469122016",
+        "page_name": "ok",
+        "url": "https://scp-jp.wikidot.com/ok",
+        "edition": "jp_original",
+        "classification_confidence": "confirmed",
+        "classification_reasons": [
+          "jp_tag"
+        ],
+        "source_branch": "JP",
+        "source_branch_basis": "jp_tag",
+        "genre": "Tale",
+        "article_title": "良い？",
+        "subtitle": null,
+        "authors": [
+          "kinnikuno-yousei11"
+        ],
+        "original_title": null,
+        "original_url": null,
+        "original_authors": [],
+        "original_year": null,
+        "translation_year": null,
+        "translation_responsible": [],
+        "translators": [],
+        "created_at_utc": "2026-08-08T22:14:02.000Z",
+        "created_at_jst": "2026-08-09T07:14:02+09:00",
+        "created_by": "kinnikuno-yousei11",
+        "content_warnings": [
+          "コンテンツ警告: この記事には以下の要素が含まれていますが、以下を肯定する意図で書かれたものではありません。"
+        ],
+        "summary_basis": "⚠️ コンテンツ警告: この記事には以下の要素が含まれていますが、以下を肯定する意図で書かれたものではありません。\n\n援助交際\n望まない妊娠\n\n上記を了承いただいた上で本編をお読みください。\n\n夜2時。窓から煌びやかな冬の街を見る。あそこに住めたらなと一瞬思っても、部屋の強烈な臭いがすぐに現実へ引き戻す。\nふと首元のペンダントを見ると、少し汚れてしまっていた。首元からはずしてティッシュで汚れを拭く。１つ溜息をつくと、後ろに居た男が私に気がついた。\n「ねぇ、1人でどうしたの？えっと、キキちゃんだっけ。何か悩んでる？」\n男が話しかけてくる。名前は……さっき言ってたけど忘れた。でも別に覚えてても良いことは無いと思う。\n「いや、こんな綺麗な夜景を見たのが初めてで、ちょっと驚いてただけです。」\n「あぁ、良いよねここ。何回見ても飽きないよ。」\nあぁそうか。こいつ何回もこんな所に来たことあるのか。やばいなコイツ。まぁ知ってたけど。\n「ブーバちゃんもさ、これを見たら綺麗だと思うんじゃない？明日にでも見せてあげようよ。」\n「たしかにあいつはこういう幻想的な風景好きなので喜ぶと思います。」\nブーバというのは私の妹で、今は奥のベッドで寝ている。あいつは私より社交的で頭も良くて……キラキラしてる。でもあいつは人格的にもできてるやつだから、私がそんなことを言うたびに全力でそんなことないよって否定してくる。ああいうやつが老若男女から好かれるんだろうなって思う。\n「でもブーバは体力無いんで、夜景を見る前に疲れて寝ちゃうかもですよ。」\n「それでもいいよ。この街にはたくさん楽しいものがあるんだからさ、いろんなことを好きなだけすればいいんだよ。」\n「……それもそうですね。」\nブーバはまだぐっすり寝ている。今日はいろんなことができて楽しかった！と主張するような程幸せそうな寝顔。一方の私は一切そんなことは思っていない。この差は何だろう、ポジティブに考えればいいのか？それとも慣れの問題？いくら考えても、あいつの方が私より器がでかいという結論に至ったので考えるのを辞めた。\nそういえば、この男は何故私達を助けたのだろう。そりゃ１つ明確な理由はあるだろうが、今のご時世だいぶリスキーじゃないか？見たところ良いとこのお坊ちゃんっぽいし、些か迂闊じゃないか？まぁ私達が言えたことではないけども。きっと、ものすごく正義感が強くて優しい人なんだろうな。それか欲に正直で浅慮な人。前者だったら良いな、んなわけないけど。こんな奴。\n\nしばらくして、眠気がまたぶり返してきた。今日色々ありすぎたし、流石に疲れた。頭も痛いしもう寝ようとベッドに腰掛けた時、男が口を開いた。\n「……あのさ、何でキキちゃんとブーバちゃんはあんなことしてたの？もちろん言いたくないなら言わなくても良いんだけど、もしよかったら俺が力になりたくて。」\nそんなこと聞くなよ……。これ答えなきゃだめなのかな。\n「……気持ちは嬉しいんですけど、何でそこまで私達のことを気遣ってくれるんですか？さっきまで赤の他人だったんですよ？」\nよし話を逸らした。ここから適当に相槌と感謝の言葉を並べとけば穏便に済むだろう。眠いし早く終わらないかな。\n「なんか、助けたくなっちゃったんだよ。無計画に突っ込んで、辛い思いをしているのが無性に助けたくなったんだ。」\nほんとかよ。\n「……そうなんですか？」\n「うん、君達の気持ち痛い程分かるよ。自分達が住む社会に息苦しさを感じて、そこから逃げ出してきたんだろ？俺もさ、君達みたいな時期があったんだよ。」\n近いような遠いような。掠ってはいるけど、核心を掴めていない。分かったように喋るな。\n\n私とブーバは一般的な家庭に生まれた。生活には困っていなかったし、たまに贅沢できるくらいには余裕があった。ママもパパも良い意味で普通の人で、怒る時は怒るし褒める時は褒めるくらいの人達だった。\nブーバは昔から万能マンで美人で性格も良くて、モテてた。本当にモテてた。男女問わず友達が多かったし、年に何回も告られてた。休日は基本友達と遊びに行くくらい人付き合いも良いらしい。もし私がブーバと姉妹じゃなかったら好きになってたと思……いやちょっとキモいな。やっぱりないわ。まぁとにかく、あいつは昔から人に好かれるくらい良い奴だった。私はそんなブーバが羨ましか…",
+        "summary_basis_type": "opening",
+        "tags": [
+          "jp",
+          "tale",
+          "削除通知",
+          "夢コン26"
+        ],
+        "rating": -9,
+        "vote_count": 11,
+        "revision_count": 4,
+        "comment_count": 4,
+        "content_hash": "sha256:5713928b349cb02906a615ed5c2cd3c5d851e118f9fdc939f08c0a86b2efec83",
+        "has_text_content": true,
+        "text_content_length": 10886
       }
     }
   }
