@@ -1,4 +1,4 @@
-# SCP-JP Daily Monitor v5.1.1
+# SCP-JP Daily Monitor v5.1.2
 
 Crom GraphQL APIからSCP財団日本支部の新着記事を取得し、毎日06:17頃（JST）にGitHub Pagesへ監視用JSONを公開する本番版です。
 
@@ -32,12 +32,16 @@ Crom GraphQL APIからSCP財団日本支部の新着記事を取得し、毎日0
 .github/workflows/scp-jp-monitor.yml
 config/baseline.json
 scripts/scp_jp_monitor.py
+scripts/scp_jp_hotfix_v512.py
+scripts/run_monitor_v512.py
 tests/test_monitor.py
+tests/test_hotfix_v512.py
 docs/scheduled-task-prompt.md
 docs/operations.md
+docs/v5.1.2-hotfix.md
 ```
 
-既存のv2～v4.2プローブは残して構いません。v5.1.1のワークフローは`scp_jp_monitor.py`だけを本番処理に使用します。
+既存のv2～v4.2プローブは残して構いません。v5.1.2のワークフローは`run_monitor_v512.py`からv5.1.1のコアへホットフィックスを適用して実行します。公開JSONのスキーマは変更しません。
 
 ## 動作
 
@@ -46,6 +50,8 @@ docs/operations.md
 GitHub Actions
   ├─ monitor-stateブランチから前回状態を取得
   ├─ Cromから新着候補を取得
+  ├─ 未変更記事は保存済みスナップショットを再利用
+  ├─ 新規・改訂・未処理記事だけ詳細を取得
   ├─ JPオリジナル／翻訳を分類
   ├─ タイトル、サブタイトル、著者・翻訳者を正規化
   ├─ ネタバレなし概要作成用の短いsummary_basisを抽出
@@ -64,6 +70,8 @@ GitHub Actionsの予定時刻からScheduled Taskまで約6時間の余裕を持
 
 増分取得の30日ルックバックには`bootstrap_since_jst`を下限として適用します。これにより、監視開始日より前の記事が後続実行で初めて状態へ入り、誤って新着扱いされることを防ぎます。
 
+v5.1.2では、一覧取得時の`revisionCount`とタグが前回状態から変化していない確定済み記事について、保存済みスナップショットを再利用します。Cromの詳細GraphQLクエリは新規・改訂・未処理記事へ限定されます。また、HTTP 429の`Retry-After`を尊重し、公開診断へレスポンス本文を埋め込みません。
+
 ## 初期ベースライン
 
 `config/baseline.json`には、すでに紹介済みのJPオリジナル9件を登録しています。
@@ -78,11 +86,17 @@ ZIPの中身を`iniwa/scp-jp-crom-probe`のリポジトリルートへ配置し�
 <repository root>/
 ├─ .github/workflows/scp-jp-monitor.yml
 ├─ config/baseline.json
-├─ scripts/scp_jp_monitor.py
-├─ tests/test_monitor.py
+├─ scripts/
+│  ├─ scp_jp_monitor.py
+│  ├─ scp_jp_hotfix_v512.py
+│  └─ run_monitor_v512.py
+├─ tests/
+│  ├─ test_monitor.py
+│  └─ test_hotfix_v512.py
 └─ docs/
    ├─ scheduled-task-prompt.md
-   └─ operations.md
+   ├─ operations.md
+   └─ v5.1.2-hotfix.md
 ```
 
 ### GitHub Pagesを有効化
@@ -143,6 +157,9 @@ https://iniwa.github.io/scp-jp-crom-probe/latest.json
 - `status: degraded` — 一部記事が同期待ち・分類待ち。確定済み記事は公開
 - `status: error` — 全体処理失敗。新しいPagesデプロイは行わず、前回成功版を維持
 - `generated_at_jst` — ChatGPT側が36時間の鮮度判定に使用する生成日時
+- `hotfix_version` — 適用中のホットフィックス版
+- `counts.details_fetched` — この実行で詳細取得した件数
+- `counts.details_reused` — 前回スナップショットを再利用した件数
 
 `generated_date_jst`は監査用に残しますが、日付が今日と異なることだけでは障害扱いにしません。
 
@@ -172,6 +189,7 @@ ChatGPT側は、過去に通知済みの`notification_id`を再通知しませ�
 - Crom全体への接続失敗、JSON異常、上限到達など: Workflow失敗。Pagesは前回成功版を維持
 - 個別記事の本文が未同期: `degraded`。その記事は未検出扱いにせず`pending_pages`へ記録し、翌日再試行
 - 分類不能・競合: `degraded`。対象ページは状態へ保存せず再試行
+- HTTP 429: `Retry-After`に従って再試行。完全なGraphQL `data`が返っている場合は利用
 - 新着なし: `ok`かつ未報告候補0件。ChatGPTは通知しない
 - `health.json.generated_at_jst`が36時間超古い、または日時として不正: ChatGPTは確認失敗として障害通知
 - `generated_date_jst`が今日と異なるだけ: 36時間以内なら処理を継続
@@ -192,6 +210,12 @@ SCP-JP daily monitor
 
 実行後、ChatGPT Scheduled Taskの本文を`docs/scheduled-task-prompt.md`の内容へ置き換えてください。詳細な確認項目は`docs/operations.md`に記載しています。
 
+## v5.1.2ホットフィックス適用後
+
+`force_bootstrap`は実行しません。通常実行を1回行うと、以前の14日保持で削除済みだった記事スナップショットを必要に応じて再取得します。次の通常実行からは未変更記事の大部分が`details_reused`へ移ります。
+
+確認項目は`docs/v5.1.2-hotfix.md`を参照してください。
+
 ## 状態のリセット
 
 通常は`monitor-state`ブランチを手動編集しません。
@@ -202,7 +226,10 @@ SCP-JP daily monitor
 
 ```bash
 python -m unittest discover -s tests -p 'test_*.py' -v
-python -m compileall -q scripts/scp_jp_monitor.py
+python -m compileall -q \
+  scripts/scp_jp_monitor.py \
+  scripts/scp_jp_hotfix_v512.py \
+  scripts/run_monitor_v512.py
 ```
 
 ライブ取得には外部ネットワークが必要です。
