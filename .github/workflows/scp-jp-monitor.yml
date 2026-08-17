@@ -2,10 +2,17 @@ name: SCP-JP daily monitor
 
 on:
   schedule:
-    # 21:17 UTC = 06:17 JST on the following calendar day. This leaves
-    # more than six hours before the 12:40 JST consumer task, even if
-    # GitHub starts the scheduled workflow late.
+    # 21:17 UTC = 06:17 JST on the following calendar day.
     - cron: "17 21 * * *"
+  pull_request:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/scp-jp-monitor.yml"
+      - "scripts/**"
+      - "tests/**"
+      - "config/**"
+      - "VERSION"
   workflow_dispatch:
     inputs:
       window_days:
@@ -23,12 +30,10 @@ on:
         default: false
 
 permissions:
-  contents: write
-  pages: write
-  id-token: write
+  contents: read
 
 concurrency:
-  group: scp-jp-daily-monitor
+  group: scp-jp-daily-monitor-${{ github.ref }}
   cancel-in-progress: false
 
 env:
@@ -37,8 +42,37 @@ env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
-  monitor:
+  verify:
+    if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout source branch
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Run unit tests
+        run: python -m unittest discover -s tests -p 'test_*.py' -v
+
+      - name: Compile monitor
+        run: |
+          python -m compileall -q \
+            scripts/scp_jp_monitor.py \
+            scripts/scp_jp_hotfix_v512.py \
+            scripts/run_monitor_v512.py
+
+  monitor:
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
     timeout-minutes: 30
     environment:
       name: github-pages
@@ -73,7 +107,6 @@ jobs:
           FORCE_BOOTSTRAP: ${{ inputs.force_bootstrap || false }}
         run: |
           set -euo pipefail
-
           if [[ "$FORCE_BOOTSTRAP" == "true" ]]; then
             echo "available=false" >> "$GITHUB_OUTPUT"
             echo "source=forced-baseline" >> "$GITHUB_OUTPUT"
@@ -88,8 +121,7 @@ jobs:
           case "$state_ref_result" in
             0)
               git fetch --no-tags origin monitor-state:refs/remotes/origin/monitor-state
-              git show refs/remotes/origin/monitor-state:state.json \
-                > monitor-input/previous-state.json
+              git show refs/remotes/origin/monitor-state:state.json > monitor-input/previous-state.json
               python -m json.tool monitor-input/previous-state.json >/dev/null
               echo "available=true" >> "$GITHUB_OUTPUT"
               echo "source=monitor-state" >> "$GITHUB_OUTPUT"
@@ -112,7 +144,11 @@ jobs:
       - name: Compile monitor
         id: compile
         shell: bash
-        run: python -m compileall -q scripts/scp_jp_monitor.py
+        run: |
+          python -m compileall -q \
+            scripts/scp_jp_monitor.py \
+            scripts/scp_jp_hotfix_v512.py \
+            scripts/run_monitor_v512.py
 
       - name: Build monitor feed through Crom
         id: build_feed
@@ -137,7 +173,7 @@ jobs:
             args+=(--now "$NOW_OVERRIDE")
           fi
 
-          python scripts/scp_jp_monitor.py "${args[@]}" \
+          python scripts/run_monitor_v512.py "${args[@]}" \
             > "$MONITOR_OUTPUT_DIR/monitor.log" 2>&1
           monitor_exit=$?
           set -e
@@ -238,18 +274,24 @@ jobs:
           retention-days: 30
 
       - name: Configure GitHub Pages
-        if: steps.build_feed.outcome == 'success' && github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+        if: >-
+          steps.build_feed.outcome == 'success' &&
+          github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
         uses: actions/configure-pages@v5
 
       - name: Upload GitHub Pages artifact
-        if: steps.build_feed.outcome == 'success' && github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+        if: >-
+          steps.build_feed.outcome == 'success' &&
+          github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
         uses: actions/upload-pages-artifact@v4
         with:
           path: monitor-output/public
 
       - name: Deploy GitHub Pages
         id: deployment
-        if: steps.build_feed.outcome == 'success' && github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+        if: >-
+          steps.build_feed.outcome == 'success' &&
+          github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
         uses: actions/deploy-pages@v4
 
       - name: Persist state after successful deployment
