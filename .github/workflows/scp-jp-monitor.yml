@@ -64,7 +64,8 @@ jobs:
           python -m compileall -q \
             scripts/scp_jp_monitor.py \
             scripts/scp_jp_hotfix_v512.py \
-            scripts/run_monitor_v512.py
+            scripts/run_monitor_v512.py \
+            scripts/publish_monitor_feed.py
 
   monitor:
     if: github.event_name != 'pull_request'
@@ -148,7 +149,8 @@ jobs:
           python -m compileall -q \
             scripts/scp_jp_monitor.py \
             scripts/scp_jp_hotfix_v512.py \
-            scripts/run_monitor_v512.py
+            scripts/run_monitor_v512.py \
+            scripts/publish_monitor_feed.py
 
       - name: Build monitor feed through Crom
         id: build_feed
@@ -273,6 +275,16 @@ jobs:
           if-no-files-found: error
           retention-days: 30
 
+      - name: Publish Raw GitHub monitor feed
+        id: publish_raw_feed
+        if: >-
+          !cancelled() && steps.build_feed.outcome == 'success' &&
+          github.event_name != 'pull_request' &&
+          github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+        continue-on-error: true
+        shell: bash
+        run: python scripts/publish_monitor_feed.py --public-dir "$MONITOR_OUTPUT_DIR/public"
+
       - name: Configure GitHub Pages
         if: >-
           steps.build_feed.outcome == 'success' &&
@@ -321,6 +333,13 @@ jobs:
             git commit -m "chore: update SCP-JP monitor state [skip ci]"
             git push origin HEAD:monitor-state
           fi
+
+      - name: Fail workflow when Raw feed publication failed
+        if: always() && steps.publish_raw_feed.outcome == 'failure'
+        shell: bash
+        run: |
+          echo "::error::Raw GitHub feed publication failed; check the publication step."
+          exit 1
 
       - name: Fail workflow when feed generation failed
         if: always() && steps.build_feed.outcome != 'success'

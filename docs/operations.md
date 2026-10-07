@@ -1,95 +1,111 @@
-# 運用メモ
+# Operations
 
-## 日次フロー
+## Normal daily execution
 
-```text
-06:17 JST GitHub Actions予定時刻
-  1. monitor-state読込
-  2. Crom取得・JSON生成
-  3. GitHub Pages公開
-  4. 公開成功後にmonitor-state更新
+At 06:17 JST, Actions loads `monitor-state`, retrieves Crom data, generates the
+feed, captures diagnostics, publishes Raw GitHub, deploys Pages, and saves state
+only after Pages deployment succeeds. The Scheduled Task runs around 12:40 JST;
+Actions may start late. The task checks health, delta, and unreported IDs.
 
-12:40 JST ChatGPT Scheduled Task
-  health.json → delta.json → 未通知IDのみ紹介
-```
+Normal manual inputs are `window_days: 30`, empty `now`, and
+`force_bootstrap: false`. Candidates remain for 168 hours (7 days), snapshots
+for 14 days, and deduplication IDs indefinitely. The incremental cutoff is
+`max(now - 30 days, bootstrap_since_jst)`.
 
-GitHub Actionsの定刻実行には遅延があり得るため、Scheduled Taskまで約6時間の余裕を確保しています。状態はPages公開後に保存します。これにより、Pages公開が失敗したのに記事だけが既読化されることはありません。
+## Raw GitHub fallback (v5.2.0)
 
-## 手動実行
+The workflow calls `scripts/publish_monitor_feed.py` after diagnostic upload
+and before Pages configuration, only after successful feed generation on the
+default branch and outside pull requests. It validates generated JSON and
+matching timestamps before remote branch inspection, stages exact copies
+outside the source checkout, and uses an isolated Git worktree. Existing
+`monitor-feed` history is retained; first publication creates an orphan branch.
+All stale tracked files are replaced by the three root JSON files in one commit.
+Copied JSON and staged bytes are validated before a non-force push. Unchanged
+content produces no commit. The author is `github-actions[bot]`.
 
-通常の手動実行は次の設定です。
+The source of truth remains `monitor-output/public/`; no JSON is regenerated,
+normalized, or reconstructed for Raw. `monitor-state`, its `state.json`, logs,
+configuration, and source files are never part of the public branch.
 
-```text
-window_days: 30
-now: 空欄
-force_bootstrap: false
-```
+Endpoints:
 
-通知候補は初回検出から168時間（7日間）残るため、Scheduled Taskが数日停止しても復旧後に拾い直せます。
+| File | Primary Pages URL | Raw fallback URL |
+| --- | --- | --- |
+| health.json | https://iniwa.github.io/scp-jp-crom-probe/health.json | https://raw.githubusercontent.com/iniwa/scp-jp-crom-probe/monitor-feed/health.json |
+| delta.json | https://iniwa.github.io/scp-jp-crom-probe/delta.json | https://raw.githubusercontent.com/iniwa/scp-jp-crom-probe/monitor-feed/delta.json |
+| latest.json | https://iniwa.github.io/scp-jp-crom-probe/latest.json | https://raw.githubusercontent.com/iniwa/scp-jp-crom-probe/monitor-feed/latest.json |
 
-増分取得の開始時刻は`max(現在時刻-30日, bootstrap_since_jst)`です。監視開始日時より前へルックバックしないため、古い記事が後日新着として混入しません。
+After a successful default-branch run:
 
-`force_bootstrap`は`monitor-state`を無視して`config/baseline.json`から再計算する診断・復旧機能です。繰り返し使用すると翻訳記事などが再び通知候補になるため、初期構築または明示的な復旧時だけ使用してください。
+1. Confirm the Raw publication, Pages deployment, and state persistence steps succeeded.
+2. Retrieve all six URLs and parse each response as JSON.
+3. Confirm Pages health/delta and Raw health/delta have identical `generated_at_jst`.
+4. Confirm latest timestamps when present, and compare the complete JSON objects
+   (including article objects); compare bytes for the same generation as well.
+5. Confirm `monitor-feed` tracks only the three JSON files at its root.
 
-## v5.1.1移行時の一度限りの復旧
+Raw is committed before Pages, so the two transports can temporarily expose
+different generations. Re-fetch a coherent pair when timestamps differ; never
+combine health and delta from different generations. Independent requests to
+Raw can also straddle an update. Existing freshness checks still apply.
 
-v5.0運用中に通知候補が72時間で失効し、30日ルックバックから監視開始日前の記事が誤登録された可能性があるため、v5.1.1を`main`へ反映した後に一度だけ次の設定で手動実行します。
+The task prompt will be updated separately to try Pages first, then the
+corresponding Raw mirror on transport failure. A primary transport failure alone
+should not become a monitor failure when the coherent Raw mirror passes all
+freshness/status checks. This release does not change ChatGPT or the saved task
+prompt.
 
-```text
-window_days: 30
-now: 空欄
-force_bootstrap: true
-```
+## Failure handling
 
-実行後は次を確認します。
+### Crom retrieval or generation failure
 
-1. WorkflowとPagesデプロイが成功している。
-2. `health.json.status`が`ok`または`degraded`である。
-3. `health.json.query.notification_retention_hours`が`168`である。
-4. `delta.json.retention_hours`が`168`である。
-5. `health.json.query.since_jst`が`2026-07-26T00:00:00+09:00`以降である。
-6. 続けて`force_bootstrap: false`で再実行し、監視開始日前の記事が`new_this_run`へ追加されないことを確認する。
-7. ChatGPT Scheduled Taskの本文を`docs/scheduled-task-prompt.md`の内容へ置き換える。
+Check the `scp-jp-monitor-output` artifact: `monitor.log`, `monitor-debug.json`,
+`monitor-summary.md`, `workflow-diagnostics.txt`, and `artifact-manifest.txt`.
+Neither public target is updated. The task reports verification failure once
+the timestamp is over 36 hours old; a different date alone is not an error.
 
-ChatGPT側は過去に通知済みの`notification_id`を記憶しているため、bootstrapで候補が再生成されても通知済み記事は再通知せず、取りこぼしていた記事だけを通知します。
+### Raw publication failure
 
-2回目の通常実行で`new_this_run`が増える場合は、実際にその間にCromへ新規反映された記事かを`delta.json.new_this_run_ids`で確認してください。監視開始日前の記事が含まれる場合は運用を止めてください。
+The publication step logs an error. Its `continue-on-error` lets Pages and
+normal state persistence proceed; a final explicit failure step marks Actions
+failed. JSON validation failures leave the previous remote feed untouched.
+Push rejection also preserves the remote branch; there is no force push or
+remote deletion. Check the failed step, token `contents: write` permission,
+branch protection, and connectivity before rerunning normally. Never copy
+state or diagnostics onto `monitor-feed` to repair it.
 
-## 障害時
+### Pages deployment failure
 
-### Crom取得・フィード生成の失敗
+`monitor-state` is not updated. Raw may already contain this run's new feed.
+The next run can repeat candidates; the task's remembered `notification_id`
+values prevent duplicate notifications.
 
-Artifact `scp-jp-monitor-output`の次を確認します。
+### State persistence failure
 
-```text
-monitor.log
-monitor-debug.json
-monitor-summary.md
-workflow-diagnostics.txt
-artifact-manifest.txt
-```
+Pages (and potentially Raw) already have the new generation, while state remains
+old. Repeated candidates are possible. Check write permissions and branch
+protection. Persistent state contains IDs, first/last observation times,
+baseline membership, and recent short article snapshots.
 
-Pagesは更新されず、前回の正常データが残ります。ChatGPT側は`health.json.generated_at_jst`が現在時刻から36時間を超えて古くなった時点で、取得失敗として通知します。`generated_date_jst`が今日と異なるだけでは失敗扱いにしません。
+## Historical v5.1.1 recovery
 
-### Pagesデプロイ失敗
+When migrating from v5.0/v5.1, run once with `force_bootstrap: true` after
+updating main, retaining `window_days: 30` and empty `now`. This ignores old
+state, rebuilds from the nine-item JP-original baseline, recovers translations
+that expired under the former 72-hour retention, and excludes articles before
+2026-07-26 00:00 JST. Verify:
 
-`monitor-state`は更新されません。次回実行で同じ記事が再び候補になります。ChatGPT側の`notification_id`記憶が二重通知を抑止します。
+1. Workflow and Pages succeed, and status is `ok` or `degraded`.
+2. `health.query.notification_retention_hours` and `delta.retention_hours` are 168.
+3. `health.query.since_jst` is at least `2026-07-26T00:00:00+09:00`.
+4. A subsequent normal run does not add pre-baseline articles to `new_this_run`.
+5. The saved task prompt is applied as part of that historical migration.
 
-### 状態保存失敗
+Use `delta.new_this_run_ids` to distinguish newly reflected Crom articles from
+unexpectedly old entries. Stop normal operation if pre-baseline articles appear.
+The task's notification memory still prevents duplicate reports.
 
-Pagesには新しいデータが公開済みですが、`monitor-state`は古いままです。次回実行で同じ候補が残る可能性があります。Workflowの`contents: write`権限、リポジトリのWorkflow permissions、ブランチ保護を確認してください。
-
-## 状態ブランチ
-
-`monitor-state`はActionsが自動管理します。`state.json`には次だけを保存します。
-
-- `wikidot_id`
-- 初回検出時刻・最終確認時刻
-- ベースライン判定
-- 直近通知候補用の短い記事スナップショット
-
-古い記事のスナップショットは14日後に削除し、重複防止用のIDは保持します。
-
-## 完全リセット
-
-`monitor-state`ブランチを削除すると、次回はベースラインからbootstrapします。翻訳記事が再通知候補になるため、意図的な初期化時だけ実施してください。
+For v5.1.2/v5.2.0, do not force bootstrap. Repeated bootstrap can recreate
+translation candidates. Complete reset by deleting `monitor-state` is an
+intentional recovery operation, not routine maintenance.

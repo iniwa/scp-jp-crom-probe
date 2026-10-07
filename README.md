@@ -1,235 +1,177 @@
-# SCP-JP Daily Monitor v5.1.2
+# SCP-JP Daily Monitor v5.2.0
 
-Crom GraphQL APIからSCP財団日本支部の新着記事を取得し、毎日06:17頃（JST）にGitHub Pagesへ監視用JSONを公開する本番版です。
+The production monitor retrieves new SCP-JP articles from the Crom GraphQL API
+and publishes monitoring JSON through GitHub Pages around 06:17 JST every day.
+Version 5.2.0 adds a Raw GitHub mirror without changing monitor generation,
+JSON schemas, article classification, queries, retention, or notification IDs.
+The existing runtime hotfix and `hotfix_version` remain at 5.1.2.
 
-## 監視対象
+## Scope
 
-### 含める
+Included content: SCP reports, Tales, GoI formats, artwork and music, hubs and
+sites, collaborations and setting collections, essays, news, external wiki
+archives, and translations of those categories.
 
-- SCP報告書
-- Tale
-- GoIフォーマット
-- アートワーク・音楽
-- ハブ・サイト
-- 合作・設定集
-- エッセイ
-- ニュース
-- 外部ウィキアーカイブ
-- 上記に該当する翻訳記事
+Excluded content: author/translator pages, components, themes, `fragment` /
+`deleted`, hidden pages, and administrative or technical pages without an
+included work tag.
 
-### 除外する
-
-- 著者ページ・作者ページ・訳者ページ
-- コンポーネント
-- テーマ
-- `fragment` / `deleted`
-- 非表示ページ
-- 上記の作品タグを持たない管理・技術ページ
-
-## 構成
+## Files
 
 ```text
 .github/workflows/scp-jp-monitor.yml
+VERSION
 config/baseline.json
 scripts/scp_jp_monitor.py
 scripts/scp_jp_hotfix_v512.py
 scripts/run_monitor_v512.py
+scripts/publish_monitor_feed.py
 tests/test_monitor.py
 tests/test_hotfix_v512.py
+tests/test_publish_monitor_feed.py
 docs/scheduled-task-prompt.md
 docs/operations.md
 docs/v5.1.2-hotfix.md
 ```
 
-既存のv2～v4.2プローブは残して構いません。v5.1.2のワークフローは`run_monitor_v512.py`からv5.1.1のコアへホットフィックスを適用して実行します。公開JSONのスキーマは変更しません。
+The v5.1.2 launcher applies the existing hotfix to the v5.1.1 core. Older v2-v4.2
+probes may remain; the production workflow does not use them.
 
-## 動作
+## Daily flow
 
 ```text
-毎日06:17頃 JST
+06:17 JST (scheduled; Actions may be delayed)
 GitHub Actions
-  ├─ monitor-stateブランチから前回状態を取得
-  ├─ Cromから新着候補を取得
-  ├─ 未変更記事は保存済みスナップショットを再利用
-  ├─ 新規・改訂・未処理記事だけ詳細を取得
-  ├─ JPオリジナル／翻訳を分類
-  ├─ タイトル、サブタイトル、著者・翻訳者を正規化
-  ├─ ネタバレなし概要作成用の短いsummary_basisを抽出
-  ├─ GitHub Pagesへhealth.json / delta.json / latest.jsonを公開
-  └─ Pagesデプロイ成功後にmonitor-stateブランチへ状態を保存
+  1. Load previous state from monitor-state.
+  2. Test, compile, and generate monitor-output/public/ through Crom.
+  3. Capture and upload diagnostics.
+  4. Publish health.json / delta.json / latest.json to monitor-feed.
+  5. Deploy the same generated directory to GitHub Pages.
+  6. Persist state.json to monitor-state only after Pages deployment succeeds.
+  7. Report a Raw publication failure as a failed workflow if applicable.
 
-毎日12:40頃 JST
+12:40 JST
 ChatGPT Scheduled Task
-  ├─ health.json.generated_at_jstが36時間以内か確認
-  ├─ health.jsonとdelta.jsonの公開世代を確認
-  ├─ delta.jsonの未報告notification_idだけを抽出
-  └─ 新着がある場合だけ通知
+  Check health freshness (36 hours), matching health/delta generations,
+  and previously unreported notification_id values; notify only for new items.
 ```
 
-GitHub Actionsの予定時刻からScheduled Taskまで約6時間の余裕を持たせています。状態保存は**Pagesへのデプロイ成功後**に行います。デプロイ後の状態保存だけが失敗した場合、翌日に重複候補が出る可能性はありますが、記事を黙って取りこぼすことはありません。
+The six-hour margin accommodates Actions delays. State remains dependent on
+successful Pages deployment, so failed delivery cannot silently mark articles
+as consumed. State persistence failure can cause repeated candidates on the
+next run; the task's remembered `notification_id` values prevent duplicate
+notifications.
 
-増分取得の30日ルックバックには`bootstrap_since_jst`を下限として適用します。これにより、監視開始日より前の記事が後続実行で初めて状態へ入り、誤って新着扱いされることを防ぎます。
+The incremental cutoff is `max(now - 30 days, bootstrap_since_jst)`. Confirmed
+articles whose revision count and tags are unchanged reuse stored snapshots;
+only new, revised, or pending articles need detailed Crom queries. HTTP 429
+honors `Retry-After`; public diagnostics do not include response bodies.
 
-v5.1.2では、一覧取得時の`revisionCount`とタグが前回状態から変化していない確定済み記事について、保存済みスナップショットを再利用します。Cromの詳細GraphQLクエリは新規・改訂・未処理記事へ限定されます。また、HTTP 429の`Retry-After`を尊重し、公開診断へレスポンス本文を埋め込みません。
+## Setup and normal execution
 
-## 初期ベースライン
+Place the project files at the root of `iniwa/scp-jp-crom-probe`, then commit and
+push. In Settings > Pages > Build and deployment, set Source to GitHub Actions.
+No additional API keys or Secrets are needed. The workflow's `GITHUB_TOKEN`
+requires `contents: write` for both managed branches and Pages permissions for
+deployment. Repository/organization policy and branch protection must permit
+these operations.
 
-`config/baseline.json`には、すでに紹介済みのJPオリジナル9件を登録しています。
-
-翻訳記事はベースラインに含めていません。そのため、初回の本番実行では2026年7月26日以降の翻訳記事が`delta.json`に入り、一度まとめて紹介できます。
-
-## 導入
-
-ZIPの中身を`iniwa/scp-jp-crom-probe`のリポジトリルートへ配置し、コミット・プッシュします。
+Run **SCP-JP daily monitor** from Actions with:
 
 ```text
-<repository root>/
-├─ .github/workflows/scp-jp-monitor.yml
-├─ config/baseline.json
-├─ scripts/
-│  ├─ scp_jp_monitor.py
-│  ├─ scp_jp_hotfix_v512.py
-│  └─ run_monitor_v512.py
-├─ tests/
-│  ├─ test_monitor.py
-│  └─ test_hotfix_v512.py
-└─ docs/
-   ├─ scheduled-task-prompt.md
-   ├─ operations.md
-   └─ v5.1.2-hotfix.md
+window_days: 30
+now: empty
+force_bootstrap: false
 ```
 
-### GitHub Pagesを有効化
+On a pull request, only the verification job runs. Publication requires a
+successful build on the repository default branch and a non-PR event.
 
-リポジトリで次を設定します。
+## Public endpoints
 
-```text
-Settings
-→ Pages
-→ Build and deployment
-→ Source: GitHub Actions
-```
+The existing primary delivery URLs remain unchanged:
 
-追加のAPIキーやSecretsは不要です。ワークフロー内の`GITHUB_TOKEN`でPagesデプロイと`monitor-state`ブランチ更新を行います。
+- https://iniwa.github.io/scp-jp-crom-probe/health.json
+- https://iniwa.github.io/scp-jp-crom-probe/delta.json
+- https://iniwa.github.io/scp-jp-crom-probe/latest.json
 
-リポジトリまたは組織のポリシーで`GITHUB_TOKEN`の書き込みが禁止されている場合は、ActionsのWorkflow permissionsで書き込みを許可してください。
+The fallback URLs expose the same generated bytes at the `monitor-feed` root:
 
-## 初回テスト
+- https://raw.githubusercontent.com/iniwa/scp-jp-crom-probe/monitor-feed/health.json
+- https://raw.githubusercontent.com/iniwa/scp-jp-crom-probe/monitor-feed/delta.json
+- https://raw.githubusercontent.com/iniwa/scp-jp-crom-probe/monitor-feed/latest.json
 
-GitHubのActionsから以下を実行します。
+`publish_monitor_feed.py` parses all files, requires matching nonempty
+`health.generated_at_jst` and `delta.generated_at_jst`, and checks the latest
+timestamp if present. It copies the original bytes to an external temporary
+directory, validates again, and fetches an existing feed or creates an orphan
+branch. An isolated Git worktree replaces stale tracked content with only the
+three JSON files, validates the copies and staged bytes, then commits all three
+atomically as `github-actions[bot]`. Unchanged bytes create no commit. Pushes
+never force-update the branch. The source checkout and `monitor-state` are
+unaffected. Raw publication failure preserves the prior feed and allows Pages
+and normal state persistence to continue; the final failure step keeps it
+visible in Actions.
 
-```text
-SCP-JP daily monitor
-→ Run workflow
-→ window_days: 30
-→ now: 空欄
-→ force_bootstrap: false
-```
+Raw publishes before Pages. During deployment or after a Pages failure, the
+two transports can temporarily expose different generations. Consumers must
+validate timestamps and freshness and never combine mismatched generations.
+Separate HTTP requests can also straddle a branch update; re-fetch a coherent
+pair when needed. A Raw transport is a mirror, not another data source.
 
-初回の期待値は、おおむね次のとおりです。
+The Scheduled Task prompt update is a separate operation. This release does
+not modify ChatGPT or `docs/scheduled-task-prompt.md`.
 
-```text
-Status: ok
-Mode: bootstrap
-JP originals: 9以上
-Translations: 16以上
-New this run: 翻訳16件＋テスト時点までに追加された未報告記事
-Pending: 0
-```
+## JSON contracts
 
-実行成功後、以下が公開されます。
+- `health.json`: last retrieval status (`ok`, `degraded`, or `error`),
+  `generated_at_jst`, `hotfix_version`, `counts.details_fetched`, and
+  `counts.details_reused`. `generated_date_jst` remains an audit value; a
+  different calendar date alone is not a failure.
+- `delta.json`: notification candidates retained for 168 hours (7 days), with
+  stable `notification_id` derived from `wikidot_id`, `is_new_this_run`,
+  `edition` (`jp_original` / `translation`), genre, article title, subtitle,
+  `summary_basis`, `content_warnings`, and translation credits/source metadata.
+  Already reported IDs must not be reported again.
+- `latest.json`: confirmed articles from the last 30 days for audit and gap checks.
 
-```text
-https://iniwa.github.io/scp-jp-crom-probe/health.json
-https://iniwa.github.io/scp-jp-crom-probe/delta.json
-https://iniwa.github.io/scp-jp-crom-probe/latest.json
-```
+Snapshots expire after 14 days; deduplication IDs are retained. Individual
+unsynchronized pages stay in `pending_pages` for retry. Unknown/conflicting
+classifications are not finalized in state. These cases can produce `degraded`
+while confirmed content is published. A global Crom failure, malformed data,
+or limit failure fails generation and leaves prior public feeds intact. No
+new items with an `ok` status means no notification. A malformed timestamp or
+a generation more than 36 hours old is a task verification failure.
 
-また、`monitor-state`ブランチが自動作成され、ルートに`state.json`が保存されます。
+## Baseline and migration
 
-## 公開ファイル
+`config/baseline.json` contains nine already introduced JP originals.
+Translations are not baseline items, so initial bootstrap can report
+translations created since 2026-07-26 and subsequent unreported articles.
+Historical initial expectations were `ok`, bootstrap mode, at least nine JP
+originals and sixteen translations, and no pending pages; current counts vary.
 
-### `health.json`
+The v5.1.1 recovery procedure remains historical: after upgrading from v5.0 or
+v5.1, a single `force_bootstrap: true` run reconstructs notification candidates
+from the baseline, excludes articles before 2026-07-26 00:00 JST, and recovers
+candidates that expired under the former 72-hour retention. Follow it with a
+normal run and check `new_this_run_ids` for unexpectedly old articles. Existing
+task memory prevents repeated notifications. See [operations](docs/operations.md).
 
-直近の取得状態です。
+For v5.1.2 and v5.2.0, use normal execution; do not force bootstrap. Previously
+expired snapshots may be fetched on the first normal run, then reused. See
+[the preserved v5.1.2 hotfix notes](docs/v5.1.2-hotfix.md).
 
-- `status: ok` — 全候補を正常に処理
-- `status: degraded` — 一部記事が同期待ち・分類待ち。確定済み記事は公開
-- `status: error` — 全体処理失敗。新しいPagesデプロイは行わず、前回成功版を維持
-- `generated_at_jst` — ChatGPT側が36時間の鮮度判定に使用する生成日時
-- `hotfix_version` — 適用中のホットフィックス版
-- `counts.details_fetched` — この実行で詳細取得した件数
-- `counts.details_reused` — 前回スナップショットを再利用した件数
+Do not edit or reset `monitor-state` routinely. Deliberately deleting it causes
+bootstrap on the next run and can recreate translation notification candidates.
 
-`generated_date_jst`は監査用に残しますが、日付が今日と異なることだけでは障害扱いにしません。
-
-### `delta.json`
-
-通知候補です。初回検出から168時間（7日間）保持します。
-
-主な項目:
-
-- `notification_id` — `wikidot_id`由来の安定識別子
-- `is_new_this_run`
-- `edition` — `jp_original` / `translation`
-- `genre`
-- `article_title` / `subtitle`
-- `summary_basis`
-- `content_warnings`
-- 翻訳記事の`source_branch`、`original_title`、`translators`
-
-ChatGPT側は、過去に通知済みの`notification_id`を再通知しません。
-
-### `latest.json`
-
-直近30日間の確定済み記事一覧です。監査・取りこぼし確認に使用します。
-
-## 障害時の扱い
-
-- Crom全体への接続失敗、JSON異常、上限到達など: Workflow失敗。Pagesは前回成功版を維持
-- 個別記事の本文が未同期: `degraded`。その記事は未検出扱いにせず`pending_pages`へ記録し、翌日再試行
-- 分類不能・競合: `degraded`。対象ページは状態へ保存せず再試行
-- HTTP 429: `Retry-After`に従って再試行。完全なGraphQL `data`が返っている場合は利用
-- 新着なし: `ok`かつ未報告候補0件。ChatGPTは通知しない
-- `health.json.generated_at_jst`が36時間超古い、または日時として不正: ChatGPTは確認失敗として障害通知
-- `generated_date_jst`が今日と異なるだけ: 36時間以内なら処理を継続
-
-## v5.1.1への移行と通知候補の復旧
-
-v5.0で72時間を超えて通知されなかった候補と、v5.0/v5.1で30日ルックバックから誤登録された監視開始日前の記事を整理するため、v5.1.1を`main`へ反映した後に一度だけ次の設定で手動実行します。
-
-```text
-SCP-JP daily monitor
-→ Run workflow
-→ window_days: 30
-→ now: 空欄
-→ force_bootstrap: true
-```
-
-この実行は`monitor-state`を無視し、`config/baseline.json`から状態を再構築します。紹介済みのJPオリジナル9件はベースラインとして除外され、監視開始日時（2026年7月26日00:00 JST）以降の記事だけが通知候補へ戻ります。監視開始日前の記事は以後の30日ルックバックでも取得対象になりません。ChatGPT側の通知済み`notification_id`記憶によって、すでに通知済みの記事は再通知されません。
-
-実行後、ChatGPT Scheduled Taskの本文を`docs/scheduled-task-prompt.md`の内容へ置き換えてください。詳細な確認項目は`docs/operations.md`に記載しています。
-
-## v5.1.2ホットフィックス適用後
-
-`force_bootstrap`は実行しません。通常実行を1回行うと、以前の14日保持で削除済みだった記事スナップショットを必要に応じて再取得します。次の通常実行からは未変更記事の大部分が`details_reused`へ移ります。
-
-確認項目は`docs/v5.1.2-hotfix.md`を参照してください。
-
-## 状態のリセット
-
-通常は`monitor-state`ブランチを手動編集しません。
-
-完全に初期化する場合は`monitor-state`ブランチを削除すると、次回実行が`config/baseline.json`からbootstrapします。この操作では翻訳記事が再び通知候補になるため、意図的なリセット時だけ行ってください。
-
-## ローカル検証
+## Local validation
 
 ```bash
 python -m unittest discover -s tests -p 'test_*.py' -v
-python -m compileall -q \
-  scripts/scp_jp_monitor.py \
-  scripts/scp_jp_hotfix_v512.py \
-  scripts/run_monitor_v512.py
+python -m compileall -q scripts/scp_jp_monitor.py scripts/scp_jp_hotfix_v512.py scripts/run_monitor_v512.py scripts/publish_monitor_feed.py
 ```
 
-ライブ取得には外部ネットワークが必要です。
+Publication tests use local bare Git repositories without Crom or GitHub access.
+Live generation requires external network access. See
+[operations](docs/operations.md) for publication verification and failure handling.
