@@ -1,9 +1,71 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-10-07T05:56:25.500245+00:00",
-  "generated_at_jst": "2026-10-07T14:56:25.500245+09:00",
+  "generated_at_utc": "2026-10-08T00:57:49.148534+00:00",
+  "generated_at_jst": "2026-10-08T09:57:49.148534+09:00",
   "window_days": 30,
   "articles": [
+    {
+      "wikidot_id": "1469453398",
+      "page_name": "scp-2307",
+      "url": "https://scp-jp.wikidot.com/scp-2307",
+      "edition": "translation",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "credit_translation_responsible",
+        "credit_translation_year",
+        "credit_original_title",
+        "credit_original_url"
+      ],
+      "source_branch": "EN",
+      "source_branch_basis": "original_url",
+      "genre": "SCP報告書",
+      "article_title": "SCP-2307",
+      "subtitle": "ペンは剣よりも強し",
+      "authors": [],
+      "original_title": "SCP-2307 - The Pen Is Mightier",
+      "original_url": "https://scp-wiki.wikidot.com/scp-2307",
+      "original_authors": [
+        "不明"
+      ],
+      "original_year": "2015",
+      "translation_year": "2026",
+      "translation_responsible": [
+        "AyuMashi"
+      ],
+      "translators": [
+        "AyuMashi"
+      ],
+      "created_at_utc": "2026-10-07T06:55:46.000Z",
+      "created_at_jst": "2026-10-07T15:55:46+09:00",
+      "created_by": "AyuMashi",
+      "content_warnings": [],
+      "summary_basis": "説明: SCP-2307-01は長剣の残骸です。56cmの柄と、全長約40cmの部分的な刀身から構成されており、元の大きさの約43%が残存していると推定されています。炭素年代測定の結果、剣の柄および鍔は西暦4世紀頃のものであることが判明しました。しかし、刀身に使用されている金属は、紀元前32億年頃のものと判定されています。SCP-2307-01は、少なくとも1300年間にわたって水中にあったことにより、著しく劣化しています。\nSCP-2307-01の主な異常性は、対象が剣の柄に接触した際に発現します。接触後、対象に関するあらゆる記録が徐々に改変され、対象にとって都合のよい内容へと変化していきます。その結果、時間の経過に伴い、対象の生涯について大きく食い違う記録が残されることになります。\n\nSCP-2307-01に接触した直後、出生証明書の日付、氏名の綴り、場合によっては性別までが改変されます。典型的な例として、誕生日が7月7日、10月31日、12月25日、2月14日など、より意味のある日付へと変更されます。\n1年以内に、教育記録には、対象が該当する試験や成績評価で非常に高い成績を収めたことが記録されます。また場合によっては、対象が同一期間に2つ以上の異なる教育機関へ通っていたとする記録が存在するようになります。さらに、大学教育を受けていない対象についても、何らかの修士号を取得していたことが記録上示されるようになります。記録上の内容がどのようなものであっても、対象本人の知識が変化することはありません。\n該当する場合、対象者の銀行取引明細や納税記録を含む財務記録は、5年以内に対象者が少なくとも75万米ドルの純資産を有する富裕層であることを示すようになります。\n10年以内に、対象が何らかの政治運動・選挙運動における有力候補者であったことを示す記録が残るようになります。一方で、対象が対立候補に勝利したとする記録と、敗北したとする記録が一貫せず混在します。勝利した場合は大差での当選となり、敗北した場合は僅差での敗北となります。対象が候補者であったとされる選挙で実際に投票した人物には、対象が存在していたという記憶がありません。\n最後に、死亡証明書には対象の実際の死因が反映されなくなります。対象は例外なく何らかの戦闘中に死亡したことになり、剣による斬撃、銃弾、矢などが致命傷となったことが死因として記録されます。\n\n通常、ほとんどの記録は、対象が「人生のどこかの時点でSCP-2307-01を手にしていた」という事実においてのみ共通しています。\nさらに、SCP-2307-01をドズマリープールまたはリン・オグウェンから採取した水に浸していない場合、刀身の金属は約15mm/日の速度で再生し、刀身から錆が剥がれ落ち始めます。SCP-2307-01が完全に再生した場合にも悪影響は発生しないと考えられていますが、予防措置として、特別収容プロトコルに従い水中に保管されています。\nSCP-2307-02は、かつてSCP-2307の異常性とは無関係だと考えられていた物品です。SCP-2307-02は馬の頭蓋骨を加工して作られたシャーマニズム式の冠であり、5～7世紀のブリテン島で儀式の際に着用されていたものと推測されています。SCP-2307-02は状態が悪く、経年劣化に加え、近年繰り返し使用されたことで骨には複数の亀裂が生じています。\nSCP-2307-02を着用すると、あらゆる記憶改変に対して完全な耐性を獲得します。これには、全クラスの種類の記憶処理剤による作用、およびSCP-2307-01が示すような、認識災害性を有するあらゆる形態の記録改変が含まれます。SCP-2307-02を着用中に経験した記憶は、映像記憶に相当するレベルで完全に保持されます。SCP-2307-02は以前、E-9382-Uに分類され、記憶および記録を改変する異常存在を対象とした実験に使用されていました。実験2307-19の後、SCP-2307の構成要素として再分類されました。\n実験2307-19:\n仮説: E-9382-UをSCP-2307と併用することで、対象に関する記録の改変を防止できるか、あるいは記録を意図的に改変できるようになると考えられる。記録の改変が可能であった場合、対象は出生証…",
+      "summary_basis_type": "description",
+      "tags": [
+        "en",
+        "safe",
+        "scp",
+        "壊れた神の教会",
+        "武器",
+        "腐食",
+        "自己修復",
+        "装飾品",
+        "記憶影響",
+        "骨格",
+        "crom:series-3"
+      ],
+      "rating": 1,
+      "vote_count": 1,
+      "revision_count": 3,
+      "comment_count": 0,
+      "content_hash": "sha256:67932861f2b9920330790467e30cd071487eaf7b7085a557b9bf8a579d78984b",
+      "has_text_content": true,
+      "text_content_length": 6869,
+      "first_seen_at_jst": "2026-10-08T09:57:49.148534+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469453398"
+    },
     {
       "wikidot_id": "1469452227",
       "page_name": "scp-4034-jp",
@@ -37,18 +99,19 @@
       "tags": [
         "jp",
         "safe",
-        "scp"
+        "scp",
+        "削除通知"
       ],
-      "rating": -3,
-      "vote_count": 7,
-      "revision_count": 1,
-      "comment_count": 1,
+      "rating": -6,
+      "vote_count": 12,
+      "revision_count": 2,
+      "comment_count": 2,
       "content_hash": "sha256:1395c5aa29be503349178d3eb078cd0d80e743247fdf341d0b2bfe02308231d4",
       "has_text_content": true,
       "text_content_length": 4694,
       "first_seen_at_jst": "2026-10-07T14:56:25.500245+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469452227"
     },
     {
@@ -109,7 +172,7 @@
       "text_content_length": 5867,
       "first_seen_at_jst": "2026-10-07T14:56:25.500245+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469452030"
     },
     {
@@ -148,8 +211,8 @@
         "scp",
         "節足動物"
       ],
-      "rating": 27,
-      "vote_count": 35,
+      "rating": 32,
+      "vote_count": 42,
       "revision_count": 5,
       "comment_count": 6,
       "content_hash": "sha256:e090ee1e79cdc5c88fca5340e7dda11220a460243f35c36ff4b16ac9c299439f",
@@ -210,8 +273,8 @@
         "芸術",
         "重訳"
       ],
-      "rating": 8,
-      "vote_count": 8,
+      "rating": 9,
+      "vote_count": 9,
       "revision_count": 1,
       "comment_count": 1,
       "content_hash": "sha256:c2bc62b97c74f165f0605954bb5262c6b2eac37c08d96d323b32791634ec5602",
@@ -260,8 +323,8 @@
         "地質",
         "熱力学"
       ],
-      "rating": -6,
-      "vote_count": 14,
+      "rating": -5,
+      "vote_count": 15,
       "revision_count": 3,
       "comment_count": 2,
       "content_hash": "sha256:f10834953d095c589e18e712cd19116878d0b002c99f6711449ff586ed0803d3",
@@ -372,8 +435,8 @@
         "ハブ",
         "画像差し止め"
       ],
-      "rating": 19,
-      "vote_count": 19,
+      "rating": 20,
+      "vote_count": 20,
       "revision_count": 7,
       "comment_count": 1,
       "content_hash": "sha256:27f15c4eb413e8d98f4f860fc3c1393fc40c6d9d07f6052f9d371b7a3cba5d02",
@@ -418,8 +481,8 @@
         "jp",
         "アートワーク"
       ],
-      "rating": 38,
-      "vote_count": 44,
+      "rating": 39,
+      "vote_count": 45,
       "revision_count": 6,
       "comment_count": 6,
       "content_hash": "sha256:0b659b3060e58d9974aceecc0fb5068f736b4330a1bfc472fccd6efa0be6c582",
@@ -1108,8 +1171,8 @@
         "jp",
         "アートワーク"
       ],
-      "rating": 47,
-      "vote_count": 49,
+      "rating": 49,
+      "vote_count": 51,
       "revision_count": 3,
       "comment_count": 1,
       "content_hash": "sha256:03a0ed01fd1cdaa1882d9c3849e4f700361dd04f8cfe7871eb7982bd97318608",
@@ -1223,8 +1286,8 @@
         "注目記事",
         "記憶媒体"
       ],
-      "rating": 13,
-      "vote_count": 13,
+      "rating": 14,
+      "vote_count": 14,
       "revision_count": 2,
       "comment_count": 1,
       "content_hash": "sha256:9ba4cffb7d39750cbd5b76e7bb39afe8acf5624ea33069f5c1c249abc0535b19",
@@ -2186,8 +2249,8 @@
         "メタ",
         "メタフィクション"
       ],
-      "rating": -45,
-      "vote_count": 51,
+      "rating": -46,
+      "vote_count": 52,
       "revision_count": 11,
       "comment_count": 5,
       "content_hash": "sha256:78646e206e701978e63f56bc1081c5316d10d25fd16e2e123bed2abb05352e3e",
@@ -3737,8 +3800,8 @@
         "jp",
         "tale"
       ],
-      "rating": 27,
-      "vote_count": 29,
+      "rating": 26,
+      "vote_count": 30,
       "revision_count": 6,
       "comment_count": 7,
       "content_hash": "sha256:1577173458229d1816c30d90c354b98361a4260c6bca0b1b092c73966f7d2da6",
@@ -6042,169 +6105,6 @@
       "baseline": false,
       "is_new_this_run": false,
       "notification_id": "1469288024"
-    },
-    {
-      "wikidot_id": "1469285516",
-      "page_name": "the-case-of-the-bathroom-cheese-labels",
-      "url": "https://scp-jp.wikidot.com/the-case-of-the-bathroom-cheese-labels",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translation_responsible",
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "EN",
-      "source_branch_basis": "original_url",
-      "genre": "Tale",
-      "article_title": "トイレにチーズラベル貼り付け事件",
-      "subtitle": null,
-      "authors": [],
-      "original_title": "The Case of the Bathroom Cheese Labels",
-      "original_url": "https://scp-wiki.wikidot.com/the-case-of-the-bathroom-cheese-labels",
-      "original_authors": [
-        "Uncle Nicolini",
-        "DolphinSlugchugger"
-      ],
-      "original_year": "2019",
-      "translation_year": "2026",
-      "translation_responsible": [
-        "walksoldi"
-      ],
-      "translators": [
-        "walksoldi"
-      ],
-      "created_at_utc": "2026-09-07T11:24:56.000Z",
-      "created_at_jst": "2026-09-07T20:24:56+09:00",
-      "created_by": "walksoldi",
-      "content_warnings": [],
-      "summary_basis": "「なあトム」\n「ん？ どうした？」\n「うちに苦情が届きまくってるんだけど、その内容ってのが……」リチャードはクリップボードを確かめた。「男子トイレの個室にチーズのラベルが貼り付けられてるんだと」\n「あの野郎」\n「えっ？」\n「誰がやったのかよく分かる」\n「ホントか？」\n「ああ。そんな予感がビンビンするな」\n「冗談だろ」\nトムはただリチャードを見つめ、口をつぐんでいた。やがてリチャードが再び口を開いた。\n「…………いや、いやいやいやいや。いくらお前があいつを気に入ってないからって —」\n「まあ、そうだな。たしかに俺はあいつのことをカスだと思ってる。けどな、自分の胸に聞いてみろよ。他にそんなことする奴いるか？」\n「OK。OK、うん、言ってることは分かるよ、けど冗談きついって。あいつはそこまで馬鹿じゃないだろ」\n「賭けろ」\n「同僚の知性に賭ける気はない。知性が欠けているかどうかにもだ」\n「賭けろ」\n「そんなことするつもりはないって」\nトムは財布を手に取り、ピカピカの20ドル札を取り出した。そしてその存在を誇示するかのようにピンと張り、リチャードの前のテーブルに叩きつけた。\n「賭けろ」\n「だから、そんなのありえないって言ってるだろ」\n2人が顔を見合わせた。\n「分かった。いいよ、分かったよ」\nトムはため息をついて肩を落とし、ひどく大袈裟に椅子に身を投げ出した。そしてさっと周囲を盗み見ると、腕を一振りしてサイトの放送用マイクを掴み、スイッチを入れた。\n\n\"シメリアン博士、チーズのラベルを男子トイレの個室に放置しないでください。これは貴方に送る最初で最後の警告です。\"\n\nシメリアンは邪魔が入ったことに不快感を露わにし、眉間にしわを寄せて顔を上げた。\n「ちょうど撮影をしてる真っ最中にか？ 嘘だろ？ 明日までに『You're Wrong About Provoloneお前はプロヴォローネを誤解している』をアップしなきゃいけないってのに。はあ」\n憤慨した様子でそのまま1分ほど天井を睨みつけた後、深いため息を吐き、録画の停止ボタンを押した。せっかくこれから食ってやろうってときに 彼はそう思いながら、ノートパソコンを閉じてマイクを片付けた。\n彼は自分が貼ったばかりのステッカーを見て、それを剥がしておくのが恐らく賢明だろうと判断した。角に手をかけて引っぺがすと、プラスチック製のラベルが台紙から破れるように剥がれ落ち、後処理をことごとく拒絶するかのような厄介な粘着剤の跡が残ってしまった。\n「そうか、上等だクソったれ」\n彼は包装を解いておいたスライスチーズの袋を取り出し、中身の半分を使って便座を覆い、(1枚を除いて) 残りをトイレに放り込み、便座を上げたままにして放置した。\nトイレから出るとき、彼は最後に残ったスライスチーズを見つめ、顔を上げると、それを乾燥機に詰め込んだ。",
-      "summary_basis_type": "opening",
-      "tags": [
-        "en",
-        "tale",
-        "コメディ",
-        "シメリアン博士",
-        "不条理劇",
-        "共著"
-      ],
-      "rating": 6,
-      "vote_count": 12,
-      "revision_count": 5,
-      "comment_count": 1,
-      "content_hash": "sha256:687e44f4118fecac7224ad4ce2e8c301fb9a53419a53a999c5163f62bf66f829",
-      "has_text_content": true,
-      "text_content_length": 1423,
-      "first_seen_at_jst": "2026-09-08T08:28:42.350309+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469285516"
-    },
-    {
-      "wikidot_id": "1469285510",
-      "page_name": "a-tale-about-petty-revenge",
-      "url": "https://scp-jp.wikidot.com/a-tale-about-petty-revenge",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translation_responsible",
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "EN",
-      "source_branch_basis": "original_url",
-      "genre": "Tale",
-      "article_title": "みみっちい復讐の物語",
-      "subtitle": null,
-      "authors": [],
-      "original_title": "A Tale Of Petty Revenge\" or, \"Dr. Cimmerian microwaves a slice of unwrapped Kraft American Singles in the Site-19 break room for two minutes",
-      "original_url": "https://scp-wiki.wikidot.com/a-tale-about-petty-revenge",
-      "original_authors": [
-        "Uncle Nicolini",
-        "匿名"
-      ],
-      "original_year": "2019",
-      "translation_year": "2026",
-      "translation_responsible": [
-        "walksoldi"
-      ],
-      "translators": [
-        "walksoldi"
-      ],
-      "created_at_utc": "2026-09-07T11:22:15.000Z",
-      "created_at_jst": "2026-09-07T20:22:15+09:00",
-      "created_by": "walksoldi",
-      "content_warnings": [],
-      "summary_basis": "「みみっちい復讐の物語」あるいは「シメリアン博士は包装を解いたKraft American Singlesチーズ一切れをサイト-19の休憩室の電子レンジで2分チンする」\n\n10:26 AM\n\nねずみ顔の女性が待合室のドアを開けた。彼女は片手で眼鏡の位置を直し、もう片方の手でクリップボードを持ったまま、次の呼び名を速やかに読み上げた。\n「シメリアン様？ 人事事案解決委員会がお目見えです」\n遠い過去に負った火災の傷跡を今なお残す、ややずんぐりとした男が、冷笑を浮かべながら立ち上がった。\n「シメリアン博士だよ、ご気遣いどーも」少し高めで、はっきり分かるほどの南部訛りのある声が、憤慨した口調で訂正を入れる。\n「ええ、すみませんねシメリアン博士」女性は目をむいてクリップボードにチェックを付け、彼のためにドアを開けた。彼女はほとんど特徴のない狭い廊下に彼を案内し、左側にある突き当たりのドアまで導くと、彼のためにまたドアを開けた。シメリアンが入室すると、彼女はそっとドアを閉めて顔をしかめた。\n「なんなのアイツ」\n\n10:32 AM\n\nシメリアンは部屋に一歩踏み出し、後ろ手でドアを閉めた。天井からは蛍光電球が吊り下がっていて、その先にある質素なイスと机を照らしている。机の上には置かれたばかりのウォーターボトルがあった。空の机から数メートル離れた所には巨大なモニターがあり、影に隠れた人物が映し出されている。真っ当な人間ならこの光景に怯えそうなものだが、シメリアンは椅子まで何気なくブラブラ歩き、席に着いた。\n「やあ、みんな。久しぶりだな！ 前に来たのはいつだったか？ あの650,000通メール騒動の時かな？ よくもまあここを良い感じに改装したものだ。水があるのも良いアクセントだな」シメリアンはそう言いながら、目の前のペットボトルを開けようとしていた。キャップを外すと、それを何気なく後ろに放り投げ、ボトルの中身を一息に飲み干して、ふうっと息を吐いた。\n「ありがたい、喉がカラカラだったんだ」\nモニターの人影がしばらく沈黙した。顔は見えないが、シメリアンが音を立てて空のペットボトルを握り潰すのを目の当たりにして、見たところ額に手を当てているようだった。\n「こんにちは、ジェレミア・シメリアン」人影が加工された声で言った。「このところ、君の態度の件で人事委員会に苦情が何件か届いている。圧倒的な数量の報告を受けて —」\n「それ、10件くらいだったのを50件くらいに増やしたんじゃなかったか？」シメリアンが椅子にもたれながらそう口を挟んだ。\n「そうだな、シメリアン博士。その裁定の場には君も居合わせていたな。それで、さっきも言った通り、我々は当サイトの休憩室における君の振る舞いについて圧倒的な数量の報告を受けている。通常であれば —」\n「私が一体何をしたって？」彼がまた口を挟む。\n「シメリアン、最後まで話をさせろ！ 口を挟むな、馬鹿たれが」\n「シメリアン博士だ！」\n部屋が一瞬静まり返ると、ミステリアスな人影が長く大きなため息を吐き出した。\n「とにかく…… 君が休憩室の電子レンジを使って、あー、魚を温めているという苦情が複数寄せられているが、これは事実か？」\n「無論だ。私は昼食の時間になるとすぐにツナサンドを1分間チンする。列に並ばずに済むよう、一番乗りでやるんだ」\n変声器で隠されるとはいえど、人事担当者は嫌悪感を覚え、思わず吐きそうになった。落ち着きを取り戻すと、話し手は咳払いをして首を横に振り、話を続けた。\n「そのせいで…… あまり好ましいとは言えない臭いが発生するのは、分かっているよな？」\n「当たり前だ。だから私は自分のオフィスでそれをチンしないんだよ。子供の頃、妹がツナサンドをチンしたことがあってな。そのせいでトレーラーハウス全体が1年近くもひどい臭いに包まれた」\n「それなら、どうして毎日大勢が集まる場所でそんなことをする？」\n「さっきも言ったろう。自分のオフィスを魚の臭いで充満させたくないからだよ」\n「職場に好ましくない負の環境を作り出して、同僚との関係性を悪化させている自覚はないのか？ その不快な臭いが、嗅覚が敏感な同僚たちにとって迷惑かもしれないことが分からないのか？」\n「ケインが犬なのは私のせいじゃないだろ。だいたい、休憩室に座って食べないといけないわけでも…",
-      "summary_basis_type": "opening",
-      "tags": [
-        "en",
-        "tale",
-        "カック・ハード",
-        "コメディ",
-        "シメリアン博士",
-        "共著",
-        "日常系"
-      ],
-      "rating": 8,
-      "vote_count": 8,
-      "revision_count": 3,
-      "comment_count": 1,
-      "content_hash": "sha256:7b6298add719d06a832c867278e3d2e8bc5d3735d85249534a160fac9cca9996",
-      "has_text_content": true,
-      "text_content_length": 3380,
-      "first_seen_at_jst": "2026-09-08T08:28:42.350309+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469285510"
-    },
-    {
-      "wikidot_id": "1469285240",
-      "page_name": "spiral-of-dreams",
-      "url": "https://scp-jp.wikidot.com/spiral-of-dreams",
-      "edition": "jp_original",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "jp_tag"
-      ],
-      "source_branch": "JP",
-      "source_branch_basis": "jp_tag",
-      "genre": "アートワーク",
-      "article_title": "SCP-4801-JPのアートワーク",
-      "subtitle": null,
-      "authors": [
-        "KeiShirosaki"
-      ],
-      "original_title": null,
-      "original_url": null,
-      "original_authors": [],
-      "original_year": null,
-      "translation_year": null,
-      "translation_responsible": [],
-      "translators": [],
-      "created_at_utc": "2026-09-07T09:53:40.000Z",
-      "created_at_jst": "2026-09-07T18:53:40+09:00",
-      "created_by": "KeiShirosaki",
-      "content_warnings": [],
-      "summary_basis": "SCP-4801-JP - 逆夢の果て\nKeiShirosaki\nCC BY-SA 3.0",
-      "summary_basis_type": "description",
-      "tags": [
-        "jp",
-        "アートワーク"
-      ],
-      "rating": 46,
-      "vote_count": 48,
-      "revision_count": 2,
-      "comment_count": 1,
-      "content_hash": "sha256:41228774c3bc8df2d9faa6ba73c1acd5400bef28b5f40e123cd3062ab81193fb",
-      "has_text_content": true,
-      "text_content_length": 122,
-      "first_seen_at_jst": "2026-09-08T08:28:42.350309+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469285240"
     }
   ]
 }
