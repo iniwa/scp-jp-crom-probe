@@ -1,58 +1,50 @@
 {
   "schema_version": 1,
-  "status": "degraded",
+  "status": "ok",
   "hotfix_version": "5.1.2",
-  "generated_at_utc": "2026-10-08T00:57:49.148534+00:00",
-  "generated_at_jst": "2026-10-08T09:57:49.148534+09:00",
-  "generated_date_jst": "2026-10-08",
-  "run_id": "37710449666",
+  "generated_at_utc": "2026-10-09T01:12:17.178086+00:00",
+  "generated_at_jst": "2026-10-09T10:12:17.178086+09:00",
+  "generated_date_jst": "2026-10-09",
+  "run_id": "37868546279",
   "repository": "iniwa/scp-jp-crom-probe",
   "mode": "incremental",
   "state_source": "previous_state",
   "query": {
     "endpoint": "https://apiv2.crom.avn.sh/graphql",
-    "since_utc": "2026-09-08T00:57:49.148534+00:00",
-    "since_jst": "2026-09-08T09:57:49.148534+09:00",
+    "since_utc": "2026-09-09T01:12:17.178086+00:00",
+    "since_jst": "2026-09-09T10:12:17.178086+09:00",
     "window_days": 30,
     "notification_retention_hours": 168,
     "snapshot_retention_days": 37,
     "truncated": false
   },
   "counts": {
-    "raw_recent_pages": 182,
-    "content_candidates": 111,
-    "details_confirmed": 110,
-    "details_fetched": 3,
-    "details_reused": 108,
+    "raw_recent_pages": 177,
+    "content_candidates": 112,
+    "details_confirmed": 112,
+    "details_fetched": 5,
+    "details_reused": 107,
     "detail_fetch_failures": 0,
     "classification_pending": 0,
-    "text_pending": 1,
+    "text_pending": 0,
     "jp_originals": 38,
-    "translations": 72,
-    "new_this_run": 1,
-    "new_jp_originals": 0,
-    "new_translations": 1,
-    "notification_candidates": 29,
-    "pending": 1,
+    "translations": 74,
+    "new_this_run": 4,
+    "new_jp_originals": 2,
+    "new_translations": 2,
+    "notification_candidates": 32,
+    "pending": 0,
     "rejected": {
-      "not_monitored_content": 60,
+      "not_monitored_content": 54,
       "excluded_tag": 11
     }
   },
   "rate_limit": {
     "first": 299800,
-    "last": 299579,
-    "minimum": 299579,
-    "request_count": 5
+    "last": 299565,
+    "minimum": 299565,
+    "request_count": 7
   },
-  "pending_pages": [
-    {
-      "page_name": "art:thecouragetosayno",
-      "url": "https://scp-jp.wikidot.com/art:thecouragetosayno",
-      "reason": "text_content_not_ready"
-    }
-  ],
-  "warnings": [
-    "1 page(s) are pending and were not marked as seen; they will be retried."
-  ]
+  "pending_pages": [],
+  "warnings": []
 }

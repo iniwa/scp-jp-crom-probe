@@ -1,12 +1,232 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-10-08T00:57:49.148534+00:00",
-  "generated_at_jst": "2026-10-08T09:57:49.148534+09:00",
+  "generated_at_utc": "2026-10-09T01:12:17.178086+00:00",
+  "generated_at_jst": "2026-10-09T10:12:17.178086+09:00",
   "retention_hours": 168,
   "new_this_run_ids": [
-    "1469453398"
+    "1469465349",
+    "1469466330",
+    "1469477034",
+    "1469477964"
   ],
   "articles": [
+    {
+      "wikidot_id": "1469477964",
+      "page_name": "173-3-or-less",
+      "url": "https://scp-jp.wikidot.com/173-3-or-less",
+      "edition": "translation",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "credit_translation_responsible",
+        "credit_translation_year",
+        "credit_original_title",
+        "credit_original_url"
+      ],
+      "source_branch": "EN",
+      "source_branch_basis": "original_url",
+      "genre": "Tale",
+      "article_title": "3文字以下でSCP-173",
+      "subtitle": null,
+      "authors": [],
+      "original_title": "SCP-173 in 3 Letters or Less",
+      "original_url": "https://scp-wiki.wikidot.com/173-3-or-less##",
+      "original_authors": [
+        "Raddagher"
+      ],
+      "original_year": "2026",
+      "translation_year": "2026",
+      "translation_responsible": [
+        "NUGGe2"
+      ],
+      "translators": [
+        "NUGGe2"
+      ],
+      "created_at_utc": "2026-10-08T23:07:51.000Z",
+      "created_at_jst": "2026-10-09T08:07:51+09:00",
+      "created_by": "NUGGe2",
+      "content_warnings": [],
+      "summary_basis": "参照時リビジョン:2\n\nこれ の なまえ: SCP-173\nはこ に いれる こと は できる?: いいえ\nはこ に いれる の は どう やる?: SCP-173 は ずっと はこ に いれて、そと に だす の は だめ。なかに はいる の は よし、でも ふたり か ひとり は だめ。ふたり と ひとり は いい。ふたり と ふたり とか も いい。へや に みんな はいる。その あと、ドアの かぎ を しめる。ずっと ふたり が それ を みる。ふたり みまん の ひと みんな め を はなす を ゆるす の は だめ。それ を だす だめ。\nこれ は: いま サイト 19 に いる。これ を つくる の は だれが やった? われら では ない。それは いし に インク を 塗った もの。SCP-173 は わるい こ。め を むける あいだ は おそう こと は しない。みてる あいだ は しぬ こと は ない。みない の は だめ。みない ばあい は あなた は しぬ。おとこ は しぬ。みんな しぬ。みない あいだ は それ は あなた　を なぐる こと が できる。それ が あなた や おとこ など を なぐる と レベル 4 の しかた で はこ に いれる。\nおとこ は だれも はこ に いない けれど おと が する って いった。これ は ふつう の こと と された。うごき　に へんか が あった ばあい は うえ の ひと に いえ。へや の あかい シミ は うんこ と ち。あれ が やった? たぶん そう。おとこ が たまに はこ の なか の うんこ と ち を そうじ する。\nハッピーエイプリルフールデー",
+      "summary_basis_type": "opening",
+      "tags": [
+        "en",
+        "scp-173",
+        "tale",
+        "コメディ",
+        "ジョーク",
+        "報告書形式"
+      ],
+      "rating": 2,
+      "vote_count": 8,
+      "revision_count": 2,
+      "comment_count": 0,
+      "content_hash": "sha256:16957bc68715c91da8391db8df901ac91a9c08693671b6a0bbdcae1dbd7ca574",
+      "has_text_content": true,
+      "text_content_length": 914,
+      "first_seen_at_jst": "2026-10-09T10:12:17.178086+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469477964"
+    },
+    {
+      "wikidot_id": "1469477034",
+      "page_name": "note-embracing-the-starry-sky",
+      "url": "https://scp-jp.wikidot.com/note-embracing-the-starry-sky",
+      "edition": "jp_original",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "jp_tag"
+      ],
+      "source_branch": "JP",
+      "source_branch_basis": "jp_tag",
+      "genre": "GoIフォーマット",
+      "article_title": "メモ: 星空を抱く",
+      "subtitle": null,
+      "authors": [
+        "flying_bari"
+      ],
+      "original_title": null,
+      "original_url": null,
+      "original_authors": [],
+      "original_year": null,
+      "translation_year": null,
+      "translation_responsible": [],
+      "translators": [],
+      "created_at_utc": "2026-10-08T14:53:03.000Z",
+      "created_at_jst": "2026-10-08T23:53:03+09:00",
+      "created_by": "flying_bari",
+      "content_warnings": [],
+      "summary_basis": "別称: 裏海 志緒。エージェント・裏海。星見、あるいは迷い子。\n概要: 財団の女性フィールドエージェント。こっそり拝見した人事ファイルによると、年齢は23歳、地位はそこまで高くない。\n◎明るく人懐っこい性格。小柄な体躯も相まって、小動物のようだ。\n◎金色の髪に星空のネイル。財団の職員にしては派手好きだ。\n◎戦闘は苦手らしい。ヤクザの抗争に巻き込まれた時は、一目散に逃げ出したのだとか。\n◎これといった異常な点はなし。眼を見張るコミュニケーション能力を除けば、至って普通の女性。\n◎全国各地を行脚し、目をつけた相手を財団へスカウトしている。相手が人間かどうかは気にしないらしい。\n\n脅威: 高。非常に危険。\n◎私、ひいては私たちというものを揺るがしかねない存在。\n◎彼女のスカウトに捕まってはならない。それは、私が何者かになることを意味する。私が私ではなくなることを意味する。\n接触: 私は2度、彼女に会ったことがある。\n◎初めて見たのは、財団の中でだった。\nなるべく目立たぬよう潜入していたというのに、彼女はそんなのお構い無しに声を掛けてきた。\nどうして私に構うのかと訊くと、見たことのない人間だったからと言う。\nそれから、私が寂しそうに見えた、とも。\n\n当然だろう。私は孤独だ。名の有る者が私を記憶する道理などない。私の存在は、誰の中にもない。私は何者でもないのだから。\nだから、最初は彼女を疎ましく思った。孤独を不思議がられる道理も、憐れまれる謂れもない。そんなことをしようものなら、則ち私を嗤うというのに他ならないから。\nだが、どうやら彼女は違うようだった。私の在り方を、そのまま受け容れようとする。それは、邪気のない興味に裏付けられており、純粋に自らの知見を追い求めた故のものだと確信できた。\n危険だ。私の在り方が肯定されること、つまりそれは、彼女の中に私が存在してしまうということだ。何者かになった私は、最早私ではない。そう思った私は、何かと理由をつけてその場を立ち去った。\n\n名も無き者にとっての脅威。それが彼女の第一印象だった。\n◎2度目は、いつだったか。星が綺麗な夜だったことだけは覚えている。\n私は、もう1人の名も無き者と星空を見上げていた。\n彼は、私の生き方に心惹かれたらしい。何処にもいない、何者でもない者として、無為を過ごす。自分もそのような者でありたいと。自分はもう疲れてしまったと。彼がこの世界のしがらみから逃れる道を見つけられたこと、とても喜ばしいことだと思った。\n思ったところに、彼女がやって来た。\n捕まるとまずいと思って、私は直ぐにその場を離れた。のだが、彼女が用があったのはもう1人の彼だったらしい。\n\n彼は行ってしまった。財団に入って欲しいという彼女の熱意に圧されたのか、それともやはり生きる意味が欲しかったのか。心惹かれると宣った何者でもない者としての道を捨てて、財団の職員になってしまった。\n来る者拒まず、去る者追わず。自ら存在することを求めたのなら、それが彼の道だ。私には何を言う資格も無い。\nだが、彼女は。彼女は危険だ。何処にも居ないこと、それこそが依り所の者に、居場所を与えてしまう。それが私に、私達にとってどれほど恐ろしいことかも知らずに。\nそれに、ああ、認めたくはないのだが、\n名がないと呼びづらいからと、彼女に適当なあだ名をつけられた彼を。彼女の言葉に耳を傾け、もう一度何者かで在ろうとした彼を。喜ぶ彼女の前で、ぎこちなくも嬉しそうにはにかんだ彼を。\nただ一瞬だけ、羨ましいと思ってしまった。\n自ら全てを捨てた私に、羨む資格など無いと云うのに。\n\n◎やれやれ、こんな事を書く気はなかったのだがな。\nしかし、これでよかったのだと思う。彼の瞳には未練が見えた、そんなんじゃ無為に生きることなんて耐えられないだろう。\nだから今は、\nかつて何者でもなかった彼が、星空の下で何者かになりたいと願った彼が、良き日々を過ごせるように、\n星を抱く彼女が導いてくれた事を、切に願おう。",
+      "summary_basis_type": "opening",
+      "tags": [
+        "goi-format",
+        "jp",
+        "エージェント・裏海",
+        "何者でもない",
+        "_何者でもない"
+      ],
+      "rating": 11,
+      "vote_count": 15,
+      "revision_count": 2,
+      "comment_count": 0,
+      "content_hash": "sha256:4a780acef460bc829fd4be5dcd68ce16ebb7a54fe2704d60d1309533e5800f59",
+      "has_text_content": true,
+      "text_content_length": 1788,
+      "first_seen_at_jst": "2026-10-09T10:12:17.178086+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469477034"
+    },
+    {
+      "wikidot_id": "1469466330",
+      "page_name": "scp-2867",
+      "url": "https://scp-jp.wikidot.com/scp-2867",
+      "edition": "translation",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "credit_translation_responsible",
+        "credit_translation_year",
+        "credit_original_title",
+        "credit_original_url"
+      ],
+      "source_branch": "EN",
+      "source_branch_basis": "original_url",
+      "genre": "SCP報告書",
+      "article_title": "SCP-2867",
+      "subtitle": "チーズだけはやめてくれ",
+      "authors": [],
+      "original_title": "SCP-2867 - No, Not The Cheese",
+      "original_url": "https://scp-wiki.wikidot.com/scp-2867",
+      "original_authors": [
+        "ACal"
+      ],
+      "original_year": "2017",
+      "translation_year": "2026",
+      "translation_responsible": [
+        "AyuMashi"
+      ],
+      "translators": [
+        "AyuMashi"
+      ],
+      "created_at_utc": "2026-10-08T09:27:53.000Z",
+      "created_at_jst": "2026-10-08T18:27:53+09:00",
+      "created_by": "AyuMashi",
+      "content_warnings": [],
+      "summary_basis": "説明: SCP-2867は、米国太平洋岸北西部に所在するPoI-17357 (\"ジャック・テレンス\")およびGoI-49452 (\"テレンス農場\")によって生産された、未知の量のゴルゴンゾーラチーズに付随する、強迫性を有するミーム性および物理的感染症です。SCP-2867を摂取した対象には強迫的な影響が生じ、SCP-2867の感染を他者へ積極的に拡大させようとするほか、さらに大量のチーズを食べようとし、最終的に[データ削除済み]に至ります（感染経過を参照）。感染者は以降、SCP-2867-1に指定されます。SCP-2867への感染は、主に3つの特徴によって識別できます。チーズへの異常な執着、焦点の合っていない目、そして著しく上昇した心拍数および唾液分泌量です。感染経過およびその他の感染症状については、補遺2867-Aを参照してください。\n\n+ 補遺2867-A\n\n- 閉じる\n\n感染対象: D-49013\n感染期間: 1時間〜168時間\n観察担当研究員: ██████████研究員\n1時間: 初期感染。対象は約20gのSCP-2867に曝露される。対象はSCP-2867に好意的な反応を示し、更なる提供を要求した。要求は却下された。\n1〜5時間: 対象は室内を歩き回りながら独り言を続ける。マイクは600種類以上のチーズの名称と、チーズであると推定される複数の未知の名称を記録した。\n5〜6時間: 対象は██████████研究員に向かって扉越しに話しかけ、チーズについての会話を始めようと試みる。██████████研究員は応答しなかったが、対象は会話を続けた。\n6〜24時間: 対象は床を這い回り、チーズが置かれていた場所の周囲を舐め続ける。18時間に及ぶ探索にもかかわらず、目立った効果は見られなかった。\n24〜26時間: 対象はブリーのレシピおよび製造工程を12回連続で復唱する。\n26〜48時間: 対象は睡眠を取る。対象には睡眠時発語が確認され、その内容は例外なくチーズに関するものであった。\n48〜49時間: 対象は自身の爪を完全に噛み砕く。\n49〜51時間: 対象に5 kgのチェダーチーズが与えられる。対象は2時間のうちに全量を摂食した。\n51〜52時間: 対象は扉を激しく叩き、さらなるチーズを要求するとともに██████████研究員を脅迫する。その激昂の最中、対象は「お前も好きにさせてやる」というフレーズを49回繰り返した。\n52〜100時間: 対象は部屋の隅に座り込み、虚ろな目で前方を見つめ続ける。対象の眼球は濁り始め、皮膚は灰色へと変色している。\n100〜120時間: 対象は皮膚の毛穴から黄色のゼラチン状物質を分泌し始める。また同物質は口腔、涙管、鼻孔およびその他すべての開口部からも噴出される。この物質は対象を中心とした半径2mの範囲の床面および壁面を覆い、その後堆積・硬化を開始する。\n120〜130時間: 当該物質はゴルゴンゾーラチーズの外観を呈し始め、円形へと成形されていく。標準的な青カビの筋が塊の中心部から外側へ向かって成長し、多数の円形構造が形成され始める。\n130〜160時間: ゴルゴンゾーラの増殖体は完全に成形され、27種類の異なる形状・大きさのゴルゴンゾーラチーズホイールとなる。一部のチーズホイールには、既知のゴルゴンゾーラ製造業者である「Il Giardino」および「Taddei」のブランド刻印が確認された一方、無印のものも存在した。山の頂上部には重量約0.4kgの小型ホイールが1つ形成され、その表面には「Terrence Farms Gorgonzola - Perfect for spreading!1」というラベルが貼付されていた。この時点で、有機的な対象由来物質はほとんど残存していなかった。\n160〜168時間: 対象は完全に侵食・変成された。ラベル付きのテレンス農場製ホイールを除く全てのチーズホイールは回収後焼却処分された。D-49013の痕跡は一切残存していなかった。GoI-49452 (\"テレンス農場\")は要注意団体として指定された。",
+      "summary_basis_type": "description",
+      "tags": [
+        "en",
+        "keter",
+        "scp",
+        "ミーム",
+        "強制力",
+        "生殖",
+        "生物災害",
+        "精神影響",
+        "自己複製",
+        "通信",
+        "crom:series-3"
+      ],
+      "rating": 1,
+      "vote_count": 1,
+      "revision_count": 2,
+      "comment_count": 0,
+      "content_hash": "sha256:82aab32cd8d4bf0d70f7fd20756999741b71153fa03428065fbe2ec585e3eeea",
+      "has_text_content": true,
+      "text_content_length": 5296,
+      "first_seen_at_jst": "2026-10-09T10:12:17.178086+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469466330"
+    },
+    {
+      "wikidot_id": "1469465349",
+      "page_name": "scp-4178-jp",
+      "url": "https://scp-jp.wikidot.com/scp-4178-jp",
+      "edition": "jp_original",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "jp_tag"
+      ],
+      "source_branch": "JP",
+      "source_branch_basis": "jp_tag",
+      "genre": "SCP報告書",
+      "article_title": "SCP-4178-JP",
+      "subtitle": "かくして --悪魔-- --天使-- 悪魔は生まれた",
+      "authors": [
+        "phlo-fro"
+      ],
+      "original_title": null,
+      "original_url": null,
+      "original_authors": [],
+      "original_year": null,
+      "translation_year": null,
+      "translation_responsible": [],
+      "translators": [],
+      "created_at_utc": "2026-10-08T09:00:55.000Z",
+      "created_at_jst": "2026-10-08T18:00:55+09:00",
+      "created_by": "phlo-fro",
+      "content_warnings": [],
+      "summary_basis": "説明: SCP-4178-JPは概ね人型の形態をとるTartareanクラス悪魔実体です。SCP-4178-JPは可視光領域吸収率90%を超える黒色であるため、その全貌を把握することは出来ていません。同時間に複数の地点で確認された事例がありますが、破壊作戦において自身の複製体を作成する能力が確認されたため当該能力によるものと推察されています。SCP-4178-JPは一般的な悪魔実体に有効な装備に対して極めて高い忌避感を示しています。これにより一定の効果があると考えられていますが、現時点までSCP-4178-JPが外傷を負った事例は確認されていません。\nSCP-4178-JPはパリで初めて確認されました。大抵の場合SCP-4178-JPは照度が低い地点から出現しますが、その詳細は把握されておらず出現の瞬間も記録されていません。また対象の選定についてはSCP-4178-JPについての情報を有する人物が優先されていると推察されています。ただし、このような人物が存在する場合においても他の人物を対象にする複数の事例が確認されていることには留意してください。\nSCP-4178-JPは何らかの妨害がない限り、以下の機序を辿って異常性を行使します。\n\n段階\n発生事項\n\nA\nSCP-4178-JPは対象に近寄り、対象が最も解する言語を利用して会話を行う。会話内容に異常は見られていないが、対象はSCP-4178-JPに対して如何なる不信感も抱くことは無い。\n\nB\nある程度の雑談が行われた後、SCP-4178-JPは対象の背後に立ち対象の眼部を手で覆う。当該の姿勢が取られるとSCP-4178-JPは言葉を用いて対象の心理的弱点を刺激する。これにより対象には心理的摩耗が引き起こされる。\n\nC\n心理的摩耗状態の対象は地面に沈むようにして消失する。対象消失後、SCP-4178-JPはくつろぐような姿勢を取る。\n\nD\n概ね6分後、対象の特徴と一致する人型実体(以降はSCP-4178-JP-Aに指定)が出現する。SCP-4178-JP-AはSCP-4178-JPに対して跪く姿勢を取る。\n\nE\nSCP-4178-JPは恐らく出現と同様の機序を辿り消失する。SCP-4178-JPの消失と同時にSCP-4178-JP-Aは他者を害するように行動を始める。\n\nSCP-4178-JP-Aは腕部が可視光領域吸収率90%を超える黒色に変化しており、爪の発達/硬質化が確認されています。SCP-4178-JP-Aは当該の変化を利用した攻撃を人に対して積極的に行います。SCP-4178-JP-Aは非異常の人とは一線を画す破壊耐性を有していますが、通常火器で破壊/無力化することが可能です。SCP-4178-JP-Aとの双方向的なコミュニケーションは成功していません。",
+      "summary_basis_type": "description",
+      "tags": [
+        "jp",
+        "pending",
+        "scp",
+        "削除通知",
+        "生命"
+      ],
+      "rating": -11,
+      "vote_count": 13,
+      "revision_count": 3,
+      "comment_count": 2,
+      "content_hash": "sha256:d8e6a8a19625c53ee5fd8327c6d03ba0a32dcbc3e81d0175d6f4781a9718c6cc",
+      "has_text_content": true,
+      "text_content_length": 3151,
+      "first_seen_at_jst": "2026-10-09T10:12:17.178086+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469465349"
+    },
     {
       "wikidot_id": "1469453398",
       "page_name": "scp-2307",
@@ -57,8 +277,8 @@
         "骨格",
         "crom:series-3"
       ],
-      "rating": 1,
-      "vote_count": 1,
+      "rating": 4,
+      "vote_count": 4,
       "revision_count": 3,
       "comment_count": 0,
       "content_hash": "sha256:67932861f2b9920330790467e30cd071487eaf7b7085a557b9bf8a579d78984b",
@@ -66,7 +286,7 @@
       "text_content_length": 6869,
       "first_seen_at_jst": "2026-10-08T09:57:49.148534+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469453398"
     },
     {
@@ -105,8 +325,8 @@
         "scp",
         "削除通知"
       ],
-      "rating": -6,
-      "vote_count": 12,
+      "rating": -5,
+      "vote_count": 15,
       "revision_count": 2,
       "comment_count": 2,
       "content_hash": "sha256:1395c5aa29be503349178d3eb078cd0d80e743247fdf341d0b2bfe02308231d4",
@@ -167,7 +387,7 @@
         "crom:series-4"
       ],
       "rating": 4,
-      "vote_count": 4,
+      "vote_count": 6,
       "revision_count": 2,
       "comment_count": 1,
       "content_hash": "sha256:72f921a8e841df229e4d9f094fb4e57e95cdfcfe22d91e7f010e16397886a461",
@@ -214,13 +434,13 @@
         "scp",
         "節足動物"
       ],
-      "rating": 32,
-      "vote_count": 42,
-      "revision_count": 5,
+      "rating": 39,
+      "vote_count": 53,
+      "revision_count": 6,
       "comment_count": 6,
-      "content_hash": "sha256:e090ee1e79cdc5c88fca5340e7dda11220a460243f35c36ff4b16ac9c299439f",
+      "content_hash": "sha256:8a7e59a49c73e2af1ed6a612c12c0460d71a984574363cd1d030911aee9c97e8",
       "has_text_content": true,
-      "text_content_length": 1858,
+      "text_content_length": 1860,
       "first_seen_at_jst": "2026-10-07T09:39:40.242437+09:00",
       "baseline": false,
       "is_new_this_run": false,
@@ -277,7 +497,7 @@
         "重訳"
       ],
       "rating": 9,
-      "vote_count": 9,
+      "vote_count": 11,
       "revision_count": 1,
       "comment_count": 1,
       "content_hash": "sha256:c2bc62b97c74f165f0605954bb5262c6b2eac37c08d96d323b32791634ec5602",
@@ -326,8 +546,8 @@
         "地質",
         "熱力学"
       ],
-      "rating": -5,
-      "vote_count": 15,
+      "rating": -6,
+      "vote_count": 16,
       "revision_count": 3,
       "comment_count": 2,
       "content_hash": "sha256:f10834953d095c589e18e712cd19116878d0b002c99f6711449ff586ed0803d3",
@@ -386,8 +606,8 @@
         "殺人モンスター",
         "脱走劇"
       ],
-      "rating": 14,
-      "vote_count": 14,
+      "rating": 16,
+      "vote_count": 16,
       "revision_count": 1,
       "comment_count": 1,
       "content_hash": "sha256:ad270ae134f519b647026e253a6671a1a0fe04291f8b0a79bc0e335edf5040c8",
@@ -438,8 +658,8 @@
         "ハブ",
         "画像差し止め"
       ],
-      "rating": 20,
-      "vote_count": 20,
+      "rating": 24,
+      "vote_count": 24,
       "revision_count": 7,
       "comment_count": 1,
       "content_hash": "sha256:27f15c4eb413e8d98f4f860fc3c1393fc40c6d9d07f6052f9d371b7a3cba5d02",
@@ -484,8 +704,8 @@
         "jp",
         "アートワーク"
       ],
-      "rating": 39,
-      "vote_count": 45,
+      "rating": 40,
+      "vote_count": 46,
       "revision_count": 6,
       "comment_count": 6,
       "content_hash": "sha256:0b659b3060e58d9974aceecc0fb5068f736b4330a1bfc472fccd6efa0be6c582",
@@ -532,8 +752,8 @@
         "scp",
         "削除通知"
       ],
-      "rating": -12,
-      "vote_count": 12,
+      "rating": -13,
+      "vote_count": 13,
       "revision_count": 1,
       "comment_count": 2,
       "content_hash": "sha256:9dacb759bd116952333fe8b19a70a614596a614fa04d9ab102992f6ddba3a5a8",
@@ -580,8 +800,8 @@
         "scp",
         "削除通知"
       ],
-      "rating": -11,
-      "vote_count": 15,
+      "rating": -12,
+      "vote_count": 16,
       "revision_count": 2,
       "comment_count": 2,
       "content_hash": "sha256:a9f31664efc9d503a0842d7c9863037ec6382ad8d7f5b809aa19059f90065430",
@@ -694,8 +914,8 @@
         "認識災害",
         "crom:series-3"
       ],
-      "rating": 7,
-      "vote_count": 7,
+      "rating": 6,
+      "vote_count": 8,
       "revision_count": 3,
       "comment_count": 0,
       "content_hash": "sha256:cae77f2d020c450abe2ecb693ceca6babf1ffe48acb771a2555307bb1e014fa1",
@@ -800,8 +1020,8 @@
         "jp",
         "ニュース"
       ],
-      "rating": 49,
-      "vote_count": 49,
+      "rating": 50,
+      "vote_count": 50,
       "revision_count": 2,
       "comment_count": 1,
       "content_hash": "sha256:2816b95542d61fce5de53661cf7ef85d421314cc0aef3ef7669723e0168388ae",
@@ -915,8 +1135,8 @@
         "自己複製",
         "crom:series-1"
       ],
-      "rating": 13,
-      "vote_count": 13,
+      "rating": 14,
+      "vote_count": 14,
       "revision_count": 3,
       "comment_count": 2,
       "content_hash": "sha256:bd1071c38a6a04c26190be1a2c89f6076c860d9eecae8bb6e9786a647c0ed107",
@@ -1072,8 +1292,8 @@
         "生殖",
         "生物学"
       ],
-      "rating": 17,
-      "vote_count": 19,
+      "rating": 16,
+      "vote_count": 20,
       "revision_count": 2,
       "comment_count": 1,
       "content_hash": "sha256:ea1ec595e6b5370812ac2cf570cda18de5f0d057b4bddbdbd207048a3fa43ae4",
@@ -1174,8 +1394,8 @@
         "jp",
         "アートワーク"
       ],
-      "rating": 49,
-      "vote_count": 51,
+      "rating": 51,
+      "vote_count": 53,
       "revision_count": 3,
       "comment_count": 1,
       "content_hash": "sha256:03a0ed01fd1cdaa1882d9c3849e4f700361dd04f8cfe7871eb7982bd97318608",
@@ -1454,61 +1674,6 @@
       "baseline": false,
       "is_new_this_run": false,
       "notification_id": "1469434862"
-    },
-    {
-      "wikidot_id": "1469431305",
-      "page_name": "ambrose-caldrin",
-      "url": "https://scp-jp.wikidot.com/ambrose-caldrin",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translation_responsible",
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "EN",
-      "source_branch_basis": "original_url",
-      "genre": "GoIフォーマット",
-      "article_title": "アンブローズ・カルドリン",
-      "subtitle": null,
-      "authors": [],
-      "original_title": "Ambrose Caldrin",
-      "original_url": "https://scp-wiki.wikidot.com/ambrose-caldrin",
-      "original_authors": [
-        "MightyBear"
-      ],
-      "original_year": "2026",
-      "translation_year": "2026",
-      "translation_responsible": [
-        "C-Dives"
-      ],
-      "translators": [
-        "C-Dives"
-      ],
-      "created_at_utc": "2026-10-01T14:49:55.000Z",
-      "created_at_jst": "2026-10-01T23:49:55+09:00",
-      "created_by": "C-Dives",
-      "content_warnings": [],
-      "summary_basis": "アンブローズ・レストラン・ハーバーハウス\n\nAMBROSE\n\nカルドリン・ハーバーハウス 017\n\n地元の人々、旅人たち、商人たち、船乗りたち、そしてなぜか招かれざる者たちが集う港のレストラン。\n\nハーバー登録番号 017\n毎日深夜まで営業\n\nHARBOUR\n\n水路で、“道”ウェイで、或いは厨房が敢えて明かさない手段で運ばれてきた食材を活かした料理。\n\nBERTH H-01\n\nBlackwater Chowder\nブラックウォーター・チャウダー\n\n34 CC\n\n三日前の潮から汲んだ海水から出汁を仕込んだ、濃厚な黒いチャウダー。\n\n厨房の注釈\n\n厨房の注釈を閉じる\n\n出汁の仕込みは日の出前に行われます。これを食べた方は、海辺に立つたびに口中に塩の味を感じるかもしれません。\n\nBERTH H-02\n\nSix-Way Fish Curry\n六通り魚介カレー\n\n52 CC\n\n六つの異なるカルドリンから取り入れた六種類の調理法を、全て同時に。\n\n厨房の注釈\n\n厨房の注釈を閉じる\n\nお客様の中には時折、第七の調理法を注文した記憶がある方もいらっしゃいます。\n\nHARBOUR SPECIAL · TODAY\n\nSpice It Up\n景気付けスパイス盛り\n\nMARKET\n\n厨房が“悪魔の唐辛子”と呼ぶものを用いたシーフード料理。\n\n厨房の注釈\n\n厨房の注釈を閉じる\n\n当店はいかなる人命損失の事態にも責任を負いかねます。\n\nHOUSE FAVOURITES\n\n常連のお客様方が何度も足を運んでくださる理由。\n\nHOUSE H-01\n\nThe Dark Plate\n暗黒の一皿\n\n26 CC\n\n黒魔術だけを用いて調理した焼肉、ロースト野菜、厚切りパン、そしてソース。\n\n厨房の注釈\n\n厨房の注釈を閉じる\n\n熟練した魔法使いが調理すれば、この料理は全く以て安全に食べられます。\n\nHOUSE H-02\n\nWarm Noodles\nあったか麺\n\n31 CC\n\n野菜、川魚、そしてお客様が空腹の間はずっと温かいままのソースを使った麵料理。\n\n厨房の注釈\n\n厨房の注釈を閉じる\n\nお客様の食事中、ボウルが冷えることは決してございません。\n\nHOUSE H-03\n\nAmbrose Bread Basket\nアンブローズ印のパン籠\n\n14 CC\n\nホイップバター、海塩ペースト、ハーブオイル、近くで眠っている人々の夢の中にしか生らない果実のジャムを添えた温かいパン。\n\n厨房の注釈\n\n厨房の注釈を閉じる\n\nたまにお客様が眠ってしまわれることもございます。\n\nHOUSE H-04\n\nNight Market Dumplings\n夜市餃子\n\n22 CC\n\n日没後にしか仕入れられない食材を用いた蒸し餃子。\n\n厨房の注釈\n\n厨房の注釈を閉じる\n\n具材は、お客様が入店直前に何を食べたいと望んでいたかによって変化いたします。\n\nTHE WORKS\n\n安く、食べ応えがあり、厨房を所有しそうもない人々から学んだ調理法で作られた料理。\n\nWORKS W-01\n\nThe Foundry Stew\n鋳造所のシチュー\n\n21 CC\n\n豆、根菜類、燻製肉、その他の端材を、誰も見ていない時だけ独りでに加熱される鍋で煮込んだ濃厚なシチュー。\n\n厨房の注釈\n\n厨房の注釈を閉じる\n\n目を離し過ぎないようにご注意ください。\n\nWORKS W-02\n\nThree-Pound Pie\n三磅パイ\n\n23 CC\n\nある男性が五十一年前に製粉した小麦粉で調理された深皿ミートパイ。\n\n厨房の注釈\n\n厨房の注釈を閉じる\n\n味は新鮮です。\n\nWORKS W-03\n\nNether Rice\nネザーライス\n\n17 CC\n\nフライパンで調理した米、炒め野菜、卵、ソース。\n\n厨房の注釈\n\n厨房の注釈を閉じる\n\nソースはネザーウォートから作られております。\n\nWORKS W-04\n\nSecond Shift Soup\n半夜勤スープ\n\n13 CC\n\n夜の繫忙時間帯が過ぎた後も残っている諸々の野菜を混ぜ込んだ温かいスープ。\n\n厨房の注釈\n\n厨房の注釈を閉じる\n\n持ち手が疲れているほどに、ボウルも温かくなります。\n\nOLD RECIPES\n\n当店よりも古くから伝わるレシピもございます。この街より古いものも。ごく少数ながら、使われる食材より古いものも。\n\nARCHIVE O-01\n\nBroth of Sorrow\n悲哀のブロス\n\n58 CC\n\n保存野菜、燻製根菜、ハーブ、そしてもう存在しない海から採れた塩から作られる、澄んだブロス。\n\n歴史的注釈\n\n歴史的注釈を閉じる\n\nブロスを一杯全て飲み干した方は、愛した者の死を鮮明に思い出すでしょう。\n\nARCHIVE O-02 · HOUSE LEGACY\n\nThe First Table\n最初の食卓\n\n91 CC\n\nじっくり煮込んだ肉と野菜に、粗挽きの穀物と保存ハーブを添えた一品。\n\n歴史的注釈\n\n歴史的注釈を閉じる\n\nこの一品は古代の石製調理器具を用いて作られます。\n\nARCHIVE O-03\n\nGo(o)d bread\n神様(風味)のパン\n\n29 CC\n\n端がカリカリになるまで焼いた薄パンに、ソフトチーズ、ロースト野菜、ハーブ、神の血から作られたソースをトッピングいたします。\n\n歴史的…",
-      "summary_basis_type": "opening",
-      "tags": [
-        "en",
-        "goi-format",
-        "アンブローズ・レストラン",
-        "_アンブローズ・レストラン"
-      ],
-      "rating": 9,
-      "vote_count": 9,
-      "revision_count": 1,
-      "comment_count": 1,
-      "content_hash": "sha256:8114c388b49f5394bc9ea9b83be7c30c292fb6c46844bc1d0f9d6ab3fd163274",
-      "has_text_content": true,
-      "text_content_length": 4793,
-      "first_seen_at_jst": "2026-10-02T09:44:46.866851+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469431305"
     },
     {
       "wikidot_id": "1469425122",
