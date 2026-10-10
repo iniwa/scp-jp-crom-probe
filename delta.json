@@ -1,15 +1,168 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-10-09T01:12:17.178086+00:00",
-  "generated_at_jst": "2026-10-09T10:12:17.178086+09:00",
+  "generated_at_utc": "2026-10-10T00:46:59.862893+00:00",
+  "generated_at_jst": "2026-10-10T09:46:59.862893+09:00",
   "retention_hours": 168,
   "new_this_run_ids": [
-    "1469465349",
-    "1469466330",
-    "1469477034",
-    "1469477964"
+    "1469478993",
+    "1469480676",
+    "1469481426"
   ],
   "articles": [
+    {
+      "wikidot_id": "1469481426",
+      "page_name": "scp-593-ko",
+      "url": "https://scp-jp.wikidot.com/scp-593-ko",
+      "edition": "translation",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "credit_translation_responsible",
+        "credit_translation_year",
+        "credit_original_title",
+        "credit_original_url"
+      ],
+      "source_branch": "KO",
+      "source_branch_basis": "original_url",
+      "genre": "SCP報告書",
+      "article_title": "SCP-593-KO",
+      "subtitle": "信じた斧 (マジもん)",
+      "authors": [],
+      "original_title": "SCP-593-KO - 믿는 도끼 (진짜임)",
+      "original_url": "https://scpko.wikidot.com/scp-593-ko",
+      "original_authors": [
+        "TimothyYoung"
+      ],
+      "original_year": "2026",
+      "translation_year": "2026",
+      "translation_responsible": [
+        "walksoldi"
+      ],
+      "translators": [
+        "walksoldi"
+      ],
+      "created_at_utc": "2026-10-09T14:29:09.000Z",
+      "created_at_jst": "2026-10-09T23:29:09+09:00",
+      "created_by": "walksoldi",
+      "content_warnings": [],
+      "summary_basis": "説明: SCP-593-KOは \"信じた斧\" という表題1の異常芸術作品であり、外見上は通常の鋭利な斧と同一です。SCP-593-KOは、1992年11月30日にソウル特別市で開催されたAWCY異常芸術展示会で押収され、その説明書も併せて押収されました。\n展示会でSCP-593-KOの側に置かれていた紹介パンフレットによると、SCP-593-KOを持った人物は、周囲の人々から即座に信頼を得るようです。SCP-593-KOを持った状態で他者に何かを依頼すると、それが物理的に可能であればどのような依頼であっても必ず聞き入れられ、極めて荒唐無稽なことを主張しても、相手はその言葉を信じて全面的に賛成します。この効果はSCP-593-KOを下ろした場合に消失します。\n制作者であるPoI-593-KOは、展示会の最中に観客を呼んで実演を行い、SCP-593-KOの効果を披露していました。PoI-593-KOは以前から多岐にわたる危険な異常物品を開発していたため、財団の監視対象となっていました。財団は展示会を襲撃して様々な異常物品を取得し、その中でもSCP-593-KOの有用な効果に着目して、正式なアイテム番号を付与した上で様々な実験を実施しました。",
+      "summary_basis_type": "description",
+      "tags": [
+        "are-we-cool-yet",
+        "ko",
+        "safe",
+        "scp",
+        "武器"
+      ],
+      "rating": 11,
+      "vote_count": 13,
+      "revision_count": 2,
+      "comment_count": 1,
+      "content_hash": "sha256:7d909b645dae29e70122415a1eb0aafbc5e70ab453cc23e4addd9bc041f3f17a",
+      "has_text_content": true,
+      "text_content_length": 2877,
+      "first_seen_at_jst": "2026-10-10T09:46:59.862893+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469481426"
+    },
+    {
+      "wikidot_id": "1469480676",
+      "page_name": "scp-173-but-it-s-a-pangram",
+      "url": "https://scp-jp.wikidot.com/scp-173-but-it-s-a-pangram",
+      "edition": "jp_original",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "jp_tag"
+      ],
+      "source_branch": "JP",
+      "source_branch_basis": "jp_tag",
+      "genre": "Tale",
+      "article_title": "SCP-173、だけれどパングラム",
+      "subtitle": null,
+      "authors": [
+        "wavekey"
+      ],
+      "original_title": null,
+      "original_url": null,
+      "original_authors": [],
+      "original_year": null,
+      "translation_year": null,
+      "translation_responsible": [],
+      "translators": [],
+      "created_at_utc": "2026-10-09T13:10:04.000Z",
+      "created_at_jst": "2026-10-09T22:10:04+09:00",
+      "created_by": "wavekey",
+      "content_warnings": [],
+      "summary_basis": "こんくり すたちゅう\nめ を そむける の ひかゑよ\nみえてない とき ほね も おられ まさに しぬ わ\nふろあ へ はゐせつ や\n\nコンクリstatue。\n目を背けるの控えよ、見えてないとき骨も折られ、正に死ぬわ。\nfloorへ排泄や！！！！",
+      "summary_basis_type": "opening",
+      "tags": [
+        "jp",
+        "scp-173",
+        "tale",
+        "ジョーク"
+      ],
+      "rating": 33,
+      "vote_count": 55,
+      "revision_count": 1,
+      "comment_count": 0,
+      "content_hash": "sha256:e431e26727060212b4baa6e8890e8db37a46fd95361f4f4fdb14fc7b3a28b4a0",
+      "has_text_content": true,
+      "text_content_length": 197,
+      "first_seen_at_jst": "2026-10-10T09:46:59.862893+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469480676"
+    },
+    {
+      "wikidot_id": "1469478993",
+      "page_name": "scp-4741-jp",
+      "url": "https://scp-jp.wikidot.com/scp-4741-jp",
+      "edition": "jp_original",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "jp_tag"
+      ],
+      "source_branch": "JP",
+      "source_branch_basis": "jp_tag",
+      "genre": "SCP報告書",
+      "article_title": "SCP-4741-JP",
+      "subtitle": "仔でお腹が膨れる",
+      "authors": [
+        "phlo-fro"
+      ],
+      "original_title": null,
+      "original_url": null,
+      "original_authors": [],
+      "original_year": null,
+      "translation_year": null,
+      "translation_responsible": [],
+      "translators": [],
+      "created_at_utc": "2026-10-09T06:42:01.000Z",
+      "created_at_jst": "2026-10-09T15:42:01+09:00",
+      "created_by": "phlo-fro",
+      "content_warnings": [],
+      "summary_basis": "説明: SCP-4741-JPは異常な性質を有するスズメ(Passer montanus)の一種です。現在は█体が収容されています。SCP-4741-JPの物理耐性や適応能力は一般的な水準で留まっています。SCP-4741-JPは非異常性のスズメが冬季に行う羽毛を逆立てる行為を常に行っています。これによりSCP-4741-JPは非異常性のスズメよりも高温に対する耐性が有意に低下しています。そのため運動継続能力は低く、発見地外への移動は起こっていないと推定されます。またSCP-4741-JPは一般的な鳥類と比べても人間に対する警戒力が低く容易に捕獲することができます。\nSCP-4741-JPは202█/12/4に要注意団体\"日本生類創研\"の放棄された研究所に存在する人間用の檻で発見されました。発見時のSCP-4741-JPは栄養失調により衰弱していましたが一般的な野鳥保護手法により回復しました。外見に異常は見られなかったために当時は非異常性のスズメであると思われていました。しかし同研究所から以下の書類が発見され、実験により異常性が判明したためアイテム番号が割り振られました。\n\n開発生類: フクラスズメ(Passer distentus)\n\n元生類: スズメ(Passer montanus)\n導入生類: カッコウ(Cuculus canorus)\n利用・導入技術: [汚れにより解読不能]\n目的能力: [汚れにより解読不能] は人間の雌を対象として働く。 [汚れにより解読不能] に座ることで対象を [汚れにより解読不能] させる。これにより [汚れにより解読不能] 有効的である。また人間の雌雄を区別するために [汚れにより解読不能] する技術を導入する。\n注意: [汚れにより解読不能] 技術が有する性質により [汚れにより解読不能] に異常を持つ人間を認識した場合は暴走を起こす可能性が [汚れにより解読不能] 。改善予定。\n\nまたSCP-4741-JP発見地点では30代と思しき女性の遺体が2体、互いの首を絞める形で発見されています。SCP-4741-JPの殆どは遺体の周囲3m以内に存在していました。腐敗の進行度合より死亡してから数日であると思われますが、財団が所有する行方不明者リストおよび死亡者リストの如何なる人物とも一致していません。遺体の口部には檻内部に存在しない草本の花弁や葉が確認されています。\nSCP-4741-JPは生物学的に女性として判断される人物(以降は対象に指定)を未知の方法により認識し近接します。近接の際に威嚇行動を起こすことはなく接近速度も遅いため、一般に対象は忌避感を覚えることがありません。SCP-4741-JPは対象の付近を飛翔し、対象が背臥位を保てる地点まで誘導します。対象が背臥位へ移行した場合、SCP-4741-JPは対象の腹部に降り立ち臍窩上へ着座します。着座は平均して1分で終了し、終了後は別個体のSCP-4741-JPが着座します。\nSCP-4741-JPの着座が終了した対象は着座が終了したSCP-4741-JP個体数だけ子宮内に周産期児1を出現させます。当該の周産期児は8cm程度まで成長することで出産されます。周産期児のサイズから対象が大きく出血することはありません。当該の周産期児にサイズ以外の異常性はなく、遺伝子の半数は対象のものと一致します。しばしば対象が周産期児を我が仔であると認識し養育することがありますが、これは生物としての本能と混乱によるものであり異常な精神影響は見られていません。ただし周産期児は通常より遥かに小さいため異常なく成長する割合は30%を下回ります。\nまた実験の際、ターナー症候群2の女性Dクラス職員がサイト-8112内に進入したところSCP-4741-JPが異常な速度で飛翔し収容室壁面に激突、そのまま死亡しました。当事案により収容室壁面が破損し一時的な収容違反が発生しました。クラインフェルター症候群3の男性職員が進入した際もSCP-4741-JPは同様の反応を示しました。このことからSCP-4741-JPの性別認識機構は性染色体によると考えられます。",
+      "summary_basis_type": "description",
+      "tags": [
+        "jp",
+        "safe",
+        "scp",
+        "削除通知",
+        "日本生類創研",
+        "鳥類"
+      ],
+      "rating": -8,
+      "vote_count": 14,
+      "revision_count": 2,
+      "comment_count": 2,
+      "content_hash": "sha256:8f891ef0240ac59e551928eafd4e5d255ef581ec50fa96c2119f564fe1648966",
+      "has_text_content": true,
+      "text_content_length": 3419,
+      "first_seen_at_jst": "2026-10-10T09:46:59.862893+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469478993"
+    },
     {
       "wikidot_id": "1469477964",
       "page_name": "173-3-or-less",
@@ -29,7 +182,7 @@
       "subtitle": null,
       "authors": [],
       "original_title": "SCP-173 in 3 Letters or Less",
-      "original_url": "https://scp-wiki.wikidot.com/173-3-or-less##",
+      "original_url": "https://scp-wiki.wikidot.com/173-3-or-less",
       "original_authors": [
         "Raddagher"
       ],
@@ -45,7 +198,7 @@
       "created_at_jst": "2026-10-09T08:07:51+09:00",
       "created_by": "NUGGe2",
       "content_warnings": [],
-      "summary_basis": "参照時リビジョン:2\n\nこれ の なまえ: SCP-173\nはこ に いれる こと は できる?: いいえ\nはこ に いれる の は どう やる?: SCP-173 は ずっと はこ に いれて、そと に だす の は だめ。なかに はいる の は よし、でも ふたり か ひとり は だめ。ふたり と ひとり は いい。ふたり と ふたり とか も いい。へや に みんな はいる。その あと、ドアの かぎ を しめる。ずっと ふたり が それ を みる。ふたり みまん の ひと みんな め を はなす を ゆるす の は だめ。それ を だす だめ。\nこれ は: いま サイト 19 に いる。これ を つくる の は だれが やった? われら では ない。それは いし に インク を 塗った もの。SCP-173 は わるい こ。め を むける あいだ は おそう こと は しない。みてる あいだ は しぬ こと は ない。みない の は だめ。みない ばあい は あなた は しぬ。おとこ は しぬ。みんな しぬ。みない あいだ は それ は あなた　を なぐる こと が できる。それ が あなた や おとこ など を なぐる と レベル 4 の しかた で はこ に いれる。\nおとこ は だれも はこ に いない けれど おと が する って いった。これ は ふつう の こと と された。うごき　に へんか が あった ばあい は うえ の ひと に いえ。へや の あかい シミ は うんこ と ち。あれ が やった? たぶん そう。おとこ が たまに はこ の なか の うんこ と ち を そうじ する。\nハッピーエイプリルフールデー",
+      "summary_basis": "参照時リビジョン:2\n\nこれ: SCP-173\nはこ に いれる こと は できる か: いいえ\nはこ に いれる の は どう やる か: SCP-173 は ずっと はこ に いれて、そと に だす の は だめ。なか に はいる の は よし、でも ふたり か ひとり は だめ。ふたり と ひとり は いい。ふたり と ふたり とか も いい。へや に みんな はいる。その あと、ドアの かぎ を しめる。ずっと ふたり が それ を みる。ふたり みまん の ひと みんな め を はなす を ゆるす の は だめ。それ を だす だめ。\nこれ は: いま サイト 19 に いる。これ を つくる の は だれが やった? われら では ない。それは いし に インク を 塗った もの。SCP-173 は わるい こ。め を むける あいだ は おそう こと は しない。みてる あいだ は しぬ こと は ない。みない の は だめ。みない ばあい は あなた は しぬ。おとこ は しぬ。みんな しぬ。みない あいだ は それ は あなた　を なぐる こと が できる。それ が あなた や おとこ など を なぐる と レベル 4 の しかた で はこ に いれる。\nおとこ は だれも はこ に いない けれど おと が する って いった。これ は ふつう の こと と された。うごき に へんか が あった ばあい は うえ の ひと に いえ。へや の あかい シミ は うんこ と ち。あれ が やった? たぶん そう。おとこ が たまに はこ の なか の うんこ と ち を そうじ する。\nハッピーエイプリルフールデー",
       "summary_basis_type": "opening",
       "tags": [
         "en",
@@ -55,16 +208,16 @@
         "ジョーク",
         "報告書形式"
       ],
-      "rating": 2,
-      "vote_count": 8,
-      "revision_count": 2,
-      "comment_count": 0,
-      "content_hash": "sha256:16957bc68715c91da8391db8df901ac91a9c08693671b6a0bbdcae1dbd7ca574",
+      "rating": -8,
+      "vote_count": 30,
+      "revision_count": 6,
+      "comment_count": 5,
+      "content_hash": "sha256:325217c9715a3dacb84361572058b2860edc6772990b9910caf826d3aa60053f",
       "has_text_content": true,
-      "text_content_length": 914,
+      "text_content_length": 909,
       "first_seen_at_jst": "2026-10-09T10:12:17.178086+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469477964"
     },
     {
@@ -104,8 +257,8 @@
         "何者でもない",
         "_何者でもない"
       ],
-      "rating": 11,
-      "vote_count": 15,
+      "rating": 23,
+      "vote_count": 31,
       "revision_count": 2,
       "comment_count": 0,
       "content_hash": "sha256:4a780acef460bc829fd4be5dcd68ce16ebb7a54fe2704d60d1309533e5800f59",
@@ -113,7 +266,7 @@
       "text_content_length": 1788,
       "first_seen_at_jst": "2026-10-09T10:12:17.178086+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469477034"
     },
     {
@@ -166,8 +319,8 @@
         "通信",
         "crom:series-3"
       ],
-      "rating": 1,
-      "vote_count": 1,
+      "rating": 3,
+      "vote_count": 3,
       "revision_count": 2,
       "comment_count": 0,
       "content_hash": "sha256:82aab32cd8d4bf0d70f7fd20756999741b71153fa03428065fbe2ec585e3eeea",
@@ -175,7 +328,7 @@
       "text_content_length": 5296,
       "first_seen_at_jst": "2026-10-09T10:12:17.178086+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469466330"
     },
     {
@@ -224,7 +377,7 @@
       "text_content_length": 3151,
       "first_seen_at_jst": "2026-10-09T10:12:17.178086+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469465349"
     },
     {
@@ -278,7 +431,7 @@
         "crom:series-3"
       ],
       "rating": 4,
-      "vote_count": 4,
+      "vote_count": 6,
       "revision_count": 3,
       "comment_count": 0,
       "content_hash": "sha256:67932861f2b9920330790467e30cd071487eaf7b7085a557b9bf8a579d78984b",
@@ -326,7 +479,7 @@
         "削除通知"
       ],
       "rating": -5,
-      "vote_count": 15,
+      "vote_count": 17,
       "revision_count": 2,
       "comment_count": 2,
       "content_hash": "sha256:1395c5aa29be503349178d3eb078cd0d80e743247fdf341d0b2bfe02308231d4",
@@ -434,10 +587,10 @@
         "scp",
         "節足動物"
       ],
-      "rating": 39,
-      "vote_count": 53,
+      "rating": 41,
+      "vote_count": 55,
       "revision_count": 6,
-      "comment_count": 6,
+      "comment_count": 7,
       "content_hash": "sha256:8a7e59a49c73e2af1ed6a612c12c0460d71a984574363cd1d030911aee9c97e8",
       "has_text_content": true,
       "text_content_length": 1860,
@@ -606,8 +759,8 @@
         "殺人モンスター",
         "脱走劇"
       ],
-      "rating": 16,
-      "vote_count": 16,
+      "rating": 17,
+      "vote_count": 17,
       "revision_count": 1,
       "comment_count": 1,
       "content_hash": "sha256:ad270ae134f519b647026e253a6671a1a0fe04291f8b0a79bc0e335edf5040c8",
@@ -658,8 +811,8 @@
         "ハブ",
         "画像差し止め"
       ],
-      "rating": 24,
-      "vote_count": 24,
+      "rating": 25,
+      "vote_count": 25,
       "revision_count": 7,
       "comment_count": 1,
       "content_hash": "sha256:27f15c4eb413e8d98f4f860fc3c1393fc40c6d9d07f6052f9d371b7a3cba5d02",
@@ -704,8 +857,8 @@
         "jp",
         "アートワーク"
       ],
-      "rating": 40,
-      "vote_count": 46,
+      "rating": 42,
+      "vote_count": 48,
       "revision_count": 6,
       "comment_count": 6,
       "content_hash": "sha256:0b659b3060e58d9974aceecc0fb5068f736b4330a1bfc472fccd6efa0be6c582",
@@ -1020,8 +1173,8 @@
         "jp",
         "ニュース"
       ],
-      "rating": 50,
-      "vote_count": 50,
+      "rating": 52,
+      "vote_count": 52,
       "revision_count": 2,
       "comment_count": 1,
       "content_hash": "sha256:2816b95542d61fce5de53661cf7ef85d421314cc0aef3ef7669723e0168388ae",
@@ -1182,8 +1335,8 @@
         "tale",
         "定命種エミュレータ事例集"
       ],
-      "rating": 8,
-      "vote_count": 42,
+      "rating": 10,
+      "vote_count": 44,
       "revision_count": 3,
       "comment_count": 9,
       "content_hash": "sha256:a41a77986eb044a4dc80d3c62f83affc9b150411c8bf9bfd850351ec4500b536",
@@ -1452,8 +1605,8 @@
         "メタフィクション",
         "人工"
       ],
-      "rating": 29,
-      "vote_count": 51,
+      "rating": 30,
+      "vote_count": 52,
       "revision_count": 1,
       "comment_count": 6,
       "content_hash": "sha256:e29b15cd7d148064163fc59b996a27c4a4c2a32757e3bbc9ab7132b2398dd798",
@@ -1556,8 +1709,8 @@
         "jp",
         "tale"
       ],
-      "rating": 12,
-      "vote_count": 12,
+      "rating": 13,
+      "vote_count": 13,
       "revision_count": 4,
       "comment_count": 1,
       "content_hash": "sha256:614b3e13c18232a65e3742436ba46a1665352bf704643cd17e308e4d0f397e33",
@@ -1620,123 +1773,6 @@
       "baseline": false,
       "is_new_this_run": false,
       "notification_id": "1469439382"
-    },
-    {
-      "wikidot_id": "1469434862",
-      "page_name": "art:dr-wondertainment-design-thing-spanishboar",
-      "url": "https://scp-jp.wikidot.com/art:dr-wondertainment-design-thing-spanishboar",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translation_responsible",
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "EN",
-      "source_branch_basis": "original_url",
-      "genre": "アートワーク",
-      "article_title": "ワンダーテインメント博士のデザイン的なやつ - Spanishboar",
-      "subtitle": null,
-      "authors": [],
-      "original_title": "Dr. Wondertainment design thing-Spanishboar",
-      "original_url": "https://scp-wiki.wikidot.com/art:dr-wondertainment-design-thing-spanishboar",
-      "original_authors": [
-        "Spanishboar"
-      ],
-      "original_year": "2026",
-      "translation_year": "2026",
-      "translation_responsible": [
-        "C-Dives"
-      ],
-      "translators": [
-        "C-Dives"
-      ],
-      "created_at_utc": "2026-10-02T14:27:57.000Z",
-      "created_at_jst": "2026-10-02T23:27:57+09:00",
-      "created_by": "C-Dives",
-      "content_warnings": [],
-      "summary_basis": "数年ぶりに再燃したSCP財団熱がそのまま定着しそうな気配です。最近はワンダーテインメント博士の関連作品をたくさん読んでいて、キャラクターデザイナーとしてどうしても描かずにはいられませんでした。\n\nともあれ、この解釈を気に入っていただければ幸いです :)",
-      "summary_basis_type": "description",
-      "tags": [
-        "en",
-        "アートワーク",
-        "ワンダーテインメント博士"
-      ],
-      "rating": 15,
-      "vote_count": 15,
-      "revision_count": 1,
-      "comment_count": 1,
-      "content_hash": "sha256:5ae7108d46e44f65df2054f57695b3d945ee44382c44fa0847b84dd798cb7d66",
-      "has_text_content": true,
-      "text_content_length": 395,
-      "first_seen_at_jst": "2026-10-03T09:27:12.203516+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469434862"
-    },
-    {
-      "wikidot_id": "1469425122",
-      "page_name": "scp-1019",
-      "url": "https://scp-jp.wikidot.com/scp-1019",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translation_responsible",
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "EN",
-      "source_branch_basis": "original_url",
-      "genre": "SCP報告書",
-      "article_title": "SCP-1019",
-      "subtitle": "ミスター・ゆうどく",
-      "authors": [],
-      "original_title": "Mr.Toxic",
-      "original_url": "https://scp-wiki.wikidot.com/scp-1019",
-      "original_authors": [
-        "Rex Atlas"
-      ],
-      "original_year": "2022",
-      "translation_year": "2026",
-      "translation_responsible": [
-        "NUGGe2"
-      ],
-      "translators": [
-        "NUGGe2"
-      ],
-      "created_at_utc": "2026-09-29T23:00:20.000Z",
-      "created_at_jst": "2026-09-30T08:00:20+09:00",
-      "created_by": "NUGGe2",
-      "content_warnings": [],
-      "summary_basis": "説明: SCP-1019は、スウェーデンのアルクロスに存在する地下施設に与えられた名称です。施設の外観はサイト-179の地下部分と酷似していますが、Dクラス職員の居住空間や事務室を含む多くの棟は崩落により侵入不可となっています。\nSCP-1019の反ミーム性、時間、および認識災害に関する調査ではどれも異常性は認められませんでした。SCP-1019-Aの生成または発現に関するその他の仮説は、テンジクネズミ科研究チームに提出してください。\nサイトの調査により、以下のものが確認されました:\n\nサイト-179に以前または現在収容されている既知の異常アノマリーの所在と収容状況を、それぞれ精度の異なる内容で記載した財団文書\nカフェテリアにいる前サイト-179所長の娘の写真\n現在サイト-179に在籍するすべてのDクラス職員を記載したファイル\nオフィスの壁を覆う人間の筋肉細胞と脂肪細胞\nスキャンの結果、サイト-179のXKクラスバンカーと同じ深さに達すると予測されたバンカー部品\nサイト-179の前所長が所有していたキーカード\n\nSCP-1019-Aは、複数の人間の体が融合した物体です。SCP-1019-Aに対して行われたDNA検査は、いずれも決定的な結果を報告していません。SCP-1019-Aはおおよそ球形の形状を有しており、最小限の動きのみをします。会話は可能ですが、それ以上の知性を示す兆候は見られません。SCP-1019-Aの発話はすべて意味を持たないものとみなされ、無視されます。",
-      "summary_basis_type": "description",
-      "tags": [
-        "en",
-        "euclid",
-        "mister",
-        "scp",
-        "ワンダーテインメント博士",
-        "人間型",
-        "地下",
-        "球体",
-        "生命",
-        "知性",
-        "財団製",
-        "crom:series-2"
-      ],
-      "rating": 5,
-      "vote_count": 5,
-      "revision_count": 5,
-      "comment_count": 1,
-      "content_hash": "sha256:f27669e305828cc8eb4dbc08d0e477aafb876408a8ada66b1e1dd6f0ef9d0f6d",
-      "has_text_content": true,
-      "text_content_length": 4973,
-      "first_seen_at_jst": "2026-10-03T09:27:12.203516+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469425122"
     }
   ]
 }
