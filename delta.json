@@ -1,14 +1,304 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-10-10T00:46:59.862893+00:00",
-  "generated_at_jst": "2026-10-10T09:46:59.862893+09:00",
+  "generated_at_utc": "2026-10-11T00:13:23.690170+00:00",
+  "generated_at_jst": "2026-10-11T09:13:23.690170+09:00",
   "retention_hours": 168,
   "new_this_run_ids": [
-    "1469478993",
-    "1469480676",
-    "1469481426"
+    "1469482838",
+    "1469482842",
+    "1469482957",
+    "1469483436",
+    "1469483440"
   ],
   "articles": [
+    {
+      "wikidot_id": "1469483440",
+      "page_name": "child-venison-subject-gaea",
+      "url": "https://scp-jp.wikidot.com/child-venison-subject-gaea",
+      "edition": "translation",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "credit_translation_responsible",
+        "credit_translation_year",
+        "credit_original_title",
+        "credit_original_url"
+      ],
+      "source_branch": "EN",
+      "source_branch_basis": "original_url",
+      "genre": "Tale",
+      "article_title": "子供、鹿肉、研究対象、ガイア",
+      "subtitle": null,
+      "authors": [],
+      "original_title": "Child, Venison, Subject, Gaea",
+      "original_url": "https://scp-wiki.wikidot.com/child-venison-subject-gaea",
+      "original_authors": [
+        "Fenmoth"
+      ],
+      "original_year": "2024",
+      "translation_year": "2026",
+      "translation_responsible": [
+        "Dr Pochi"
+      ],
+      "translators": [
+        "Dr Pochi"
+      ],
+      "created_at_utc": "2026-10-10T07:06:40.000Z",
+      "created_at_jst": "2026-10-10T16:06:40+09:00",
+      "created_by": "Dr Pochi",
+      "content_warnings": [],
+      "summary_basis": "修道女たちは、私を子供として扱う。\n愛らしい存在として。\n年若い存在として。\n守るべきものとして。\n彼女たちは、私を自分たちだけのものにしておきたい。\n男たちは、私を鹿肉として扱う。\n“愛らしい”\n“若々しい”\n喰らうべきものとして。\n彼らは、私を自分たちだけのものにしておきたい。\n学者たちは、私を研究対象として扱う。\n-愛らしい。\n-若い。\n計測すべきものとして。\n彼らは、私を自分たちだけのものにしておきたい。\n彼は、私を\"████\"として扱う。\n愛らしい。\n若い。\n忘れるべきものとして。\n彼は、私を自分のものにしておきたかった。",
+      "summary_basis_type": "opening",
+      "tags": [
+        "en",
+        "tale",
+        "年頃のガイア",
+        "詩的文学"
+      ],
+      "rating": -3,
+      "vote_count": 5,
+      "revision_count": 2,
+      "comment_count": 0,
+      "content_hash": "sha256:4b2ba117a23f4ec58dc1b6cb089e9fd928e67611bf2db81f63c6c9b6df70b8a3",
+      "has_text_content": true,
+      "text_content_length": 479,
+      "first_seen_at_jst": "2026-10-11T09:13:23.690170+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469483440"
+    },
+    {
+      "wikidot_id": "1469483436",
+      "page_name": "it-s-pouring",
+      "url": "https://scp-jp.wikidot.com/it-s-pouring",
+      "edition": "translation",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "credit_translation_responsible",
+        "credit_translation_year",
+        "credit_original_title",
+        "credit_original_url"
+      ],
+      "source_branch": "EN",
+      "source_branch_basis": "original_url",
+      "genre": "Tale",
+      "article_title": "土砂降り",
+      "subtitle": null,
+      "authors": [],
+      "original_title": "It's pouring",
+      "original_url": "https://scp-wiki.wikidot.com/it-s-pouring",
+      "original_authors": [
+        "不明"
+      ],
+      "original_year": "2024",
+      "translation_year": "2026",
+      "translation_responsible": [
+        "Dr Pochi"
+      ],
+      "translators": [
+        "Dr Pochi"
+      ],
+      "created_at_utc": "2026-10-10T06:53:49.000Z",
+      "created_at_jst": "2026-10-10T15:53:49+09:00",
+      "created_by": "Dr Pochi",
+      "content_warnings": [],
+      "summary_basis": "The rain.\nThe rain?\nNo, the pain.\nThe despair.\nEverything.\nWashed away.\nIn an instant, all of our lives.\nThe time spent together.\nHow cool.1\nHow cruel?\nNo, a fool.\nI was, for trusting everything would work out.\nI'm sorry.\nI'll never forgive myself for letting this happen.\nIn a feeble attempt to keep you in my arms.\nYou slipped through, joining the tear stained asphalt.\n雨。\n雨？\nいや、痛みだ。\n絶望。\nすべてが。\n洗い流されていった。\n一瞬のうちに、僕たちの生活のすべてが。\n共に過ごした時間も。\nなんて素敵なんだろう。2\nなんて残酷なんだろう。\nいや、愚かだったんだ。\nすべてがきっと上手くいくと信じていた僕が。\nごめんなさい。\nこんなことを起こしてしまった僕を、僕は決して許さない。\n君を僕の腕の中に留めておこうとした、あまりにも力ない試みの中で。\n君は僕の腕の中をすり抜け、涙に濡れたアスファルトへと溶けていった。\n\n脚注\n1. A temperature as cold as you, as unforgiving as this cruel town is.\n2. 君と同じくらい冷たい気温、この残酷な町と同じくらい容赦のない気温だ。",
+      "summary_basis_type": "opening",
+      "tags": [
+        "en",
+        "tale",
+        "詩的文学"
+      ],
+      "rating": -7,
+      "vote_count": 7,
+      "revision_count": 3,
+      "comment_count": 1,
+      "content_hash": "sha256:477441c3f48621e0a90a4a0b1bdf5e713e1371d6bd96f6d692284b26961c68f1",
+      "has_text_content": true,
+      "text_content_length": 880,
+      "first_seen_at_jst": "2026-10-11T09:13:23.690170+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469483436"
+    },
+    {
+      "wikidot_id": "1469482957",
+      "page_name": "scp-4860-jp",
+      "url": "https://scp-jp.wikidot.com/scp-4860-jp",
+      "edition": "jp_original",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "jp_tag"
+      ],
+      "source_branch": "JP",
+      "source_branch_basis": "jp_tag",
+      "genre": "SCP報告書",
+      "article_title": "SCP-4860-JP",
+      "subtitle": "契約の対価、あるいは如何にして金望舎シャロンが財団お嬢様となったか",
+      "authors": [
+        "Kasugai_Kanagu"
+      ],
+      "original_title": null,
+      "original_url": null,
+      "original_authors": [],
+      "original_year": null,
+      "translation_year": null,
+      "translation_responsible": [],
+      "translators": [],
+      "created_at_utc": "2026-10-10T03:22:41.000Z",
+      "created_at_jst": "2026-10-10T12:22:41+09:00",
+      "created_by": "Kasugai_Kanagu",
+      "content_warnings": [
+        "コンテンツ警告: 性別違和 (Gender dysphoria) / 離人症 (Depersonalization) / 自殺企図 (Attempted suicide)",
+        "コンテンツ警告 ↑"
+      ],
+      "summary_basis": "説明: SCP-4860-JPはサイト-81KK 戦術会計セクションに所属する職員、金望舎シャロンを取り巻く一連の異常な状況に対する総合的指定です。現時点では、その構成要素は下記の4点に分割されています:\nSCP-4860-JP-PHONEはかつて契約媒介具として機能していた固定電話です。電話自体は主に真鍮とウォールナット材から構成されており、製造年、製造地、ならびに製造者に関する記載等は見当たりません。本体前面に回転式のダイヤルを備えていますが、ダイヤル自体は固定されており、動かすことができません。電源および銅線は存在しておらず、それらを接続する箇所も見当たりません。\nSCP-4860-JP-PHONEは2015年、サイト-81ET所属のエージェントにより、Nx-74: 神音町がみねちょうの蚤の市で発見・回収されました。物品の起源を尋ねられた売人は前の所有者から聞いたという“ある資産家の栄華と没落、焼け落ちた屋敷と今も見つからない令嬢”について迂遠かつ漠然と証言しましたが、それ以上の詳細は把握していないと回答しました。この逸話の真偽を含め、PHONEの背景情報に関しては現在も調査中です。\nかつて、SCP-4860-JP-PHONEは受話器を取り上げ、固有フレーズ4860-JP12を読み上げることで以て、活性化状態に移行しました。活性化時、如何なる配線も接続されていない状態にも拘らず、受話器からは年老いた男性のような声 (以下、SCP-4860-JP-ENTITY) で応答が見られました。\nSCP-4860-JP-ENTITYはクラスⅤ 契約縛鎖存在 (Covenant-based Entity, CBE) と見られ……\n\nチ リ ン\n\n甲高い音の直後、扉が開き、貴方は思わずネクタイから手を離す。見上げた先には老紳士 (元凶、悪魔、貴方をこの袋小路へ誘った者) が立ち、にやついた笑みを浮かべていた。\n「お嬢様、朗報ですぞ」\n執事が手渡してきた青い封筒には、財団徽章の中に立つ、見慣れた人型のシルエットが描かれている (まるで収容されているようだこれも“未然収容”ということか？)。貴方は他の連中ともども収容されるのか？ それとも先に解雇命令か？ あるいは──\n貴方は普段の (最近はしていなかった。だから、これは本来の貴方がしていたことだ) 癖で、封筒を軽く叩いて中の書類を寄せたのち、端から切り開いた。取り出した書類を、貴方は恐る恐る広げる。\n\n近畿人事統括局 職員通達\n金望舎シャロン殿。\n先日のインシデント以降採られていたEクラス指定を解除し、再度、戦術会計セクション職員としての復帰を命ずる。暫定的措置として貴殿のセキュリティクリアランスはレベル3 (極秘) に降格されたが、今後の勤務状況および異常性状況の推移次第では再度の振り分けも検討され得る。\n近畿人事統括局は、過去の貴殿の功績を評価すると共に、貴殿のこれからの活躍を期待する。西源寺副主任の指示の下、明日より職務を再開せよ。\n\n辰砂たつすな ちとせ - サイト-81KK 人事・教育セクション主任\n\n「良かったですな。念願の職務復帰ですぞ」\n貴方は深い溜息をついた。結局のところ、座り込んだままだった貴方を執事が助け起こしてベッドに連れて行った。執事がドアノブから取り去ったネクタイを解くところを薄ぼんやりと眺めながら、いつの間にか貴方は再び眠っていた。\n\nやあ、隣いいかね？\n\n黒河君。\n\n黒河くろかわ 忠治ただはるは、自分の左隣に座り込んできた医師を見つめた。\n「久々だね」\nトレードマークの丸縁眼鏡を拭きながら、御国みくに先生 (そう、いつも健康診断でお世話になっている) は笑いかけた。\n「はい。お久しぶりです、先生」\n「随分大きくなったものだね」\n御国はかつての様に小さく微笑むと、鞄を漁って小さな包みを取り出した。赤い包装紙の隅に、いちご味と書かれているのが目に入る。彼はいたずらっぽくウインクし、左手を唇に添えながら、右手でこっそりとチョコレートを手渡した。\n「……もう高校生ですよ」\n「それは失敬。だが今でも好きだろう？」\n「嫌いではないです」\n包装を向いて口に放り込む様子を脇に見ながら、御国は質問する (父親のよう、と言うのが正しい形容なのかもしれない。けれども、黒河にとって、その単…",
+      "summary_basis_type": "description",
+      "tags": [
+        "esoteric-class",
+        "jp",
+        "scp",
+        "サイト-81kk",
+        "交換",
+        "人間型",
+        "変容",
+        "家電",
+        "幻覚",
+        "強制力",
+        "概念",
+        "現実改変",
+        "瞬間移動",
+        "知性",
+        "精神影響",
+        "精神感応",
+        "記憶影響"
+      ],
+      "rating": 28,
+      "vote_count": 30,
+      "revision_count": 7,
+      "comment_count": 1,
+      "content_hash": "sha256:0f6689ae5260988021c58f69fb3459786638184dd84ee1b02a8d8caa2eacca2a",
+      "has_text_content": true,
+      "text_content_length": 10514,
+      "first_seen_at_jst": "2026-10-11T09:13:23.690170+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469482957"
+    },
+    {
+      "wikidot_id": "1469482842",
+      "page_name": "midnight",
+      "url": "https://scp-jp.wikidot.com/midnight",
+      "edition": "translation",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "credit_translation_responsible",
+        "credit_translation_year",
+        "credit_original_title",
+        "credit_original_url"
+      ],
+      "source_branch": "EN",
+      "source_branch_basis": "original_url",
+      "genre": "Tale",
+      "article_title": "夜半の、愛しき君よ。",
+      "subtitle": null,
+      "authors": [],
+      "original_title": "Midnight, My Dear",
+      "original_url": "https://scp-wiki.wikidot.com/midnight",
+      "original_authors": [
+        "SynthPanda_"
+      ],
+      "original_year": "2026",
+      "translation_year": "2026",
+      "translation_responsible": [
+        "AyuMashi"
+      ],
+      "translators": [
+        "AyuMashi"
+      ],
+      "created_at_utc": "2026-10-10T01:50:24.000Z",
+      "created_at_jst": "2026-10-10T10:50:24+09:00",
+      "created_by": "AyuMashi",
+      "content_warnings": [],
+      "summary_basis": "朝が来る頃には、\n残されるのは彼女の亡骸だけだ。\nそしてその肉が蟲や禿鷹に啄まれ、\nその骨がコヨーテに暴かれれば、\nやがてそれさえも、消え失せる。\nまるで、彼女など最初から存在しなかったかのように。\n彼女の墓に墓標はなかった。\n名も与えられず、獣のように泣き叫びながら葬られ、\nそこに刻まれたのは、ただ一つの蔑称――魔女！\n彼女は大地の中に封じ込められた。\n獣として。壊れたチェスの駒として。\nこの世界の神聖さを脅かす、忌むべきものとして。\n地上へ這い出し、\n爪を立て、絶叫を上げる者は、\n彼女が最初ではない。\n血に染まった爪先が\n石と土を突き破るまで、\nただひたすらに掻き毟り、\n腐り果てた身体を引きずり、痙攣しながら、\n再び生者の空気の中へ這い出てくる。\n私は、応えぬ神に祈る。\nどうか、彼女が最後であってくれと。\n最後に葬られる者であり、\n最後に這い出す者であってくれと。\n私は、魔女たちの墓場から\n丘を一つ下ったところに住まう。\n死してなお長きにわたり残る者たちの、\n絶望に満ちた慟哭を\n聞き届けるために。\nそして、彼女たちの傍に寄り添い、慰め、\n今度こそ、安らかに眠らせるために。\n死者たちはよく尋ねる。\nもう終わったの？\nつまり、もう埋めるのをやめたの？\n叫び続ける私たちの身体を。\nただ、許されざる姿で生まれてきたという、\nその大いなる罪ゆえに。\n私は彼女たちに伝える。\nもう安全なのだと。\n今では、私たちのような者も自由に生きている。\nだからもう、思い出す必要はないのだと。\n青い帽子の男と、\n彼が放つ一発の弾丸。\n唸りを上げ、\n空を切り裂き、\n後頭部を穿ち、\n彼女たちの血を解き放つ、\nあの残酷な感触を。\n\nそして、彼女たちが最期を迎える瞬間、\n私は嘘をつく。\n\n真夜中の月に照らされるとき、\n私の故郷の景色は美しい。\nだが、その美しさはもう私の目には映らない。\nそしてとうに、\nこの世界を私たちの故郷と呼ぶ気力さえ、\n私は失ってしまったのだ。",
+      "summary_basis_type": "opening",
+      "tags": [
+        "en",
+        "goicon-2026",
+        "tale",
+        "ダーク",
+        "世界オカルト連合",
+        "詩的文学"
+      ],
+      "rating": 5,
+      "vote_count": 5,
+      "revision_count": 3,
+      "comment_count": 1,
+      "content_hash": "sha256:788d1acabf2d8ca0a15f80408cc4f8131688a8727da62091d898c6fc7290b5c0",
+      "has_text_content": true,
+      "text_content_length": 1034,
+      "first_seen_at_jst": "2026-10-11T09:13:23.690170+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469482842"
+    },
+    {
+      "wikidot_id": "1469482838",
+      "page_name": "scp-2423",
+      "url": "https://scp-jp.wikidot.com/scp-2423",
+      "edition": "translation",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "credit_translation_responsible",
+        "credit_translation_year",
+        "credit_original_title",
+        "credit_original_url"
+      ],
+      "source_branch": "EN",
+      "source_branch_basis": "original_url",
+      "genre": "SCP報告書",
+      "article_title": "SCP-2423",
+      "subtitle": "サイト-██",
+      "authors": [],
+      "original_title": "SCP-2423 - Site-██",
+      "original_url": "https://scp-wiki.wikidot.com/scp-2423",
+      "original_authors": [
+        "HammerH"
+      ],
+      "original_year": "2015",
+      "translation_year": "2026",
+      "translation_responsible": [
+        "AyuMashi"
+      ],
+      "translators": [
+        "AyuMashi"
+      ],
+      "created_at_utc": "2026-10-10T01:37:59.000Z",
+      "created_at_jst": "2026-10-10T10:37:59+09:00",
+      "created_by": "AyuMashi",
+      "content_warnings": [],
+      "summary_basis": "説明: SCP-2423は、財団支部を模倣した施設です。内部には施設本体のほか、敷地や職員が存在しており、これらの職員はSCP-2423-1に指定されています。施設名を尋ねられたSCP-2423-1は、自らの勤務先を「サイト-██」と称します。しかし、そのような施設が建設された記録も、当該支部が設立された記録も存在しません。また、徹底的な調査にもかかわらず、SCP-2423-1個体の出生記録は一件も発見されていません。SCP-2423が初めて確認されたのは20██/██/██です。この日、複数のSCP-2423-1個体から財団職員宛てに電子メールが送信され、同時に█████地域における電力および水道の使用量が増加していることが確認されました。\nSCP-2423-1と接触した職員は例外なく、明確な理由を説明できない強い苛立ちや不快感を覚えたと報告しています。SCP-2423-1との接触中に実施した脳活動検査では、頭頂葉の活動が活発化していることが確認されており、この不快感は無意識下で知覚される何らかの要因によって引き起こされている可能性が示唆されています。しかし、SCP-2423-1に対する広範な検査の結果、生理学的にも遺伝学的にも通常の人間と完全に一致しており、この不快感以外に異常な性質は確認されていません。\nSCP-2423-1個体は全員、自らを本物の財団職員であると完全に信じ込んでいることが明らかになっています。また、その認識を裏付ける偽の記憶も有しています。さらに、多くの個体は財団内部の運用に関する詳細な知識を備えており、ある研究員に相当する個体は、█████地域に収容されている複数のオブジェクトについて、その所在と収容手順を正確に列挙することができました。この事実を受け、当該オブジェクトの収容手順は改訂されています。\nSCP-2423-1には、以下の人員が含まれます。\n\nサイト管理官 1名\n機動部隊員 36名\n研究部門職員 64名\n警備部門職員 49名\n保守・清掃部門職員 25名\n\n特筆すべき点として、各部門の所属人数はいずれも整数の平方数となっています。この事実の意味は現在のところ判明していません。\nSCP-2423は出現当初、█████地域のインフラへ完全に組み込まれた状態にありましたが、現在は外部との接続を切り離され、ガソリン発電機および独立した給水設備によって維持されています。また、施設の周囲にはコンクリートおよび鋼鉄製の外壁が建設されています。機動部隊に相当する部門からは、すべての武器が没収されました。SCP-2423-1個体は、拘束や武装解除のために実施されたあらゆる措置に対して抵抗を示していません。\nSCP-2423内部には、出現時から複数の特異な物品が存在していました。それらは後に回収され、それぞれ独立したオブジェクトとして分類されています。ただし、1点については異常性のため移動が不可能であり、SCP-2423-2に指定されました。\nSCP-2423-1個体は、SCP-2423-2について話すことを明確に避ける傾向を示しています。質問を重ねると、個体は完全に沈黙してしまいます。このことから、SCP-2423-2はSCP-2423にとって何らかの重要な意味を持つと考えられています。\nSCP-2423-2は、縦77cm、横99cmの大型の書籍です。地上2mの位置に浮遊しており、全106ページから構成されています。各ページには、それぞれ異なるアンティークラジオを描いた木炭画が1点ずつ収められています。SCP-2423-2の背表紙は剛体化しており、地球の重心に対して空間的に固定されていると考えられています。書籍の下方を掘削しても空間上の位置は変化せず、現在までのところ、いかなる力を用いても損傷を与えたり位置を移動させたりすることには成功していません。現在も調査が継続されていますが、SCP-2423-2そのものや、その重要性についての新たな知見は得られていません。\n\n以下は、SCP-2423-1個体へのインタビュー記録です。\n\nインタビュー記録4-F\n\nアクセス許可\n\n対象: SCP-2423-1個体（自身をジェームズ・フェロスという警備員であると認識）\nインタビュアー: ██████████博士",
+      "summary_basis_type": "description",
+      "tags": [
+        "en",
+        "euclid",
+        "scp",
+        "人間型",
+        "建造物",
+        "擬態",
+        "crom:series-3"
+      ],
+      "rating": 1,
+      "vote_count": 1,
+      "revision_count": 2,
+      "comment_count": 0,
+      "content_hash": "sha256:6c7e4b0f4bcf6e793f166e1e1ddd59d0302e6ef5341bfeef71c83e9557a1d1e8",
+      "has_text_content": true,
+      "text_content_length": 7144,
+      "first_seen_at_jst": "2026-10-11T09:13:23.690170+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469482838"
+    },
     {
       "wikidot_id": "1469481426",
       "page_name": "scp-593-ko",
@@ -53,8 +343,8 @@
         "scp",
         "武器"
       ],
-      "rating": 11,
-      "vote_count": 13,
+      "rating": 13,
+      "vote_count": 15,
       "revision_count": 2,
       "comment_count": 1,
       "content_hash": "sha256:7d909b645dae29e70122415a1eb0aafbc5e70ab453cc23e4addd9bc041f3f17a",
@@ -62,7 +352,7 @@
       "text_content_length": 2877,
       "first_seen_at_jst": "2026-10-10T09:46:59.862893+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469481426"
     },
     {
@@ -101,8 +391,8 @@
         "tale",
         "ジョーク"
       ],
-      "rating": 33,
-      "vote_count": 55,
+      "rating": 59,
+      "vote_count": 101,
       "revision_count": 1,
       "comment_count": 0,
       "content_hash": "sha256:e431e26727060212b4baa6e8890e8db37a46fd95361f4f4fdb14fc7b3a28b4a0",
@@ -110,7 +400,7 @@
       "text_content_length": 197,
       "first_seen_at_jst": "2026-10-10T09:46:59.862893+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469480676"
     },
     {
@@ -151,8 +441,8 @@
         "日本生類創研",
         "鳥類"
       ],
-      "rating": -8,
-      "vote_count": 14,
+      "rating": -7,
+      "vote_count": 15,
       "revision_count": 2,
       "comment_count": 2,
       "content_hash": "sha256:8f891ef0240ac59e551928eafd4e5d255ef581ec50fa96c2119f564fe1648966",
@@ -160,7 +450,7 @@
       "text_content_length": 3419,
       "first_seen_at_jst": "2026-10-10T09:46:59.862893+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469478993"
     },
     {
@@ -208,8 +498,8 @@
         "ジョーク",
         "報告書形式"
       ],
-      "rating": -8,
-      "vote_count": 30,
+      "rating": -10,
+      "vote_count": 34,
       "revision_count": 6,
       "comment_count": 5,
       "content_hash": "sha256:325217c9715a3dacb84361572058b2860edc6772990b9910caf826d3aa60053f",
@@ -257,8 +547,8 @@
         "何者でもない",
         "_何者でもない"
       ],
-      "rating": 23,
-      "vote_count": 31,
+      "rating": 25,
+      "vote_count": 33,
       "revision_count": 2,
       "comment_count": 0,
       "content_hash": "sha256:4a780acef460bc829fd4be5dcd68ce16ebb7a54fe2704d60d1309533e5800f59",
@@ -319,8 +609,8 @@
         "通信",
         "crom:series-3"
       ],
-      "rating": 3,
-      "vote_count": 3,
+      "rating": 5,
+      "vote_count": 5,
       "revision_count": 2,
       "comment_count": 0,
       "content_hash": "sha256:82aab32cd8d4bf0d70f7fd20756999741b71153fa03428065fbe2ec585e3eeea",
@@ -430,8 +720,8 @@
         "骨格",
         "crom:series-3"
       ],
-      "rating": 4,
-      "vote_count": 6,
+      "rating": 5,
+      "vote_count": 7,
       "revision_count": 3,
       "comment_count": 0,
       "content_hash": "sha256:67932861f2b9920330790467e30cd071487eaf7b7085a557b9bf8a579d78984b",
@@ -478,8 +768,8 @@
         "scp",
         "削除通知"
       ],
-      "rating": -5,
-      "vote_count": 17,
+      "rating": -4,
+      "vote_count": 18,
       "revision_count": 2,
       "comment_count": 2,
       "content_hash": "sha256:1395c5aa29be503349178d3eb078cd0d80e743247fdf341d0b2bfe02308231d4",
@@ -539,8 +829,8 @@
         "語り",
         "crom:series-4"
       ],
-      "rating": 4,
-      "vote_count": 6,
+      "rating": 5,
+      "vote_count": 7,
       "revision_count": 2,
       "comment_count": 1,
       "content_hash": "sha256:72f921a8e841df229e4d9f094fb4e57e95cdfcfe22d91e7f010e16397886a461",
@@ -579,7 +869,7 @@
       "created_at_jst": "2026-10-06T20:01:07+09:00",
       "created_by": "Bethlehem-star",
       "content_warnings": [],
-      "summary_basis": "説明: SCP-3364-JPは、直径約0.7メートルから1.0メートルの巨大なオカダンゴムシ(Armadillidium vulgare)の形態的特徴に酷似する異常実体です。これまでに「深夜の公園」「高校の非常用階段下」「ビルの裏路地」といった、人目につかない薄暗い空間で██個体が回収されています。外観は灰褐色の外骨格で覆われており、オカダンゴムシが防御のために見せる球体に丸まった休止姿勢をとり続けています。\nSCP-3364-JPは、自発的な移動、呼吸、代謝、および外部からの物理的・化学的刺激に対する反応を一切示しません。一見して硬直した節足動物の死骸、あるいは非生物的な塊のように見えますが、サーモグラフィー検査により微弱な熱反応が確認されており、非活性状態の生物実体と推測されています。このように生命活動が確認されないにもかかわらず、生存状態を維持し続けるメカニズムは現在研究が進められています。\nまた、SCP-3364-JPにおける外骨格の重積部には、スーツやシャツといったの布地やプラスチック製のボタンなどの人工物が組織と完全に同化しています。これらは外来物の付着ではなく、個体全体の構造的変容に起因する内在的要素であると推測されています。",
+      "summary_basis": "説明: SCP-3364-JPは、直径約0.7メートルから1.0メートルの巨大なオカダンゴムシ(Armadillidium vulgare)の形態的特徴に酷似する異常実体です。これまでに「深夜の公園」「高校の非常用階段下」「ビルの裏路地」といった、人目につかない薄暗い空間で██個体が回収されています。外観は灰褐色の外骨格で覆われており、オカダンゴムシが防御のために見せる球体に丸まった休止姿勢をとり続けています。\nSCP-3364-JPは、自発的な移動、呼吸、代謝、および外部からの物理的・化学的刺激に対する反応を一切示しません。一見して硬直した節足動物の死骸、あるいは非生物的な塊のように見えますが、サーモグラフィー検査により微弱な熱反応が確認されており、非活性状態の生物実体と推測されています。このように生命活動が確認されないにもかかわらず、生存状態を維持し続けるメカニズムは現在研究が進められています。\nまた、SCP-3364-JPにおける外骨格の重積部には、スーツやシャツといった布地やプラスチック製のボタンなどの人工物が組織と完全に同化しています。これらは外来物の付着ではなく、個体全体の構造的変容に起因する内在的要素であると推測されています。",
       "summary_basis_type": "description",
       "tags": [
         "jp",
@@ -587,13 +877,13 @@
         "scp",
         "節足動物"
       ],
-      "rating": 41,
-      "vote_count": 55,
-      "revision_count": 6,
-      "comment_count": 7,
-      "content_hash": "sha256:8a7e59a49c73e2af1ed6a612c12c0460d71a984574363cd1d030911aee9c97e8",
+      "rating": 45,
+      "vote_count": 63,
+      "revision_count": 7,
+      "comment_count": 9,
+      "content_hash": "sha256:e35b3c1097f419584b6f1de41229926f4fde42a9678f7367bb92603d6292dc3e",
       "has_text_content": true,
-      "text_content_length": 1860,
+      "text_content_length": 1859,
       "first_seen_at_jst": "2026-10-07T09:39:40.242437+09:00",
       "baseline": false,
       "is_new_this_run": false,
@@ -857,8 +1147,8 @@
         "jp",
         "アートワーク"
       ],
-      "rating": 42,
-      "vote_count": 48,
+      "rating": 44,
+      "vote_count": 50,
       "revision_count": 6,
       "comment_count": 6,
       "content_hash": "sha256:0b659b3060e58d9974aceecc0fb5068f736b4330a1bfc472fccd6efa0be6c582",
@@ -1173,8 +1463,8 @@
         "jp",
         "ニュース"
       ],
-      "rating": 52,
-      "vote_count": 52,
+      "rating": 53,
+      "vote_count": 53,
       "revision_count": 2,
       "comment_count": 1,
       "content_hash": "sha256:2816b95542d61fce5de53661cf7ef85d421314cc0aef3ef7669723e0168388ae",
@@ -1445,8 +1735,8 @@
         "生殖",
         "生物学"
       ],
-      "rating": 16,
-      "vote_count": 20,
+      "rating": 17,
+      "vote_count": 21,
       "revision_count": 2,
       "comment_count": 1,
       "content_hash": "sha256:ea1ec595e6b5370812ac2cf570cda18de5f0d057b4bddbdbd207048a3fa43ae4",
@@ -1558,221 +1848,6 @@
       "baseline": false,
       "is_new_this_run": false,
       "notification_id": "1469441243"
-    },
-    {
-      "wikidot_id": "1469440037",
-      "page_name": "scp-j-j",
-      "url": "https://scp-jp.wikidot.com/scp-j-j",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translation_responsible",
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "EN",
-      "source_branch_basis": "original_url",
-      "genre": "SCP報告書",
-      "article_title": "SCP-J-J",
-      "subtitle": "お願いだから押して！",
-      "authors": [],
-      "original_title": "SCP-J-J – Please click me!",
-      "original_url": "https://scp-wiki.wikidot.com/scp-j-j",
-      "original_authors": [
-        "Very_Creative_Name"
-      ],
-      "original_year": "2026",
-      "translation_year": "2026",
-      "translation_responsible": [
-        "Kevin Nguyen_JP"
-      ],
-      "translators": [
-        "Kevin Nguyen_JP"
-      ],
-      "created_at_utc": "2026-10-03T13:57:38.000Z",
-      "created_at_jst": "2026-10-03T22:57:38+09:00",
-      "created_by": "Kevin Nguyen_JP",
-      "content_warnings": [],
-      "summary_basis": "説明:\nSCP-J-Jは筆記用具です。かつては炎の剣でした。\n炎の剣については申し訳ありません。O5評議会は██████と戦うために炎の剣を欲しがると思ったんです。でも批評フォーラムに「コールドポスト」だと言われて、評価が-14になりました。",
-      "summary_basis_type": "description",
-      "tags": [
-        "en",
-        "safe",
-        "scp",
-        "コメディ",
-        "ジョーク",
-        "メタフィクション",
-        "人工"
-      ],
-      "rating": 30,
-      "vote_count": 52,
-      "revision_count": 1,
-      "comment_count": 6,
-      "content_hash": "sha256:e29b15cd7d148064163fc59b996a27c4a4c2a32757e3bbc9ab7132b2398dd798",
-      "has_text_content": true,
-      "text_content_length": 1316,
-      "first_seen_at_jst": "2026-10-04T08:45:34.928020+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469440037"
-    },
-    {
-      "wikidot_id": "1469439775",
-      "page_name": "scp-1293-ko",
-      "url": "https://scp-jp.wikidot.com/scp-1293-ko",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translation_responsible",
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "KO",
-      "source_branch_basis": "original_url",
-      "genre": "SCP報告書",
-      "article_title": "SCP-1293-KO",
-      "subtitle": null,
-      "authors": [],
-      "original_title": "SCP-1293-KO - {{너머로.}}",
-      "original_url": "https://scpko.wikidot.com/scp-1293-ko",
-      "original_authors": [
-        "romrom"
-      ],
-      "original_year": "2023",
-      "translation_year": "2026",
-      "translation_responsible": [
-        "walksoldi"
-      ],
-      "translators": [
-        "walksoldi"
-      ],
-      "created_at_utc": "2026-10-03T12:07:24.000Z",
-      "created_at_jst": "2026-10-03T21:07:24+09:00",
-      "created_by": "walksoldi",
-      "content_warnings": [],
-      "summary_basis": "説明: SCP-1293-KOは物語的構造を持つあらゆるメディア\n\n印刷エラーであるとする偽情報を流布してください。\n\n注意を払い、SCP-1293-KOの発生を注視する必要があります。また、SCP-1293-KOが発生したメディアについては\n\n空想科学部門による収容の試みが続けられています。財団の全職員は文書の編集に\n\n防止するため、\n\nアイテム番号: SCP-1293-KO オブジェクトクラス: Keter 特別収容プロトコル: SCP-1293-KOの発生を\n\n脚注\n1. 報告書や説明書などの非常に限定的な構造も含まれます。",
-      "summary_basis_type": "description",
-      "tags": [
-        "keter",
-        "ko",
-        "scp",
-        "メタ",
-        "注目記事",
-        "記憶媒体"
-      ],
-      "rating": 14,
-      "vote_count": 14,
-      "revision_count": 2,
-      "comment_count": 1,
-      "content_hash": "sha256:9ba4cffb7d39750cbd5b76e7bb39afe8acf5624ea33069f5c1c249abc0535b19",
-      "has_text_content": true,
-      "text_content_length": 1367,
-      "first_seen_at_jst": "2026-10-04T08:45:34.928020+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469439775"
-    },
-    {
-      "wikidot_id": "1469439761",
-      "page_name": "eve-aic-part-eighteen",
-      "url": "https://scp-jp.wikidot.com/eve-aic-part-eighteen",
-      "edition": "jp_original",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "jp_tag"
-      ],
-      "source_branch": "JP",
-      "source_branch_basis": "jp_tag",
-      "genre": "Tale",
-      "article_title": "#18 血を焚べよ",
-      "subtitle": null,
-      "authors": [
-        "ukarayakara"
-      ],
-      "original_title": null,
-      "original_url": null,
-      "original_authors": [],
-      "original_year": null,
-      "translation_year": null,
-      "translation_responsible": [],
-      "translators": [],
-      "created_at_utc": "2026-10-03T11:50:25.000Z",
-      "created_at_jst": "2026-10-03T20:50:25+09:00",
-      "created_by": "ukarayakara",
-      "content_warnings": [],
-      "summary_basis": "対策本部よりハヴァ・メアリスダム及びEve.aicへ。これは一方的な通達であり、返信を必要としない。\n監督評議会員O5-4、O5-7、O5-10の連名により、サイト-82の機能失陥を認め、周辺の地域ブロックによる人事再編の開始を命ずる。同時に、SCP-Eveの機密指定を格下げし、実践的に悪魔実体に対応可能な全職員にその存在を開示する。同異常指定存在のナンバリング呼称は変更を要しない。\nハヴァ・メアリスダム指揮下、41名の最終事態対応人員のうち死亡者13名、重軽傷者14名が排出済みである。死因と負傷はいずれも臓器を含む肉体の欠損、及び現実侵食による変質に由来する。\n状況は第Ⅶ種(財団施設を完全に失陥する収容違反と異常形質の拡散)へと移行した。SCP-Eve指定は現在よりサイト-82全域へと移行し、生存人員である君達は暫定的にナンバリングされる。根拠はサイト全体からの超高密度の妖魔共振エネルギーTartarean Resonance Energyの放出と、その外観的な変容および周辺環境への侵食である。現実性の計測については、それが可能な距離まで接近できていない。武力行使による一切の介入は旧サイト-82自身の防衛機構、及び急激に成長・発射される肉種によって妨げられた。\n旧サイト-82内部はもはや長期間人間の生存できる環境にはないと推察される。今後の調査班派遣は有人探査計画の可能性を除外して行う。内部に存在する悪魔実体は推定で50体を超える。そのほとんどは自立して領域外を出ようとはしていないが、TRE値だけでも危険は察するに余りある。\nこちらからの起爆コードは受け付けられず、推定される地下構造の規模からしても即時の異常性収容、無力化は現実的ではない。まず電子上の往来が自由であるAlexandraについては強制退避が完了している。SCP-Eveの明確な構成要素であることを疑われるハヴァ・メアリスダム、Eve.aicにはSCP-Eve内に残留を命ずる。期限は設定しない。\nよって、ここにハヴァ・メアリスダムの業務上の喪失を認めるものである。以後行われる捜索は、検体の生死を問わないものとする。\n\n「悪魔を見つけた」とアダムが言い終わって口を閉じないうちに、E.V.Eは一歩前に進み出た。やはりそういった意味では彼女は悪魔だったのだろう。彼女は明確に自分を蔑ろにされた時に牙を剥くことを躊躇わなかった。比喩ではなく、かといって字義通りでもない。Eve.aicが信じられないほど強引にハヴァの体を引き寄せたとわかったのは、ハヴァの視界が勢いよく歪み、遅れて腕に痛みが来たからだ。\nハヴァの髪が数本ほど舞ったかと思うと、天井から隆起した肉の塊と親指ほどもありそうな牙の群れがアダムの頭に真っ直ぐに食いついていった。\n「パパ、私は何なの？」\n鈴を転がすようだった悪魔の声は一瞬にして嗄れたようにすら聞こえた。彼女はひどく疲れた帰り道のように一歩進み出て手を振っただけで、それでも父親を襲ったのは紛れもなくE.V.Eの意思だ。暴力的な顕現と改変を行うのには、TREはあまりに適している力だった。悪魔が今までそうしなかったのには理由がある。\nそして、E.V.Eは同時に果てしなく力不足でもあった。アダム・メアリスダムがぞんざいに首を軽く振ったと思った時には、もう悍ましい肉塊と歯の組み合わさったものは跡形もなく消えていた。ハヴァ自身に知識がなければ、間違いなく痛みが見せた白昼夢だと思っただろう。アダムは微笑を消したまま、こちらも疲れたようにため息をついていた。\n「話をすると言ったろう？ まだ途中だ」\n「私が手段だって言った。それが言っていいことか分からないあなたじゃないでしょう」\n「ここでのすべては手段に過ぎないよ、E.V.E。君にとっての俺もそうなんじゃないのか？」\nアダムは口を閉じてすぐに……本当に瞬時に微笑を戻して、すぐさまEve.aicに向き直った。Eve.aicは瞳孔を見開くと、顎と喉の間あたりから鋭いノイズを数巡させた。チッ、チキきっ、と音を立てて頭と首を痙攣させてから、弾かれたようにアダムから距離をとり、改めて目を細めた。\n「いい子だ、Eve。俺の気が逸れたのを見逃さなかった。ここを循環し続けてるTREの逆制御か、成功してればなおよかったな。俺とこの子を同時に制圧でき…",
-      "summary_basis_type": "opening",
-      "tags": [
-        "eve-aic-tales",
-        "jp",
-        "tale"
-      ],
-      "rating": 13,
-      "vote_count": 13,
-      "revision_count": 4,
-      "comment_count": 1,
-      "content_hash": "sha256:614b3e13c18232a65e3742436ba46a1665352bf704643cd17e308e4d0f397e33",
-      "has_text_content": true,
-      "text_content_length": 12869,
-      "first_seen_at_jst": "2026-10-04T08:45:34.928020+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469439761"
-    },
-    {
-      "wikidot_id": "1469439382",
-      "page_name": "scp-4081-jp",
-      "url": "https://scp-jp.wikidot.com/scp-4081-jp",
-      "edition": "jp_original",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "jp_tag"
-      ],
-      "source_branch": "JP",
-      "source_branch_basis": "jp_tag",
-      "genre": "SCP報告書",
-      "article_title": "SCP-4081-JP",
-      "subtitle": "おっぱいいっぱい！では何個？",
-      "authors": [
-        "wavekey"
-      ],
-      "original_title": null,
-      "original_url": null,
-      "original_authors": [],
-      "original_year": null,
-      "translation_year": null,
-      "translation_responsible": [],
-      "translators": [],
-      "created_at_utc": "2026-10-03T10:45:03.000Z",
-      "created_at_jst": "2026-10-03T19:45:03+09:00",
-      "created_by": "wavekey",
-      "content_warnings": [],
-      "summary_basis": "説明: SCP-4081-JPは、ヒト女性の乳房に酷似する実体です。SCP-4081-JPは、ヒト女性の乳房を半径8Å(0.8nm)程度1に相似縮小した外見をとります。SCP-4081-JPを原寸大に換算した場合、Gカップ程度に相当します。財団は、SCP-4081-JPが混合しているエタノールを50L収容しています。\nSCP-4081-JPは、常に2つ1組の状態、すなわち(SCP-4081-JP)2として存在しています。単独で存在する、または3つ以上が組となって存在するSCP-4081-JPは確認されていません。\nSCP-4081-JPは、ポリアセン2などの太さ3Å(0.3nm)程度の棒状の分子と接触した際、当該分子と反応します。その際には、(SCP-4081-JP)2の間に棒状の分子が挟み込まれるような状態をとります。当該反応では、1組の(SCP-4081-JP)2に対して1本の分子が対応し、反応率はほぼ100%であることが判明しています。\nまた、SCP-4081-JPは、自身の個数に対する認識阻害性を有しています。この異常性により、SCP-4081-JPの個数は判明しておらず、漠然と多量に存在するということのみが認識されています。なお、SCP-4081-JPは「いっぱいのおっぱい」と記されたガラス容器に封入された状態で発見されており、「いっぱい」という表現と「漠然と多量に存在するということのみが認識可能」という異常性に関連が指摘されています。",
-      "summary_basis_type": "description",
-      "tags": [
-        "jp",
-        "safe",
-        "scp",
-        "ミニチュア",
-        "削除通知",
-        "反ミーム",
-        "微視的",
-        "性的",
-        "数学"
-      ],
-      "rating": -8,
-      "vote_count": 28,
-      "revision_count": 6,
-      "comment_count": 6,
-      "content_hash": "sha256:b8c02599012f62ef9037e09b6e956298f51c57cefda27c80dad01796f048dd20",
-      "has_text_content": true,
-      "text_content_length": 1656,
-      "first_seen_at_jst": "2026-10-04T08:45:34.928020+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469439382"
     }
   ]
 }
