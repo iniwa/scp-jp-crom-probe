@@ -1,9 +1,102 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-10-11T00:13:23.690170+00:00",
-  "generated_at_jst": "2026-10-11T09:13:23.690170+09:00",
+  "generated_at_utc": "2026-10-12T00:30:26.142661+00:00",
+  "generated_at_jst": "2026-10-12T09:30:26.142661+09:00",
   "window_days": 30,
   "articles": [
+    {
+      "wikidot_id": "1469491142",
+      "page_name": "shiira-towa-artwork",
+      "url": "https://scp-jp.wikidot.com/shiira-towa-artwork",
+      "edition": "jp_original",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "jp_tag"
+      ],
+      "source_branch": "JP",
+      "source_branch_basis": "jp_tag",
+      "genre": "アートワーク",
+      "article_title": "鱪博士 - ヴィジュアライズ",
+      "subtitle": null,
+      "authors": [
+        "CRC-601"
+      ],
+      "original_title": null,
+      "original_url": null,
+      "original_authors": [],
+      "original_year": null,
+      "translation_year": null,
+      "translation_responsible": [],
+      "translators": [],
+      "created_at_utc": "2026-10-11T19:15:21.000Z",
+      "created_at_jst": "2026-10-12T04:15:21+09:00",
+      "created_by": "CRC-601",
+      "content_warnings": [],
+      "summary_basis": "題: 鱪 討(しいら とわ)博士 - ヴィジュアライズ\n画: CRC-601\n年: 2026\n\nひとりで寝るの怖かったら〜、\n俺の部屋来ていいからな？\n\n参照元:\n財団デュエリスト座布田\n鱪博士の人事ファイル\n作: CRC-601\n年: 2026/2023",
+      "summary_basis_type": "description",
+      "tags": [
+        "jp",
+        "アートワーク"
+      ],
+      "rating": 7,
+      "vote_count": 7,
+      "revision_count": 1,
+      "comment_count": 1,
+      "content_hash": "sha256:454da819c2022bd8073f1bd145195a572cffc06757af8564dc55019dff73ec3b",
+      "has_text_content": true,
+      "text_content_length": 153,
+      "first_seen_at_jst": "2026-10-12T09:30:26.142661+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469491142"
+    },
+    {
+      "wikidot_id": "1469489610",
+      "page_name": "kurahone-origin",
+      "url": "https://scp-jp.wikidot.com/kurahone-origin",
+      "edition": "jp_original",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "jp_tag"
+      ],
+      "source_branch": "JP",
+      "source_branch_basis": "jp_tag",
+      "genre": "Tale",
+      "article_title": "薄墨に滲む",
+      "subtitle": null,
+      "authors": [
+        "Radi-gon"
+      ],
+      "original_title": null,
+      "original_url": null,
+      "original_authors": [],
+      "original_year": null,
+      "translation_year": null,
+      "translation_responsible": [],
+      "translators": [],
+      "created_at_utc": "2026-10-11T12:01:47.000Z",
+      "created_at_jst": "2026-10-11T21:01:47+09:00",
+      "created_by": "Radi-gon",
+      "content_warnings": [],
+      "summary_basis": "『倉骨ちゃんって何か、近寄りがたいよね』\n高校一年生の頃、学校の同級生に言われたことです。私の場所からはその顔も見えなければ、真意もわからない言葉だったけれど、おそらくは仲間内でのよくある雑談の話題として消費されているであろうことは分かりました。\n近寄りがたい。ええ、学校内でも人気者の彼女たちが言うなら、きっとそうなのでしょう。昼間に見せてくれた活気に溢れた笑顔とは対照的な、嫌悪にも近いそのトーンは、鬱陶しいほどに「お前はあちら側とは馴染めない」と叫んでいるような気がして。私は扉にかけていた手をそっと離して、代わりにぎゅっと袖を掴むことしかできませんでした。\n当時の私にとっての世界は、酷く狭いものでしたから。\n\n私が昔の記憶について辿ることができるのは小学一年生の夏頃まででしょうか。涼し気な風が吹き抜ける向日葵畑のこと。物悲しげな、不安そうな父の顔のこと。車のフロントガラスに映る交通安全のお守りのこと。\n当時の私はとにかく「父が悲しんでいる」ということしか分かりませんでした。けれども、父の気持ちに配慮するほどできた子どもでもなくて。遊びに行けない日ばかりが続いて拗ねてしまい、父の手を引っ張ってはわがままばかり喚いていました。\n手を引く私に父は困って笑うばかり。しかし、骨張った手はそれでも温かくて。父は私の手をそっと優しく握り返してくれました。\n連日の家篭りに飽きた私を見かねてか、父は少し遠出しようと言って兵庫の市立公園へと連れて行ってくれました。普段の茹だるような暑さや突発的な夕立も、その日ばかりは配慮してくれたようで。しかし、父の顔ばかりはずっと曇ったままでした。\nそれでも、父は明るく振る舞おうとしていたのは覚えています。\n\nわー、綺麗な向日葵だねぇ。ここらじゃ中々見れないもんねぇ。\n\n─────────？\n\n『ママはどこにいったの？』……あーっと、ね。ママはね、この向日葵さんになったんだよ。\n\n──────！\n\n嘘じゃないよ。ママはね、向日葵さんにも、お星さまにも、ことねの嫌いなピーマンにだってなって、ことねのことを見守ってくれてるんだよ。だから、大丈夫。大丈夫だからね。辛い時は、家族一緒って約束したんだから。だからこれからも、心配しなくていいんだよ。\n\n母の葬式が終わったのはこの少し後でした。動かなくなってしまった母を見て、ようやく「母がいなくなる」ということを自覚しては大泣きして。\n交通事故での、失血死だったそうです。\n日が過ぎる毎に薄くなる目の腫れとは裏腹に、父の隈はどんどんと深くなっていきました。それでも空元気に振る舞う父の気遣いに、私は気付くことができなくて。子供じみた八つ当たりを繰り返しては、いつの間にか何とも言えない距離感を作り上げてしまいました。\n\n中学に上がってすぐの頃までは、学校の話が会話の糸口になることも珍しくありませんでした。入学したてで口下手な私は、友人もまだ少なかったのもあり、事務的な連絡が主だってはいましたけれど。そんな面白みのない話でも、父は黙って聞いてくれていましたし、通知表にも必ず目を通してくれました。けれど、返ってくる言葉はいつも「大丈夫」の一言でした。\n褒められたかった、と言葉にできるようになったのは、随分後になってからのことです。当時の私はただ、「大丈夫」という三文字の下に、期待していた何かが埋もれていくのを、黙って見ていました。\n自分を出すのが苦手なのは、いつまでも変わらない私の悪癖なのだと思います。忙しい父に余計な感情を持ち込ませないことは、家事や仕事の合間を縫って私と向き合ってくれている父への───いわば礼儀だと思い込んでいたのかもしれません。褒めてほしいだなんて、当時の私には口が裂けても言えないことでした。\n褒められたい、失望されたくない、見放されたくない───内向的なくせに、安心を求める気持ちだけは人一倍強くて。母の代わりになんて、なれるはずもないのに背伸びして。そうしている内に、聞いてほしかったことも、話したかったことも、いつの間にか喉の奥に仕舞い込む癖がついてしまいました。\n父に何か聞かれるたび、私は「大丈夫」とだけ答えるようになっていました。父から貰った言葉を、そのまま父に返すように。\nそれでも、二年生になる頃には順調に友人も増え、私たちは代わり映えのない日々を、穏やかにこ…",
+      "summary_basis_type": "opening",
+      "tags": [
+        "jp",
+        "tale",
+        "石榴倶楽部"
+      ],
+      "rating": 7,
+      "vote_count": 11,
+      "revision_count": 3,
+      "comment_count": 1,
+      "content_hash": "sha256:d13ebbe60ed007b5ef6d84871cbaf86fa3e54518ddebbffe79dc218c08717024",
+      "has_text_content": true,
+      "text_content_length": 9554,
+      "first_seen_at_jst": "2026-10-12T09:30:26.142661+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469489610"
+    },
     {
       "wikidot_id": "1469483440",
       "page_name": "child-venison-subject-gaea",
@@ -47,8 +140,8 @@
         "年頃のガイア",
         "詩的文学"
       ],
-      "rating": -3,
-      "vote_count": 5,
+      "rating": -4,
+      "vote_count": 8,
       "revision_count": 2,
       "comment_count": 0,
       "content_hash": "sha256:4b2ba117a23f4ec58dc1b6cb089e9fd928e67611bf2db81f63c6c9b6df70b8a3",
@@ -56,7 +149,7 @@
       "text_content_length": 479,
       "first_seen_at_jst": "2026-10-11T09:13:23.690170+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469483440"
     },
     {
@@ -101,8 +194,8 @@
         "tale",
         "詩的文学"
       ],
-      "rating": -7,
-      "vote_count": 7,
+      "rating": -8,
+      "vote_count": 8,
       "revision_count": 3,
       "comment_count": 1,
       "content_hash": "sha256:477441c3f48621e0a90a4a0b1bdf5e713e1371d6bd96f6d692284b26961c68f1",
@@ -110,7 +203,7 @@
       "text_content_length": 880,
       "first_seen_at_jst": "2026-10-11T09:13:23.690170+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469483436"
     },
     {
@@ -165,16 +258,16 @@
         "精神感応",
         "記憶影響"
       ],
-      "rating": 28,
-      "vote_count": 30,
+      "rating": 31,
+      "vote_count": 33,
       "revision_count": 7,
-      "comment_count": 1,
+      "comment_count": 2,
       "content_hash": "sha256:0f6689ae5260988021c58f69fb3459786638184dd84ee1b02a8d8caa2eacca2a",
       "has_text_content": true,
       "text_content_length": 10514,
       "first_seen_at_jst": "2026-10-11T09:13:23.690170+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469482957"
     },
     {
@@ -222,8 +315,8 @@
         "世界オカルト連合",
         "詩的文学"
       ],
-      "rating": 5,
-      "vote_count": 5,
+      "rating": 6,
+      "vote_count": 6,
       "revision_count": 3,
       "comment_count": 1,
       "content_hash": "sha256:788d1acabf2d8ca0a15f80408cc4f8131688a8727da62091d898c6fc7290b5c0",
@@ -231,7 +324,7 @@
       "text_content_length": 1034,
       "first_seen_at_jst": "2026-10-11T09:13:23.690170+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469482842"
     },
     {
@@ -289,7 +382,7 @@
       "text_content_length": 7144,
       "first_seen_at_jst": "2026-10-11T09:13:23.690170+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469482838"
     },
     {
@@ -384,8 +477,8 @@
         "tale",
         "ジョーク"
       ],
-      "rating": 59,
-      "vote_count": 101,
+      "rating": 60,
+      "vote_count": 106,
       "revision_count": 1,
       "comment_count": 0,
       "content_hash": "sha256:e431e26727060212b4baa6e8890e8db37a46fd95361f4f4fdb14fc7b3a28b4a0",
@@ -434,8 +527,8 @@
         "日本生類創研",
         "鳥類"
       ],
-      "rating": -7,
-      "vote_count": 15,
+      "rating": -6,
+      "vote_count": 16,
       "revision_count": 2,
       "comment_count": 2,
       "content_hash": "sha256:8f891ef0240ac59e551928eafd4e5d255ef581ec50fa96c2119f564fe1648966",
@@ -491,8 +584,8 @@
         "ジョーク",
         "報告書形式"
       ],
-      "rating": -10,
-      "vote_count": 34,
+      "rating": -11,
+      "vote_count": 35,
       "revision_count": 6,
       "comment_count": 5,
       "content_hash": "sha256:325217c9715a3dacb84361572058b2860edc6772990b9910caf826d3aa60053f",
@@ -712,8 +805,8 @@
         "scp",
         "削除通知"
       ],
-      "rating": -4,
-      "vote_count": 18,
+      "rating": -5,
+      "vote_count": 19,
       "revision_count": 2,
       "comment_count": 2,
       "content_hash": "sha256:1395c5aa29be503349178d3eb078cd0d80e743247fdf341d0b2bfe02308231d4",
@@ -997,7 +1090,7 @@
       ],
       "rating": 25,
       "vote_count": 25,
-      "revision_count": 7,
+      "revision_count": 9,
       "comment_count": 1,
       "content_hash": "sha256:27f15c4eb413e8d98f4f860fc3c1393fc40c6d9d07f6052f9d371b7a3cba5d02",
       "has_text_content": true,
@@ -1375,8 +1468,8 @@
         "tale",
         "定命種エミュレータ事例集"
       ],
-      "rating": 10,
-      "vote_count": 44,
+      "rating": 11,
+      "vote_count": 45,
       "revision_count": 3,
       "comment_count": 9,
       "content_hash": "sha256:a41a77986eb044a4dc80d3c62f83affc9b150411c8bf9bfd850351ec4500b536",
@@ -1981,8 +2074,8 @@
         "電子デバイス",
         "音声添付"
       ],
-      "rating": -11,
-      "vote_count": 13,
+      "rating": -12,
+      "vote_count": 14,
       "revision_count": 1,
       "comment_count": 1,
       "content_hash": "sha256:0fe017b5962342328e556b8d591e7da28f89368280cd96c3c56d250c0aa8460a",
@@ -2665,8 +2758,8 @@
         "メタ",
         "メタフィクション"
       ],
-      "rating": -46,
-      "vote_count": 52,
+      "rating": -47,
+      "vote_count": 53,
       "revision_count": 11,
       "comment_count": 5,
       "content_hash": "sha256:78646e206e701978e63f56bc1081c5316d10d25fd16e2e123bed2abb05352e3e",
@@ -2870,8 +2963,8 @@
         "jp",
         "アートワーク"
       ],
-      "rating": 44,
-      "vote_count": 44,
+      "rating": 46,
+      "vote_count": 46,
       "revision_count": 2,
       "comment_count": 0,
       "content_hash": "sha256:d6af26d525d7223b879ac5596381f2b4f91f72f6fbe25f58da169a7e86b6ccee",
@@ -4997,8 +5090,8 @@
         "日本生類創研",
         "_日本生類創研"
       ],
-      "rating": 13,
-      "vote_count": 29,
+      "rating": 14,
+      "vote_count": 30,
       "revision_count": 1,
       "comment_count": 4,
       "content_hash": "sha256:a30d0194cb38ddef41d4aeb54857a288f5fca6c44b09fd5501ed5791cc6071b9",
@@ -5717,288 +5810,6 @@
       "baseline": false,
       "is_new_this_run": false,
       "notification_id": "1469305504"
-    },
-    {
-      "wikidot_id": "1469302627",
-      "page_name": "art:character-poster-for-105",
-      "url": "https://scp-jp.wikidot.com/art:character-poster-for-105",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translation_responsible",
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "EN",
-      "source_branch_basis": "original_url",
-      "genre": "アートワーク",
-      "article_title": "キャラクター・ポスター: SCP-105、A9所属！",
-      "subtitle": null,
-      "authors": [],
-      "original_title": "Character Poster: SCP-105 in A9!",
-      "original_url": "https://scp-wiki.wikidot.com/art:character-poster-for-105",
-      "original_authors": [
-        "ClovenLeaf"
-      ],
-      "original_year": "2026",
-      "translation_year": "2026",
-      "translation_responsible": [
-        "C-Dives"
-      ],
-      "translators": [
-        "C-Dives"
-      ],
-      "created_at_utc": "2026-09-11T17:36:54.000Z",
-      "created_at_jst": "2026-09-12T02:36:54+09:00",
-      "created_by": "C-Dives",
-      "content_warnings": [],
-      "summary_basis": "SCP-105/“アイリス・トンプソン”、機動部隊アルファ-9所属！\n長らく待ち望まれたオメガ-7の先の物語で、機動部隊に返り咲くアイリス・トンプソンの晴れ姿を観よ！\n\n「このキャラが個人的にすごく好みなんですよね。\nいずれもっと彼女のアートワークを投稿することになるでしょう。お気に入りのSCPキャラですから。」\nアーティスト ClovenLeaf の言葉",
-      "summary_basis_type": "description",
-      "tags": [
-        "en",
-        "アイリス・トンプソン",
-        "アートワーク"
-      ],
-      "rating": 25,
-      "vote_count": 25,
-      "revision_count": 2,
-      "comment_count": 1,
-      "content_hash": "sha256:92b60513d5e9c3b13cc07384ea442c08142ec8a269df3fb5c4b9b6b9e5f55ca4",
-      "has_text_content": true,
-      "text_content_length": 411,
-      "first_seen_at_jst": "2026-09-12T08:14:20.618092+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469302627"
-    },
-    {
-      "wikidot_id": "1469301163",
-      "page_name": "scp-856-ko",
-      "url": "https://scp-jp.wikidot.com/scp-856-ko",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translation_responsible",
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "KO",
-      "source_branch_basis": "original_url",
-      "genre": "SCP報告書",
-      "article_title": "SCP-856-KO",
-      "subtitle": "流浪者たち",
-      "authors": [],
-      "original_title": "SCP-856-KO - 유랑자들",
-      "original_url": "https://scpko.wikidot.com/scp-856-ko",
-      "original_authors": [
-        "Bangja"
-      ],
-      "original_year": "2021",
-      "translation_year": "2026",
-      "translation_responsible": [
-        "walksoldi"
-      ],
-      "translators": [
-        "walksoldi"
-      ],
-      "created_at_utc": "2026-09-11T10:56:39.000Z",
-      "created_at_jst": "2026-09-11T19:56:39+09:00",
-      "created_by": "walksoldi",
-      "content_warnings": [],
-      "summary_basis": "説明: 財団は1981年から2021年までの40年間にわたって、◯◯邑の◯◯山を平地化しました。この作戦の指導者に関する情報は破棄されていたために特定が不可能でしたが、作業に従事した職員だけでも数百人規模に及びます。しかし、その目的を知っていた職員は一人もおらず、40年間でこの作戦に疑問を抱いた人物も存在しませんでした。SCP-856-KOはこの事案に対する指定です。\n◯◯山は本来標高が高くなく、規模も平凡な方でした。しかし、重機が運用されたのは硬い岩石を除去する際のみであり、それ以外は全てスコップやツルハシなどの道具と人力だけで運び出していたために、40年という歳月が掛かったものと見られています。\nSCP-856-KOは、財団が被った数多くの認識災害事案の中でも最大規模の一つに数えられており、これによる財政的損失は極めて甚大です。当該事案の発生原因が解明されるまで、Keterクラス指定が維持される見込みです。",
-      "summary_basis_type": "description",
-      "tags": [
-        "keter",
-        "ko",
-        "scp",
-        "ミーム",
-        "注目記事"
-      ],
-      "rating": 18,
-      "vote_count": 22,
-      "revision_count": 2,
-      "comment_count": 5,
-      "content_hash": "sha256:f9c852b7b5cc4ebdf5dc4e1cfab763cc6799e0bea2dbea8c095a57eaf39f76ef",
-      "has_text_content": true,
-      "text_content_length": 73923,
-      "first_seen_at_jst": "2026-09-12T08:14:20.618092+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469301163"
-    },
-    {
-      "wikidot_id": "1469300635",
-      "page_name": "navrh-uzivatele-lyppiatt",
-      "url": "https://scp-jp.wikidot.com/navrh-uzivatele-lyppiatt",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translator",
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "CS",
-      "source_branch_basis": "original_url",
-      "genre": "その他作品",
-      "article_title": "Lyppiattの提言",
-      "subtitle": null,
-      "authors": [],
-      "original_title": "SCP-001-CS KRYCÍ JMÉNO: Lyppiatt - Starý Svět",
-      "original_url": "https://scp-cs.wikidot.com/navrh-uzivatele-lyppiatt",
-      "original_authors": [
-        "Lyppiatt"
-      ],
-      "original_year": "2024",
-      "translation_year": "2026",
-      "translation_responsible": [],
-      "translators": [
-        "tukano_ jellyfish"
-      ],
-      "created_at_utc": "2026-09-11T08:21:52.000Z",
-      "created_at_jst": "2026-09-11T17:21:52+09:00",
-      "created_by": "tukano_ jellyfish",
-      "content_warnings": [],
-      "summary_basis": "重訳題: SCP-001-CS CODE NAME: Lyppiatt - Old World\n重訳元の翻訳者: Docked\n重訳元の記事の作成年: 2025\n重訳元の記事の参照リビジョン: 5\n重訳元記事リンク: https://scp-int.wikidot.com/navrh-uzivatele-lyppiatt\n\nアイテム番号: SCP-001-CS\n\nレベル-\n\n収容クラス: THAUMIEL\n\n撹乱クラス: DARK\n\n配属サイト\n\nn/a\n\nサイト管理官\n\nアボット管理官\n\n研究責任者\n\nn/a\n\n担当機動部隊\n\nn/a\n\nアイテム番号: SCP-001-CS\n\nレベル-\n\n収容クラス: THAUMIEL\n\n撹乱クラス: DARK\n\n配属サイト\n\nn/a\n\nサイト管理官\n\nアボット管理官\n\n研究責任者\n\nn/a\n\n担当機動部隊\n\nn/a\n\nSCP-001-CS、1980年。\n\nANOMALOUS LOCATION DESCRIPTION\n\n異常領域の説明\n\nSCP-001-CSはカルホニ峡谷に対する指定番号です。ボヘミアとモラヴィアの国境を跨いで広がっているこの地域は、一連の部分的な異常性の影響を受けており、その性質のいくつかはこの地域での財団の計画に直接起因しています。\nSCP-001-CS/aは峡谷における日光の強度を世界平均の1.4倍にする、特異な大気現象です。1\nSCP-001-CS/bは非ユークリッド的な空間の湾曲であり、異常な手段を用いない限り侵入は不可能です。この湾曲はニューゲートプロジェクトの実現を可能なものにするため、財団によって意図的に作成されました。\n\nプロジェクト・ニューゲート\n\nオールド・ゲートの自治体は過疎化した後、財団によって取得されました。ニューゲートへと改名されたこの自治体は現在、選ばれた人々の恒久的な居住地として利用されています。\n選ばれる人々:\n\nアノマリーの影響を受けた結果、身体的または精神的な変形があるため一般社会での生活に適合できない人々、\n記憶処理の意図せぬ結果により、自立したあるいは生産的な生活を営むことのできない人々、\n勤務期間の長さまたは任務の性質のいずれかが社会生活を送ることが可能な範囲を超えていた、かつてのDクラス職員、\n限られた事例として、異常現象の影響を間接的に受け、その程度が一般市民としての生活を続けることが不可能である人々。\n\nこの地域は財団によって管理されていますが、運営上の完全な自治権が与えられています。資源の供給を除いて、財団の他の構成要素は不干渉の方針を徹底しています。\n追記: 勤務上の義務を果たした財団職員にはニューゲートで年金生活を送る機会が与えられます。職員はこの機会を利用することも、しないことも選択できます。\n\nプロジェクト責任者の声明\n\n今年、私たちはプロジェクト・ニューゲート開始から50周年を迎えます。この都市が最初の住人を受け入れた日から半世紀が経過しました。\nそれは私たちには人里離れた安らぎの中で暮らしてもらうこと以外に何もできなかった、200人の男女でした。壊れた精神と体、砕け散った心。私たちは改革への第一歩がまず自らを恥じ、行動を起こすことだと悟りました。\n最初の動機が恥であったため、今日ではそこから真の高潔な意図が生まれるとは考えられておらず、ニューゲートの理念そのものがますます誤解されるようになっています。\nプロジェクトは見かけ上の自己満足に過ぎないとして批判されています。ええ、私たちは脅威との遭遇から生き延びた、我々がその脅威から守るべきだった人々のための居住地を作りました。しかし、しばしば指摘される矛盾があります。すなわち、ニューゲートが本当に変革の象徴であるならば、新たな住民が生まれることはないという矛盾です。\n私たちは侵襲的な記憶処理を用いないことを誓いました。それでもなお、私たちの薬によって精神を壊された住民は増え続けています。\n私たちはDクラス職員を倫理的に取り扱うことを誓いました。それでもなお、未だニューゲートにはあまりにも長く任務に就かせられたために解放することのできない人々が迎え入れられています。\n私たちはアノマリーから人々を守ることを誓いました。それでもなお、死にゆく人々や私たちが防ぐことのできなかった悲劇によって孤立し、家族や友人に見捨てられた人々をこの街へ送り続けています。\n誓い、私たちの誓い、果たされなかった誓い、それ故にニューゲートはグロテスクで皮肉な記念碑として存在している。それは彼らに金銭や手厚いケアを与えることで我々の無力さを覆い隠そうとするある種の試みなのです。\n同じ考えを持つ人々に、私はこう言いたいのです。おっしゃる通りです。それこそが本質なんですよ。\nニューゲートは生きた記念碑ではありません。警鐘です。それは、私たちが長い道のりを歩んできたとしても、その歩みを緩めてよい瞬間など決してないということを、私たちに警告しています。旧き世界は私たちの背後に息づいているのです。不快な古い響き、安易な解決策に無関心と許容可能な損失という克服したはずの信条もまた。\nもし私たちが決意を失えば、それは再び — そして完全に — 私たちを打ち負かすでしょう。これまで私たちが成し遂げた全てが…",
-      "summary_basis_type": "opening",
-      "tags": [
-        "001提言",
-        "cs",
-        "csクリシェコンテスト2",
-        "scp",
-        "thaumiel",
-        "場所",
-        "空間",
-        "財団製",
-        "重訳"
-      ],
-      "rating": 7,
-      "vote_count": 11,
-      "revision_count": 2,
-      "comment_count": 1,
-      "content_hash": "sha256:9010d9fd6b66d8a3e533311f34e9f4bd56b1bd28ddc8384eaee6f908ba464ee7",
-      "has_text_content": true,
-      "text_content_length": 3036,
-      "first_seen_at_jst": "2026-09-12T08:14:20.618092+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469300635"
-    },
-    {
-      "wikidot_id": "1469300631",
-      "page_name": "scp-zh-115",
-      "url": "https://scp-jp.wikidot.com/scp-zh-115",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translator",
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "ZH-TR",
-      "source_branch_basis": "original_url",
-      "genre": "SCP報告書",
-      "article_title": "SCP-ZH-115",
-      "subtitle": "本日の天気はテトリスです",
-      "authors": [],
-      "original_title": "SCP-ZH-115 - 今天的天氣是俄羅斯方塊",
-      "original_url": "https://scp-zh-tr.wikidot.com/scp-zh-115",
-      "original_authors": [
-        "Control Z"
-      ],
-      "original_year": "2021",
-      "translation_year": "2026",
-      "translation_responsible": [],
-      "translators": [
-        "tukano_ jellyfish"
-      ],
-      "created_at_utc": "2026-09-11T08:18:43.000Z",
-      "created_at_jst": "2026-09-11T17:18:43+09:00",
-      "created_by": "tukano_ jellyfish",
-      "content_warnings": [],
-      "summary_basis": "説明: SCP-ZH-115は異常な降雨現象です。この現象によって発生する雨滴は物理法則に反し、その形状、構造、性質は自然な降雨と異なります。この現象の発生中、影響範囲内にある放送機器はピアノ演奏のロシア民謡「コロブチカ」2を継続的に放送します。信号の発信源は現在も不明です。\nSCP-ZH-115によって発生した雨滴は以下の性質を有しています。\n\n体積3と落下速度4は全て同一である。衝突するまでは、その形状や減速速度は外部からの影響によって変化しない。これらの雨滴が既知の熱力学法則の全てに違反しているのか、未知の熱力学法則に従っているのかについては現在も調査が行われている。\n\nそれらの雨滴の形状はI、J、L、O、S、T、またはZの文字に似たテトロミノである。\n\n落下中、雨滴は90度回転を繰り返す。観測者は回転の過程を観測することができず、その結果だけを観測できる。\n\n外部からの影響がない場合、平坦な地面に着地するとき、雨滴は衝突地点に固定される5。これらの雨滴は互いの上に積み重なり雨滴間の空間が完全に満たされると蒸発する。この過程で気化熱は吸収されない。\n\n現象が終了すると、気化していない雨滴は即座に前述の性質を失い、非異常の液体の水に変化します。\n補遺SCP-ZH-115-A: 直近のSCP-ZH-115現象は20██年7月に██████市の午後の雷雨の際に発生し、SCP-ZH-115は前例のない性質を示しました。これらの性質にはより速い落下速度、より高く積み重なる雨滴、より遅い気化速度が含まれており、影響範囲内での洪水を引き起こしました。一部の雨滴は出現直後に地面に衝突し、本来の落下経路上にあった建築物を損壊させ、生き物に負傷を負わせました。この事案により██名の負傷者、█名が死亡者、甚大な物的損害が発生しました。結果、SCP-ZH-115の脅威レベルとオブジェクトクラスを引き上げる提案が三垣評議会に提出されました。\n\n脚注\n1. 19██年に発見されて以来、記録された事例は3件しかないため\n2. Коробейники\n3. 9mm³\n4. 30cm/s\n5. そうならなければ、異常性を失い非異常の液体の水に変化する",
-      "summary_basis_type": "description",
-      "tags": [
-        "2020金字塔登り",
-        "safe",
-        "scp",
-        "zh",
-        "天候",
-        "重訳",
-        "音楽"
-      ],
-      "rating": 11,
-      "vote_count": 13,
-      "revision_count": 3,
-      "comment_count": 0,
-      "content_hash": "sha256:94f2325530fb5ab292a7743cca082a9dfaab14321266041614db493e7549bd74",
-      "has_text_content": true,
-      "text_content_length": 1414,
-      "first_seen_at_jst": "2026-09-12T08:14:20.618092+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469300631"
-    },
-    {
-      "wikidot_id": "1469299574",
-      "page_name": "scp-6973",
-      "url": "https://scp-jp.wikidot.com/scp-6973",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translation_responsible",
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "EN",
-      "source_branch_basis": "original_url",
-      "genre": "SCP報告書",
-      "article_title": "SCP-6973",
-      "subtitle": "お手製カーペット",
-      "authors": [],
-      "original_title": "Man-made carpet",
-      "original_url": "https://scp-wiki.wikidot.com/scp-6973",
-      "original_authors": [
-        "ActuallyClue"
-      ],
-      "original_year": "2026",
-      "translation_year": "2026",
-      "translation_responsible": [
-        "Tetsu1"
-      ],
-      "translators": [
-        "Tetsu1"
-      ],
-      "created_at_utc": "2026-09-11T02:13:33.000Z",
-      "created_at_jst": "2026-09-11T11:13:33+09:00",
-      "created_by": "Tetsu1",
-      "content_warnings": [],
-      "summary_basis": "説明:\nSCP-6973は身長約1.8 mの人型実体です。実体の外層はベージュ色のカーペットでできています。MRI検査により、SCP-6973には体内に生物学的要素がないことが確認されています。\nSCP-6973は英語での発話のみが可能で、強い大西洋横断訛りをしています。その語彙や身振りは、20世紀中期の古典的なアメリカ人セールスマンを大きく模倣しています。会話中、SCP-6973は絶えずカーペットの販売へと話題を移そうとします。一般的な会話は可能ですが、商業的な話題を禁じられると、声の緊張、吃音、頭を抱えるなど身振りでのストレス反応などで深刻な苦痛を示します。\nSCP-6973は物理的にも言葉の上でも攻撃的な兆候を示したことがありません。理由を尋ねられると、以下を述べました。\n\nSCP-6973: 「暴力ってのはビジネスの場じゃあマイナスにしかならねんですよお。まして当然、高級シャグから血痕を取らなきゃってなったら考えただけでもう恐ろしい！ 染みといやあ、ああたらインテリでも手先は不器用なんてことがありやしたら、染みに強い一等モンを格安でお譲りいたしやすよ！」",
-      "summary_basis_type": "description",
-      "tags": [
-        "en",
-        "safe",
-        "scp",
-        "コメディ",
-        "人間型",
-        "知性",
-        "crom:series-7"
-      ],
-      "rating": 6,
-      "vote_count": 8,
-      "revision_count": 2,
-      "comment_count": 1,
-      "content_hash": "sha256:a9b549f3b8371b00916ab182a4bad5c2cc042a4ed9f5f251eb97a7c26bf5e70c",
-      "has_text_content": true,
-      "text_content_length": 4028,
-      "first_seen_at_jst": "2026-09-12T08:14:20.618092+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469299574"
     }
   ]
 }
