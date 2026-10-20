@@ -2,48 +2,48 @@
   "schema_version": 1,
   "status": "degraded",
   "hotfix_version": "5.1.2",
-  "generated_at_utc": "2026-10-18T23:07:36.986387+00:00",
-  "generated_at_jst": "2026-10-19T08:07:36.986387+09:00",
-  "generated_date_jst": "2026-10-19",
-  "run_id": "39175165940",
+  "generated_at_utc": "2026-10-20T00:17:54.654174+00:00",
+  "generated_at_jst": "2026-10-20T09:17:54.654174+09:00",
+  "generated_date_jst": "2026-10-20",
+  "run_id": "39346775213",
   "repository": "iniwa/scp-jp-crom-probe",
   "mode": "incremental",
   "state_source": "previous_state",
   "query": {
     "endpoint": "https://apiv2.crom.avn.sh/graphql",
-    "since_utc": "2026-09-18T23:07:36.986387+00:00",
-    "since_jst": "2026-09-19T08:07:36.986387+09:00",
+    "since_utc": "2026-09-20T00:17:54.654174+00:00",
+    "since_jst": "2026-09-20T09:17:54.654174+09:00",
     "window_days": 30,
     "notification_retention_hours": 168,
     "snapshot_retention_days": 37,
     "truncated": false
   },
   "counts": {
-    "raw_recent_pages": 150,
+    "raw_recent_pages": 153,
     "content_candidates": 112,
     "details_confirmed": 111,
-    "details_fetched": 8,
-    "details_reused": 104,
+    "details_fetched": 11,
+    "details_reused": 101,
     "detail_fetch_failures": 0,
     "classification_pending": 0,
     "text_pending": 1,
-    "jp_originals": 39,
-    "translations": 72,
-    "new_this_run": 5,
-    "new_jp_originals": 4,
-    "new_translations": 1,
-    "notification_candidates": 25,
+    "jp_originals": 43,
+    "translations": 68,
+    "new_this_run": 7,
+    "new_jp_originals": 5,
+    "new_translations": 2,
+    "notification_candidates": 30,
     "pending": 1,
     "rejected": {
-      "not_monitored_content": 34,
-      "excluded_tag": 4
+      "not_monitored_content": 36,
+      "excluded_tag": 5
     }
   },
   "rate_limit": {
     "first": 299800,
-    "last": 299544,
-    "minimum": 299544,
-    "request_count": 10
+    "last": 299523,
+    "minimum": 299523,
+    "request_count": 13
   },
   "pending_pages": [
     {
