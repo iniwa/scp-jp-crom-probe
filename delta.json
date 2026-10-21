@@ -1,19 +1,236 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-10-20T23:50:23.578709+00:00",
-  "generated_at_jst": "2026-10-21T08:50:23.578709+09:00",
+  "generated_at_utc": "2026-10-21T23:59:12.096628+00:00",
+  "generated_at_jst": "2026-10-22T08:59:12.096628+09:00",
   "retention_hours": 168,
   "new_this_run_ids": [
-    "1469518717",
-    "1469518759",
-    "1469518760",
-    "1469518769",
-    "1469518772",
-    "1469518840",
-    "1469519409",
-    "1469519573"
+    "1469521437",
+    "1469521657",
+    "1469522001",
+    "1469522159"
   ],
   "articles": [
+    {
+      "wikidot_id": "1469522159",
+      "page_name": "scp-2493",
+      "url": "https://scp-jp.wikidot.com/scp-2493",
+      "edition": "translation",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "credit_translation_responsible",
+        "credit_translation_year",
+        "credit_original_title",
+        "credit_original_url"
+      ],
+      "source_branch": "EN",
+      "source_branch_basis": "original_url",
+      "genre": "SCP報告書",
+      "article_title": "SCP-2493",
+      "subtitle": "捨てる神あれば拾う神あり",
+      "authors": [],
+      "original_title": "SCP-2493 - One Man's Garbage",
+      "original_url": "https://scp-wiki.wikidot.com/scp-2493",
+      "original_authors": [
+        "Jack Ike"
+      ],
+      "original_year": "2016",
+      "translation_year": "2026",
+      "translation_responsible": [
+        "AyuMashi"
+      ],
+      "translators": [
+        "AyuMashi"
+      ],
+      "created_at_utc": "2026-10-21T14:05:14.000Z",
+      "created_at_jst": "2026-10-21T23:05:14+09:00",
+      "created_by": "AyuMashi",
+      "content_warnings": [],
+      "summary_basis": "説明: SCP-2493は、SCP-2493-1およびSCP-2493-2の2つの構成要素からなる総称です。\nSCP-2493-1は身長約1.7m、体重約95kgの男性人型実体です。SCP-2493-1は完全に反物質から構成されていますが、外見上は通常の人間と変わりません。SCP-2493-1は「ジョー・スミス」という名前に反応し、自身は、自らと同様の原子組成を持つ物質を主成分とする異次元に由来すると主張しています。SCP-2493-1に対する心理評価の結果、対象にはノストフォビア4および自身の任務を完遂することへの強迫観念が認められています。（補遺参照）\nSCP-2493-2は、これまで発見されておらず、現在も十分に解明されていない物質から構成されたスーツであり、SCP-2493-1はこれを「バッファ」と呼称しています。外見上は気密性を有するタイプ1化学防護服に類似しています。この物質は完全な非バリオン性物質5であり、あらゆる波長の電磁放射を一様に反射するため、表面は鏡面状になっています。また、物質と反物質の間で相互作用が生じるのを防ぐ能力も有しています。これらの性質により、この物質で構成された物体の内部をX線スキャンによって検査することは不可能であり、物理的な検査も著しく困難となります。SCP-2493-2を構成する物質はゴムに匹敵する柔軟性を持つ一方、その質感は研磨された金属に類似しています。SCP-2493-1の顔面部分では、この物質に代わって不透過性の隔壁が設けられており、双方向のバイザーとして機能しています。スーツ内部には、発生源不明の光を放射する機能が備わっており、SCP-2493-1の指示に応じて発光します。\nSCP-2493-2の背面には多機能バックパックが備えられており、空気再生装置SCP-2493-1が入手した資源を缶詰の食料と交換する機構、6および缶詰食料を投入するための気密式投入口として機能する。SCP-2493-1がこれらの食料を物理的に摂取しているところは、これまで一度も確認されていません。本人によれば、これはスーツ内部のナノマシンによるものであり、食料が利用可能になると、ナノマシンが口内で食物を少量ずつ再構成するためだとのことです。提供された廃棄物が、どのようにして反物質で構成された食用物質に変換されるかについて、これが唯一の合理的な説明であるため、この装置は内部の安定した次元間異常を介してSCP-2493-1の出身現実と接続されていると推論されています。\n\n+ 補遺1: 情報概要\n\n- 概要を表示中\n\n以下は、複数回にわたるインタビューから得られたSCP-2493-1の出自に関する情報の一覧です。なお、この情報の唯一の情報源はSCP-2493自身から得られたものであり、そのため事実であることを確認できない点に留意してください。（補遺3参照。）\n\nSCP-2493-1は、反物質のみから構成される異世界（以降、2493’とする）に由来する。\n\n2493’の社会は、我々のものを大幅に上回る高度な技術を有している、あるいは独自に開発している。これらの技術の稼働には莫大な電力を必要とし、通常、1日あたりペタジュール単位を超える電力を消費する。\n\n2493’の技術は、およそ200年前には173年前には、稼働時の副産物として大量の廃棄物を生み出していた。その後、これらの技術は廃棄物をリサイクルするよう改良された。発生した廃棄物は、異常な幾何学構造を有する、十分に解明されていない場所へと輸送され、その場所は、通常の三次元空間に存在する3本の軸のうち、2本の軸の間に物理的に位置していると説明されている。\n\n不定期間の後40年後、この空間の住民は自らの廃棄物を2493’へ輸送するようになった。これらの中には、SCPとして分類するに足る異常現象を示す物体が複数含まれていたとされる。これを受け、2493’の住民はそのような廃棄物の移送を大幅に妨害する装置を開発した。\n\n異常な幾何学構造に由来すると推定される未確認の物体が、2493’内部でXK-クラス真空崩壊を引き起こした。このような事態に対抗するため特別に開発された技術が自動的に起動し、2493’のごく一部を当該事象から保護した。しかし、その保護を維持するためには、当該技術…",
+      "summary_basis_type": "description",
+      "tags": [
+        "en",
+        "euclid",
+        "k-クラスシナリオ",
+        "scp",
+        "ポータル",
+        "交換",
+        "人間型",
+        "月",
+        "生命",
+        "異次元",
+        "衣類",
+        "crom:series-3"
+      ],
+      "rating": 0,
+      "vote_count": 0,
+      "revision_count": 1,
+      "comment_count": 0,
+      "content_hash": "sha256:a2c2e586855f5436868605d8f2955b915650cfd9a145ce0ca98db9a106b4c774",
+      "has_text_content": true,
+      "text_content_length": 6697,
+      "first_seen_at_jst": "2026-10-22T08:59:12.096628+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469522159"
+    },
+    {
+      "wikidot_id": "1469522001",
+      "page_name": "scp-4578-jp",
+      "url": "https://scp-jp.wikidot.com/scp-4578-jp",
+      "edition": "jp_original",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "jp_tag"
+      ],
+      "source_branch": "JP",
+      "source_branch_basis": "jp_tag",
+      "genre": "SCP報告書",
+      "article_title": "SCP-4578-JP",
+      "subtitle": "やまゐぬイングリッシュ",
+      "authors": [
+        "wavekey"
+      ],
+      "original_title": null,
+      "original_url": null,
+      "original_authors": [],
+      "original_year": null,
+      "translation_year": null,
+      "translation_responsible": [],
+      "translators": [],
+      "created_at_utc": "2026-10-21T13:00:25.000Z",
+      "created_at_jst": "2026-10-21T22:00:25+09:00",
+      "created_by": "wavekey",
+      "content_warnings": [],
+      "summary_basis": "4578-JP\n\nLv.3\n\nDog.\nk9 wuz met.\nQ; Fix by 26 'n' 10 chars?\n\n日本語に翻訳",
+      "summary_basis_type": "opening",
+      "tags": [
+        "esoteric-class",
+        "jp",
+        "scp",
+        "イヌ",
+        "メタ",
+        "削除通知",
+        "情報災害"
+      ],
+      "rating": -6,
+      "vote_count": 14,
+      "revision_count": 2,
+      "comment_count": 2,
+      "content_hash": "sha256:651e6a482b9ec93b931e1cb08ad43d1c38b3054ccf98f342faac085a6fa411d0",
+      "has_text_content": true,
+      "text_content_length": 168,
+      "first_seen_at_jst": "2026-10-22T08:59:12.096628+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469522001"
+    },
+    {
+      "wikidot_id": "1469521657",
+      "page_name": "scp-3924",
+      "url": "https://scp-jp.wikidot.com/scp-3924",
+      "edition": "translation",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "credit_translation_responsible",
+        "credit_translation_year",
+        "credit_original_title",
+        "credit_original_url"
+      ],
+      "source_branch": "EN",
+      "source_branch_basis": "original_url",
+      "genre": "SCP報告書",
+      "article_title": "SCP-3924",
+      "subtitle": "沈黙せし誉れの方舟",
+      "authors": [],
+      "original_title": "SCP-3924 - Silent Honour Ark",
+      "original_url": "https://scp-wiki.wikidot.com/scp-3924",
+      "original_authors": [
+        "Jack Ike"
+      ],
+      "original_year": "2018",
+      "translation_year": "2026",
+      "translation_responsible": [
+        "AyuMashi"
+      ],
+      "translators": [
+        "AyuMashi"
+      ],
+      "created_at_utc": "2026-10-21T10:58:40.000Z",
+      "created_at_jst": "2026-10-21T19:58:40+09:00",
+      "created_by": "AyuMashi",
+      "content_warnings": [],
+      "summary_basis": "説明: SCP-3924は、ヘレニック海溝1周辺の超深海帯を徘徊する移動性の潜水物体です。SCP-3924は通常、時速40km、海面下4,450～4,980mの深度を航行していますが、最高で時速55337km2、深度5,250mに到達することが可能です。これまでのすべての遭遇事例において、SCP-3924は視認による観測を回避しており、そのため、おおよその外見はソナー画像（上図）によってのみ判明しています。\nSCP-3924は、その時々の「状態」に応じた正体不明の音を絶えず発しています。SCP-3924が受動的に徘徊している場合と、積極的に戦闘状態にある場合では音響特性が変化しますが、SCP-3924が音を発することを止めることは決してありません。（補遺IIIを参照。）SCP-3924が通常活動する深度では、これらの音は海水による影響を強く受けて歪んでいます。しかし、継続中の音響分析によって複数の音の間に一定のリズムが存在することが確認されており、これらが音楽的な性質を持つ可能性が示唆されています。現時点では、発声に典型的なパターンは確認されていません。\nヘレニック海溝周辺海域において、船舶が水深4,100mに接近すると、SCP-3924は能動状態へ移行し、直ちに進路を変更して当該船舶を迎撃するとともに、この状態に固有の別種の音響信号を接近する船舶へ直接発信します。これは、船舶がその時々で変動する基準深度より浅い位置へ浮上するまで継続します。3\n問題となる問題となる船舶が水深4,100mより深く潜航すると、SCP-3924は敵対状態となり、焼夷魚雷および／または浮上式機雷を用いて攻撃を開始します。SCP-3924は、船舶が水深4,100mより深い位置にとどまる時間が長くなるほど、また船舶がより深く潜航するほど、さらに船舶側が反撃を強めるほど（反撃した場合）、戦術を次第に苛烈なものへと変化させます。SCP-3924は、侵入した船舶が水深4,100mより浅い場所へ浮上するか、あるいは壊滅的な損傷を受けて破壊されるまで攻撃を継続します。SCP-3924の主たる戦術はバラストタンク4を破壊することに重点を置いていると見られるため、後者が最も一般的な結末となっています。船舶が4,100mの基準深度より浅い場所へ浮上すると、SCP-3924は直ちに攻撃を中止します。ただし、その後も船舶が「十分な深度」まで浮上するまで、能動状態を維持します。\nSCP-3924は、接近する船舶が存在しない場合でも、周期的に能動／敵対状態へ移行します。このような場合、SCP-3924は自らと海底との間に存在する正体不明の物体／実体に対して、音響信号を発信し、攻撃しているように見えます。現時点まで、ソナーによってそのような物体／実体が検出されたことはありません。\n補遺I: インシデント3924-A\n2018年1月9日、SCP-3924が敵対状態へ移行し、海底に向けて攻撃を開始しました。この間、SCP-3924が別の対象にかかりきりになっている隙を利用し、数百km離れた地点から、ヘレニック海溝の海底への到達を目的とした事前準備済みの無人潜水艇が投入されました。\n潜水艇が水深4,100mを超えた直後、SCP-3924はそれまで潜水艇を認識していた様子がなかったにもかかわらず、即座にその方向へ魚雷を発射し始めました。しかし、SCP-3924は潜水艇を迎撃しようとはせず、どうやら自身の下方に存在する、目視不能な脅威への対処を優先していたものと考えられます。\n13分後、SCP-3924は海底に向けた攻撃を停止し、直ちに潜水艇（この時点で水深4,954mに到達）へ向けて進路を変更しました。SCP-3924は急速に加速して時速337kmに達し、数分以内に潜水艇へ到達してこれを破壊しました。この際のソナー観測では、この機動中にSCP-3924の船体の一部が剥離・脱落していることが確認されています。\nその後、SCP-3924は水深4,500mまで浮上し、海面上の船舶を損傷または沈没させることを目的として浮上式機雷の展開を開始しました。[データ削除済み]、[データ削除済み]、および[データ削除済み]が重大な損傷を受け、沈没しました。SCP-3924はさらに3時間にわたって海面上の船舶に対し…",
+      "summary_basis_type": "description",
+      "tags": [
+        "en",
+        "euclid",
+        "scp",
+        "乗り物",
+        "敵対的",
+        "水中",
+        "音波",
+        "crom:series-4"
+      ],
+      "rating": -1,
+      "vote_count": 1,
+      "revision_count": 1,
+      "comment_count": 1,
+      "content_hash": "sha256:eb51dfaf9f91c4c8ef4c39356f5f99c5151646fb234ac27ba98889429db3ccb2",
+      "has_text_content": true,
+      "text_content_length": 3962,
+      "first_seen_at_jst": "2026-10-22T08:59:12.096628+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469521657"
+    },
+    {
+      "wikidot_id": "1469521437",
+      "page_name": "scp-4021-jp",
+      "url": "https://scp-jp.wikidot.com/scp-4021-jp",
+      "edition": "jp_original",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "jp_tag"
+      ],
+      "source_branch": "JP",
+      "source_branch_basis": "jp_tag",
+      "genre": "SCP報告書",
+      "article_title": "SCP-4021-JP - 不死身の女王陛下と疑惑国家",
+      "subtitle": null,
+      "authors": [
+        "*Blackburn_990"
+      ],
+      "original_title": null,
+      "original_url": null,
+      "original_authors": [],
+      "original_year": null,
+      "translation_year": null,
+      "translation_responsible": [],
+      "translators": [],
+      "created_at_utc": "2026-10-21T09:45:26.000Z",
+      "created_at_jst": "2026-10-21T18:45:26+09:00",
+      "created_by": "Blackburn_990",
+      "content_warnings": [],
+      "summary_basis": "2017の「東京事変」は財団にとって大きな損失を払った。どれだけ合理的な判断でも東京を切り離した影響はデカい。世界各国の政府高官及び民衆は財団とGOCに対して、「もし、私たちの国が東京みたいになっても財団は助けてくれるのか？」という不信感を抱いている。そんな時に我々が築き上げた「 New Order 」に対抗する国が現れてしまった。我々は世界を昔から裏で守ってきた。そして今は表世界で守ってる。新興国が立ち上がっても世界が変わることはないだろう。だが、我々は昔の時のように暴れられない。慎重に物事を考え、行動することで地位を取り戻せるだろう\nアイテム番号: SCP-4021-JP\nオブジェクトクラス:　Safe　Archon\n特別収容プロトコル: SCP-4021-JPはサイト-██内にある5m×5mの強化収容室に仮収容されます。書籍、新聞、室内運動器具、手紙を執筆するための文房具を提供することが許可されています。新聞は毎朝、書籍と文房具、室内運動器具はSCP-4021-JPからの要求があった場合に交換してください。\n—（更新1）SCP-4021-JPの異常性と政治・国際影響力を鑑み、O5評議会はSafeからArchonに変更し、仮収容を取りやめました\n\n2040年、現在のSCP-4021-JP\n\n【説明】\nSCP-4021-JPは20代のヨーロッパ系の女性の外見をしています。記録によるとSCP-4021-JPは1998年のイザベラ王立病院で生まれ、28歳でエーテルガルド王国の君主（女王）に即位しました。SCP-4021-JPとの基本的な会話が可能であり、スペイン語、ドイツ語話者です。SCP-4021-JPは人柄が良く、積極的に話しかけると言った、高い社交性と好奇心があります。\nSCP-4021-JPの特筆すべき異常性は、体内に複数の異常性と未知の免疫細胞を持ち合わせている点にあります。既存の哺乳類はヘイフリック限界が確認されていますが、SCP-4021-JPの体内にある細胞にはヘイフリック限界が確認されていません。また、SCP-4021-JPの全細胞は細胞死を伴わない代謝を保有していると考えらています。そのため、有害物質や悪性新生物の発生・兆候は確認されていません。また、SCP-4021-JPは損傷の軽重に関係なく瞬時に損傷を再生する能力を持ちます。SCP-4021-JPの細胞に対し、放射線照射を行いました。細胞は破壊されたものの、2分後にDNAの復元及び細胞の再活動が確認されました。放射線照射実験の結果、SCP-4021-JP内にあるほぼすべての細胞が不死であることが判明しました。\nSCP-4021-JPの体内にある未知の免疫細胞は2つあることが分かっています。\nSCP-4021-JP-Aは好中球とNK細胞の特性を持つことが分かってます。SCP-4021-JP-Aは細菌捕食は既存の免疫細胞の約8倍、細胞殺傷能は約2倍とされています。SCP-4021-JP-Aは既存の免疫細胞（主に好中球）と同じようにネトーシスが発生することが医療チームの研究で分かっています。SCP-4021-JP-Aに対して同様の放射線照射実験を行ったところ、SCP-4021-JP-Aの破壊と活動の停止が確認されました。SCP-4021-JP-Aには復元能力がないことが判明しています。SCP-4021-JP-JPに対して行った血液検査によってSCP-4021-JP-Aの生産量は1日あたり約2,500億個だと計算されています。これは既存の好中球を遥かに上回るものです。\nSCP-4021-JP-Bは既存の制御性T細胞と同じような特性も持っています。しかし、SCP-4021-JP-Bの特異すべき点は癌細胞が出す「CCL17」の影響を受けないことです。また、SCP-4021-JP-Bも放射線照射実験で不死であることが確認されています。\n補遺1: 発見の経緯: エーテルガルド支部の職員の1人が休憩中に、エーテルガルドの王室家政庁の公式サイトでSCP-4021-JPの10代、20代、30代の写真を見比べたところ、「顔や肌の変化があまり見られない」と不信感を持ち、財団の諜報部門に相談したことにより発見されました。\n補遺2: 仮収容までの経緯: O5評議会はSCP-4021-JPの社会的影響力を鑑み、SCP-4021-JPの捕獲作戦に機動部隊アルファ-1の出撃させました。しかし、捕獲作戦はエーテルガルド政府側に情報が漏洩しており、SCP-4021-JPがいるソレ・ガルド宮殿は「テロ警戒」という名目で封鎖されていました。このことを踏まえて、アルファ-1は厳重の警備を突破できないとして任務を中止し撤退しました。撤退した理由は「政府組織との交戦による国際的地位の低下の懸念」です。財団は非公式のチャンネルで謝罪し、SCP-4021-JPに関する交渉を行いました。エーテルガルド王国政府は拒絶していたものの、最終的にSCP-4021-JPの承諾により、財団はSCP-4021-JPとの接触に成功しました。SCP-4021-JPとの接触までの間に近衛兵・王室警察との小規模な衝突はありましたが、最終的にSCP-4021-JPの一時的な収容に成功しました。\n補遺3: Archonに変更:…",
+      "summary_basis_type": "opening",
+      "tags": [
+        "archon",
+        "jp",
+        "scp",
+        "削除通知"
+      ],
+      "rating": -17,
+      "vote_count": 19,
+      "revision_count": 4,
+      "comment_count": 2,
+      "content_hash": "sha256:40f3c79dbe0a09b9b1001fa94f28fe5685619d56030d8ee3f466a97b2cb69b9d",
+      "has_text_content": true,
+      "text_content_length": 8291,
+      "first_seen_at_jst": "2026-10-22T08:59:12.096628+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469521437"
+    },
     {
       "wikidot_id": "1469519573",
       "page_name": "scp-6840",
@@ -71,8 +288,8 @@
         "精神影響",
         "crom:series-7"
       ],
-      "rating": 1,
-      "vote_count": 3,
+      "rating": 4,
+      "vote_count": 8,
       "revision_count": 2,
       "comment_count": 1,
       "content_hash": "sha256:6242d47b848b9cccc11fb2ca1d490ed63aa18f2569a6b747e4d7189fadcc3103",
@@ -80,7 +297,7 @@
       "text_content_length": 3237,
       "first_seen_at_jst": "2026-10-21T08:50:23.578709+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469519573"
     },
     {
@@ -126,8 +343,8 @@
         "太陽が沈む時",
         "太陽が沈む時-scp"
       ],
-      "rating": 3,
-      "vote_count": 5,
+      "rating": 8,
+      "vote_count": 10,
       "revision_count": 3,
       "comment_count": 1,
       "content_hash": "sha256:3e690f6ecd70cad35bb747f6786aefdb90e43eae5c061949b825cb7b08d569dd",
@@ -135,7 +352,7 @@
       "text_content_length": 2903,
       "first_seen_at_jst": "2026-10-21T08:50:23.578709+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469519409"
     },
     {
@@ -179,8 +396,8 @@
         "アートワーク",
         "第二ハイトス教会"
       ],
-      "rating": 5,
-      "vote_count": 5,
+      "rating": 10,
+      "vote_count": 10,
       "revision_count": 1,
       "comment_count": 1,
       "content_hash": "sha256:d72c2fcbbab80f7d35697e2b60b85ea0da5484ebb8e7a450521f9aa8cdf164b4",
@@ -188,7 +405,7 @@
       "text_content_length": 268,
       "first_seen_at_jst": "2026-10-21T08:50:23.578709+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469518840"
     },
     {
@@ -232,8 +449,8 @@
         "アートワーク",
         "パラウォッチ"
       ],
-      "rating": 8,
-      "vote_count": 8,
+      "rating": 12,
+      "vote_count": 12,
       "revision_count": 1,
       "comment_count": 1,
       "content_hash": "sha256:9d5ffba54c9ec609c066358f4d0af252c37d04c17dff9642995d1a026addfe7a",
@@ -241,7 +458,7 @@
       "text_content_length": 270,
       "first_seen_at_jst": "2026-10-21T08:50:23.578709+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469518772"
     },
     {
@@ -284,8 +501,8 @@
         "goicon-2026",
         "アートワーク"
       ],
-      "rating": 10,
-      "vote_count": 12,
+      "rating": 15,
+      "vote_count": 17,
       "revision_count": 2,
       "comment_count": 1,
       "content_hash": "sha256:8d5d4911547828d826c4231f55d75e6aed67cda0652641a5669b8474a5ae324d",
@@ -293,7 +510,7 @@
       "text_content_length": 1203,
       "first_seen_at_jst": "2026-10-21T08:50:23.578709+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469518769"
     },
     {
@@ -338,8 +555,8 @@
         "壊れた神の教会",
         "夏王朝"
       ],
-      "rating": 7,
-      "vote_count": 9,
+      "rating": 11,
+      "vote_count": 13,
       "revision_count": 1,
       "comment_count": 1,
       "content_hash": "sha256:45acea4cf551417dfb6c38a7f7b6478ee6262592c038455c029f01f92a965a26",
@@ -347,7 +564,7 @@
       "text_content_length": 261,
       "first_seen_at_jst": "2026-10-21T08:50:23.578709+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469518760"
     },
     {
@@ -385,7 +602,7 @@
       "created_at_jst": "2026-10-20T20:35:51+09:00",
       "created_by": "NUGGe2",
       "content_warnings": [],
-      "summary_basis": "[[collapsible show=\"+ 使用画像のライセンス表示を開く\" hide=\"- 使用画像のライセンス表示を閉じる\"]]\n\nファイルページ: Screenshot_20260129-085829.png 1600_MEMETIC KILL AGENT\nファイル名: Screenshot_20260129-085829.png\n\n以下のファイルは管理者の権限により\n最高機密\nに分類されています\n\n一般通告001-アルファ: SCP-001の情報漏洩の防止策として、偽造SCP-001ファイルが本当のファイルと共に複数作成されました (または作成されていません)。偽造を含む、全てのSCP-001の性質に関する資料にはミーム殺害エージェントによる保護が施されており、無許可の職員がファイルへのアクセスを試みた場合、即座に心停止が引き起こされるよう設定されています。████-███-██████下の要請を除き、SCP-001の本当の性質を一般人に公開する行為は処刑事由となります。\n\n警告:\nこのファイルにアクセスしている無許可の職員はベリーマン=ラングフォード・ミーム殺害エージェントにより即座に処分されます。適切なミーム摂取無しに下部へとスクロールを行えば、即座に致死性の心停止が発生します。\n警告を理解した上でスクロールしてください。\n\nミーム殺害エージェント作動\n生命兆候の喪失を確認\nターミナルを終了",
+      "summary_basis": "ファイルページ: Screenshot_20260129-085829.png 1600_MEMETIC KILL AGENT\nファイル名: Screenshot_20260129-085829.png\n\n[[/div]]\n\n以下のファイルは管理者の権限により\n最高機密\nに分類されています\n\n一般通告001-アルファ: SCP-001の情報漏洩の防止策として、偽造SCP-001ファイルが本当のファイルと共に複数作成されました (または作成されていません)。偽造を含む、全てのSCP-001の性質に関する資料にはミーム殺害エージェントによる保護が施されており、無許可の職員がファイルへのアクセスを試みた場合、即座に心停止が引き起こされるよう設定されています。████-███-██████下の要請を除き、SCP-001の本当の性質を一般人に公開する行為は処刑事由となります。\n\n警告:\nこのファイルにアクセスしている無許可の職員はベリーマン=ラングフォード・ミーム殺害エージェントにより即座に処分されます。適切なミーム摂取無しに下部へとスクロールを行えば、即座に致死性の心停止が発生します。\n警告を理解した上でスクロールしてください。\n\nミーム殺害エージェント作動\n生命兆候の喪失を確認\nターミナルを終了",
       "summary_basis_type": "opening",
       "tags": [
         "en",
@@ -396,16 +613,16 @@
         "視覚",
         "認識災害"
       ],
-      "rating": -9,
-      "vote_count": 11,
-      "revision_count": 1,
-      "comment_count": 0,
-      "content_hash": "sha256:a92e4103c4b4f40123f5e1c7bbc916bc8f550917ca0d4707f1548e049cf40ec8",
+      "rating": -13,
+      "vote_count": 17,
+      "revision_count": 3,
+      "comment_count": 2,
+      "content_hash": "sha256:71d6ea8619e23997ce41f5ca53dff325ba8b9c63169ec72d69a363f9c869f705",
       "has_text_content": true,
-      "text_content_length": 1225,
+      "text_content_length": 1171,
       "first_seen_at_jst": "2026-10-21T08:50:23.578709+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469518759"
     },
     {
@@ -443,7 +660,7 @@
       "created_at_jst": "2026-10-20T20:28:26+09:00",
       "created_by": "NUGGe2",
       "content_warnings": [],
-      "summary_basis": "ごめん。ごめん。ごめん。ごめん。\n\n特別収容プロトコル: 記憶処理は無効。セマンティック通信の全容量は不明。簡潔にせよ。直接的な描写や言及は避けること。自殺/死の表現は、いかなる状況であれ好ましくない。屈するな。\n主要な施設は復旧不可能。関連する死後世界への漏出は、ゲシュタルトの規模に比例する; 対象が何かに似ているか、あるいは道徳的な懸念があるかに関わらず、直ちに排除せよ。当該集団を指し示す、信頼に足る安全な呼称は存在しない。\n意識/完全消滅に関する研究は、どんな犠牲を払ってでも無期限に継続しなければならない: 消滅が確実であることを証明する必要がある。イブプロフェンやオピオイドは、知覚に及ぼす影響を緩和する。TTフィルター付き魂知覚装置が最も安全; 装備が限られてるなら目をくり抜け\n感染は\n対象者は、その前に徐々に認識\n文書が破損した。申し訳ない。",
+      "summary_basis": "ごめん。ごめん。ごめん。ごめん。\n\n特別収容プロトコル: 記憶処理は無効。意味的な手段による通信の有効性は不明。簡潔にせよ。直接的な描写や言及はするな。自殺/死は、いかなる状況であれ好ましくない。屈するな。\n主要な施設は復旧不可能。関連する死後世界への漏出は、ゲシュタルトの規模に比例する; 非影響者が似ているか、または道徳的な懸念があるかに関わらず、直ちに終了せよ。信頼性または安全な集団の呼称は存在しない。\n意識/完全消滅に関する研究は、どんな犠牲を払ってでも無期限に継続しなければならない: 消滅が確実であることを断言する必要がある。イブプロフェンやオピオイドは、知覚に及ぼす影響を緩和する。TTフィルター付き魂知覚装置が最も安全; フィルター無しの装備しか無いなら目をくり抜け\n感染の現れは\n対象者は、その前に徐々に自覚し\n文書が影響を受けた。申し訳ない。",
       "summary_basis_type": "opening",
       "tags": [
         "en",
@@ -452,16 +669,16 @@
         "scp",
         "情報災害"
       ],
-      "rating": -8,
-      "vote_count": 8,
-      "revision_count": 1,
-      "comment_count": 2,
-      "content_hash": "sha256:093ddbdb020c731774f12dd41b8ae066ce79ab50afa3b534b7a3ef494a0f858f",
+      "rating": -13,
+      "vote_count": 13,
+      "revision_count": 3,
+      "comment_count": 4,
+      "content_hash": "sha256:c49d88632cd859fdbad09865161b0c36065598b63a4bb1e9158c6fd204a29d4e",
       "has_text_content": true,
-      "text_content_length": 805,
+      "text_content_length": 806,
       "first_seen_at_jst": "2026-10-21T08:50:23.578709+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469518717"
     },
     {
@@ -511,8 +728,8 @@
         "時間",
         "crom:series-3"
       ],
-      "rating": 2,
-      "vote_count": 2,
+      "rating": 1,
+      "vote_count": 3,
       "revision_count": 1,
       "comment_count": 0,
       "content_hash": "sha256:a9ead7d2b995f7ff60a9e5341beb02a213ef60a6b6bcc85caf74fa694a1a24d1",
@@ -563,8 +780,8 @@
         "外部エントロピー",
         "金属"
       ],
-      "rating": 9,
-      "vote_count": 29,
+      "rating": 15,
+      "vote_count": 39,
       "revision_count": 3,
       "comment_count": 1,
       "content_hash": "sha256:734f39f72b123a4caeafa06cdf31c514d725674903a3f8689da8fa69792c8f50",
@@ -618,7 +835,7 @@
         "記憶媒体"
       ],
       "rating": -14,
-      "vote_count": 20,
+      "vote_count": 22,
       "revision_count": 3,
       "comment_count": 2,
       "content_hash": "sha256:de7769f304764a77a191c819a77d300fcec5fdd45267519c7316fc95cc02facc",
@@ -665,8 +882,8 @@
         "ギアーズ博士",
         "黒の女王"
       ],
-      "rating": 52,
-      "vote_count": 54,
+      "rating": 56,
+      "vote_count": 58,
       "revision_count": 1,
       "comment_count": 3,
       "content_hash": "sha256:9710c1e1bbea8a94fc8357b341d847fb60141bcef6190388d27e7a3a25f690c6",
@@ -722,8 +939,8 @@
         "重力",
         "crom:series-4"
       ],
-      "rating": 4,
-      "vote_count": 8,
+      "rating": 5,
+      "vote_count": 9,
       "revision_count": 1,
       "comment_count": 1,
       "content_hash": "sha256:20f85868b237933641f7e2181badff63f700d2df99178a8f6a2b660c00acf954",
@@ -772,8 +989,8 @@
         "強制力",
         "認識災害"
       ],
-      "rating": -24,
-      "vote_count": 24,
+      "rating": -26,
+      "vote_count": 26,
       "revision_count": 3,
       "comment_count": 2,
       "content_hash": "sha256:b1755ddcc436f744ae9868ab2078ae672b33184ac55167b7b4daefdcbeec1225",
@@ -826,8 +1043,8 @@
         "知性",
         "精神影響"
       ],
-      "rating": -22,
-      "vote_count": 24,
+      "rating": -23,
+      "vote_count": 25,
       "revision_count": 2,
       "comment_count": 4,
       "content_hash": "sha256:bc6ec1184cf0ebf7a0fcfed156f49767eff6fd001c576df577b0eb4eacf79841",
@@ -872,8 +1089,8 @@
         "jp",
         "アートワーク"
       ],
-      "rating": 60,
-      "vote_count": 62,
+      "rating": 64,
+      "vote_count": 66,
       "revision_count": 1,
       "comment_count": 1,
       "content_hash": "sha256:915eef821d07ba1f7cdcb091a904c11009ede8da31bbe995abd603c4bf00b990",
@@ -934,10 +1151,10 @@
         "語り",
         "音楽"
       ],
-      "rating": 18,
-      "vote_count": 30,
+      "rating": 20,
+      "vote_count": 34,
       "revision_count": 1,
-      "comment_count": 2,
+      "comment_count": 3,
       "content_hash": "sha256:f522f22f304b92ad40327cc224574c9d80cd72febaa4deb5263cbbeda17ee635",
       "has_text_content": true,
       "text_content_length": 3105,
@@ -1203,8 +1420,8 @@
         "jp",
         "tale"
       ],
-      "rating": 66,
-      "vote_count": 88,
+      "rating": 68,
+      "vote_count": 90,
       "revision_count": 1,
       "comment_count": 1,
       "content_hash": "sha256:dd27c37f57cf30fa4d888e81eb4193c404f0ffd44623496f387bb31191409482",
@@ -1266,8 +1483,8 @@
         "音楽",
         "crom:series-5"
       ],
-      "rating": 0,
-      "vote_count": 0,
+      "rating": 1,
+      "vote_count": 1,
       "revision_count": 1,
       "comment_count": 1,
       "content_hash": "sha256:a66a05908412753686767c013c6f387ff79faf0a658207c13a440a8f80a532da",
@@ -1314,8 +1531,8 @@
         "キャンペーン",
         "ハブ"
       ],
-      "rating": 74,
-      "vote_count": 74,
+      "rating": 76,
+      "vote_count": 76,
       "revision_count": 4,
       "comment_count": 3,
       "content_hash": "sha256:9441f7f6619da0eb278be676edaa520fcff4075ebf5ad05969ce5867e3d80b81",
@@ -1361,8 +1578,8 @@
         "tale",
         "ジョーク"
       ],
-      "rating": 32,
-      "vote_count": 112,
+      "rating": 31,
+      "vote_count": 113,
       "revision_count": 2,
       "comment_count": 7,
       "content_hash": "sha256:8dbd905bc00529f0c26b53ce5f21146fcb0e1b6ed5b1399cc8a4ff28e694e04b",
@@ -1821,120 +2038,6 @@
       "baseline": false,
       "is_new_this_run": false,
       "notification_id": "1469502400"
-    },
-    {
-      "wikidot_id": "1469501076",
-      "page_name": "scp-7551",
-      "url": "https://scp-jp.wikidot.com/scp-7551",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translation_responsible",
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "EN",
-      "source_branch_basis": "original_url",
-      "genre": "SCP報告書",
-      "article_title": "SCP-7551",
-      "subtitle": "自己挿入",
-      "authors": [],
-      "original_title": "Self Insert",
-      "original_url": "https://scp-wiki.wikidot.com/scp-7551",
-      "original_authors": [
-        "Kaether"
-      ],
-      "original_year": "2023",
-      "translation_year": "2026",
-      "translation_responsible": [
-        "ctes091x"
-      ],
-      "translators": [
-        "ctes091x"
-      ],
-      "created_at_utc": "2026-10-14T14:59:31.000Z",
-      "created_at_jst": "2026-10-14T23:59:31+09:00",
-      "created_by": "ctes091x",
-      "content_warnings": [],
-      "summary_basis": "説明: SCP-7551は元部門長であるアンナ・デュクロフを指す名称です。SCP-7551は2019年6月15日、18歳で大学を卒業した直後に財団に雇用されました。空想科学分野における並外れた能力と熟練、異常なまでに完璧な研究、ならびにその実践的応用により、SCP-7551は2020年9月7日付けで研究員に昇進しました。翌年、SCP-7551は2021年3月22日付けで上級研究員に昇進し、その2年後、2023年1月25日付けで部門長に昇進しました。\n除外サイトのアーカイブは、SCP-7551の昇進に関する調査が2022年後半に開始されたものの、その後中断され、関連する全ファイルが財団の記録から消失したことを示しています。SCP-7551-EXはこの調査を開始した人物を指す名称です。SCP-7551-EXの氏名は、除外サイトを含む全ての記録から抹消されています。これは、この人物の氏名に関連する非常に強力なミーム的効果によるものです。このミーム的効果の無効化とSCP-7551-EXの身元特定を目的とする調査は、反ミーム部門により2023年6月26日に開始されました。\n\n+ アンナ・デュクロフ博士の人事ファイル\n\n- 閉じる\n\n氏名: アンナ・デュクロフ博士\nクリアランスレベル: 4\n職務: 空想科学部門 部門長\nプロフィール: アンナ・デュクロフはプレスクールから高校1年生までの全ての授業をGPA4.0の満点で修了しました。これにより大学へ飛び入学して以降もクラスメイトを凌駕する成績を収め続けました。デュクロフ博士は大学2年生、18歳の時点で財団に直接雇用されました。デュクロフ博士は小学2年生の頃から科学・哲学・理論物理学に魅了され、とりわけ自分の住む現実は書かれた物語であるというアイデアに関心を抱いていました。彼女は幼い頃から、物語のトロープに起因するパターンを現実の中に見出してきました。これにより嘲笑を買うこともありましたが、学業の成績への影響はなく、この関心と才能によって、雇用直後に次席研究員として空想科学部門に配属されました。\nデュクロフ博士は空想科学部門で急速に昇進し、6年足らずのうちに部門長に就任しました\n\n+ インシデント記録: 2023年6月5日\n\n- 閉じる\n\n財団サイト-11\n空想科学部門\n重大インシデント報告\n2023年6月5日\n\n対象:\n\nアンナ・デュクロフ部門長、死亡\n身元不明の人物、死亡\n匿名の保安職員、事情聴取中\n\n場所:\n空想科学観測実験室3C、サイト-11・セクター-6\n詳細:\n09時43分(GMT-4)、大量の観測機器を空想科学観測実験室3Cから運び出す対象1(アンナ・デュクロフ)が監視カメラで確認されました。その場で対象3(保安職員)による尋問が行われ、対象1は実験のために部屋を空けていると説明しました。高価な精密機器を大量に室外の廊下に並べて通路を塞ぎ、機器を損傷の危険に晒すなど数々の明白なセキュリティ・安全手順への違反があったにもかかわらず、対象3は突然納得して歩き去りました。\n13時01分(GMT-4)、対象1は大量の機器を保管庫から実験室内に取り出しました。これらの機器の完全な目録は現地に残された記録および証拠に基いて復元されており、目録作成は現在も継続中です。\n14時21分(GMT-4)、空想科学部門での電力使用量の極端な増大が技術部門により確認されました。\n14時59分(GMT-4)、空想科学観測実験室3Cで爆発が発生しました。この爆発によりサイト-11・セクター-6に甚大な被害が生じ、空想科学部門全体が破壊されたほか、近隣施設にも多大な損害が生じました。このインシデントにより106名の死者が生じたほか、被害区画周縁部ではさらに23名の負傷者が生じたものの、全員の完全な回復が見込まています。対象1、アンナ・デュクロフもこの死傷者の1人でした。これに加え、対象2の遺体も発見されました。監視カメラの記録から、対象1はインシデント直前に室内に一人でいたことが確認されています。対象2の身元は調査中です。\n原因:\nこのインシデントの原因に関する調査は現在も進行中ですが、予備調査の限りでは現場に残存した機器や資材はこの結果をもたらし得ないものでした。現場に高性能爆薬は存在せず、また対象1もこれを入手可…",
-      "summary_basis_type": "description",
-      "tags": [
-        "en",
-        "euclid",
-        "scp",
-        "ミーム",
-        "メタフィクション",
-        "人間型",
-        "知性",
-        "空想科学部門",
-        "crom:series-8"
-      ],
-      "rating": 4,
-      "vote_count": 4,
-      "revision_count": 2,
-      "comment_count": 0,
-      "content_hash": "sha256:751d437684ff106fc63c51e04d6fdeb70ebefad98ecf36c6ca8366ffc4f8e40e",
-      "has_text_content": true,
-      "text_content_length": 4625,
-      "first_seen_at_jst": "2026-10-15T08:53:57.972521+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469501076"
-    },
-    {
-      "wikidot_id": "1469500269",
-      "page_name": "goicon-2026",
-      "url": "https://scp-jp.wikidot.com/goicon-2026",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translation_responsible",
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "EN",
-      "source_branch_basis": "original_url",
-      "genre": "ハブ",
-      "article_title": "要注意団体コンテスト2026",
-      "subtitle": null,
-      "authors": [],
-      "original_title": "Groups of Interest Contest 2026",
-      "original_url": "https://scp-wiki.wikidot.com/goicon-2026",
-      "original_authors": [],
-      "original_year": null,
-      "translation_year": "2026",
-      "translation_responsible": [
-        "oplax-counterpoint"
-      ],
-      "translators": [
-        "oplax-counterpoint"
-      ],
-      "created_at_utc": "2026-10-14T10:39:26.000Z",
-      "created_at_jst": "2026-10-14T19:39:26+09:00",
-      "created_by": "oplax-counterpoint",
-      "content_warnings": [],
-      "summary_basis": "ページ投稿者: Uncle Nicolini\n初訳時参照版: rev. 387 ('26/10/09)\n\nGoICon\n\n世界オカルト連合\nAre We Cool Yet?\nマーシャル・カーター＆ダーク\n蛇の手\nウィルソンズ・ワイルドライフ・ソリューションズ\n連邦捜査局異常事件課\n\nコンテスト終了\n\n最終ランキング\n\nコンテスト期間は終了です。エントリーありがとうございます！基準をクリアしたチームは32チームあり、各チームの集計対象上位3作品の獲得票数の合計が得点になります。\n\n1\n\n第一位\n\nルイス・デュシャン記念郡スーパーファンド・サイト\n\nTyGently, A Random Day, whenwerewe\n\n上位3作品\n\n214\n\npts\n\n2\n\n第二位\n\nパラウォッチャーズ・オブ・ザ・ボード\n\nDFAstillo91, WaylandLaurencePan, lesnoc\n\n上位3作品\n\n202\n\npts\n\n3\n\n第三位\n\nCORPORATE YAOINATOR 9000!!!!!!!!\n\nxexnoncores, mxsinister, Tyrastafr\n\n上位3作品\n\n171\n\npts\n\n有資格チーム\n\n全順位一覧\n\n有資格チームは最終ランキング順に並べられています。\n\n4\n\n儀式的な焼身による死\n\n141\n\n5\n\n公開去勢はいいアイデアだ\n\n124\n\n6\n\nここ、ワッフルハウスじゃないと思う\n\n118\n\n7\n\nトレンチコートを着た3頭のクィア・ディア\n\n114\n\n8\n\nRNA (ロボ核酸)\n\n112\n\n9\n\n非典型的ジャズ・キャベツ\n\n95\n\n10\n\nチーム・0\n\n94\n\n11\n\nザ・デッド・サウス\n\n89\n\n12/13\n\nグラグル・シンプソン陰謀論者\n\n88\n\n12/13\n\n要摂取団体 (Group of Ingest)\n\n88\n\n14\n\nフェブリス熱ですね\n\n86\n\n15\n\nおい、ここはケモ病院らしいぜ\n\n85\n\n16\n\nTEAM BVRD\n\n84\n\n17\n\n愛の力 VS. 圧倒的暴力\n\n77\n\n18\n\nきみのベッドの下のモンスター\n\n68\n\n19\n\nNSFW活動\n\n61\n\n20\n\n複線ドリフトつき5Dチェス\n\n59\n\n21\n\n\"平和に関与せず\" (Uninvolved in Peace)\n\n58\n\n22\n\n水底の記憶\n\n55\n\n23/24/25\n\nトゥントゥントゥンSahoria\n\n47\n\n23/24/25\n\nフォルテウト・シシュ・ケバブ\n\n47\n\n23/24/25\n\nインドネシアンズ、あるいはトゥントゥントゥンサフールの正当な権利者\n\n47\n\n26\n\nALAN WAKE'S AMERICAN NIGHTMARE\n\n43\n\n27\n\nロス・ポジョス・エルマノス (Los Pollos Hermanos)\n\n41\n\n28\n\nザ・ペーパーボーイズ\n\n38\n\n29\n\nビッグ・テリーズ・クルー\n\n36\n\n30\n\nチーム・異常性質\n\n27\n\n31\n\nアンユージュアル株式会社 (UNUSUAL, INC.)\n\n11\n\n32\n\n鹿、植物、そして道化は図書館へと歩いていく\n\n6\n\nアート部門\n\nアート部門・最終ランキング\n\n#1\n\nMagnum Opus: Four Transmutations\n\nby Olicus\n\n94\n\n#2\n\nGoihuman！\n\nby EvelynLena\n\n83\n\n#3\n\n閉店時刻\n\nby Tyrastafr\n\n68\n\n4\n\nUnder WAN's Light by lesnoc\n\n46\n\n5\n\nWords of Poison in the Inkwell by Dino--Draws\n\n40\n\n6\n\nREST IN FEVER: HECK'S POSTER GALLERY by Heck_Tech\n\n36\n\n7\n\n太歲的創造(太歲の創造) by 7h3517v39lining\n\n33\n\n8\n\nSomething's Weird About This Ad by WaylandLaurencePan\n\n30\n\n9\n\n営業時間外 by Diristine\n\n28\n\n10\n\nNO PASARÁN by Diogene_s\n\n26\n\n11\n\nThe Herald by agente alan\n\n26\n\n12\n\nなんでも、いつでも by nxcnibiru\n\n24\n\n13\n\n第二ハイトス教会礼拝ポスター by zkidanomalous\n\n22\n\n14\n\n酩酊街よりサンドバッグを、愛を込めて by frozenFoxB\n\n19\n\n15\n\nMitsuri's Meet the Artist by Shirley Sterling\n\n13\n\nアーカイブ済資料\n参照のため、コンテスト概要、参加方法、日程、ルールは以下に保管されています。\n\n+ コンテスト概要、日程、ルールのアーカイブを見る +\n\n- コンテスト概要、日程、ルールのアーカイブを閉じる -\n\n広大なSCP財団の世界は、多種多様でニッチな要注意団体に溢れています。超常軍隊からオンラインのフォーラム廃人シットポスターまで、あるいはうぬぼれたアーティストまで、動物に身を捧げるやつらでさえ⸺なんでも取り揃えています。そしてそれが今回のコンテストの趣向です：SCP財団の宇宙を彩る数多のGoIを讃えよ！\nこのコンテストのために新しいものを作っているかどうか、古のSCPをGoIフレーバーにアレンジするかどうか、あるいは定石通りの方法を採るかどうかに関わらず、このコンテストでは最大3人のチームを組んで、あなたが使用したいGoI(s)の物語を執筆してもらいます！\n\nチーム一覧へ飛ぶ",
-      "summary_basis_type": "overview",
-      "tags": [
-        "en",
-        "goicon-2026",
-        "コンテスト",
-        "ハブ",
-        "共著"
-      ],
-      "rating": 35,
-      "vote_count": 35,
-      "revision_count": 7,
-      "comment_count": 1,
-      "content_hash": "sha256:eef8b06349a9009c1d44e7a3b3a738b43e80c7e1f005df6272a0eac9e46d381f",
-      "has_text_content": true,
-      "text_content_length": 26793,
-      "first_seen_at_jst": "2026-10-15T08:53:57.972521+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469500269"
     }
   ]
 }
