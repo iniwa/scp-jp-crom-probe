@@ -1,14 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-10-21T23:59:12.096628+00:00",
-  "generated_at_jst": "2026-10-22T08:59:12.096628+09:00",
+  "generated_at_utc": "2026-10-22T23:58:11.220516+00:00",
+  "generated_at_jst": "2026-10-23T08:58:11.220516+09:00",
   "retention_hours": 168,
-  "new_this_run_ids": [
-    "1469521437",
-    "1469521657",
-    "1469522001",
-    "1469522159"
-  ],
+  "new_this_run_ids": [],
   "articles": [
     {
       "wikidot_id": "1469522159",
@@ -61,8 +56,8 @@
         "衣類",
         "crom:series-3"
       ],
-      "rating": 0,
-      "vote_count": 0,
+      "rating": 1,
+      "vote_count": 1,
       "revision_count": 1,
       "comment_count": 0,
       "content_hash": "sha256:a2c2e586855f5436868605d8f2955b915650cfd9a145ce0ca98db9a106b4c774",
@@ -70,7 +65,7 @@
       "text_content_length": 6697,
       "first_seen_at_jst": "2026-10-22T08:59:12.096628+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469522159"
     },
     {
@@ -112,8 +107,8 @@
         "削除通知",
         "情報災害"
       ],
-      "rating": -6,
-      "vote_count": 14,
+      "rating": -15,
+      "vote_count": 25,
       "revision_count": 2,
       "comment_count": 2,
       "content_hash": "sha256:651e6a482b9ec93b931e1cb08ad43d1c38b3054ccf98f342faac085a6fa411d0",
@@ -121,7 +116,7 @@
       "text_content_length": 168,
       "first_seen_at_jst": "2026-10-22T08:59:12.096628+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469522001"
     },
     {
@@ -180,7 +175,7 @@
       "text_content_length": 3962,
       "first_seen_at_jst": "2026-10-22T08:59:12.096628+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469521657"
     },
     {
@@ -219,8 +214,8 @@
         "scp",
         "削除通知"
       ],
-      "rating": -17,
-      "vote_count": 19,
+      "rating": -24,
+      "vote_count": 26,
       "revision_count": 4,
       "comment_count": 2,
       "content_hash": "sha256:40f3c79dbe0a09b9b1001fa94f28fe5685619d56030d8ee3f466a97b2cb69b9d",
@@ -228,7 +223,7 @@
       "text_content_length": 8291,
       "first_seen_at_jst": "2026-10-22T08:59:12.096628+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469521437"
     },
     {
@@ -396,8 +391,8 @@
         "アートワーク",
         "第二ハイトス教会"
       ],
-      "rating": 10,
-      "vote_count": 10,
+      "rating": 12,
+      "vote_count": 12,
       "revision_count": 1,
       "comment_count": 1,
       "content_hash": "sha256:d72c2fcbbab80f7d35697e2b60b85ea0da5484ebb8e7a450521f9aa8cdf164b4",
@@ -501,8 +496,8 @@
         "goicon-2026",
         "アートワーク"
       ],
-      "rating": 15,
-      "vote_count": 17,
+      "rating": 17,
+      "vote_count": 19,
       "revision_count": 2,
       "comment_count": 1,
       "content_hash": "sha256:8d5d4911547828d826c4231f55d75e6aed67cda0652641a5669b8474a5ae324d",
@@ -613,8 +608,8 @@
         "視覚",
         "認識災害"
       ],
-      "rating": -13,
-      "vote_count": 17,
+      "rating": -12,
+      "vote_count": 18,
       "revision_count": 3,
       "comment_count": 2,
       "content_hash": "sha256:71d6ea8619e23997ce41f5ca53dff325ba8b9c63169ec72d69a363f9c869f705",
@@ -660,7 +655,7 @@
       "created_at_jst": "2026-10-20T20:28:26+09:00",
       "created_by": "NUGGe2",
       "content_warnings": [],
-      "summary_basis": "ごめん。ごめん。ごめん。ごめん。\n\n特別収容プロトコル: 記憶処理は無効。意味的な手段による通信の有効性は不明。簡潔にせよ。直接的な描写や言及はするな。自殺/死は、いかなる状況であれ好ましくない。屈するな。\n主要な施設は復旧不可能。関連する死後世界への漏出は、ゲシュタルトの規模に比例する; 非影響者が似ているか、または道徳的な懸念があるかに関わらず、直ちに終了せよ。信頼性または安全な集団の呼称は存在しない。\n意識/完全消滅に関する研究は、どんな犠牲を払ってでも無期限に継続しなければならない: 消滅が確実であることを断言する必要がある。イブプロフェンやオピオイドは、知覚に及ぼす影響を緩和する。TTフィルター付き魂知覚装置が最も安全; フィルター無しの装備しか無いなら目をくり抜け\n感染の現れは\n対象者は、その前に徐々に自覚し\n文書が影響を受けた。申し訳ない。",
+      "summary_basis": "ごめん。ごめん。ごめん。ごめん。\n\n特別収容プロトコル: 記憶処理は無効。意味的な手段による通信の全容は不明。簡潔にせよ。直接的な描写や言及はするな。自殺/死は、いかなる状況であれ好ましくない。屈するな。\n主要な施設は復旧不可能。関連する死後世界への漏出は、ゲシュタルトの規模に比例する; 被影響者が似ているか、または道徳的な懸念があるかに関わらず、直ちに終了せよ。信頼性または安全な集団の呼称は存在しない。\n意識/完全消滅に関する研究は、どんな犠牲を払ってでも無期限に継続しなければならない: 消滅が確実であることを裏付ける必要がある。イブプロフェンやオピオイドは、知覚に及ぼす影響を緩和する。TTフィルター付き魂知覚装置が最も安全; フィルター無しの装備しか無いなら目をくり抜け\n感染の現れは\n対象者は、徐々に自覚を示してから\n文書が影響を受けた。申し訳ない。",
       "summary_basis_type": "opening",
       "tags": [
         "en",
@@ -669,11 +664,11 @@
         "scp",
         "情報災害"
       ],
-      "rating": -13,
-      "vote_count": 13,
-      "revision_count": 3,
-      "comment_count": 4,
-      "content_hash": "sha256:c49d88632cd859fdbad09865161b0c36065598b63a4bb1e9158c6fd204a29d4e",
+      "rating": -14,
+      "vote_count": 14,
+      "revision_count": 4,
+      "comment_count": 6,
+      "content_hash": "sha256:8799a2e6d5533362f5004197618ccb8f5fdc5524a2dd51a042695116f14006c1",
       "has_text_content": true,
       "text_content_length": 806,
       "first_seen_at_jst": "2026-10-21T08:50:23.578709+09:00",
@@ -780,8 +775,8 @@
         "外部エントロピー",
         "金属"
       ],
-      "rating": 15,
-      "vote_count": 39,
+      "rating": 17,
+      "vote_count": 43,
       "revision_count": 3,
       "comment_count": 1,
       "content_hash": "sha256:734f39f72b123a4caeafa06cdf31c514d725674903a3f8689da8fa69792c8f50",
@@ -882,8 +877,8 @@
         "ギアーズ博士",
         "黒の女王"
       ],
-      "rating": 56,
-      "vote_count": 58,
+      "rating": 57,
+      "vote_count": 59,
       "revision_count": 1,
       "comment_count": 3,
       "content_hash": "sha256:9710c1e1bbea8a94fc8357b341d847fb60141bcef6190388d27e7a3a25f690c6",
@@ -1089,8 +1084,8 @@
         "jp",
         "アートワーク"
       ],
-      "rating": 64,
-      "vote_count": 66,
+      "rating": 65,
+      "vote_count": 67,
       "revision_count": 1,
       "comment_count": 1,
       "content_hash": "sha256:915eef821d07ba1f7cdcb091a904c11009ede8da31bbe995abd603c4bf00b990",
@@ -1265,8 +1260,8 @@
         "scp",
         "死体"
       ],
-      "rating": 18,
-      "vote_count": 22,
+      "rating": 19,
+      "vote_count": 23,
       "revision_count": 3,
       "comment_count": 1,
       "content_hash": "sha256:6f5a64f17d81f68d1f4bf01c9b8cb41a002a4d7e1a9af1a1e04b660f27dcf8ef",
@@ -1420,8 +1415,8 @@
         "jp",
         "tale"
       ],
-      "rating": 68,
-      "vote_count": 90,
+      "rating": 69,
+      "vote_count": 91,
       "revision_count": 1,
       "comment_count": 1,
       "content_hash": "sha256:dd27c37f57cf30fa4d888e81eb4193c404f0ffd44623496f387bb31191409482",
@@ -1578,8 +1573,8 @@
         "tale",
         "ジョーク"
       ],
-      "rating": 31,
-      "vote_count": 113,
+      "rating": 32,
+      "vote_count": 114,
       "revision_count": 2,
       "comment_count": 7,
       "content_hash": "sha256:8dbd905bc00529f0c26b53ce5f21146fcb0e1b6ed5b1399cc8a4ff28e694e04b",
@@ -1630,8 +1625,8 @@
         "日本生類創研",
         "頭足類"
       ],
-      "rating": 12,
-      "vote_count": 22,
+      "rating": 14,
+      "vote_count": 24,
       "revision_count": 2,
       "comment_count": 1,
       "content_hash": "sha256:f9ae574623499e4083926c482dbcbbf3b74fecee4b6c76a30bcdd48bde0bcb44",
@@ -1701,343 +1696,6 @@
       "baseline": false,
       "is_new_this_run": false,
       "notification_id": "1469504552"
-    },
-    {
-      "wikidot_id": "1469503575",
-      "page_name": "scp-3681-jp",
-      "url": "https://scp-jp.wikidot.com/scp-3681-jp",
-      "edition": "jp_original",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "jp_tag"
-      ],
-      "source_branch": "JP",
-      "source_branch_basis": "jp_tag",
-      "genre": "SCP報告書",
-      "article_title": "SCP; ZOMB JYNX. VERD. FLIGHT, QUAWK.",
-      "subtitle": null,
-      "authors": [
-        "wavekey"
-      ],
-      "original_title": null,
-      "original_url": null,
-      "original_authors": [],
-      "original_year": null,
-      "translation_year": null,
-      "translation_responsible": [],
-      "translators": [],
-      "created_at_utc": "2026-10-15T13:45:03.000Z",
-      "created_at_jst": "2026-10-15T22:45:03+09:00",
-      "created_by": "wavekey",
-      "content_warnings": [],
-      "summary_basis": "SCP;1 ZOMB2 JYNX.3\nVERD.4\nFLIGHT,5 QUAWK.6\n\nFootnotes\n1. 訳注: SCP;\n2. 訳注: ゾンビの\n3. 訳注: アリスイ(キツツキの仲間)。\n4. 訳注: 緑色。\n5. 訳注: 飛行、\n6. 訳注: 耳障りな鳴き声。",
-      "summary_basis_type": "opening",
-      "tags": [
-        "esoteric-class",
-        "jp",
-        "scp",
-        "メタ",
-        "削除通知",
-        "情報災害",
-        "死体",
-        "死後",
-        "空中",
-        "蘇生",
-        "誤伝達部門",
-        "鳥類"
-      ],
-      "rating": -11,
-      "vote_count": 15,
-      "revision_count": 2,
-      "comment_count": 2,
-      "content_hash": "sha256:0b7f66a46996453df715cc5fd3d95c5c1e20f88afec743c35bcd561e87db1738",
-      "has_text_content": true,
-      "text_content_length": 226,
-      "first_seen_at_jst": "2026-10-16T08:39:38.598201+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469503575"
-    },
-    {
-      "wikidot_id": "1469503562",
-      "page_name": "scp-8006",
-      "url": "https://scp-jp.wikidot.com/scp-8006",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "EN",
-      "source_branch_basis": "original_url",
-      "genre": "SCP報告書",
-      "article_title": "SCP-8006",
-      "subtitle": "線路上の残骸",
-      "authors": [],
-      "original_title": "Debris on the Tracks",
-      "original_url": "https://scp-wiki.wikidot.com/scp-8006",
-      "original_authors": [
-        "TheChunk"
-      ],
-      "original_year": "2024",
-      "translation_year": "2026",
-      "translation_responsible": [],
-      "translators": [],
-      "created_at_utc": "2026-10-15T13:29:21.000Z",
-      "created_at_jst": "2026-10-15T22:29:21+09:00",
-      "created_by": "Tetsu1",
-      "content_warnings": [],
-      "summary_basis": "\"2022年には300以上の遺体がニューヨーク地下鉄から撤去された。人間ですらないものが死んだとして、どこに心配する暇がある？\"\n\n翻訳局長: Tetsu1\n\nニューヨーク市地下鉄は毎日360万人の人々が利用している。まあ、いつも正しく動くわけじゃない。古いし、オンボロだし、浣腸がなきゃろくに動かない。レールは壊れ、信号は故障し、ゴミは燃える。ネズミの話なんてもう聞きたくもない。120年も前のシステムで、ダクトテープとスペアパーツでなんとか繋ぎ止められている。しかし、ニューメキシコ州の全人口よりも多い人数を送り迎えしているとなると、壊して最初から作り直すわけにもいかない。\n2022年には、300人以上が電車に接触した。公式の方針によれば、誰かが電車にぶつかった場合、ニューヨーク市警が徹底的な鑑識を行うまで線路全体を封鎖し、全ての電車を迂回させないとならない。だが本当に毎回そんなことをしていたら街中で暴動が起こる。10万人もの乗客が線路が開けるのを待っているとなれば、さっさと片づけて余計な詮索をすべきではない。\n2022年には300以上の遺体がニューヨーク地下鉄から撤去された。人間ですらないものが死んだとして、どこに心配する暇がある？\n– ニューヨーク州都市交通局上級局長ルペンドラ・チョードリーの供述録取より抜粋、2023年8月12日\n\nSCP-8006にアクセスしますか？\n\n閉じる\n\nアイテム番号: 8006\n\nレベル2\n\n収容クラス:\npending\n\n副次クラス:\nnone\n\n撹乱クラス:\nnone\n\nリスククラス:\nnone\n\nlink to memo\n\nSCP-8006は現在分類待ちであり、その影響範囲に関する調査が進行中です。SCP-8006分類についての最新情報が必要に応じて本文書に追記されます。SCP-8006に関する緊急の問い合わせは、サイト-171管理官メリンダ・デイビス及び上級フィールド研究員ジャクソン・デウィットに直接連絡してください。\n財団は2023年以前は、SCP-8006の収容責任はGoI-079（\"都市交通局The Metropolitan Transportation Authority\"（MTA））の管轄下にあるものと認識していました。SCP-8006が関与した最近の事象により財団の介入が必要となったため、この協定は現在見直されています。この見直しの完了後、財団がSCP-8006の全面的な管理を引き受けることになった場合、収容プロトコルは必要に応じて更新されます。\nSCP-8006への財団の調査についての関連文書を、参考資料としてのみ以下に添付します。\n\n補足文書\nルペンドラ・チョードリーからサイト管理官メリンダ・デイビスへのメール、2023年7月29日\n\nTo: メリンダ・デイビス | (ten.171etis.pcs|sivadm#ten.171etis.pcs|sivadm)\nFrom: ルペンドラ・チョードリー | (ofni.atm.wen|yruhdwohc#ofni.atm.wen|yruhdwohc)\n件名: 話をしよう\n\nメリンダへ\nしばらく連絡を取ってなかったことは認める。怒らないでほしい、仕事だったんだ。2003年からいろいろと変わって、1毎日やることが増えた。それ以降話す必要がなかったということは、私たちが上手くやっていることの証左なのかもしれない。\n悪いニュースは、何事もいつまでも上手くはいかないということだ。今回は停電よりも憂慮すべき事態だ。トンネルにあるものがはびこっている。ネズミよりも大きなものだ。実を言うとトンネルができた時点でこれには対処していたんだが、ここまでじゃなかった。いつも通りに片づけられれば良かったんだが、今は850万もの人々が地下鉄に乗るだけで無視できない光景を目にすることになる。\nそろそろ手遅れも近いと思う。\n– ルペンドラ\n\n監視ログ8006.01\n\nMTA上級局長ルペンドラ・チョードリーのオフィスの監視映像の書き起こし、2023年7月31日（映像はニューヨーク都市交通局の厚意により提供）\n\n記録開始\nデイビスサイト管理官はチョードリー局長のオフィスに入り、彼のデスクの前の椅子に座る。\nデイビス: 正しく理解できてるか確認させて。ニューヨーク市の地下には未収容の人型異常存在が大量に生息しているということね。\nチョードリー: そう。\nデイビス: 少なくとも1975年から知ってたのに、今まで私たちに言わないことを選んだと。\nチョードリー: 言う必要がなかった。\nデイビス: それで今、それが蔓延してるからこっちになんとかしてほしいと。\nチョードリー: 「蔓延」という表現は違うな。\nデイビス: 「蛮行に及んでる」？\nチョードリー: だな、蛮行で行こう。\nデイビス: どれくらいの期間こんな風に蛮行を働くのを看過してたの？\nチョードリー: あいつらはずっと前からいた。こんなに手に負えなくなったことはなかったが。普段は電力サージの後に見るくらい。トンネルに影が見えたり、線路に死体があったり。死体すらも前で、2年に1回くらい。もっと少ないかもしれない。奴らを見るのは好きじゃなかったし、向こうも見られるのが好きじゃなかった。理想的な関係性だ。しかし今で…",
-      "summary_basis_type": "opening",
-      "tags": [
-        "8000",
-        "archon",
-        "en",
-        "scp",
-        "プロメテウス",
-        "人間型",
-        "地下",
-        "構造",
-        "種族",
-        "自己修復",
-        "電気",
-        "crom:series-9"
-      ],
-      "rating": 8,
-      "vote_count": 8,
-      "revision_count": 2,
-      "comment_count": 1,
-      "content_hash": "sha256:0167dddebe6fe68aa46d0e2e2ef517844ab229431cb216d95568ca8ecad38369",
-      "has_text_content": true,
-      "text_content_length": 27833,
-      "first_seen_at_jst": "2026-10-16T08:39:38.598201+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469503562"
-    },
-    {
-      "wikidot_id": "1469502932",
-      "page_name": "the-world-looks-red-the-world-looks-black",
-      "url": "https://scp-jp.wikidot.com/the-world-looks-red-the-world-looks-black",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translation_responsible",
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "EN",
-      "source_branch_basis": "original_url",
-      "genre": "Tale",
-      "article_title": "世界は赤く見える/世界は黒く見える",
-      "subtitle": null,
-      "authors": [],
-      "original_title": "the world looks red / the world looks black",
-      "original_url": "https://scp-wiki.wikidot.com/the-world-looks-red-the-world-looks-black",
-      "original_authors": [
-        "UncannyClown"
-      ],
-      "original_year": "2026",
-      "translation_year": "2026",
-      "translation_responsible": [
-        "Dr Pochi"
-      ],
-      "translators": [
-        "Dr Pochi"
-      ],
-      "created_at_utc": "2026-10-15T08:58:11.000Z",
-      "created_at_jst": "2026-10-15T17:58:11+09:00",
-      "created_by": "Dr Pochi",
-      "content_warnings": [],
-      "summary_basis": "世界は赤く見える/世界は黒く見える\n\nBy: Dr Pochi\n\nPublished on 15 Oct 2026 08:58\n\nI.\n私は街にいる。そして、\n奇妙なものたちが動き回っている。\n脈打つ興奮、\n燃え上がりたいという衝動。\n倒錯を生み出しながら、\n私はスタジオの床に裸で横たわり、\nきつく身を縮め、\n今にも弾け飛ぼうとしている。\n奴らは私を迎えに来るだろう。\n奴らの心臓は黒く、干からびている。\n私は奴らを恐れない。\n私は新たな作品を生み出そうとしている。\n\nII.\n何かが起きている。\n歯が砕けそうなほどの怒りと、\n煙の匂い。\nそれらが心を酔わせ、\n肋骨をこじ開ける。\n噛み跡だらけになって、\n野良犬のようにすすり泣きながら、\n私は身体を丸める。\n奴らは私の罪深い肉体を引き裂くだろう、\n奴らは鎖と鞭を持っている、\n私はまだ死ぬ覚悟ができていない、\n私の手がためらう。",
-      "summary_basis_type": "opening",
-      "tags": [
-        "are-we-cool-yet",
-        "en",
-        "goicon-2026",
-        "tale",
-        "ノー・ウェイヴ",
-        "詩的文学"
-      ],
-      "rating": -12,
-      "vote_count": 14,
-      "revision_count": 4,
-      "comment_count": 1,
-      "content_hash": "sha256:b2bfeab2b831efefd65f31166a108c3693c68e7650bef25d88336f3745374b00",
-      "has_text_content": true,
-      "text_content_length": 692,
-      "first_seen_at_jst": "2026-10-16T08:39:38.598201+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469502932"
-    },
-    {
-      "wikidot_id": "1469502539",
-      "page_name": "scp-4212",
-      "url": "https://scp-jp.wikidot.com/scp-4212",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translation_responsible",
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "EN",
-      "source_branch_basis": "original_url",
-      "genre": "SCP報告書",
-      "article_title": "SCP-4212",
-      "subtitle": "とても親切で、明快に書かれたSCP報告書",
-      "authors": [],
-      "original_title": "SCP-4212 - A Very Helpful and Clearly-Written SCP Report",
-      "original_url": "https://scp-wiki.wikidot.com/scp-4212",
-      "original_authors": [
-        "不明"
-      ],
-      "original_year": "2018",
-      "translation_year": "2026",
-      "translation_responsible": [
-        "AyuMashi"
-      ],
-      "translators": [
-        "AyuMashi"
-      ],
-      "created_at_utc": "2026-10-15T05:29:40.000Z",
-      "created_at_jst": "2026-10-15T14:29:40+09:00",
-      "created_by": "AyuMashi",
-      "content_warnings": [],
-      "summary_basis": "説明:\n注記: SCP-4212を視認および/または体験した人物による記述は、それを視認・体験していない人物にとっては完全に理解不能なものとなるようです。このため、研究班Bによる逐次的な注釈が追加されています。注釈では、SCP-4212の記述が何を伝えようとしているのかについての有力な仮説を提示します。説明文そのものはAtoz博士によって執筆され、エージェント・████が「校閲」を行いました。\nSCP-4212は、高さ約4m、幅3時間、奥行き7ガロンの、白熱的に配置された自身の変異体です。SCP-4212が従来的な幾何学的性質を有している様子は確認されていませんが、2つの明確な顔面と21個の角を備えていることが観察されています。ただし、そのうち1つを除くすべては身体上の内部末端部位に位置しています。それは自身の内部と「to」の中に存在しているため、現時点ではその「a」は多数であり、そしてその中において、それは〜であり、〜と共にあることで、それを行っています。\n\n+ 注釈\n\n-閉じる\n\nSCP-4212の幾何学的構造は完全に支離滅裂です。この段落の末尾は、Atoz博士が文法的に正しい英語で記述しなくなった初めての箇所です。しかし、本人およびエージェント・████は、指摘を受けても誤りを一切見つけることができませんでした。SCP-4212が何らかのミーム的性質を有しており、それを記述する行為そのものを著しく困難、あるいは不可能にしている可能性があります。\n\nSCP-4212は興奮状態にあり、極めて高い頻度で存在する傾向にあります。十分な量の「over」にさらされると、非二元的な空間的・時間的・儚質的・化学的反応を示し、あらゆる負の機能を終了させ、終わり始め、終わり始め、終わり始め、終わり始め、終わり始めます。SCP-4212内部に取り込まれた人物は、深刻な安定性の劣化を経験した後、意識の縫い目の弛緩を発症し、最終的には中性子的崩壊に至ります。この過程は3mから21mの間持続した後、対象は意識を失い、SCP-4212内部に再中心化された状態で発見されます。\n\n+ 注釈\n\n- 閉じる\n\n「極めて高い頻度で存在する」が何を意味しているのかについては、現在も見解の一致が得られていません。しかしながら、「興奮状態にある」という記述から、対象が敵対的である可能性が示唆されます。SCP-4212収容室の監視体制をより強化することが推奨されます。また、この段落の後半は、SCP-4212の内部に「取り込まれる」こと、およびそれに伴う危険性について記述しているものと思われます。\n\nSCP-4212は収容されていません。SCP-4212は収容されていません。財団こそが収容されているのであり、SCP-4212は自由です。SCP-4212。SCP-4212は望む時に去ります。SCP-4212は望むものを奪います。SCP-4212はあなたをSCP-4212のようにします。4212421242124212421242124212。その そして ひとつの 〜へ、の中に 〜である あなた、それ それは 彼は だった 〜のために。それは自身の指定番号を知り、理解しており、「無」の外側のあいだへ行きたがっています。オブジェクトクラスをSafeまたはThaumielへ変更することを推奨します。\n\n+ 注釈\n\n- 閉じる\n\n研究班Aは、外部からの強い圧力にもかかわらず、第3段落の削除に断固として反対しています。なお、第3段落の記述とは反対に、SCP-4212は完全かつ安全に収容されており、収容違反の可能性は極めて低いことを付記しておきます。オブジェクトクラス変更の提案についても、O5評議会によって却下されました。したがって、当面の間はEuclidに分類され続けます。",
-      "summary_basis_type": "description",
-      "tags": [
-        "en",
-        "euclid",
-        "scp",
-        "メタ",
-        "敵対的",
-        "空間",
-        "蘇生",
-        "視覚",
-        "crom:series-5"
-      ],
-      "rating": 7,
-      "vote_count": 7,
-      "revision_count": 1,
-      "comment_count": 0,
-      "content_hash": "sha256:b005a268a096123fc8b11cdea33f02b563c430169d68d30986a60c5160bfe0ec",
-      "has_text_content": true,
-      "text_content_length": 4459,
-      "first_seen_at_jst": "2026-10-16T08:39:38.598201+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469502539"
-    },
-    {
-      "wikidot_id": "1469502505",
-      "page_name": "scp-3327",
-      "url": "https://scp-jp.wikidot.com/scp-3327",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translation_responsible",
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "EN",
-      "source_branch_basis": "original_url",
-      "genre": "SCP報告書",
-      "article_title": "SCP-3327",
-      "subtitle": "ソビエト地下壕(群)",
-      "authors": [],
-      "original_title": "SCP-3327 - Soviet Bunker(s)",
-      "original_url": "https://scp-wiki.wikidot.com/scp-3327",
-      "original_authors": [
-        "DrMorris"
-      ],
-      "original_year": "2018",
-      "translation_year": "2026",
-      "translation_responsible": [
-        "AyuMashi"
-      ],
-      "translators": [
-        "AyuMashi"
-      ],
-      "created_at_utc": "2026-10-15T05:20:28.000Z",
-      "created_at_jst": "2026-10-15T14:20:28+09:00",
-      "created_by": "AyuMashi",
-      "content_warnings": [],
-      "summary_basis": "説明: SCP-3327は、ロシア・スィクティフカル郊外に存在する冷戦期の地下壕です。地上部分は、当時の地下壕の入口として一般的な、小規模なコンクリート製の建物です。内部には下方へ続くはしごがあり、起点となる部屋へ通じています。\n起点となる部屋には、部屋の隅に設置された入口用のはしごと、部屋の中央にある1基の台座を除いて何もありません。台座の上には、現在その機能が不明な激しく損傷を受けた大きな機械装置の塊が置かれています（SCP-3327-1に指定）。\n四方の壁の中央にはそれぞれ1つずつ出入口があり、隣接する部屋へ通じています。これまでに探索された全ての部屋は起点となる部屋と同一の構造ですが、入口用のはしごと部屋中央の装置は存在しません。部屋の数に観測可能な限界はありません。起点となる部屋からは、自律型ドローン4機がそれぞれ異なる方向へ展開され、内部の探索に使用されています。本稿執筆時点で、ドローンは周囲の環境に何ら変化が生じることなく、起点から1,000,000部屋以上を移動しています。\n既知の全地球測位システム（GPS）によれば、SCP-3327内部の全ての部屋は起点となる部屋と同一の地理的領域を占めています。しかし、通信システムなどの他の機器は、通常予想される通り、長距離では機能を失います。さらに、SCP-3327の外部と内部との間で行われる通信は、起点となる部屋から離れるにつれて異常な速さで劣化し、起点からおよそ100部屋離れた地点では、内部と外部との通信は事実上不可能となります。\nこれまでの有人およびドローンによる探索では、1体の死体と日誌を除き、いずれの部屋からも特筆すべきものは発見されていません（補遺2を参照）。現在も探索は継続中であり、RPSの到達範囲を拡張するとともに、起点となる部屋からさらに遠方へ有人探索チームを派遣する計画が立てられています。",
-      "summary_basis_type": "description",
-      "tags": [
-        "en",
-        "safe",
-        "scp",
-        "地下",
-        "構造",
-        "歴史",
-        "空間",
-        "軍事",
-        "crom:series-4"
-      ],
-      "rating": 7,
-      "vote_count": 7,
-      "revision_count": 1,
-      "comment_count": 1,
-      "content_hash": "sha256:26978c21dd7e43a0d2ffcd4c1f03c68c35636ef3b214076a5733ef2a99e993b4",
-      "has_text_content": true,
-      "text_content_length": 4991,
-      "first_seen_at_jst": "2026-10-16T08:39:38.598201+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469502505"
-    },
-    {
-      "wikidot_id": "1469502400",
-      "page_name": "miino-verycute-miino",
-      "url": "https://scp-jp.wikidot.com/miino-verycute-miino",
-      "edition": "jp_original",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "jp_tag"
-      ],
-      "source_branch": "JP",
-      "source_branch_basis": "jp_tag",
-      "genre": "アートワーク",
-      "article_title": "二鷹みいののファンアート",
-      "subtitle": null,
-      "authors": [
-        "salmonmarch*"
-      ],
-      "original_title": null,
-      "original_url": null,
-      "original_authors": [],
-      "original_year": null,
-      "translation_year": null,
-      "translation_responsible": [],
-      "translators": [],
-      "created_at_utc": "2026-10-15T03:35:20.000Z",
-      "created_at_jst": "2026-10-15T12:35:20+09:00",
-      "created_by": "salmonmarch",
-      "content_warnings": [],
-      "summary_basis": "どうも、二鷹みいのの虜になった者です\n\n+ マスクあり差分\n\n- 隠す\n\n+ 元作品クレジット\n\n- 隠す",
-      "summary_basis_type": "description",
-      "tags": [
-        "jp",
-        "アートワーク"
-      ],
-      "rating": 47,
-      "vote_count": 49,
-      "revision_count": 3,
-      "comment_count": 1,
-      "content_hash": "sha256:a077bf2b9f027bf6ba329e98d4bf80d80120ba154a2e1332621f3ae49bbbb190",
-      "has_text_content": true,
-      "text_content_length": 267,
-      "first_seen_at_jst": "2026-10-16T08:39:38.598201+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469502400"
     }
   ]
 }

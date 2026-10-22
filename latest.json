@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-10-21T23:59:12.096628+00:00",
-  "generated_at_jst": "2026-10-22T08:59:12.096628+09:00",
+  "generated_at_utc": "2026-10-22T23:58:11.220516+00:00",
+  "generated_at_jst": "2026-10-23T08:58:11.220516+09:00",
   "window_days": 30,
   "articles": [
     {
@@ -55,8 +55,8 @@
         "衣類",
         "crom:series-3"
       ],
-      "rating": 0,
-      "vote_count": 0,
+      "rating": 1,
+      "vote_count": 1,
       "revision_count": 1,
       "comment_count": 0,
       "content_hash": "sha256:a2c2e586855f5436868605d8f2955b915650cfd9a145ce0ca98db9a106b4c774",
@@ -64,7 +64,7 @@
       "text_content_length": 6697,
       "first_seen_at_jst": "2026-10-22T08:59:12.096628+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469522159"
     },
     {
@@ -106,8 +106,8 @@
         "削除通知",
         "情報災害"
       ],
-      "rating": -6,
-      "vote_count": 14,
+      "rating": -15,
+      "vote_count": 25,
       "revision_count": 2,
       "comment_count": 2,
       "content_hash": "sha256:651e6a482b9ec93b931e1cb08ad43d1c38b3054ccf98f342faac085a6fa411d0",
@@ -115,7 +115,7 @@
       "text_content_length": 168,
       "first_seen_at_jst": "2026-10-22T08:59:12.096628+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469522001"
     },
     {
@@ -174,7 +174,7 @@
       "text_content_length": 3962,
       "first_seen_at_jst": "2026-10-22T08:59:12.096628+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469521657"
     },
     {
@@ -213,8 +213,8 @@
         "scp",
         "削除通知"
       ],
-      "rating": -17,
-      "vote_count": 19,
+      "rating": -24,
+      "vote_count": 26,
       "revision_count": 4,
       "comment_count": 2,
       "content_hash": "sha256:40f3c79dbe0a09b9b1001fa94f28fe5685619d56030d8ee3f466a97b2cb69b9d",
@@ -222,7 +222,7 @@
       "text_content_length": 8291,
       "first_seen_at_jst": "2026-10-22T08:59:12.096628+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469521437"
     },
     {
@@ -390,8 +390,8 @@
         "アートワーク",
         "第二ハイトス教会"
       ],
-      "rating": 10,
-      "vote_count": 10,
+      "rating": 12,
+      "vote_count": 12,
       "revision_count": 1,
       "comment_count": 1,
       "content_hash": "sha256:d72c2fcbbab80f7d35697e2b60b85ea0da5484ebb8e7a450521f9aa8cdf164b4",
@@ -495,8 +495,8 @@
         "goicon-2026",
         "アートワーク"
       ],
-      "rating": 15,
-      "vote_count": 17,
+      "rating": 17,
+      "vote_count": 19,
       "revision_count": 2,
       "comment_count": 1,
       "content_hash": "sha256:8d5d4911547828d826c4231f55d75e6aed67cda0652641a5669b8474a5ae324d",
@@ -607,8 +607,8 @@
         "視覚",
         "認識災害"
       ],
-      "rating": -13,
-      "vote_count": 17,
+      "rating": -12,
+      "vote_count": 18,
       "revision_count": 3,
       "comment_count": 2,
       "content_hash": "sha256:71d6ea8619e23997ce41f5ca53dff325ba8b9c63169ec72d69a363f9c869f705",
@@ -654,7 +654,7 @@
       "created_at_jst": "2026-10-20T20:28:26+09:00",
       "created_by": "NUGGe2",
       "content_warnings": [],
-      "summary_basis": "ごめん。ごめん。ごめん。ごめん。\n\n特別収容プロトコル: 記憶処理は無効。意味的な手段による通信の有効性は不明。簡潔にせよ。直接的な描写や言及はするな。自殺/死は、いかなる状況であれ好ましくない。屈するな。\n主要な施設は復旧不可能。関連する死後世界への漏出は、ゲシュタルトの規模に比例する; 非影響者が似ているか、または道徳的な懸念があるかに関わらず、直ちに終了せよ。信頼性または安全な集団の呼称は存在しない。\n意識/完全消滅に関する研究は、どんな犠牲を払ってでも無期限に継続しなければならない: 消滅が確実であることを断言する必要がある。イブプロフェンやオピオイドは、知覚に及ぼす影響を緩和する。TTフィルター付き魂知覚装置が最も安全; フィルター無しの装備しか無いなら目をくり抜け\n感染の現れは\n対象者は、その前に徐々に自覚し\n文書が影響を受けた。申し訳ない。",
+      "summary_basis": "ごめん。ごめん。ごめん。ごめん。\n\n特別収容プロトコル: 記憶処理は無効。意味的な手段による通信の全容は不明。簡潔にせよ。直接的な描写や言及はするな。自殺/死は、いかなる状況であれ好ましくない。屈するな。\n主要な施設は復旧不可能。関連する死後世界への漏出は、ゲシュタルトの規模に比例する; 被影響者が似ているか、または道徳的な懸念があるかに関わらず、直ちに終了せよ。信頼性または安全な集団の呼称は存在しない。\n意識/完全消滅に関する研究は、どんな犠牲を払ってでも無期限に継続しなければならない: 消滅が確実であることを裏付ける必要がある。イブプロフェンやオピオイドは、知覚に及ぼす影響を緩和する。TTフィルター付き魂知覚装置が最も安全; フィルター無しの装備しか無いなら目をくり抜け\n感染の現れは\n対象者は、徐々に自覚を示してから\n文書が影響を受けた。申し訳ない。",
       "summary_basis_type": "opening",
       "tags": [
         "en",
@@ -663,11 +663,11 @@
         "scp",
         "情報災害"
       ],
-      "rating": -13,
-      "vote_count": 13,
-      "revision_count": 3,
-      "comment_count": 4,
-      "content_hash": "sha256:c49d88632cd859fdbad09865161b0c36065598b63a4bb1e9158c6fd204a29d4e",
+      "rating": -14,
+      "vote_count": 14,
+      "revision_count": 4,
+      "comment_count": 6,
+      "content_hash": "sha256:8799a2e6d5533362f5004197618ccb8f5fdc5524a2dd51a042695116f14006c1",
       "has_text_content": true,
       "text_content_length": 806,
       "first_seen_at_jst": "2026-10-21T08:50:23.578709+09:00",
@@ -774,8 +774,8 @@
         "外部エントロピー",
         "金属"
       ],
-      "rating": 15,
-      "vote_count": 39,
+      "rating": 17,
+      "vote_count": 43,
       "revision_count": 3,
       "comment_count": 1,
       "content_hash": "sha256:734f39f72b123a4caeafa06cdf31c514d725674903a3f8689da8fa69792c8f50",
@@ -785,60 +785,6 @@
       "baseline": false,
       "is_new_this_run": false,
       "notification_id": "1469516250"
-    },
-    {
-      "wikidot_id": "1469516038",
-      "page_name": "scp-3521-jp",
-      "url": "https://scp-jp.wikidot.com/scp-3521-jp",
-      "edition": "jp_original",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "jp_tag"
-      ],
-      "source_branch": "JP",
-      "source_branch_basis": "jp_tag",
-      "genre": "SCP報告書",
-      "article_title": "SCP-3521-JP",
-      "subtitle": "どんな はいすぺ ぴーしーも いちころ ゔぃるす by dado",
-      "authors": [
-        "Radi-gon"
-      ],
-      "original_title": null,
-      "original_url": null,
-      "original_authors": [],
-      "original_year": null,
-      "translation_year": null,
-      "translation_responsible": [],
-      "translators": [],
-      "created_at_utc": "2026-10-19T12:31:43.000Z",
-      "created_at_jst": "2026-10-19T21:31:43+09:00",
-      "created_by": "Radi-gon",
-      "content_warnings": [],
-      "summary_basis": "説明: SCP-3521-JPは異常な効果をもたらすデジタルデータです。コードは絵文字や変則的な文法を含む未解明のプログラミング言語で構築されており、読解作業は困難を極めています。AIADによる解析は一部のコードには化学反応式や構造式のような文字列が含まれている可能性を示唆していますが、真偽は不明です。\nSCP-3521-JPの主たる異常性は、SCP-3521-JPが電子機器に完全な状態でダウンロードされた後にのみ発現します。ダウンロードして間もなく、非常に大量の\"虫\".出現する個体には口語的に虫Bugと表現される生物が該当すると考えられており、昆虫だけではなく一部の多足類や甲殻類を含みます。が、突如で電子機器内部に出現し始めます。SCP-3521-JPの発見時に回収された情報は、この現象はSCP-3521-JPをダウンロードした電子機器を破壊することを意図したものと考えられています。SCP-3521-JPをダウンロードされた電子機器は、特殊な保護手順を踏まない限り、その他のいかなる超常的保護が施されていたとしても、機器内部への\"虫\"の出現によって物理的に破壊されます。特筆すべきこととして、実験において破壊不可能と判断されたAnomalousアイテムにSCP-3521-JPをダウンロードした所、内部基盤が\"削り取られる\"ようにしてチャタテムシ（Graphopsocus cruciatus）など複数の節足動物へと置換されていました。SCP-3521-JPの性能に関するさらなる実験については承認待ちです。",
-      "summary_basis_type": "description",
-      "tags": [
-        "dado",
-        "jp",
-        "safe",
-        "scp",
-        "ウイルス",
-        "オンライン",
-        "コンピュータ",
-        "削除通知",
-        "武器",
-        "記憶媒体"
-      ],
-      "rating": -14,
-      "vote_count": 22,
-      "revision_count": 3,
-      "comment_count": 2,
-      "content_hash": "sha256:de7769f304764a77a191c819a77d300fcec5fdd45267519c7316fc95cc02facc",
-      "has_text_content": true,
-      "text_content_length": 2056,
-      "first_seen_at_jst": "2026-10-20T09:17:54.654174+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469516038"
     },
     {
       "wikidot_id": "1469515849",
@@ -876,8 +822,8 @@
         "ギアーズ博士",
         "黒の女王"
       ],
-      "rating": 56,
-      "vote_count": 58,
+      "rating": 57,
+      "vote_count": 59,
       "revision_count": 1,
       "comment_count": 3,
       "content_hash": "sha256:9710c1e1bbea8a94fc8357b341d847fb60141bcef6190388d27e7a3a25f690c6",
@@ -946,110 +892,6 @@
       "notification_id": "1469515321"
     },
     {
-      "wikidot_id": "1469514955",
-      "page_name": "scp-2679-jp",
-      "url": "https://scp-jp.wikidot.com/scp-2679-jp",
-      "edition": "jp_original",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "jp_tag"
-      ],
-      "source_branch": "JP",
-      "source_branch_basis": "jp_tag",
-      "genre": "SCP報告書",
-      "article_title": "SCP-2679-JP",
-      "subtitle": "噓月",
-      "authors": [
-        "Asellus Borealis"
-      ],
-      "original_title": null,
-      "original_url": null,
-      "original_authors": [],
-      "original_year": null,
-      "translation_year": null,
-      "translation_responsible": [],
-      "translators": [],
-      "created_at_utc": "2026-10-19T07:09:43.000Z",
-      "created_at_jst": "2026-10-19T16:09:43+09:00",
-      "created_by": "Asellus Borealis",
-      "content_warnings": [],
-      "summary_basis": "説明: SCP-2679-JPは人間の視覚に現れる認識災害の一種です。SCP-2679-JPの影響を受けた人間が直接的、間接的に関わらず\"空\"を視認した際、同時にSCP-2679-JP-Aを視認するようになります。これによる精神的、肉体的異常は見られません。SCP-2679-JPの範囲は地球全土に及ぶと考えられ、現状発見されるすべての人種、文明にその影響が確認されます。また、SCP-2679-JPがいつ、いかなる条件で発現するかは特定できていません3。\nSCP-2679-JP-Aは視直径0.5度4程の円形図形です。日中は主に白色、夜間は黄色を示しますが、その他気候状況や観測地点に影響を受け色を変化させます5。SCP-2679-JP-Aの出現位置や大きさには一定の周期性が存在します。この周期性の解明はカバーストーリーの精密化に繋がるため、研究の継続が求められます。\nSCP-2679-JP-BはSCP-2679-JPの抑制効果を持つ未知の岩石、及び粉塵です。一般的な岩石に酷似しているものの、水分や一部揮発性元素の欠乏などの特徴が挙げられます。SCP-2679-JP-Bの周囲50cm以内に60秒間以上存在する、もしくは3秒以上の接触を行うことでSCP-2679-JPの影響が消失します。この際、あらかじめ有していたSCP-2679-JP-Aに関する知識、経験を失うことはありません。SCP-2679-JP-Bの持つ精神作用については現在協議中です。\n1969年██月宇宙探査から帰還した宇宙飛行士三名及び彼らと接触した職員により\"月の消失\"が報告されました。その後、██博士及びエージェント███らによる宇宙船の内部調査が実施され、SCP-2679-JPの異常性が明らかになりました。",
-      "summary_basis_type": "description",
-      "tags": [
-        "jp",
-        "keter",
-        "scp",
-        "削除通知",
-        "強制力",
-        "認識災害"
-      ],
-      "rating": -26,
-      "vote_count": 26,
-      "revision_count": 3,
-      "comment_count": 2,
-      "content_hash": "sha256:b1755ddcc436f744ae9868ab2078ae672b33184ac55167b7b4daefdcbeec1225",
-      "has_text_content": true,
-      "text_content_length": 1726,
-      "first_seen_at_jst": "2026-10-20T09:17:54.654174+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469514955"
-    },
-    {
-      "wikidot_id": "1469514794",
-      "page_name": "scp-4342-jp",
-      "url": "https://scp-jp.wikidot.com/scp-4342-jp",
-      "edition": "jp_original",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "jp_tag"
-      ],
-      "source_branch": "JP",
-      "source_branch_basis": "jp_tag",
-      "genre": "SCP報告書",
-      "article_title": "SCP-4342-JP",
-      "subtitle": "検討は重ねられなければならない",
-      "authors": [
-        "phlo-fro"
-      ],
-      "original_title": null,
-      "original_url": null,
-      "original_authors": [],
-      "original_year": null,
-      "translation_year": null,
-      "translation_responsible": [],
-      "translators": [],
-      "created_at_utc": "2026-10-19T06:17:54.000Z",
-      "created_at_jst": "2026-10-19T15:17:54+09:00",
-      "created_by": "phlo-fro",
-      "content_warnings": [],
-      "summary_basis": "説明: SCP-4342-JPは成熟したオスのヒグマ(Ursus arctos)です。非異常性のヒグマと外見上の差異はありませんが、現在まで加齢の兆候は見られていません。SCP-4342-JPは摂食した物に応じて自らの身体を変化させることができます。当該異常性の継続期間は摂食量に依存します。異常性解明のため、SCP-4342-JP収容室は食物の確保が容易な食堂に設置されます。\n\nログ4342-JP-1: SCP-4342-JPは現在までに以下の変化を起こしました。\n\n記録職員: 別木博士\n摂食物: リンゴ1個。\n結果: 3分間に亘ってSCP-4342-JPの体毛が赤色になり、頭頂部からリンゴのヘタ/葉に似た物体が出現した。\n\n記録職員: 別木博士\n摂食物: サケ1匹。\n結果: 1時間に亘ってSCP-4342-JPの体毛が抜け落ち魚鱗に置換された。\n\n記録職員: 別木博士\n摂食物: キャベツ1玉。\n結果: 1時間に亘ってSCP-4342-JPはキャベツの葉に似た物体でくるまれた。\nおくるみをされているように見えて非常に愛らしい。 ─ 別木博士\n\n記録職員: 別木博士\n摂食物: キャベツ3玉。\n結果: 3時間に亘ってSCP-4342-JPはキャベツの葉に似た物体でくるまれた。前事例よりも物体数は増加している。\nやはり愛らしい。 ─ 別木博士\n\n記録職員: 別木博士\n摂食物: キャベツ3玉。\n結果: 3時間に亘ってSCP-4342-JPはキャベツの葉に似た物体でくるまれた。前事例よりも物体数は増加している。",
-      "summary_basis_type": "description",
-      "tags": [
-        "jp",
-        "pending",
-        "scp",
-        "クマ",
-        "削除通知",
-        "変身",
-        "強制力",
-        "捕食",
-        "知性",
-        "精神影響"
-      ],
-      "rating": -23,
-      "vote_count": 25,
-      "revision_count": 2,
-      "comment_count": 4,
-      "content_hash": "sha256:bc6ec1184cf0ebf7a0fcfed156f49767eff6fd001c576df577b0eb4eacf79841",
-      "has_text_content": true,
-      "text_content_length": 2273,
-      "first_seen_at_jst": "2026-10-20T09:17:54.654174+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469514794"
-    },
-    {
       "wikidot_id": "1469513585",
       "page_name": "fa-of-dear-my-lolitaloveas-jp",
       "url": "https://scp-jp.wikidot.com/fa-of-dear-my-lolitaloveas-jp",
@@ -1083,8 +925,8 @@
         "jp",
         "アートワーク"
       ],
-      "rating": 64,
-      "vote_count": 66,
+      "rating": 65,
+      "vote_count": 67,
       "revision_count": 1,
       "comment_count": 1,
       "content_hash": "sha256:915eef821d07ba1f7cdcb091a904c11009ede8da31bbe995abd603c4bf00b990",
@@ -1259,8 +1101,8 @@
         "scp",
         "死体"
       ],
-      "rating": 18,
-      "vote_count": 22,
+      "rating": 19,
+      "vote_count": 23,
       "revision_count": 3,
       "comment_count": 1,
       "content_hash": "sha256:6f5a64f17d81f68d1f4bf01c9b8cb41a002a4d7e1a9af1a1e04b660f27dcf8ef",
@@ -1367,8 +1209,8 @@
         "jp",
         "tale"
       ],
-      "rating": 68,
-      "vote_count": 90,
+      "rating": 69,
+      "vote_count": 91,
       "revision_count": 1,
       "comment_count": 1,
       "content_hash": "sha256:dd27c37f57cf30fa4d888e81eb4193c404f0ffd44623496f387bb31191409482",
@@ -1525,8 +1367,8 @@
         "tale",
         "ジョーク"
       ],
-      "rating": 31,
-      "vote_count": 113,
+      "rating": 32,
+      "vote_count": 114,
       "revision_count": 2,
       "comment_count": 7,
       "content_hash": "sha256:8dbd905bc00529f0c26b53ce5f21146fcb0e1b6ed5b1399cc8a4ff28e694e04b",
@@ -1577,8 +1419,8 @@
         "日本生類創研",
         "頭足類"
       ],
-      "rating": 12,
-      "vote_count": 22,
+      "rating": 14,
+      "vote_count": 24,
       "revision_count": 2,
       "comment_count": 1,
       "content_hash": "sha256:f9ae574623499e4083926c482dbcbbf3b74fecee4b6c76a30bcdd48bde0bcb44",
@@ -1918,8 +1760,8 @@
         "jp",
         "アートワーク"
       ],
-      "rating": 47,
-      "vote_count": 49,
+      "rating": 48,
+      "vote_count": 50,
       "revision_count": 3,
       "comment_count": 1,
       "content_hash": "sha256:a077bf2b9f027bf6ba329e98d4bf80d80120ba154a2e1332621f3ae49bbbb190",
@@ -2632,8 +2474,8 @@
         "tale",
         "ジョーク"
       ],
-      "rating": 73,
-      "vote_count": 133,
+      "rating": 74,
+      "vote_count": 134,
       "revision_count": 1,
       "comment_count": 0,
       "content_hash": "sha256:e431e26727060212b4baa6e8890e8db37a46fd95361f4f4fdb14fc7b3a28b4a0",
@@ -3411,8 +3253,8 @@
         "jp",
         "ニュース"
       ],
-      "rating": 55,
-      "vote_count": 55,
+      "rating": 56,
+      "vote_count": 56,
       "revision_count": 2,
       "comment_count": 1,
       "content_hash": "sha256:2816b95542d61fce5de53661cf7ef85d421314cc0aef3ef7669723e0168388ae",
@@ -3795,8 +3637,8 @@
         "メタフィクション",
         "人工"
       ],
-      "rating": 33,
-      "vote_count": 57,
+      "rating": 32,
+      "vote_count": 58,
       "revision_count": 1,
       "comment_count": 7,
       "content_hash": "sha256:e29b15cd7d148064163fc59b996a27c4a4c2a32757e3bbc9ab7132b2398dd798",
@@ -4756,8 +4598,8 @@
         "tale",
         "thanatomania"
       ],
-      "rating": 30,
-      "vote_count": 32,
+      "rating": 31,
+      "vote_count": 33,
       "revision_count": 3,
       "comment_count": 0,
       "content_hash": "sha256:f9a9acc9ef982b0865a144327acf0d8ef5a5b70fb53471baf70c156fd008f852",
@@ -5435,8 +5277,8 @@
         "寄生",
         "睡眠"
       ],
-      "rating": 46,
-      "vote_count": 72,
+      "rating": 47,
+      "vote_count": 73,
       "revision_count": 5,
       "comment_count": 9,
       "content_hash": "sha256:b9241bfb0d124b8f2eb02798a8a8349636786d8a3833196ef0ac06cd46064a13",
@@ -6282,55 +6124,6 @@
       "baseline": false,
       "is_new_this_run": false,
       "notification_id": "1469386177"
-    },
-    {
-      "wikidot_id": "1469381545",
-      "page_name": "scp-4049-jp",
-      "url": "https://scp-jp.wikidot.com/scp-4049-jp",
-      "edition": "jp_original",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "jp_tag"
-      ],
-      "source_branch": "JP",
-      "source_branch_basis": "jp_tag",
-      "genre": "SCP報告書",
-      "article_title": "SCP-4049-JP",
-      "subtitle": "Die to Die",
-      "authors": [
-        "momiji_CoC"
-      ],
-      "original_title": null,
-      "original_url": null,
-      "original_authors": [],
-      "original_year": null,
-      "translation_year": null,
-      "translation_responsible": [],
-      "translators": [],
-      "created_at_utc": "2026-09-22T07:27:40.000Z",
-      "created_at_jst": "2026-09-22T16:27:40+09:00",
-      "created_by": "momiji_CoC",
-      "content_warnings": [],
-      "summary_basis": "説明: SCP-4049-JPは、異常性を有する半導体メモリです。複数の解析結果から、オブジェクトに使用されているシリコンウエハには、一般的な半導体製造にて用いられるドーパント1であるホウ素およびリンに加え、高純度の「安楽死のタナトマ」がドープされている領域(以下、T型領域と記載)が確認されています。財団所有の施設にて行われた、タナトマをシリコンウエハへドープする試みは全て失敗しています。\nこれまでに回収されたSCP-4049-JPは、全て████社製のワイヤレスイヤホン（以下、SCP-4049-JP-Aと指定）の内部基板からのみ発見されています。カバーストーリー「工場監査」の下実施された████社ファウンドリへの現地調査において、オブジェクトおよびタナトマは確認されませんでした。\nSCP-4049-JP-Aから音楽が再生されている間に対象がリラックスした状態にある場合、T型領域内に特定の周波数2を持つ電気信号が発生します。この電気信号は時間経過によって減衰することなく内部に保持・蓄積され、蓄積量が閾値を超えた時点でSCP-4049-JP-Aのスピーカーから放出されます。\n放出された信号は、内耳を通して神経系へ伝達され、脳幹へ到達します。信号が伝達された直後、対象にはバルビツール酸系薬剤3過剰投与時と同様の中枢神経抑制が生じ、最終的に心肺機能の停止によって死亡します。",
-      "summary_basis_type": "description",
-      "tags": [
-        "euclid",
-        "jp",
-        "scp",
-        "thanatomania",
-        "電子デバイス"
-      ],
-      "rating": 21,
-      "vote_count": 31,
-      "revision_count": 5,
-      "comment_count": 1,
-      "content_hash": "sha256:172e2507f6be028fef1cc2e466b7b244a157deb14d09ccd7aeb6735f584e63a1",
-      "has_text_content": true,
-      "text_content_length": 4618,
-      "first_seen_at_jst": "2026-09-23T08:35:25.429635+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469381545"
     }
   ]
 }
