@@ -2,17 +2,17 @@
   "schema_version": 1,
   "status": "degraded",
   "hotfix_version": "5.1.2",
-  "generated_at_utc": "2026-10-29T00:52:31.504300+00:00",
-  "generated_at_jst": "2026-10-29T09:52:31.504300+09:00",
-  "generated_date_jst": "2026-10-29",
-  "run_id": "40796846691",
+  "generated_at_utc": "2026-10-30T00:56:42.397426+00:00",
+  "generated_at_jst": "2026-10-30T09:56:42.397426+09:00",
+  "generated_date_jst": "2026-10-30",
+  "run_id": "40982804844",
   "repository": "iniwa/scp-jp-crom-probe",
   "mode": "incremental",
   "state_source": "previous_state",
   "query": {
     "endpoint": "https://apiv2.crom.avn.sh/graphql",
-    "since_utc": "2026-09-29T00:52:31.504300+00:00",
-    "since_jst": "2026-09-29T09:52:31.504300+09:00",
+    "since_utc": "2026-09-30T00:56:42.397426+00:00",
+    "since_jst": "2026-09-30T09:56:42.397426+09:00",
     "window_days": 30,
     "notification_retention_hours": 168,
     "snapshot_retention_days": 37,
@@ -20,30 +20,30 @@
   },
   "counts": {
     "raw_recent_pages": 713,
-    "content_candidates": 116,
-    "details_confirmed": 115,
-    "details_fetched": 10,
+    "content_candidates": 114,
+    "details_confirmed": 113,
+    "details_fetched": 8,
     "details_reused": 106,
     "detail_fetch_failures": 0,
     "classification_pending": 0,
     "text_pending": 1,
-    "jp_originals": 45,
+    "jp_originals": 43,
     "translations": 70,
-    "new_this_run": 6,
-    "new_jp_originals": 5,
-    "new_translations": 1,
-    "notification_candidates": 40,
+    "new_this_run": 4,
+    "new_jp_originals": 1,
+    "new_translations": 3,
+    "notification_candidates": 44,
     "pending": 1,
     "rejected": {
-      "excluded_tag": 5,
-      "not_monitored_content": 592
+      "not_monitored_content": 595,
+      "excluded_tag": 4
     }
   },
   "rate_limit": {
     "first": 299800,
-    "last": 298330,
-    "minimum": 298330,
-    "request_count": 18
+    "last": 298344,
+    "minimum": 298344,
+    "request_count": 16
   },
   "pending_pages": [
     {
