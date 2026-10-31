@@ -1,15 +1,228 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-10-30T00:56:42.397426+00:00",
-  "generated_at_jst": "2026-10-30T09:56:42.397426+09:00",
+  "generated_at_utc": "2026-10-31T00:44:08.166844+00:00",
+  "generated_at_jst": "2026-10-31T09:44:08.166844+09:00",
   "retention_hours": 168,
   "new_this_run_ids": [
-    "1469741030",
-    "1469749631",
-    "1469752478",
-    "1469754708"
+    "1469754699",
+    "1469756970",
+    "1469757932",
+    "1469759191",
+    "1469759293"
   ],
   "articles": [
+    {
+      "wikidot_id": "1469759293",
+      "page_name": "swelling-of-the-worlds",
+      "url": "https://scp-jp.wikidot.com/swelling-of-the-worlds",
+      "edition": "translation",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "credit_translation_responsible",
+        "credit_translation_year",
+        "credit_original_title",
+        "credit_original_url"
+      ],
+      "source_branch": "RU",
+      "source_branch_basis": "tag",
+      "genre": "その他作品",
+      "article_title": "アルベリクトの提言",
+      "subtitle": null,
+      "authors": [],
+      "original_title": "SCP-001-RU - Ты — аномалия, опухоль миров",
+      "original_url": "https://scpfoundation.net/swelling-of-the-worlds",
+      "original_authors": [
+        "Arbelict"
+      ],
+      "original_year": "2019",
+      "translation_year": "2026",
+      "translation_responsible": [
+        "Gipolibidemia"
+      ],
+      "translators": [
+        "Gipolibidemia"
+      ],
+      "created_at_utc": "2026-10-31T00:19:56.000Z",
+      "created_at_jst": "2026-10-31T09:19:56+09:00",
+      "created_by": "Gipolibidemia",
+      "content_warnings": [],
+      "summary_basis": "和訳\n\n原著\n\nCONFIDENTIAL\n\nOC: Paradox-Apollyon\nZK-クラス事象の脅威\nクリアランスレベル: 5\n\nS\n\nE\n\nK\n\nT\n\nN\n\nPA\n\n近接対象依存\n\nA5\n\nA4\n\nA3\n\nA2\n\nB5\n\nB4\n\nB3\n\nB2\n\nC5\n\nC4\n\nC3\n\nC2\n\nD5\n\nD4\n\nD3\n\nD2\n\nE5\n\nE4\n\nE3\n\nE2\n\nKETER\n\nAAA\n\nEEE\n\nȻ\n\n?\n\nT\n\n{$k-class}\n\nVedist I\n\nVedist II\n\nVedist III\n\nVedist IV\n\nVedist V\n\nVedist VI\n\nSCP-001-RU\n\nRAISAより通達\n\n以下の文書は2026年10月8日に遺存次元1R-42から受信したものです。この文書には、存在するすべての世界の、すべての人類を脅かすアノマリーが記述されています。文書を受信する直前の約8分間、発信源不明のシグナルが送られていたことが判明しています。このシグナルには、極めて強力な (持続性・浸透性クラス5)、危険度クラス0 (無害) の認識災害源が含まれていました。財団はこのアノマリーを阻止できなかったものの、現時点で地球の住民の精神にその影響が残っている兆候は一切見つかっていません。R-42から再び認識攻撃、あるいはその他の攻撃が行われる可能性が高いと考えられます。 最新の調査によれば、次元R-42はもはや存在しません。\n以下のメッセージは潜在するミーム因子の検査を経ており、閲読の安全性が確認されています。\n\n文書開始\n関係者各位\nあなた方は今、遺存次元R-42のパラ空間2でこの資料を読んでいます。\nあなた方の世界を指定する識別情報アドレスはあまりに長大なため、以下では便宜上あなた方の次元を “PP3” と呼びます。\nこのメッセージは遺存次元R-42のSCP財団が作成し、パラ空間PPのSCP財団に宛てたものです。マルチバース全体を脅かすアノマリー、SCP-001-RUについての情報をお伝えします。\nお気づきかもしれませんが、このメッセージに先立ち無害な認識災害を含むシグナルバーストが送信されています。このシグナルは、構造をほんのわずかでも変えればPPの住民に壊滅的な犠牲をもたらすように組み立てられていました。お分かりのとおり、R-42にはPPの住民の圧倒的多数を死に至らしめる力があります。それでもR-42はその力を行使しませんでした。以上を踏まえ、このシグナルの送信は攻撃ではなく、R-42にPPへの侵略その他の敵対的な意図がないことの証明として受け止めてください。以下の情報は、くれぐれも真剣にお読みください。\n\nマルチバースにおけるR-42とPPの位置を示す模式図\n\nアイテム番号: SCP-001-RU\nオブジェクトクラス: Paradox-Apollyon4\n特別収容プロトコル: 当アノマリーを確実に破壊し、世界間ZK-クラス事象を回避する方法として知られているのは、人類を完全に絶滅させること (あるいは人類の本質を根本から変えること) のみです。事象001-RU-ZKの発生を遅らせる (あるいは完全に阻止する) ために取りうる措置を、以下に列挙します。\n問題の説明: SCP-001-RUとは、現在生きているHomo sapiensの全個体を例外なく指します。現時点でこれに該当するのは、遺存次元であるR-42とパラ空間であるPPで暮らす人々です。当アノマリーはもともと遺存次元R-42で発生し、そこで進行してきました。その後意図しない形でPPでも活性化してしまいました。SCP-001-RUの進行を食い止められなければ、マルチバース全体が破壊されます。\n我々の研究者はビッグバンが起きた瞬間に有限個の並行次元が形成されたことを把握しています。この数は “アルファ” と呼ばれ、全部で57です。自然な状態で (つまり外部からの干渉なしに) 新たな次元が生じることはありません。理由は分かっていませんが、57の遺存次元のうち人類が発生したのはただ一つ、次元R-42のみです。\nSCP-001-RUが現実にもたらす脅威は、パラ空間を大規模に複製するという異常な能力にあります。ここでパラ空間とは、元の現実とつながりを保ち、かつ “ホームHome” である (元の) 現実空間からのずれがごくわずかな並行現実を指します。人間が意識的な選択をすると (それがどれほど些細な選択であっても)、時の流れの中で生じるその選択肢の一つ一つが、異常な形でマルチバースにN個 (Nは選択肢の数) のパラ空間を付け加えることがわかっています。付け加えられたパラ空間では、それぞれその出来事が固有の結末を迎えています。こうして生きたSCP-001-RUを内包する世界は、互いにごくわずかしか違わない膨大な数のパラ空間を毎秒、際限なく “増殖” させていきます。\nその他の遺存次元 (R-42を除くR-01〜R-57) には、理由は不明ですが人類が発生しておらず、そのためパラ空間も存在しません。つまりこれらの次元で起こるあらゆるプロセスは、物理法則のみに従っていることになります。他の遺存次元に別の知的生命体が存在するかどうか、R-42の財団は把握できていません。しかし仮に存在す…",
+      "summary_basis_type": "opening",
+      "tags": [
+        "001提言",
+        "esoteric-class",
+        "k-クラスシナリオ",
+        "ru",
+        "scp",
+        "インターナショナル",
+        "歴史と終焉コン2019",
+        "注目記事",
+        "現実改変",
+        "画像差し止め"
+      ],
+      "rating": 0,
+      "vote_count": 0,
+      "revision_count": 2,
+      "comment_count": 1,
+      "content_hash": "sha256:a2fda4b0079b8439d33688c66e1f85319292594dd26c798263574059c8297f48",
+      "has_text_content": true,
+      "text_content_length": 10339,
+      "first_seen_at_jst": "2026-10-31T09:44:08.166844+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469759293"
+    },
+    {
+      "wikidot_id": "1469759191",
+      "page_name": "run-the-river-red-hub",
+      "url": "https://scp-jp.wikidot.com/run-the-river-red-hub",
+      "edition": "translation",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "credit_translation_responsible",
+        "credit_translation_year",
+        "credit_original_title",
+        "credit_original_url"
+      ],
+      "source_branch": "EN",
+      "source_branch_basis": "original_url",
+      "genre": "ハブ",
+      "article_title": "大河は赤に染められる ハブ",
+      "subtitle": null,
+      "authors": [],
+      "original_title": "Run the River Red Hub",
+      "original_url": "https://scp-wiki.wikidot.com/run-the-river-red-hub",
+      "original_authors": [
+        "Dino—Draws"
+      ],
+      "original_year": "2025",
+      "translation_year": "2026",
+      "translation_responsible": [
+        "Tetsu1"
+      ],
+      "translators": [
+        "Tetsu1"
+      ],
+      "created_at_utc": "2026-10-30T23:43:06.000Z",
+      "created_at_jst": "2026-10-31T08:43:06+09:00",
+      "created_by": "Tetsu1",
+      "content_warnings": [],
+      "summary_basis": "山々がぽっかりと開けた口の中で、私たちは血を流して横たわっていた。全ての死した金糸雀が歌う、その時まで。\n\n死した金糸雀が歌うまで。\n\n山々の合間、アパラチア山脈の中腹に抱かれて、ぽつりと財団のサイトが居を構えている。\n地質学研究サイト-898。血と炭塵の上に築かれたこのサイトは、地質学部門の本部としてそこに座している。だが、この森の中にあるのは石ころだけではない。怪物とヒトに囲まれた、小さく孤立したこのサイトは、アパラチアの古の影の下にひっそりと佇んでいる。\n文明よりも古く、哺乳類よりも古く、骨よりも古く、この山々の過去は深く、赤く刻み込まれている。\nこれからも永遠に。\n\n『大河は赤に染められる』はDino--Drawsによる、1966年から1996年にかけてのサイト-898 — 財団の地質学研究施設 — を中心とした、閉じられた、半アンソロジー的なシリーズです。地質現象、古代の怪物や旧き神々、そしてこの丘陵に巣食う貪欲な組織の追跡など、ここではやるべき仕事が山ほどあります。\nこのシリーズでは、アパラチアの恐怖、地域における搾取、民間伝承、極限状況で人々が陥る絶望といったテーマを探求します。これらはいずれも、サイト-898職員の日常生活に潜んでいます。しかし常に悲観的で陰鬱というわけでもなく、人はまた人であり、この山々は危険と共に不思議な魅力も抱えています。\n\n堆積物\n幾分アンソロジー的ではあるものの、特定の作品どうしは共通のテーマや直接的な関連を有しています — また、時系列順に並べてもいます。読みやすさと整理しやすさを考慮し、作品は以下のように色分けされています。1\n\nレッド・カナリア ケースファイル\n山々で起こる紛争。サイト-898のマーシャル・カーター&ダークとの確執を描く。\n\n狩人の痕跡\n皆があなたを見ている。\n\n枝角の冠\n王位に座せるMonarchacervus deus。\n\n鉱山町は沈思する\nその他諸々。日常系、世界観構築、上記のカテゴリーに当てはまらない孤立した作品。\n\nSCP-8987 - 小川は赤く染まる\nBy Dino--Draws\n全てはここから始まる。密告者、炭鉱、地下で起こる流血沙汰。\nあなたの選んだこの文書は、我々の根差す場所のまさに心臓部であり、地質学部門にとって歴史的に重要な意義を持つ。\n\nSCP-8988 - 造山運動オロジェネシス\nBy Dino--Draws\nソレに子守唄を。\n\n更新 1976/05/19: ファイル:OROGENESIS.aic\nOROGENESIS.aicはオンラインです。ご挨拶申し上げます！\n\n⬨ SCP-2888 - 死した金糸雀 ⬨\nBy Dino--Draws\n炭鉱には必ずカナリアが必要であり、レッドブルック鉱山もまた例外ではない。ただここに連れていったのがたまたま死んでしまっただけだ。\nこれは良い兆候だ。\n\n⬨ SCP-8306 - 職長 ⬨\nBy Dino--Draws, Rosyfox2002 and TealQuacks\n旧き霊魂が我々の側を歩いている。その声を聞いたことはないか？ 頭を下げ、言葉に気を付け、窓台に何かを置いておくといい。\n結局は、彼の方が先にいたのだから。\n\n黒肺\nBy Dino--Draws and Rosyfox2002\n「あんたには何か面白い物語があるみたいだな」\nアティカス・ルーン博士は、レッドブルック鉱山の亡霊との共通点を見つける。\n\nSCP-8446 - 帝王鹿\nBy Dino--Draws\n森の奥で鹿が角を絡ませ合う中で、サイト-898の未確認動物学セクターが生まれた。\n\nSCP-5315 - “骨捨て場”ボーンヤード\nBy TroutMaskReplica\nここじゃあ人がしょっちゅう行方不明になる。\n\nSCP-8411 - アメリカシラカバの痕跡\nBy Dino--Draws\n背中に木々の視線を感じる。登山コースの印ってあんなのだったっけ？\n\nSCP-9990 - Neglected Idylls\nBy Dino--Draws, TroutMaskReplica and Rosyfox2002\n質問9に答えよ、そして99と90を歌え。\nどうぞ教えてくれたまえよ、山で一体何があったのか、狩人の愚行とは何のことだったのか？\n\nSCP-9404 - ハイドビハインド\nBy Dino--Draws and Rosyfox2002\n未確認動物学セクターは…… 型破りな方法で怪物を捕獲することにする。\n手伝ってくれるのかい？ 飲みに行こうや！\n\nSCP-8852 - 洞窟事故\nBy TroutMaskReplica\nまさにその名の通り。実に文字通り。\n\nSCP-9455 - レッドマンデー\nBy Dino--Draws\n狩猟解禁期。\n\nアパラチアへようこそ\n交流会\n⬨ RUNS RED SCP ⬨\n\nアパラチア山脈は太古の獣です。\nその誕生は10億年以上前に遡ります。大陸衝突により超大陸ロディニアが形成されたことに始まり、続いてパンゲア大陸が形成されました。骨の進化より遥か前の話です。この太古の形成が山々に地球の恵みを豊富にもたらし、やがてイギリスが大陸に足を踏み入れて以来、長きにわたり採掘や開発に勤しまれてきました。\nしかし、その対象は資源だけではありません。\n\nアパラチアは、歴史的に極貧に窮してきた地域です。山間部のコミュニティは周りの州に比べて遅れを取り、経済的にも、荒野ゆえのインフラの欠如にも苦慮してきました。企業らは仲間から見捨てられた人々の労働力を搾取しようと躍起になり、この森の多くの者たちを食い物にし、踏みにじっていきました。\nSCP版のアパラチア山脈は、超自然的な要素が実在するために、現実よりも相当に荒涼としており危険です。そのため、時間の経過とともに現実の場所とは様々な点で異なってくるでしょう。\n『大河は赤に染められる』カノンは設定に関して中立的ですが、時折120の記録書庫よりやブラックダイヤモンド・ビリオンズに片脚を突っ込む場合があります。\nサイト-898自体は、ペンシルベニア州ダッチマウンテン内部、アパラチア山脈北部の奥深くに位置しています。炭層湿原の只中に居を構え、最寄りの都市からも数マイル離れているため、サイトは財団全体から隔絶されており、半ば自給自足の状態です。財団の他の部署と接触する大きな機会といえば、年2回の物質供給と、外部職員の警戒や支援を必要とするものが見つかったときくらいです。結果として地質学部門は、奇妙なソロ充だの、異様な山の住民だの、こちらより先に向こうから見つけてくるだのという印象を持たれることとなりました。\n大抵、あなたがサイト-898に呼びかけること…",
+      "summary_basis_type": "overview",
+      "tags": [
+        "en",
+        "ハブ",
+        "大河は赤に染められる"
+      ],
+      "rating": 5,
+      "vote_count": 5,
+      "revision_count": 1,
+      "comment_count": 1,
+      "content_hash": "sha256:08d84cb376cca3e80fb1a9a1116bf2f835db64af3d991e98b2af2d53e1a80892",
+      "has_text_content": true,
+      "text_content_length": 8070,
+      "first_seen_at_jst": "2026-10-31T09:44:08.166844+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469759191"
+    },
+    {
+      "wikidot_id": "1469757932",
+      "page_name": "not-outstanding",
+      "url": "https://scp-jp.wikidot.com/not-outstanding",
+      "edition": "jp_original",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "jp_tag"
+      ],
+      "source_branch": "JP",
+      "source_branch_basis": "jp_tag",
+      "genre": "Tale",
+      "article_title": "後悔しても取り返しはつかない - 定命種エミュレータ事例集",
+      "subtitle": null,
+      "authors": [
+        "yamiagari"
+      ],
+      "original_title": null,
+      "original_url": null,
+      "original_authors": [],
+      "original_year": null,
+      "translation_year": null,
+      "translation_responsible": [],
+      "translators": [],
+      "created_at_utc": "2026-10-30T14:59:56.000Z",
+      "created_at_jst": "2026-10-30T23:59:56+09:00",
+      "created_by": "yamiagari",
+      "content_warnings": [],
+      "summary_basis": "登録日：2026/04/25\nタグ：擬態型 やらない方が良いこと 人間関係 受験\n\n5W1H+Then状況説明\n\nWho(誰が)\n筆者が\n\nWhen(いつ)\n先々月に\n\nWhere(どこで)\n友人の家で\n\nWhy(なぜ)\n定命種の友人に「僕の代わりに大学の入試を受験してくれないか」と言われた為\n\nHow(どのように)\n友人の姿に擬態して\n\nWhat(何をした)\n友人の代わりに試験を解いた\n\nThen(どうなった)\n落第した\n\n前提条件\n\n筆者は既に友人に、自分が長命種であることを知られている。\n友人は受験ギリギリになって筆者を頼ってきたので、筆者はあまり勉強できなかった。\n\n定命的行動ブレイクポイント\n\n定命種は「長命種は頭が良い」という固定観念を持っている。\n定命種は大学受験に関して極度に大きなプレッシャーを持っており、「替え玉受験」という方法で受験から逃げ出す者も一定数いる。\n定命種は一時の気の迷いで、本来やりたくないことでも手を出してしまう。\n\nどうすればよかったか\n\n自分はぼんやりと長い時を生きていただけで、特に勉強ができるわけではないことを伝えればよかった。\nせめて正々堂々とやるべきだということを伝えればよかった。\n受験の落第がどれほど重要なことなのか把握しておけばよかった。\n「友人の為に何かしてやりたい」という思いは抑えねばならなかった。\nこんなことで合格しても友人の為にならないということに気付かないといけなかった。\n友人はほんの軽い気持ちで言っただけなのに、筆者が替え玉受験に乗り気になってしまったせいで、友人が後に引けなくなったのかもしれない可能性も考慮するべきだった。\nこれほど反省点が出てくるのだからやはり、安易に替え玉受験を引き受けるべきではなかった。\n\n備考\n\n友人は落第を知った時、途方に暮れたような表情をしてから、やがて頭を掻きむしって息を吐いた。\n筆者はどうすればいいのかわからず、とにかく謝った。\nそんな筆者に対して友人は、謝罪するのは僕の方だ、と言った。何もできなかった僕が悪い、とも。\nその後、替え玉受験自体はバレなかった為、友人は無事に滑り止めの大学に入学した。\nしかし入学式の友人は少しも嬉しそうではなく、「自業自得だよね」とだけ言って力なく笑っていた。\nそれから筆者は友人とはしばらく口を利いていない。\nそれが正しい解決策なのだと思う。筆者と友人は、最初から関わるべきではなかった。\n筆者は友人を助けたつもりが、彼を絶望に蹴り落しているだけだった。\n\nこんな事になるのなら、筆者は長命種になどなりたくはなかった。\n\n関連する投稿(タグ基準)\n\n合格したか否かを不用意に聞いてはいけない\n象にだけは擬態しない方がいい\n本来の姿のまま地上に出てきてはいけない\n受験会場で眠くなっても床に寝転んではいけない\n女性の定命種には甘いものをあげるとよい\n動物園は擬態型の巣窟ではない\n\n«飲み会の武勇伝はほどほどのエピソードにしなければならない|受験に合格しても手続きがあることを忘れてはいけない»",
+      "summary_basis_type": "opening",
+      "tags": [
+        "jp",
+        "tale",
+        "xmas2026",
+        "削除通知",
+        "定命種エミュレータ事例集",
+        "_イベント2"
+      ],
+      "rating": -6,
+      "vote_count": 18,
+      "revision_count": 3,
+      "comment_count": 4,
+      "content_hash": "sha256:270d1f225dc3a8e8d86f10f321f9ddda2658dffcd010a6b30ab29d402659df59",
+      "has_text_content": true,
+      "text_content_length": 1395,
+      "first_seen_at_jst": "2026-10-31T09:44:08.166844+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469757932"
+    },
+    {
+      "wikidot_id": "1469756970",
+      "page_name": "essay-resource-hub",
+      "url": "https://scp-jp.wikidot.com/essay-resource-hub",
+      "edition": "translation",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "source_branch_tag"
+      ],
+      "source_branch": "EN",
+      "source_branch_basis": "tag",
+      "genre": "ハブ",
+      "article_title": "エッセイ・資料ハブ",
+      "subtitle": null,
+      "authors": [],
+      "original_title": null,
+      "original_url": null,
+      "original_authors": [
+        "SCP財団"
+      ],
+      "original_year": null,
+      "translation_year": null,
+      "translation_responsible": [],
+      "translators": [],
+      "created_at_utc": "2026-10-30T12:13:25.000Z",
+      "created_at_jst": "2026-10-30T21:13:25+09:00",
+      "created_by": "islandsmaster",
+      "content_warnings": [],
+      "summary_basis": "本ページはSCPコミュニティのために作成され、SCP財団に帰属します。本ページの管理はサイトスタッフに委任されています。\n\nエッセイ・資料ハブはSCPコミュニティのメンバーによって書かれた情報が集約された場所です。ユーザーの疑問解決に役立つページやエッセイ、カスタム検索機能などのリンクが掲載されています。ガイドハブとは異なり、これらのページ群は必読記事や公式のアドバイスとは見なされませんが、それでも興味深く有用な情報が含まれているかもしれません。\nこのハブに加えたいページがありましたら、サイトスタッフにご連絡ください。\nSCP-JPメンバーが最初に読むべきガイドはこちら\nカスタム検索機能はこちら\n\n+ エッセイ・資料とは？\n\n- 隠す\n\nエッセイとは:\nメンバーの個人的経験に基づく提案という形を取って、特定の事柄に関しての有益な助言を含んだページです。これには、サイトでの様々な活動(執筆・コーディング・アートワークなど)を専門とするサイトメンバーによる「ハウツー」も含まれています。\n資料とは:\n主にSCP財団の世界観について、様々な情報を集約したページです。財団に関する基本的な設定資料の他、広くサイト内で共有されている要注意団体、セキュリティ施設、財団の内部部門、機動部隊、要注意領域、キャラクターなどの概要が一覧としてまとめられています。\n\n(未訳)と書かれている項目は、他言語版サイトに投稿されたものの、当サイトでは翻訳されていないサブ項目です。\n\nFoldUnfold\nTable of Contents\n\n財団の世界観\n初心者向けウォークスルー\n執筆関連エッセイ\nツールと技術的情報\n批評とディスカッション\nサイトコミュニティ\nSCPの歴史\nインタビュー\n茜刺財団新聞\nその他\nカスタム検索機能\n\n財団の世界観\nSCP Foundationの世界について知ることができます。\n\nSCP財団とは: SCP財団の存在する世界観を解説したページです。\n\n財団世界観 ハブ: 世界観についてのページを纏めた、内部資料風の解説です。\n\nオブジェクトクラス: 財団で使用されている主要なオブジェクトクラスの解説です。\nセキュリティクリアランスレベル: 財団職員による情報アクセスを管理するためのクリアランスレベルと、職員の分類についての文書です。\n\n「SCP財団」の歩き方 改: 「SCP財団」の歩き方のリライト版となるエッセイです。\n\n_\n\n+ その他財団の世界観- その他財団の世界観\n\nオブジェクトクラス\n\nオブジェクトクラス\n\n分類委員会メモ: Woedenaz氏がdjkaktus氏らとともに作成した新しい分類フォーマットに関する、財団の内部資料風の解説です。\nS7-APCS Classification System: The Site-7 Anomalous Phenomenon Classification System developed by the Russian Branch.\nSCPオブジェクトの脅威レベル: 収容違反発生時にSCPオブジェクトが引き起こす危険を推定する、フランス語版で開発された補完的システムです。\n特殊オブジェクトクラスの包括的リスト: すべての特殊なオブジェクトクラスが列挙されたリストです。\n\n要注意団体\n\n要注意団体: 財団が遭遇した主要な要注意団体です。\n\n要注意団体の半包括的リスト: 数多くの要注意団体とそれに関連する記事を網羅したリストを作成する試み。\n\n要注意団体-JP\n\n_\n\n+ 他支部の要注意団体- 他支部の要注意団体\n\n要注意団体-RU: ロシア語支部の要注意団体です。\n要注意団体-KO: 韓国語支部の要注意団体です。\n要注意団体-CN: 中国語支部の要注意団体です。\n要注意団体-FR: フランス語支部の要注意団体です。\n要注意団体-PL: ポーランド語支部の要注意団体です。\n要注意団体-ES: スペイン語支部の要注意団体です。\n要注意団体-TH: タイ語支部の要注意団体です。\n要注意団体-DE: ドイツ語支部の要注意団体です。\n要注意団体-IT: イタリア語支部の要注意団体です。\n要注意団体-UA: ウクライナ語支部の要注意団体です。\n要注意団体-PT: ポルトガル語支部の要注意団体です。\n要注意団体-ZH: 繁体字中国語支部の要注意団体です。\n\nセキュリティ施設\n\nセキュリティ施設: 財団が運営するサイトとエリアの一覧です。\n\nA Semi-Comprehensive List of Foundation Facilities: An attempt at a complete list of Foundation facilities.\n\nセキュリティ施設-JP\n\n_\n\n+ 他支部のセキュリティ施設- 他支部のセキュリティ施設\n\nセキュリティ施設-CN: 中国語支部のセキュリティ施設です。\nセキュリティ施設-PL: ポーランド語支部のセキュリティ施設です。\nセキュリティ施設-IT: イタリア語支部のセキュリティ施設です。\nセキュリティ施設-PT: ポルトガル語支部のセキュリティ施設です。\nセキュリティ施設-ZH: 繁体字中国語支部のセキュリティ施設です。\n\n内部部門\n\n財団内部部門: 財団の主要な部門のリストです。\n\n財団内部部門一覧: ロシア語版から翻訳された、財団の内部部門についてのより包括的なリストです。\n財団内部部門の半包括的リスト: 数多くの内部部門とそれに関連する記事を網羅したリストを作成する試み。\n\n財団内部部門-JP\n\n機動部隊\n\n機動部隊: 財団の主要な機動部隊の一覧です。\n\n機動部隊の包括的リスト: 財団のすべての機動部隊についてのリストです。\n\n機動部隊-JP\n\n_\n\n+ 他支部の機動部隊- 他支部の機動部隊\n\n機動部隊-PL: ポーランド語支部の機動部隊です。\n機動部隊-DE: ドイツ語支部の機動部隊です。\n\n職員・人物\n\n職員・人物ファイル: 重要な財団職員および要注意人物のリストです。\n\nO5司令部書類: 財団の最高権力者たちに関する、相互に矛盾する報告の集積です。\n戦術神学部門編纂: 神性存在ファイル: 財団が記録した、高名な神々および抽象的な擬人化存在の一覧です。\nA Semi-Comprehensive List of Persons of Interest: A full list of Persons of Interest (PoI) known to the Foundation.\n\n職員・人物ファイル-JP\n\n要注意領域\n\n要注意領域: 定常的な人口を有する異常な領域の一覧です。\n\nネクサス・ハブ: オリジナルの…",
+      "summary_basis_type": "overview",
+      "tags": [
+        "en",
+        "ハブ",
+        "管理"
+      ],
+      "rating": 12,
+      "vote_count": 12,
+      "revision_count": 1,
+      "comment_count": 1,
+      "content_hash": "sha256:82fe5acc298c3496bad289041f57ba3489ae181a7adb219c6d76a777f30cef4c",
+      "has_text_content": true,
+      "text_content_length": 17667,
+      "first_seen_at_jst": "2026-10-31T09:44:08.166844+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469756970"
+    },
     {
       "wikidot_id": "1469754708",
       "page_name": "lockdown-procedures",
@@ -52,17 +265,73 @@
         "tale",
         "世界観構築"
       ],
-      "rating": 0,
-      "vote_count": 0,
-      "revision_count": 1,
-      "comment_count": 0,
-      "content_hash": "sha256:6f7bedad1d1f08532eed6681358e8e36d6437b27f3ee1f6ce5d68b4b18b8094c",
+      "rating": 7,
+      "vote_count": 9,
+      "revision_count": 2,
+      "comment_count": 4,
+      "content_hash": "sha256:f1b50afb3fd52178e24decf8a174982b9c411c53a64c8e60e59c731fd716f078",
       "has_text_content": true,
-      "text_content_length": 13403,
+      "text_content_length": 13401,
       "first_seen_at_jst": "2026-10-30T09:56:42.397426+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469754708"
+    },
+    {
+      "wikidot_id": "1469754699",
+      "page_name": "ethics-committee-class-d-housing-regulations",
+      "url": "https://scp-jp.wikidot.com/ethics-committee-class-d-housing-regulations",
+      "edition": "translation",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "credit_translation_responsible",
+        "credit_translation_year",
+        "credit_original_title",
+        "credit_original_url"
+      ],
+      "source_branch": "EN",
+      "source_branch_basis": "original_url",
+      "genre": "Tale",
+      "article_title": "倫理委員会 Dクラス宿舎運用規定",
+      "subtitle": null,
+      "authors": [],
+      "original_title": "Ethics Committee Class-D Housing Regulations",
+      "original_url": "https://scp-wiki.wikidot.com/ethics-committee-class-d-housing-regulations",
+      "original_authors": [
+        "ihatesnakes"
+      ],
+      "original_year": "2022",
+      "translation_year": "2026",
+      "translation_responsible": [
+        "AyuMashi"
+      ],
+      "translators": [
+        "AyuMashi"
+      ],
+      "created_at_utc": "2026-10-30T00:15:20.000Z",
+      "created_at_jst": "2026-10-30T09:15:20+09:00",
+      "created_by": "AyuMashi",
+      "content_warnings": [],
+      "summary_basis": "財団標準サイト運営・行動マニュアル\nDクラス宿舎規定\n\n改訂5.1　電子版\n--------------------\n財団記録データベースに登録済み。本ファイルは倫理委員会により変更可能。\n1996年3月15日現在、全ての現場職員および財団職員には、本マニュアルのクリアランス別／サイト別写しが配布されている。現在閲覧しているのは、人道倫理小委員会文書 ECD01265 の電子版である。複製・再配布を禁止する。\n--------------------\n\nはじめに\nDクラス宿舎を必要とする全てのサイトは、本書を通読し、本書に定める全ての基準が遵守されていることを確認すること。これに従わない場合、予算の削減や追加の処分が科される可能性がある。Dクラス宿舎区域の変更には困難が伴うため、本書が改訂される可能性は低いものとする。\n\nI: Dクラス宿舎一般区域\n本項では、クラスIVを除き、区分の別を問わず、Dクラス収容区域内に設置されなければならない区域について定める。また、設置可能な区域および設置を禁止される区域について、その制限および規定を定める。対象となる区域は以下の通り。\n\nDクラス個室: 壁面に固定された小型テーブル、床面にボルトで固定されたベッド（枕1個付き）、洗面台および便器を備えること。\n浴室: シャワー設備を備え、温水および冷水の双方を使用可能とすること。\n\nクラスIVを上回る上位のDクラスには、以下を設置する。\n\n食堂\n図書室\n娯楽区域: 屋内または屋外のいいずれかとする。\n\nクラスII相当以上のDクラス職員については、以下の利用を認める場合がある。\n\nサイトの裁量により設置される追加設備\nより広い個室: 1～3台の寝台を備え、他のDクラス職員と同一の居住区域に配置すること。\n\nII: Dクラス下位分類\n一部のDクラス職員は、過去の行動および研究上の価値に基づき、下位区分に分類される。各区分は以下の表に示す通り。\nなお、分類は固定されたものではなく、研究上の価値の増減に応じて変更されることがあり、実際に変更されるのが通例である。通常、クラスIおよびクラスIIの区分は一時的なものである。\n\n分類\n価値区分\n判断基準\n要件／許可事項\n\nI\n極めて高い価値\n当該Dクラスが異常な特性を有する場合、SCP対象の継続的な試験1、収容、または無力化に必要とされる場合、あるいは極めて有用な身体的・精神的資質を有する場合。\nDクラスは多くの追加的な優遇措置を利用することが認められる。ただし、夜間は他のDクラスと共に割り当てられたベッド区画で就寝しなければならない。日中、クラスIは監督下にある娯楽区域や図書室等の優遇区域を継続して利用することができる。クラスIは、クラスIII以下のDクラスと接触させてはならない。\n\nII\n高い価値\n当該Dクラスが、研究上有用な希少な身体的・精神的資質を有する場合、または財団の研究活動に対して継続的かつ恒常的な服従・協力を示している場合。\nクラスIIは、図書室や娯楽区域等の追加的な優遇設備を、通常より広範に利用することが認められる。\n\nIII\n標準\n当該Dクラスが超常的な特性を有しておらず、かつ命令違反または危険行動の記録を有していない場合。\nクラスIIIは限定的な優遇設備を利用することが認められ、サイト内の標準的な日課および行動規範に従うものとする。適切なクラスIV Dクラスが存在しない場合、高リスク試験または異常存在の再収容には、クラスIIIを代替要員として使用することができる。\n\nIV\n高リスク\n当該Dクラスが極めて危険であり、継続的な命令違反および危険行為の経歴を有する場合。\nクラスIVにはいかなる優遇設備の利用も、他の職員との接触も認めない。また、高リスクのSCP対象2に対する試験または再収容を行う場合に限り、収容区域から移送するものとする。\n\nIII: Dクラス収容区域の維持管理\n原則として、Dクラス収容区域は適時に修繕および清掃を行うものとする。Dクラスには、一定の範囲内で、追加的な優遇措置と引き換えに清掃・衛生管理業務を割り当てることができる。Dクラス収容区域について重要な修繕が必要となった場合、保守要員は、武装警備員2名以上の護衛を伴う場合に限り当該区域へ立ち入ることができる。\n\nIV: Dクラス…",
+      "summary_basis_type": "opening",
+      "tags": [
+        "en",
+        "tale",
+        "ダーク",
+        "世界観構築",
+        "倫理委員会"
+      ],
+      "rating": 6,
+      "vote_count": 6,
+      "revision_count": 4,
+      "comment_count": 0,
+      "content_hash": "sha256:fd3d6494b6a756d6a783d856bbdd3df20e012dc9e803d05fc55105f9164da0b9",
+      "has_text_content": true,
+      "text_content_length": 4696,
+      "first_seen_at_jst": "2026-10-31T09:44:08.166844+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469754699"
     },
     {
       "wikidot_id": "1469752478",
@@ -114,16 +383,16 @@
         "道具",
         "crom:series-3"
       ],
-      "rating": -1,
-      "vote_count": 1,
-      "revision_count": 1,
+      "rating": 1,
+      "vote_count": 3,
+      "revision_count": 2,
       "comment_count": 1,
-      "content_hash": "sha256:afbb61659324cdeb0b8b18bcf5df5f16cd324e716d0197e59fa713ab5042a2be",
+      "content_hash": "sha256:c73210fba60f9b4bfe51bd2573342e3015af5887ee3faf22a9b9afd59d9fe295",
       "has_text_content": true,
-      "text_content_length": 6197,
+      "text_content_length": 6190,
       "first_seen_at_jst": "2026-10-30T09:56:42.397426+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469752478"
     },
     {
@@ -180,7 +449,7 @@
       "text_content_length": 15119,
       "first_seen_at_jst": "2026-10-30T09:56:42.397426+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469749631"
     },
     {
@@ -219,8 +488,8 @@
         "scp",
         "削除通知"
       ],
-      "rating": -34,
-      "vote_count": 36,
+      "rating": -41,
+      "vote_count": 43,
       "revision_count": 2,
       "comment_count": 1,
       "content_hash": "sha256:db53bcb0e480cb06e760d803c29fe8d9bed7cc38f4aad1d87ac0192223bfe4b6",
@@ -272,8 +541,8 @@
         "ペスト医師",
         "取り憑くマスク"
       ],
-      "rating": 37,
-      "vote_count": 37,
+      "rating": 42,
+      "vote_count": 42,
       "revision_count": 2,
       "comment_count": 1,
       "content_hash": "sha256:30447bd45949b97eb9d828105cb681dd17e380ad2577d9ebee2706153883b395",
@@ -384,8 +653,8 @@
         "精神影響",
         "_イベント4"
       ],
-      "rating": 2,
-      "vote_count": 14,
+      "rating": 0,
+      "vote_count": 20,
       "revision_count": 1,
       "comment_count": 1,
       "content_hash": "sha256:a3f73854a46ae84740c51337efaa9487912b84af2a79dbd3c800d71d3494645a",
@@ -434,8 +703,8 @@
         "ゲーマーズアゲインストウィード",
         "_イベント3"
       ],
-      "rating": 18,
-      "vote_count": 20,
+      "rating": 21,
+      "vote_count": 23,
       "revision_count": 2,
       "comment_count": 1,
       "content_hash": "sha256:4c97bf425216dc86def4a427f55b00c1143ce8f394b9a9a1e2c8d374f0660659",
@@ -487,8 +756,8 @@
         "忘却のアディウム",
         "_イベント3"
       ],
-      "rating": 6,
-      "vote_count": 8,
+      "rating": 8,
+      "vote_count": 10,
       "revision_count": 3,
       "comment_count": 1,
       "content_hash": "sha256:bcf0a83ae0b13bfdd006c5d7934c4284a4561682bdc6ca4735a9b080b7d4b27a",
@@ -584,8 +853,8 @@
         "tale",
         "ねこです"
       ],
-      "rating": 84,
-      "vote_count": 106,
+      "rating": 87,
+      "vote_count": 109,
       "revision_count": 2,
       "comment_count": 4,
       "content_hash": "sha256:c4a3ca3709543f0f1acdeb151a26201265b36e7f4e1d7342969db5b49af2f57b",
@@ -639,8 +908,8 @@
         "吊られた王",
         "重訳"
       ],
-      "rating": 10,
-      "vote_count": 16,
+      "rating": 12,
+      "vote_count": 18,
       "revision_count": 2,
       "comment_count": 1,
       "content_hash": "sha256:ed69f6eae831aa73381763bc0f359c5fce5d97d1d8e880986297ea5e6594111c",
@@ -788,8 +1057,8 @@
         "scp",
         "削除通知"
       ],
-      "rating": -29,
-      "vote_count": 29,
+      "rating": -32,
+      "vote_count": 32,
       "revision_count": 2,
       "comment_count": 3,
       "content_hash": "sha256:dbaae092dc1c1c05bced1d7342d2e4435c16564b09c0aef1c377117d382c2903",
@@ -797,7 +1066,7 @@
       "text_content_length": 958,
       "first_seen_at_jst": "2026-10-30T09:56:42.397426+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469741030"
     },
     {
@@ -940,13 +1209,13 @@
         "黒の女王",
         "_イベント2"
       ],
-      "rating": 30,
-      "vote_count": 30,
-      "revision_count": 2,
+      "rating": 31,
+      "vote_count": 31,
+      "revision_count": 3,
       "comment_count": 3,
-      "content_hash": "sha256:4044d2fc0a486eba910ffffdf0b69e4e423094500dd9b8168411056db07ec5ce",
+      "content_hash": "sha256:164260588782a91c70ff51fcf6fdfc997ce7f3447fcf86c2470060a106bf0c52",
       "has_text_content": true,
-      "text_content_length": 12351,
+      "text_content_length": 12347,
       "first_seen_at_jst": "2026-10-27T09:23:46.972943+09:00",
       "baseline": false,
       "is_new_this_run": false,
@@ -995,10 +1264,10 @@
         "集団意識",
         "_イベント1"
       ],
-      "rating": 188,
-      "vote_count": 198,
+      "rating": 197,
+      "vote_count": 207,
       "revision_count": 4,
-      "comment_count": 15,
+      "comment_count": 16,
       "content_hash": "sha256:e8c244602031da8f733e6c049b7dffa92a4a91e063864c681c828419fbc6360e",
       "has_text_content": true,
       "text_content_length": 2236,
@@ -1320,8 +1589,8 @@
         "破壊不可能",
         "血液"
       ],
-      "rating": -10,
-      "vote_count": 12,
+      "rating": -11,
+      "vote_count": 13,
       "revision_count": 4,
       "comment_count": 1,
       "content_hash": "sha256:dc7aac9a36d34b1cce232824ebd06fbffdf07bc8c677a048f282a50ffc2d9b37",
@@ -1857,8 +2126,8 @@
         "公安部特事課",
         "精神影響"
       ],
-      "rating": 38,
-      "vote_count": 44,
+      "rating": 40,
+      "vote_count": 46,
       "revision_count": 7,
       "comment_count": 1,
       "content_hash": "sha256:9b615c5feef20efe1d8545435d120dc807e05053f8644f0e7f872c36044c71bc",
@@ -1963,8 +2232,8 @@
         "都市",
         "音声添付"
       ],
-      "rating": 7,
-      "vote_count": 7,
+      "rating": 8,
+      "vote_count": 8,
       "revision_count": 11,
       "comment_count": 1,
       "content_hash": "sha256:5b4221d8889ad4aa42399269f1c5157d295029bebef71af58012d04273917ae7",
@@ -2258,120 +2527,6 @@
       "baseline": false,
       "is_new_this_run": false,
       "notification_id": "1469531375"
-    },
-    {
-      "wikidot_id": "1469528843",
-      "page_name": "the-grayers-globster",
-      "url": "https://scp-jp.wikidot.com/the-grayers-globster",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translation_responsible",
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "EN",
-      "source_branch_basis": "original_url",
-      "genre": "Tale",
-      "article_title": "グレイヤーズ・グロブスター",
-      "subtitle": null,
-      "authors": [],
-      "original_title": "The Grayers Globster",
-      "original_url": "https://scp-wiki.wikidot.com/the-grayers-globster",
-      "original_authors": [
-        "FrankEntropy"
-      ],
-      "original_year": "2026",
-      "translation_year": "2026",
-      "translation_responsible": [
-        "C-Dives"
-      ],
-      "translators": [
-        "C-Dives"
-      ],
-      "created_at_utc": "2026-10-23T15:44:20.000Z",
-      "created_at_jst": "2026-10-24T00:44:20+09:00",
-      "created_by": "C-Dives",
-      "content_warnings": [],
-      "summary_basis": "そして、今日紹介する、2005年にグレイヤーズの海岸に漂着した “グレイヤーズ・グロブスター” もその一つだ。\n\nグレイヤーズ・グロブスター\n\n“セントオーガスティン・モンスター”として知られるグロブスターの見物に集まった群衆。ヴァン・ロックウッド撮影。\n\nグロブスターというものをご存知だろうか。海で起こるなかなか興味深い現象だ。端的に説明すると、折に触れて、腐った有機物の巨大な塊が海岸に漂着することがある。大抵のグロブスターは、岩場の上に広がる大きくてぶよぶよした灰色の塊だ。時には、骨格が無傷のままで打ち上げられ、何らかの死んだ海洋生物の死骸であることが一層明白な場合もある。\nかつてグロブスターは海の怪物だと考えられていたので、大きな話題になりがちだった。ニュースになり、全国の注目を惹き、大勢の人々が集まって悪臭芬芬たる塊を目の当たりにし、いったい生前はどんな奇怪な未確認生物だったのかと熟考した。\nもちろん、こうしたグロブスターはほぼ毎回、死んだクジラか、さもなければその脂身に過ぎないと突き止められてきた。だが、例外も幾つかある。例えば “モントーク・モンスター” は水に浸かったアライグマの死骸だったことが後に判明している。\nそして、今日紹介する、2005年にグレイヤーズの海岸に漂着した “グレイヤーズ・グロブスター” もその一つだ。\n2000年代の初頭には、グロブスターを取り巻く神秘性はすっかり薄れ、超常現象の愛好家や未確認動物学者の間でさえろくに話題に上らなくなっていた。しかし、その一例がグレイヤーズという小さな町の海岸に流れ着いた時、町長はそうした現状を意に介さなかった。彼は、たとえ濡れそぼった腐肉の塊を宣伝する必要があるとしても、ご当地未確認生物の物語を打ち出せば、この衰退しつつある海辺の町をもう一度活気づけられると考えていたのだ。\nグレイヤーズ・グロブスターは典型的な漂着不定形物のように見えた。形は潰れたビーンバッグチェアとほぼ同じ、大きさはその四倍ほどで、大部分はくすんだピンク色をした一塊の水浸しの肉で形成されていた。一部はネバネバした液状の質感であるのに対し、他の部分はもっと固くゴツゴツしていた。しかし、一般的なグロブスターよりも少し乾燥していたのは好都合だった － 町長は、この塊が腐り切ってしまうか、臭いが耐え難くなるまで、少なくとも多少は持ち堪えるだろうと踏んだ。\nその後、恐らくはアメリカ史上最も異様なマーケティング運動の一つが展開された。地元の新聞はこのグロブスターの来歴について “憶測を巡らせ” つつ “独創的に脚色” するように働きかけられ、町の新しい観光スポットを宣伝するポスターや看板が掲出された。信じがたい話だが、この観光振興策は （少なくとも最初のうちは） 一定の成功を収め、多くの見物客が少額の料金を払ってグレイヤーズ・グロブスターとの記念写真を撮るために立ち寄った。\n当初、この企画 （“グロブスター週間”） は一週間限りで、グロブスターはその後処分されるはずだった。ところが、予想以上の成功を収めたため、更に二週間延長されることになった。死肉を町の宣伝に利用するという施策から予想される通り、この成功は物議を醸さずには得られなかった。\n衛生面や良識に関する全般的な懸念はさておき、もっと具体的な反対意見も幾つか寄せられた。グレイヤーズの少なからぬ子供たち （そして一部の大人） がグロブスターや海が絡む悪夢を見たと語った。浜辺に近接する数軒の家は、窓を開けると空気そのものから塩味がするほどに臭気が酷いと嘆いた。ある地元住民に至っては、グロブスターが急速に腐敗してゆくのが聞こえるので眠れないと訴え、その音を多数の声の絶え間ない囁きに例えた。\nなお悪いことに、グロブスターの警備体制はただ境界線を引いただけの杜撰なもので、しばしば無人のまま放置されていた。住居が境界に面していたある住民は、夜中にいたずら者たちがグロブスターを取り囲み、触ってみろとお互いをけしかけ合うのが見えると訴えた。朝になると、グレイヤーズ・グロブスターからは、所々の肉片が手やナイフでえぐり取られているのが常だった。恐らく戦利品として持ち去られたのだろう。ある時には、十数ヶ所に歯型が付いているのが見つかった。この特定の事件以来、グロブスターは24…",
-      "summary_basis_type": "opening",
-      "tags": [
-        "creepypastacon2026",
-        "en",
-        "tale",
-        "クリーピーパスタ",
-        "ホラー",
-        "歴史"
-      ],
-      "rating": 17,
-      "vote_count": 17,
-      "revision_count": 4,
-      "comment_count": 2,
-      "content_hash": "sha256:0fda3d3e44f83feed5e32db732a9dc3e1c8929a932ed80b5e1a37ffe3d1e7f30",
-      "has_text_content": true,
-      "text_content_length": 3453,
-      "first_seen_at_jst": "2026-10-24T08:50:40.371344+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469528843"
-    },
-    {
-      "wikidot_id": "1469526224",
-      "page_name": "scp-405-j",
-      "url": "https://scp-jp.wikidot.com/scp-405-j",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translation_responsible",
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "EN",
-      "source_branch_basis": "original_url",
-      "genre": "SCP報告書",
-      "article_title": "SCP-405-J",
-      "subtitle": "ランダムページ",
-      "authors": [],
-      "original_title": "SCP-405-J — random page.",
-      "original_url": "https://scp-wiki.wikidot.com/scp-405-j",
-      "original_authors": [
-        "Penton"
-      ],
-      "original_year": "2023",
-      "translation_year": "2026",
-      "translation_responsible": [
-        "NUGGe2"
-      ],
-      "translators": [
-        "NUGGe2"
-      ],
-      "created_at_utc": "2026-10-22T23:23:47.000Z",
-      "created_at_jst": "2026-10-23T08:23:47+09:00",
-      "created_by": "NUGGe2",
-      "content_warnings": [],
-      "summary_basis": "説明: SCP-405-Jは、世界各地の財団サイトの大部分において、計445名の財団職員が死亡した状態で発見されているという、現在進行中の現象です。犠牲者は全員、クリアランスレベル3以下の職員でした;これらの因果関係は現時点では判明していません。\n更新: 本日23:45(EST)、新たに750人がSCP-405-Jの影響を受けました。\n更新.2: 00:00(EST)にSCP-405-Jの非活性化が確認されました。閉鎖は解除されました。最終的な死亡者数は890人に登ります。",
-      "summary_basis_type": "description",
-      "tags": [
-        "en",
-        "keter",
-        "scp",
-        "オンライン",
-        "ジョーク",
-        "財団製"
-      ],
-      "rating": 1,
-      "vote_count": 9,
-      "revision_count": 3,
-      "comment_count": 1,
-      "content_hash": "sha256:9abc32e47404516a22860105c8bac440c429d0e6e92ae08c155f451fd9d45593",
-      "has_text_content": true,
-      "text_content_length": 952,
-      "first_seen_at_jst": "2026-10-24T08:50:40.371344+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469526224"
     }
   ]
 }
