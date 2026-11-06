@@ -1,18 +1,186 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-11-05T01:26:39.788602+00:00",
-  "generated_at_jst": "2026-11-05T10:26:39.788602+09:00",
+  "generated_at_utc": "2026-11-06T01:30:16.613152+00:00",
+  "generated_at_jst": "2026-11-06T10:30:16.613152+09:00",
   "retention_hours": 168,
   "new_this_run_ids": [
-    "1469776717",
-    "1469777008",
-    "1469777016",
-    "1469778323",
-    "1469778722",
-    "1469779116",
-    "1469781203"
+    "1469782226",
+    "1469782524",
+    "1469783984"
   ],
   "articles": [
+    {
+      "wikidot_id": "1469783984",
+      "page_name": "scp-4168-jp",
+      "url": "https://scp-jp.wikidot.com/scp-4168-jp",
+      "edition": "jp_original",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "jp_tag"
+      ],
+      "source_branch": "JP",
+      "source_branch_basis": "jp_tag",
+      "genre": "SCP報告書",
+      "article_title": "SCP-4168-JP",
+      "subtitle": "怪奇！ゾンビ鳥！！",
+      "authors": [
+        "wavekey"
+      ],
+      "original_title": null,
+      "original_url": null,
+      "original_authors": [],
+      "original_year": null,
+      "translation_year": null,
+      "translation_responsible": [],
+      "translators": [],
+      "created_at_utc": "2026-11-05T14:00:07.000Z",
+      "created_at_jst": "2026-11-05T23:00:07+09:00",
+      "created_by": "wavekey",
+      "content_warnings": [],
+      "summary_basis": "説明: SCP-4168-JPは異常な鳥類です。外見上はアリスイ(Jynx torquilla、キツツキの一種)に酷似しますが、DNA解析ではゴイサギ(Nycticorax nycticorax、ペリカンの一種)であるという結果が確認されています。また、その鳴き声もゴイサギに類似すると評価されています。\nSCP-4168-JPは生物学的には死亡しています。一方で、生きているアリスイと同様の挙動をとっているように観察されます。SCP-4168-JPからはブードゥー教における呪術が施された痕跡が検出されており、これにより死亡しているにもかかわらず行動が可能となったと推定されます。これは伝統的なゾンビと同様の蘇生プロセスであり、SCP-4168-JPもゾンビに分類可能と判断されています。また、このため、SCP-4168-JPが不死である可能性も指摘されています。\nSCP-4168-JPの体表は緑色です。これは、むしろ近代的な/フィクションで示されるようなゾンビのイメージに類似しているという指摘がなされています。\nSCP-4168-JPの挙動は一般的なアリスイと同様ですが、唯一異なる点として、飛行時の体勢がアリスイともゴイサギとも異なるように観察される点が挙げられます。この特殊な体勢はSCP-4168-JPがゾンビであることに起因する可能性もありますが、そう仮定すると、その他の行動は通常通り行うことの説明が困難となります。\nSCP-4168-JPの異常性については、更なる調査が実施されています。なお、形式部門は、SCP-4168-JPが異常の\"形式\"から逸脱している　　すなわち、異常性の組み合わせに共通点がない・ちぐはぐであるように思われることを指摘しています。したがって、SCP-4168-JPの異常性の背景に、未特定の共通要素が存在する可能性を指摘しています。同部門は、調査と並行して、様々な職員からの意見を求めています。\n\n更新: 形式部門の意見募集に際して、以下の提言がなされました。\n\n結論から言うと、SCP-4168-JPの異常性には、言葉遊び的な背景があると考えられる。\nSCP-4168-JPは、アリスイのようなゴイサギであり、ゾンビであり、緑であり、飛行が特殊である。この要素をそれぞれ英語で考えてみる。\nまず、「アリスイ」は「JYNX」と言う。そして、「ゴイサギ」の呼び名には様々なものがあるが、「QUAWK」とも呼ぶようだ。両者ともスペルが珍しいことにお気付きかもしれない。そして、「飛行」は当然「FLIGHT」である。\nここで私は、これらのスペルに、妙に子音が多いことに気づいた。しかも、これら3つの単語に文字の被りがないことも発覚する。これは完全パングラム、すなわち「(その言語の)すべての文字を1回ずつ使用した文」を連想させる。アルファベットには母音が少ないので、完全パングラムでは子音を積極的に使う必要があるのだ。「JYNX」「QUAWK」「FLIGHT」というのは、あたかも作り途中の完全パングラムのように見えてくる。\nここで、「ゾンビ」「緑」を考える。「ゾンビ」は「ZOMBIE」だが、俗に「ZOMB」と縮めることがあるようだ。そして、古い英語だが、「緑」を「VERD」と言うことがある。ここまでの計23文字は、同じアルファベットを一度も使用していない。あと3文字を使えば、完全パングラムの完成である。では、残りの3文字は何か。\n「S」「C」「P」である。\nJYNX、QUAWK、FLIGHT、ZOMB、VERD、そしてSCP。これで完全パングラムが完成してしまうのである。\nここからは私の推測になるが、SCP-4168-JPは、言葉遊びマニアの愉快犯が作成したものではないか。SCP-4168-JPがSCPオブジェクトとして収容されることによって完成する完全パングラムを仕組み、実際に収容されるのを待った。財団は当オブジェクトを収容したが、これは作成者の手の平の上で踊らされていたということなのだ。\nもちろん、「S」「C」「P」が我々財団以外を示している可能性も否定はできない。だが、こんなにも都合よくこの3文字が残ったとなると、背後の愉快犯の存在を疑わざるを得ない。\n\n戦術求解部門　神野 真\n\n同提言に対して、「QUAWK」「ZOMB」「VER…",
+      "summary_basis_type": "description",
+      "tags": [
+        "euclid",
+        "jp",
+        "scp",
+        "xmas2026",
+        "サメ殴りセンター",
+        "人工",
+        "体肢",
+        "形式部門",
+        "戦術求解部門",
+        "敵対的",
+        "武器",
+        "死体",
+        "蘇生",
+        "軟骨魚類",
+        "魚類",
+        "鳥類",
+        "_イベント1"
+      ],
+      "rating": 15,
+      "vote_count": 29,
+      "revision_count": 3,
+      "comment_count": 1,
+      "content_hash": "sha256:e11319f636c50b9bcad3ce8447a152e16b0466e692b6a203034bd2580a6eddf0",
+      "has_text_content": true,
+      "text_content_length": 2366,
+      "first_seen_at_jst": "2026-11-06T10:30:16.613152+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469783984"
+    },
+    {
+      "wikidot_id": "1469782524",
+      "page_name": "scp-4021-jp",
+      "url": "https://scp-jp.wikidot.com/scp-4021-jp",
+      "edition": "jp_original",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "jp_tag"
+      ],
+      "source_branch": "JP",
+      "source_branch_basis": "jp_tag",
+      "genre": "SCP報告書",
+      "article_title": "SCP-4021-JP",
+      "subtitle": "吸血虫",
+      "authors": [
+        "MugiYagata"
+      ],
+      "original_title": null,
+      "original_url": null,
+      "original_authors": [],
+      "original_year": null,
+      "translation_year": null,
+      "translation_responsible": [],
+      "translators": [],
+      "created_at_utc": "2026-11-05T11:09:03.000Z",
+      "created_at_jst": "2026-11-05T20:09:03+09:00",
+      "created_by": "MugiYagata",
+      "content_warnings": [],
+      "summary_basis": "説明: SCP-4021-JPは、自身を「1000年生きた吸血鬼である」と主張するヒト型実体です。身長170㎝程度で20歳前後の男性の外見です。歯は4本の鋭い犬歯のみが存在します。日本語、英語、古典的なドイツ語、複数の古代語で発話が可能です。\nSCP-4021-JPは食物として哺乳類の血液を摂取し、特に人間の血液を好みます。摂食時には針状の犬歯を対象に突き刺します。通常は腕などの末端部から少量の血液を摂取しますが、頸動脈から全身の血液の90%以上を吸収し、対象を死亡させることも可能です。一般的な人間用の食物は、嘔吐や下痢などの食中毒に似た症状を引き起こして排出されるため、栄養として利用できません。一方、水、清涼飲料水、牛乳は問題なく摂取できますが、これらのみを10日間与えた場合、栄養失調の症状が現れました。\nSCP-4021-JPは高い再生能力を持つことが実験により判明しています。一例として、左手の小指を第二関節から切断した場合は、1カ月で完全に再生しました。1また、2015年に収容されて以降、一切の加齢の兆候を見せていません。\n発見: SCP-4021-JPは2015年██月██日、東京都██区の屋外で吸血しているところを巡回中の警察に発見されました。警察組織に潜入していたエージェント██の報告により財団に認知され、収容に至りました。\n以下は初期収容時のインタビュー記録です。\n\n_\n\n+ インタビュー記録_001- 閉じる\n\n対象: SCP-4021-JP\n\nインタビュアー: エージェント██\n\n<録音開始>\n\nインタビュアー: インタビューを開始します。まず、あなたの異常性について教えてください。\n\nSCP-4021-JP: 俺は1000年生きた吸血鬼だよ。\nインタビュアー: なるほど。他に何かありますか？\n\nSCP-4021-JP: そうだな……怪我が治りやすいとか、歯が4本しかないとか、普通の食べ物は食べれないとか、ピアノが得意とか？\nインタビュアー: 最後のは異常性でない気がしますが……。ええと、食性等の異常性は生まれつきのものでしょうか？\n\nSCP-4021-JP: たぶんそうだと思うよ。覚えてる限りずっとこんな感じだから。年も取らないし、なんなら子供のころの記憶もない。\nインタビュアー: 幼少期の記憶がないのですね。では、一番古い記憶はどのようなものですか？\n\nSCP-4021-JP: うーん……たぶん1000年くらい前の、たぶんオーストラリア北部なんだけど、最初は一人だったような……知らない村の人と仲良くなって言葉を教えてもらったんだと思う。\nインタビュアー: なるほど。では、あなたのような実体が他にも存在するかご存じですか？\n\nSCP-4021-JP: 俺みたいなの、か。人を傷つける化け物って意味ならいろいろ見たことあるよ。超能力者の知り合いも何人かいたけど、みんな年取って死んじゃったなあ。俺くらい長生きの吸血鬼が他にいるかは知らないけど、もしいるなら会ってみたいね。\nインタビュアー: わかりました。今後、他の異常実体についても詳しくインタビューを行います。\n\nSCP-4021-JP: オッケー。喋るの好きだしいつでもいいよ。\nインタビュアー: 協力的で助かりますね。\n\nSCP-4021-JP: まあね。想定してた中でだいぶいいほうの対応してもらってるからこのくらいは。\nインタビュアー: どういうことですか？\n\nSCP-4021-JP: 前々から、化け物とか超常現象とかをなんとかする人たちがいるのは予想してたんだよ。これだけ世界中の情報が飛び交ってるのに、そういうのの話はぜんぶオカルト扱いされてるからね。誰かが存在を隠してるんだろうと。ただ、問答無用で殺そうとする人たちの可能性もあったから、見つからないように気を付けて生活してた。\nインタビュアー: あなたが我々に発見された状況は、あまり「気を付けて生活していた」と言えるものではなかったと報告されていますが。\n\nSCP-4021-JP: （笑い声）最近はね。もういいかなって。現代社会めんどくさいんだよね。そこらじゅうにカメラあるし。あと、仕事を探すのも部屋を借りるのもだいたい身分証がいるじゃん？しかももうじき、マイナンバーカードだっけ、新しい身分証が配られるんでしょ？…",
+      "summary_basis_type": "description",
+      "tags": [
+        "euclid",
+        "jp",
+        "scp",
+        "人間型",
+        "削除通知",
+        "変身",
+        "擬態",
+        "生命",
+        "節足動物"
+      ],
+      "rating": -9,
+      "vote_count": 11,
+      "revision_count": 3,
+      "comment_count": 1,
+      "content_hash": "sha256:423f355b307858d165f0ef9943e294c0d15868d1c3e6310d03dac92e8096e8c3",
+      "has_text_content": true,
+      "text_content_length": 6431,
+      "first_seen_at_jst": "2026-11-06T10:30:16.613152+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469782524"
+    },
+    {
+      "wikidot_id": "1469782226",
+      "page_name": "scp-2295-jp",
+      "url": "https://scp-jp.wikidot.com/scp-2295-jp",
+      "edition": "jp_original",
+      "classification_confidence": "confirmed",
+      "classification_reasons": [
+        "jp_tag"
+      ],
+      "source_branch": "JP",
+      "source_branch_basis": "jp_tag",
+      "genre": "SCP報告書",
+      "article_title": "SCP-2295-JP",
+      "subtitle": null,
+      "authors": [
+        "Congy"
+      ],
+      "original_title": null,
+      "original_url": null,
+      "original_authors": [],
+      "original_year": null,
+      "translation_year": null,
+      "translation_responsible": [],
+      "translators": [],
+      "created_at_utc": "2026-11-05T09:20:28.000Z",
+      "created_at_jst": "2026-11-05T18:20:28+09:00",
+      "created_by": "Congy",
+      "content_warnings": [
+        "コンテンツ警告: この記事には性的な記述が含まれています。"
+      ],
+      "summary_basis": "説明: SCP-2295-JPは「夢の国から地球に降り立った淫魔グマ\"カエロス\"」を自称している、外見上17~18歳程度1の女性に見える人型実体です。頭頂部にはツキノワグマ(Ursus thibetanus)の耳に類似した器官2が、背中からは翼手目の動物に特徴的な翼に類似した器官3が未知の原理で付着しています。\nSCP-2295-JPは知性を有し、専ら池原 高志氏4に対して性的な悪戯を行う計画を度々口にしています。SCP-2295-JPは食事を必要としませんが、「人間の精液を、それも1リットル程度欲しい」という旨の要求を過去数回に渡って行っています。この要求はアノマリーの保全に寄与していないとして全て却下されています。",
+      "summary_basis_type": "description",
+      "tags": [
+        "euclid",
+        "jp",
+        "scp",
+        "xmas2026",
+        "クマ",
+        "人間型",
+        "削除通知",
+        "奇跡術",
+        "性的",
+        "玩具",
+        "自律",
+        "_イベント2"
+      ],
+      "rating": -13,
+      "vote_count": 13,
+      "revision_count": 3,
+      "comment_count": 4,
+      "content_hash": "sha256:6954c253c30cce528327aeb6b8b4e5b0f3ad2d2dd0a36f528410a0e1077dc1a6",
+      "has_text_content": true,
+      "text_content_length": 4532,
+      "first_seen_at_jst": "2026-11-06T10:30:16.613152+09:00",
+      "baseline": false,
+      "is_new_this_run": true,
+      "notification_id": "1469782226"
+    },
     {
       "wikidot_id": "1469781203",
       "page_name": "scp-1730-j",
@@ -61,8 +229,8 @@
         "空間",
         "財団製"
       ],
-      "rating": 2,
-      "vote_count": 2,
+      "rating": 4,
+      "vote_count": 12,
       "revision_count": 1,
       "comment_count": 2,
       "content_hash": "sha256:253a89833b8410db968d3c2c9486eeff2fbac340c324d533230f9371c8808a7c",
@@ -70,7 +238,7 @@
       "text_content_length": 5423,
       "first_seen_at_jst": "2026-11-05T10:26:39.788602+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469781203"
     },
     {
@@ -119,8 +287,8 @@
         "精神影響",
         "記憶影響"
       ],
-      "rating": 3,
-      "vote_count": 7,
+      "rating": 10,
+      "vote_count": 14,
       "revision_count": 1,
       "comment_count": 2,
       "content_hash": "sha256:43b29a69a358c3609f90577f786c3c79e40f9c8bc691c101c5aecd3a6c692165",
@@ -128,7 +296,7 @@
       "text_content_length": 3094,
       "first_seen_at_jst": "2026-11-05T10:26:39.788602+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469779116"
     },
     {
@@ -180,8 +348,8 @@
         "音波",
         "_イベント1"
       ],
-      "rating": -11,
-      "vote_count": 25,
+      "rating": -9,
+      "vote_count": 29,
       "revision_count": 2,
       "comment_count": 3,
       "content_hash": "sha256:7e2588073df29a170bc2d128b7bcb39a5da3fadb55d92c25ce971182c7166086",
@@ -189,7 +357,7 @@
       "text_content_length": 822,
       "first_seen_at_jst": "2026-11-05T10:26:39.788602+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469778722"
     },
     {
@@ -235,8 +403,8 @@
         "アイスバーグ博士",
         "ギアーズ博士"
       ],
-      "rating": 4,
-      "vote_count": 4,
+      "rating": 13,
+      "vote_count": 13,
       "revision_count": 2,
       "comment_count": 2,
       "content_hash": "sha256:052511c9def0f706ca2e279cab326f1dc954139ef71a4fceaef59984ee3e687b",
@@ -244,7 +412,7 @@
       "text_content_length": 7104,
       "first_seen_at_jst": "2026-11-05T10:26:39.788602+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469778323"
     },
     {
@@ -282,8 +450,8 @@
         "ハブ",
         "メタデータ"
       ],
-      "rating": 7,
-      "vote_count": 7,
+      "rating": 8,
+      "vote_count": 10,
       "revision_count": 1,
       "comment_count": 0,
       "content_hash": "sha256:563e3d047b6f75c537960388022bbe3595f9f37bbdd6ccc1593e7552a4bb82db",
@@ -291,7 +459,7 @@
       "text_content_length": 518,
       "first_seen_at_jst": "2026-11-05T10:26:39.788602+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469777016"
     },
     {
@@ -329,8 +497,8 @@
         "ハブ",
         "メタデータ"
       ],
-      "rating": 8,
-      "vote_count": 8,
+      "rating": 10,
+      "vote_count": 10,
       "revision_count": 3,
       "comment_count": 0,
       "content_hash": "sha256:33fbc21ae723191189be5a26d633a23d126fc44411f4d34c2f2306b064ab1eb0",
@@ -338,7 +506,7 @@
       "text_content_length": 570,
       "first_seen_at_jst": "2026-11-05T10:26:39.788602+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469777008"
     },
     {
@@ -392,16 +560,16 @@
         "非実体",
         "crom:series-5"
       ],
-      "rating": -6,
-      "vote_count": 6,
-      "revision_count": 6,
-      "comment_count": 2,
-      "content_hash": "sha256:65694062fafc2625cfcba7603765d6e61975148ac073936b84534dbb8e96af2a",
+      "rating": -7,
+      "vote_count": 7,
+      "revision_count": 7,
+      "comment_count": 4,
+      "content_hash": "sha256:5abf042c419a0be264ed899659d74f61cff43eaefdc1a46c37fae19d08b96e3f",
       "has_text_content": true,
       "text_content_length": 26622,
       "first_seen_at_jst": "2026-11-05T10:26:39.788602+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1469776717"
     },
     {
@@ -441,6 +609,7 @@
         "xmas2026",
         "クモ",
         "予知",
+        "共著",
         "削除通知",
         "動物",
         "反ミーム",
@@ -448,7 +617,7 @@
       ],
       "rating": -11,
       "vote_count": 31,
-      "revision_count": 2,
+      "revision_count": 3,
       "comment_count": 3,
       "content_hash": "sha256:654af41a25adc7f4a3ed6bae0abc0202e7ced08d266458a3eaf73637f238fc9a",
       "has_text_content": true,
@@ -505,8 +674,8 @@
         "劇組",
         "語り"
       ],
-      "rating": 8,
-      "vote_count": 12,
+      "rating": 9,
+      "vote_count": 13,
       "revision_count": 1,
       "comment_count": 1,
       "content_hash": "sha256:4dc608bfe6a1585b82281479e7e0aedd526c2a6465471badd6209200f46af2c6",
@@ -616,10 +785,10 @@
         "脱走劇",
         "詩的文学"
       ],
-      "rating": 3,
-      "vote_count": 9,
+      "rating": 1,
+      "vote_count": 11,
       "revision_count": 4,
-      "comment_count": 0,
+      "comment_count": 1,
       "content_hash": "sha256:f68c0d8b0b2e3022dfd07f02d1525215c518ccdd4f16775a59765def3f117e61",
       "has_text_content": true,
       "text_content_length": 414,
@@ -734,8 +903,8 @@
         "電子デバイス",
         "crom:series-10"
       ],
-      "rating": 10,
-      "vote_count": 10,
+      "rating": 11,
+      "vote_count": 11,
       "revision_count": 1,
       "comment_count": 0,
       "content_hash": "sha256:fe983a3b06d3c9b8ce431a43d2bff0e173a449dfff2d576cb346e7d231c46341",
@@ -852,8 +1021,8 @@
         "道具",
         "_イベント2"
       ],
-      "rating": -18,
-      "vote_count": 42,
+      "rating": -20,
+      "vote_count": 44,
       "revision_count": 4,
       "comment_count": 5,
       "content_hash": "sha256:87e0d64e897dce9a3a28d141fa2479a68933d891be74c98886e513e0739f582c",
@@ -1298,7 +1467,7 @@
         "アートワーク"
       ],
       "rating": 40,
-      "vote_count": 62,
+      "vote_count": 66,
       "revision_count": 3,
       "comment_count": 0,
       "content_hash": "sha256:20d269cc4ad582c237eb334b6645d83cefb555ae3a9ebf3a11d0fff11e2410dd",
@@ -1404,8 +1573,8 @@
         "観測",
         "crom:series-10"
       ],
-      "rating": 11,
-      "vote_count": 11,
+      "rating": 12,
+      "vote_count": 12,
       "revision_count": 2,
       "comment_count": 2,
       "content_hash": "sha256:7eecfbafd8d5dd7b8a9abf475f77ea24717a31fd74b18a3501192454d4439bea",
@@ -1453,8 +1622,8 @@
         "共著",
         "夢見テクノロジー"
       ],
-      "rating": 13,
-      "vote_count": 15,
+      "rating": 15,
+      "vote_count": 17,
       "revision_count": 5,
       "comment_count": 1,
       "content_hash": "sha256:ad2810597ddb10edf148ff5cfd4f27b765f006e3398beb624a4fbf760ea9583c",
@@ -1786,8 +1955,8 @@
         "夜行性",
         "生命"
       ],
-      "rating": 32,
-      "vote_count": 40,
+      "rating": 33,
+      "vote_count": 41,
       "revision_count": 1,
       "comment_count": 1,
       "content_hash": "sha256:17a7d87052c4f0d2a66dee40dfc878e56a1eb4800c05b953119216c04019ec6c",
@@ -1961,8 +2130,8 @@
         "定命種エミュレータ事例集",
         "_イベント2"
       ],
-      "rating": 25,
-      "vote_count": 45,
+      "rating": 26,
+      "vote_count": 46,
       "revision_count": 3,
       "comment_count": 1,
       "content_hash": "sha256:2ccb9f522ccf49cffec77e26e7b599842a1a10ea47b550a924f9a86d9d564161",
@@ -2287,60 +2456,6 @@
       "notification_id": "1469756970"
     },
     {
-      "wikidot_id": "1469754708",
-      "page_name": "lockdown-procedures",
-      "url": "https://scp-jp.wikidot.com/lockdown-procedures",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translation_responsible",
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "EN",
-      "source_branch_basis": "original_url",
-      "genre": "Tale",
-      "article_title": "ロックダウン手順",
-      "subtitle": null,
-      "authors": [],
-      "original_title": "Lockdown Procedures",
-      "original_url": "https://scp-wiki.wikidot.com/lockdown-procedures",
-      "original_authors": [
-        "Blibby_Blobfish"
-      ],
-      "original_year": "2017",
-      "translation_year": "2026",
-      "translation_responsible": [
-        "AyuMashi"
-      ],
-      "translators": [
-        "AyuMashi"
-      ],
-      "created_at_utc": "2026-10-30T00:25:34.000Z",
-      "created_at_jst": "2026-10-30T09:25:34+09:00",
-      "created_by": "AyuMashi",
-      "content_warnings": [],
-      "summary_basis": "財団標準オリエンテーションマニュアル\nロックダウン手順\n\n改訂3.9 [サイト-81]　電子版\n--------------------\n財団記録データベースに登録済み。保存文書。\n2017年3月15日現在、全ての現場職員および財団職員には、本マニュアルのクリアランス別写しが配布されている。複製・再配布を禁止する。\n--------------------\n\n使用:\n本書は、セキュリティまたは収容体制の侵害を受けてサイト内でロックダウンが実施された際に、職員が従うべき基本的な手順を周知することを目的とする。関係職員向けの再収容プロトコル・マニュアルを含む詳細版の文書については、直属の上司に申請することで閲覧することができる。\n本マニュアルを最も信頼性の高い情報源として参照すること。ロックダウン手順は、その実効性を確保するため迅速に実施しなければならない。敵対勢力の脅威に対して速度を優位性として活用すること。基本的な規定を誤って理解することは、あなた自身および共に勤務する全ての職員を危険にさらす可能性がある。このため、サイト管理部門は全職員が本マニュアルの内容を熟知していることを求める。\n配布:\n別途指示がない限り、職員は本マニュアルの内容が厳秘扱いであり、文脈上、サイト固有の情報として扱われることに留意すること。サイト間での配布はタイプ3a違反に該当する。別の職員に配布された写しを交換または閲覧することも禁止する。\n本規定への違反が疑われる場合、直ちに管理部門へ連絡すること。\n\n-----------------------------------------\n\n序文\n\n長年にわたり、私たちは、内部勢力と外部勢力の双方から等しく防護された、完全に安全な施設というものを実現することは不可能であると認めるようになってきた。これこそが、ロックダウンが我々財団のシステムに組み込まれた不可欠な要素となっている理由である。完全な統制を目的とする思考に陥ることは、徒労に終わる。常に、物事が正しく進む可能性よりも、誤った方向へ進む可能性の方が多いことを考慮しなければならない。このような手順に頼らないことは、起こり得る誤りを完全に否定することに等しい。財団は無知ではなく、受容を基盤として築かれている。無知であってはならない。\n- サイト安全管理・収容規程委員会 委員長　サワー博士\n概要\nロックダウンとは、収容違反またはセキュリティの侵害に対応して実施される、状況に応じた緊急手順を指す。ロックダウンはロックダウン対応コード（LRC）を用いて要請され、O4通信グループによって発令される。評価完了後、ロックダウンは「ロックダウン度」に基づいて分類され、必要に応じてAMTF（Armed Mobile Task Force／武装機動部隊）や自動対応イニシアチブ（ARI）を展開するなど、確認された脅威を鎮圧するための適切な対応について、あらかじめ定められた指針が適用される。\n背景\nロックダウンは、1931年3月12日に発生した収容違反、および財団職員、物資、重要資産に甚大な損失をもたらした複数のサイト内事故を受け、正式な標準規定として採用された。それ以降、財団はサイト内部の不安定要因をより安全かつ確実、信頼性の高い方法で抑制するため、各種手段の再導入に多大な努力を払ってきた。財団全体で収容される異常存在の増加に対処するため、イプシロン-11など、一部の初期のMTF（機動部隊）が編成され、脅威への対応任務に投入された。\n「深海期」と呼ばれる数年間、財団では、対立勢力からの干渉、収容基準の低下、および財団職員による命令違反などを原因として、収容違反と重要資産の侵害が常態化していた。その中には1928年のカオス・インサージェンシーの結成も含まれる。当時の財団における倫理観の低下が一部隊を無断離脱へと駆り立て、その後、極めて敵対的な分派組織として再編されるに至ったものである。収容違反への対応は、最終的に1935年、O5評議会によって再検討され、改定された。\n1980年代に複数のKeterクラス異常存在が収容されたことを契機として、一部の財団施設では収容違反の深刻度および発生頻度が著しく増大した。これら新たな脅威の再収容および鎮圧を支援するため、ニュー-7やイータ-5などの…",
-      "summary_basis_type": "opening",
-      "tags": [
-        "en",
-        "tale",
-        "世界観構築"
-      ],
-      "rating": 7,
-      "vote_count": 9,
-      "revision_count": 2,
-      "comment_count": 4,
-      "content_hash": "sha256:f1b50afb3fd52178e24decf8a174982b9c411c53a64c8e60e59c731fd716f078",
-      "has_text_content": true,
-      "text_content_length": 13401,
-      "first_seen_at_jst": "2026-10-30T09:56:42.397426+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469754708"
-    },
-    {
       "wikidot_id": "1469754699",
       "page_name": "ethics-committee-class-d-housing-regulations",
       "url": "https://scp-jp.wikidot.com/ethics-committee-class-d-housing-regulations",
@@ -2395,173 +2510,6 @@
       "baseline": false,
       "is_new_this_run": false,
       "notification_id": "1469754699"
-    },
-    {
-      "wikidot_id": "1469752478",
-      "page_name": "scp-2330",
-      "url": "https://scp-jp.wikidot.com/scp-2330",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translation_responsible",
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "EN",
-      "source_branch_basis": "original_url",
-      "genre": "SCP報告書",
-      "article_title": "SCP-2330",
-      "subtitle": "説得力あるホワイトボード",
-      "authors": [],
-      "original_title": "SCP-2330 - A Convincing Whiteboard",
-      "original_url": "https://scp-wiki.wikidot.com/scp-2330",
-      "original_authors": [
-        "TyGently"
-      ],
-      "original_year": "2015",
-      "translation_year": "2026",
-      "translation_responsible": [
-        "C-Dives"
-      ],
-      "translators": [
-        "C-Dives"
-      ],
-      "created_at_utc": "2026-10-29T14:53:04.000Z",
-      "created_at_jst": "2026-10-29T23:53:04+09:00",
-      "created_by": "C-Dives",
-      "content_warnings": [],
-      "summary_basis": "説明: SCP-2330は乾拭き式ホワイトボードです。SCP-2330の筆記面は白色で、明確にそれと分かるマークはありません。ブランド名はSCP-2330の表面のどこにも記載されていません。SCP-2330の表面に付着したあらゆる粉末や液体 (インク、黒鉛、絵具を含むがそれらのみに限定されない) は、摩擦や流水によって、ホワイトボードに永続的な痕跡を残すことなく容易に除去可能です。SCP-2330の化学分析で特異性は確認されませんでしたが、分析結果によると、その表面は通常予想されるよりも著しく平坦であり、平面度は0.1ピコメートル未満です。\n明確かつ断定的な声明がSCP-2330の筆記面に判読可能な形式で記される時、その声明はミーム的な影響力を発揮します。声明を直接視認し、理解した覚醒状態の人間は、その内容が真実であり、自身はSCP-2330に曝露する以前から常にその声明を信じていたという確信を即座に抱き、SCP-2330-1個体となります。最初の感染の記憶が精神に残存している限り、いかなる手段でもSCP-2330-1個体にこの声明の誤りを納得させることはできません。声明への信念を撤回させる目的で試験された全ての手段 (尋問、論理的証明、心理的再プログラミングを含むがそれらのみに限定されない) は、既知のあらゆる事例において効力が認められませんでした。SCP-2330-1個体は自身の信念とSCP-2330の異常性を関連付ける能力を持たないことが判明しています。\nSCP-2330-1個体が、手書きのメッセージや音声など、受け手が理解可能な任意の手段で問題の声明を伝達すると (以下、汚染された媒体をSCP-2330-2とする) 、受け手は新たなSCP-2330-1個体となるため、SCP-2330-1感染は極めて伝染力の強い認識災害です。SCP-2330-1個体は声明を拡散する強迫観念を示しませんが、偶発的な感染は珍しくなく、SCP-2330-1個体に信念を撤回させる試みは、記録された事例の94%において説得者側への感染拡大を招いています。\n記述形式のSCP-2330-2実例は写真や映像として視認すると異常性を示しませんが、言語形式のSCP-2330-2実例は録音や音声配信として聴取した場合でも感染力を発揮します。従って、活性状態のSCP-2330-1個体への対応には防音装備が不可欠となります。\nSCP-2330に筆記された声明が消去されると、記述形式SCP-2330-2実例は感染力を喪失します。しかしながら、言語形式実例の感染力は保たれ、SCP-2330-1個体は声明への信念と言語形式SCP-2330-2実例の生成能力を保持し続けます。\n\n異常性誘発声明についての更なる知見\n\n異常性誘発声明についての更なる知見\n\n広範な試験を通して、SCP-2330の特性の限界は確立されています。記号や図像はSCP-2330のミーム効果を誘発しません。支離滅裂な単語の羅列はSCP-2330のミーム効果を誘発しません。質問文や断片的な文はSCP-2330のミーム効果を誘発しません。命令文はSCP-2330のミーム効果を誘発しませんが、読者に言及する断定文は効果を誘発します。\n例として、“あなたの左手を挙げろ”は誘発声明ではありませんが、“あなたは左手を挙げるべきである”は誘発声明となります。しかしながら、この声明は読者に対して“左手を挙げるのは望ましい行動である”という印象を与えるだけであり、強制的に左手を挙げさせる効果はありません。また、“あなたは左手を挙げるであろう”という声明は、読者に対して“自分は将来のいつかの時点で左手を挙げる”と確信させますが、実際にそうする動機を付与しません。“あなたは10秒後に左手を挙げるであろう”という声明もやはり行動を強制することはなく、読者はどれだけ時間が経過しても“自分は今から正確に10秒後に左手を挙げる”という認識だけを持ち続けます。SCP-2330の効果を意図的に利用して命令を発する場合は、その行動を実行しなければ深刻な事態が出来するかのような文言を用いることが推奨されます。\n二人称 (“あなた”等) を用いて表現された声明は、各SCP-2330-1個体から自分自身への言及であると解釈され、最初のSCP-2330…",
-      "summary_basis_type": "description",
-      "tags": [
-        "en",
-        "euclid",
-        "k-クラスシナリオ",
-        "scp",
-        "ミーム",
-        "精神影響",
-        "視覚",
-        "記憶影響",
-        "認識災害",
-        "道具",
-        "crom:series-3"
-      ],
-      "rating": 1,
-      "vote_count": 3,
-      "revision_count": 2,
-      "comment_count": 1,
-      "content_hash": "sha256:c73210fba60f9b4bfe51bd2573342e3015af5887ee3faf22a9b9afd59d9fe295",
-      "has_text_content": true,
-      "text_content_length": 6190,
-      "first_seen_at_jst": "2026-10-30T09:56:42.397426+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469752478"
-    },
-    {
-      "wikidot_id": "1469749631",
-      "page_name": "aleph-hub",
-      "url": "https://scp-jp.wikidot.com/aleph-hub",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translation_responsible",
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "EN",
-      "source_branch_basis": "original_url",
-      "genre": "ハブ",
-      "article_title": "ALEPH ハブ",
-      "subtitle": null,
-      "authors": [],
-      "original_title": "ALEPH HUB",
-      "original_url": "https://scp-wiki.wikidot.com/aleph-hub",
-      "original_authors": [
-        "TroutMaskReplica",
-        "popsioak"
-      ],
-      "original_year": "2026",
-      "translation_year": "2026",
-      "translation_responsible": [
-        "Tetsu1"
-      ],
-      "translators": [
-        "Tetsu1"
-      ],
-      "created_at_utc": "2026-10-29T09:03:15.000Z",
-      "created_at_jst": "2026-10-29T18:03:15+09:00",
-      "created_by": "Tetsu1",
-      "content_warnings": [],
-      "summary_basis": "これをSCiPNETサーバーに受け入れさせるのに少し時間がかかったが、どうにかアップロードして動作させられたらしい。\n\nこれは神の真の姿を写した画像だ。\n他にも数十回撮ろうとしたんだが、どれも無意味な霧とメタデータになってしまった。上の画像も最低でも40回はこのページにアップロードしようとしたが、毎回削除されてしまった。しかし幸いにも、画像を完全にロックしてこの現実から切り離したことで、合理的な方法でどうにか削除してやろうなんてことは誰にもできなくなった。これを書き終えたら、私はアカウントを削除して銃弾を眉間に撃ち込む。そうすれば、神は私に何もできない。\n神の真の姿が私の脳を徹底的にぐちゃぐちゃにしてくれたから、もう長くは生きられない。ここ16日、全部ちゃんと読めるようにと願いながらこのページに張り付いてきた。神が今の私を不満に思っているのは確かだろうが、こうやって画像を不明瞭にすれば、君はそう簡単には見つからなくなるだろう。\nようやく、サーバーの奥深くに眠る神の情報を全てリストにできたと思う。神の影響が広範囲に轟き回っている以上、あくまでも不完全だが、私が合理的に神と関連付けられるものは全てここにある。それ以上でもそれ以下でもない。\n\n001: Weed Problem (LOCKED)\n002: He Is Not Dead, but Sleepeth\n003: Eleven Floors Down\n004: Reasoning in State Hospital\n005: A Lovely Pear\n006: The Myth of Dinosaurs\n007: Reptilian Takeover\n008: 二つの庭を隔てる壁\n009: First Our Pleasures Die\n010: A White Surveillance Van\n011: Spacewalking Your New Way Home\n012: Timeship 2012\n013: Elsa, Are You in There?\n014: Upon One Pair of English Legs\n015: Sun Ritual\n016: Get Tree Body (Brainwash Solution)\n017: Its Bones Are Soft\n018: Candles Green, Heads and Skulls\n019: Hypnosis, Drugs, and Mind Control (The Beginning: A Touch)\n020: Legend of Degree\n021: 一連の綿密な予防措置\n022: Man-Lizards, Masters of Venus\n023: Odd Things, Brick Buildings\n024: Some Vast Unknown\n025: Tale of an Earth Man\n026: A Curious Picture You See With Your Eyes Closed\n027: Spirits Clad in Veils\n028: Even to the Edge of Doom\n029: Lions on a Banner\n030: In That Shadow Lurks a Smile\n031: Babylonian Mathematics\n032: There Is Nothing Hidden That Will Not Be Revealed Pt. 1\n033: There Is Nothing Hidden That Will Not Be Revealed Pt. 2\n034: There Is Nothing Hidden That Will Not Be Revealed Pt. 3\n035: There Is Nothing Hidden That Will Not Be Revealed Pt. 4\n036: As Two From Ten Thousand Pt. 1\n037: As Two From Ten Thousand Pt. 2\n038: A Foot in Place of a Foot\n039: Become Smaller and Smaller\n040: A Beautiful Dog\n041: By What Eternal Streams\n042: Pre-Human Spawn of Cthulhu\n043: He Is Cruel and Moves With Great Cunning\n044: A Corpse in My Arms on Awakening\n045: The Wicked Cease From Struggling\n046: In All Creatures Are Lust and Hunger\n047: At One With Their Antagonists\n048: Foreign Ideas, Alien Philosophies\n049: The Abyss of the Human Species\n050: Far From the Black Ocean\n051: Our Light Is a Voice\n052: Without Hope, a Mute Offender\n053: La tristesse durera toujours\n054: Guns, Girls, Psychoactive Drugs (Birth and Redeath)\n055: A Killer's Apology Rebuffed (The Destroyer)\n056: Return of Ghost Sheriff (Werewolves Are Chasing Me)\n057: Narcolepsy: An Introduction\n058: Narcolepsy: Dreamtime Collapsing\n059: Narcolepsy: Four Thousand BC\n060: Narcolepsy: Melting\n061: Inflame Thyself in Praying Pt. 1\n062: Inflame Thyself in Praying Pt. 2\n063: Inflame Thyself in Praying Pt. 3\n064: Inflame Thyself in Praying Pt. 4\n065: Inflame Thyself in Praying Pt. 5\n066: Inflame Thyse…",
-      "summary_basis_type": "overview",
-      "tags": [
-        "alephシリーズ",
-        "en",
-        "ハブ",
-        "共著",
-        "合作"
-      ],
-      "rating": 12,
-      "vote_count": 12,
-      "revision_count": 3,
-      "comment_count": 1,
-      "content_hash": "sha256:d848e70f7106936689859ddf959f6cf95e9f4fa6bff2d3f27f779b2268aad374",
-      "has_text_content": true,
-      "text_content_length": 15119,
-      "first_seen_at_jst": "2026-10-30T09:56:42.397426+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469749631"
-    },
-    {
-      "wikidot_id": "1469741030",
-      "page_name": "scp-2593-jp",
-      "url": "https://scp-jp.wikidot.com/scp-2593-jp",
-      "edition": "jp_original",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "jp_tag"
-      ],
-      "source_branch": "JP",
-      "source_branch_basis": "jp_tag",
-      "genre": "SCP報告書",
-      "article_title": "Scp-2593-Jp",
-      "subtitle": "[アクセス拒否]",
-      "authors": [
-        "*userMayyerrin"
-      ],
-      "original_title": null,
-      "original_url": null,
-      "original_authors": [],
-      "original_year": null,
-      "translation_year": null,
-      "translation_responsible": [],
-      "translators": [],
-      "created_at_utc": "2026-10-27T12:03:41.000Z",
-      "created_at_jst": "2026-10-27T21:03:41+09:00",
-      "created_by": "Mayyerrin",
-      "content_warnings": [],
-      "summary_basis": "アイテム番号:SCP-2593-JP\nオブジェクトクラスArchon\n特別収容プロトコルSCP-2593-JPに接触した人物に関しては即座に対応の処置を行います｡現時点で収容する必要はありません｡\n職員一人が常時建造物の外部から監視してください｡\n説明SCP-2593-JPは､北海道██市にある建造物の中で行動しているヒト型の生物です｡\nSCP-2593-JPは触れたものを破壊する能力を持つ､だが実際に確認された破壊行為は43件のみである｡SCP-2593-JPの居住地は中の物を破壊終わり次第転々としている｡\n過去破壊行為により破壊された建造物は53件､これからも被害が続くと思われる｡\n収容は容易ではない､過去収容のために行われた作戦が3つともに被害者を出し失敗している｡\n収容作戦1の記録である\n誰がこの作戦を行ったかについては公開することができない\n\n記録SCP-2593-JP\n日付.2010/06/23\n記録開始\n1対象を確認破壊行為を続けています\n2こちらB班搬送用の車到着しました\n1了解背後から近づきます\n1麻酔用意完了\n1気付かれた！！\n対象(公開できない情報)\n1うわぁ！装備が粉になって\n2大丈夫か！(1の名前)応答しろ！\n2出て来た！クソッ逃g…..\n記録終了\n\nこの後外に出たSCP-2593-JPにより半径5kmの家が全壊する被害が出た\n残り二つの作戦記録は公開を固く禁ずる\n過去Dクラス職員110とDクラス職員162が建造物内に捜査に入ったときの記録である\nDクラス職員A.Bは死亡が確認されていて存在が消滅している\n\n記録2593-JP\n日付.2011/09/22\n記録開始\n110.中は思ったより明るい\n162.対象は今睡眠状態のようだ\n無線の音.何かデータを取れるようなものを保管ボックスに入れ直ちに避難すること\n110.御意\n162.これはひどい有り様だ瓦礫だらけだ歩いたら音でバレそうだ\n110.あれは<ノイズ>の日記か？持って帰ろう\n謎の声誰だ\n110.マズい気付かれた逃げろ逃げっ\n記録終了",
-      "summary_basis_type": "opening",
-      "tags": [
-        "archon",
-        "jp",
-        "scp",
-        "削除通知"
-      ],
-      "rating": -32,
-      "vote_count": 32,
-      "revision_count": 2,
-      "comment_count": 3,
-      "content_hash": "sha256:dbaae092dc1c1c05bced1d7342d2e4435c16564b09c0aef1c377117d382c2903",
-      "has_text_content": true,
-      "text_content_length": 958,
-      "first_seen_at_jst": "2026-10-30T09:56:42.397426+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469741030"
     }
   ]
 }
