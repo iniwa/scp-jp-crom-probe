@@ -1,41 +1,41 @@
 {
   "schema_version": 1,
-  "status": "degraded",
+  "status": "ok",
   "hotfix_version": "5.1.2",
-  "generated_at_utc": "2026-11-17T03:47:01.078052+00:00",
-  "generated_at_jst": "2026-11-17T12:47:01.078052+09:00",
-  "generated_date_jst": "2026-11-17",
-  "run_id": "44012571639",
+  "generated_at_utc": "2026-11-18T02:52:17.444046+00:00",
+  "generated_at_jst": "2026-11-18T11:52:17.444046+09:00",
+  "generated_date_jst": "2026-11-18",
+  "run_id": "44226345270",
   "repository": "iniwa/scp-jp-crom-probe",
   "mode": "incremental",
   "state_source": "previous_state",
   "query": {
     "endpoint": "https://apiv2.crom.avn.sh/graphql",
-    "since_utc": "2026-10-18T03:47:01.078052+00:00",
-    "since_jst": "2026-10-18T12:47:01.078052+09:00",
+    "since_utc": "2026-10-19T02:52:17.444046+00:00",
+    "since_jst": "2026-10-19T11:52:17.444046+09:00",
     "window_days": 30,
     "notification_retention_hours": 168,
     "snapshot_retention_days": 37,
     "truncated": false
   },
   "counts": {
-    "raw_recent_pages": 780,
-    "content_candidates": 133,
-    "details_confirmed": 132,
+    "raw_recent_pages": 785,
+    "content_candidates": 130,
+    "details_confirmed": 130,
     "details_fetched": 9,
-    "details_reused": 124,
+    "details_reused": 121,
     "detail_fetch_failures": 0,
     "classification_pending": 0,
-    "text_pending": 1,
-    "jp_originals": 44,
-    "translations": 88,
-    "new_this_run": 4,
-    "new_jp_originals": 3,
-    "new_translations": 1,
-    "notification_candidates": 35,
-    "pending": 1,
+    "text_pending": 0,
+    "jp_originals": 41,
+    "translations": 89,
+    "new_this_run": 3,
+    "new_jp_originals": 1,
+    "new_translations": 2,
+    "notification_candidates": 33,
+    "pending": 0,
     "rejected": {
-      "not_monitored_content": 643,
+      "not_monitored_content": 651,
       "excluded_tag": 4
     }
   },
@@ -45,14 +45,6 @@
     "minimum": 298337,
     "request_count": 17
   },
-  "pending_pages": [
-    {
-      "page_name": "sevengato-art-5045-1",
-      "url": "https://scp-jp.wikidot.com/sevengato-art-5045-1",
-      "reason": "text_content_not_ready"
-    }
-  ],
-  "warnings": [
-    "1 page(s) are pending and were not marked as seen; they will be retried."
-  ]
+  "pending_pages": [],
+  "warnings": []
 }
