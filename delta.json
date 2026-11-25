@@ -1,20 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-11-25T02:01:14.672547+00:00",
-  "generated_at_jst": "2026-11-25T11:01:14.672547+09:00",
+  "generated_at_utc": "2026-11-25T04:08:11.658546+00:00",
+  "generated_at_jst": "2026-11-25T13:08:11.658546+09:00",
   "retention_hours": 168,
-  "new_this_run_ids": [
-    "1470062020",
-    "1470062202",
-    "1470063660",
-    "1470063714",
-    "1470069661",
-    "1470069909",
-    "1470069912",
-    "1470070320",
-    "1470070671",
-    "1470070835"
-  ],
+  "new_this_run_ids": [],
   "articles": [
     {
       "wikidot_id": "1470070835",
@@ -79,7 +68,7 @@
       "text_content_length": 1543,
       "first_seen_at_jst": "2026-11-25T11:01:14.672547+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1470070835"
     },
     {
@@ -129,8 +118,8 @@
         "現実改変",
         "crom:series-10"
       ],
-      "rating": 2,
-      "vote_count": 6,
+      "rating": 3,
+      "vote_count": 7,
       "revision_count": 1,
       "comment_count": 1,
       "content_hash": "sha256:1b4fa7f9e830083c76c48a67eea7d178ff3a8283570ecdb2f2033814446c5921",
@@ -138,7 +127,7 @@
       "text_content_length": 1486,
       "first_seen_at_jst": "2026-11-25T11:01:14.672547+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1470070671"
     },
     {
@@ -188,16 +177,16 @@
         "血液",
         "観測"
       ],
-      "rating": -12,
-      "vote_count": 40,
+      "rating": -11,
+      "vote_count": 45,
       "revision_count": 2,
-      "comment_count": 9,
+      "comment_count": 10,
       "content_hash": "sha256:806dcfc1f1e3cbbd2c33a4a678816313d01c2a9f1b14fb87775988a61c10b955",
       "has_text_content": true,
       "text_content_length": 873,
       "first_seen_at_jst": "2026-11-25T11:01:14.672547+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1470070320"
     },
     {
@@ -264,7 +253,7 @@
       "text_content_length": 5412,
       "first_seen_at_jst": "2026-11-25T11:01:14.672547+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1470069912"
     },
     {
@@ -326,7 +315,7 @@
       "text_content_length": 6733,
       "first_seen_at_jst": "2026-11-25T11:01:14.672547+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1470069909"
     },
     {
@@ -369,7 +358,7 @@
         "認識災害"
       ],
       "rating": -6,
-      "vote_count": 12,
+      "vote_count": 14,
       "revision_count": 2,
       "comment_count": 2,
       "content_hash": "sha256:40b2b25ebef355fba85327ae63c417da0ae79f11214fdf518f5fa1fc7fbb6ee7",
@@ -377,7 +366,7 @@
       "text_content_length": 5559,
       "first_seen_at_jst": "2026-11-25T11:01:14.672547+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1470069661"
     },
     {
@@ -429,7 +418,7 @@
       "text_content_length": 5507,
       "first_seen_at_jst": "2026-11-25T11:01:14.672547+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1470063714"
     },
     {
@@ -484,7 +473,7 @@
       "text_content_length": 4513,
       "first_seen_at_jst": "2026-11-25T11:01:14.672547+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1470063660"
     },
     {
@@ -534,7 +523,7 @@
       "text_content_length": 2745,
       "first_seen_at_jst": "2026-11-25T11:01:14.672547+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1470062202"
     },
     {
@@ -589,7 +578,7 @@
       "text_content_length": 2646,
       "first_seen_at_jst": "2026-11-25T11:01:14.672547+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1470062020"
     },
     {
@@ -1218,11 +1207,11 @@
       ],
       "rating": 29,
       "vote_count": 31,
-      "revision_count": 2,
+      "revision_count": 3,
       "comment_count": 3,
-      "content_hash": "sha256:379907c7612032ec52bc6b4892a7d2c6396be6d7c6a78173f78816c6d5b56fb6",
+      "content_hash": "sha256:81781d394fc109928b95502b45a1c222ab3cb995da4352d70ac3f0aef28e6d1b",
       "has_text_content": true,
-      "text_content_length": 3022,
+      "text_content_length": 3016,
       "first_seen_at_jst": "2026-11-22T10:13:16.456481+09:00",
       "baseline": false,
       "is_new_this_run": false,
@@ -2420,193 +2409,6 @@
       "baseline": false,
       "is_new_this_run": false,
       "notification_id": "1469965572"
-    },
-    {
-      "wikidot_id": "1469952201",
-      "page_name": "blind-the-all-seeing-eye",
-      "url": "https://scp-jp.wikidot.com/blind-the-all-seeing-eye",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translation_responsible",
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "EN",
-      "source_branch_basis": "original_url",
-      "genre": "GoIフォーマット",
-      "article_title": "全視の目を眩ませて",
-      "subtitle": null,
-      "authors": [],
-      "original_title": "BLIND THE ALL-SEEING EYE",
-      "original_url": "https://scp-wiki.wikidot.com/blind-the-all-seeing-eye",
-      "original_authors": [
-        "TyGently"
-      ],
-      "original_year": "2026",
-      "translation_year": "2026",
-      "translation_responsible": [
-        "FattyAcid"
-      ],
-      "translators": [
-        "FattyAcid"
-      ],
-      "created_at_utc": "2026-11-17T16:08:27.000Z",
-      "created_at_jst": "2026-11-18T01:08:27+09:00",
-      "created_by": "FattyAcid",
-      "content_warnings": [],
-      "summary_basis": "ポッドが開くと、あなたの体型に完全にフィットする形の空洞が現れる。\nあなたはそこに入る。\n\n« 胸焼け |\n\n獣の腹の中にいるとき、あなたは決して安心感を得ることができなかった。\n滑りやすい路面を踏みしめる足音を聞きながら、奇妙なほど息の合った動きをする汗だくの労働者たちの横を通り過ぎる。あなたは、彼らが相繇の心臓の鼓動に合わせて動いていることに気づく。耳元で自分の心臓の鼓動が不規則に響く。今、あなたたちの仲間はごくわずかしかいない。\n道順は、あなたの心の中にフラクタルな概念として存在している。それは折り畳まれたミームエージェント、4人の悪魔たちが家に押し入って友人を殺害したときに目の奥に突き刺さってきたものだ。折り畳みは必要に応じて解かれ、あなたの足はできる限りその道を辿っていく。\nあなたは細い路地へと導かれる。その奥にはひび割れたコンクリートの壁が、肉の塊でできた壁の上に乗るようにそびえ立っている。無言の労働者たちが、何の印もない金属製の扉の近くでタバコを吸っている。あなたは彼らの隣に腰を下ろし、その扉に背中を押し付ける。\n耳鳴りがして、言葉が頭蓋骨に囁きかけてくる。「黒き月は吠えているか？」\nあなたのほとんど聞き取れない声で言う。「それは嘘、嘘、嘘だ」\n扉が開き、あなたは中に消えていく。\n部屋にわずかに差し込む光の中に、あなたの司令官コマンダーが立っている。彼女は痩せこけており、制服には濃い茶色の染みがついている。「君が生きていてよかった」彼女は言う。「司令部はこれ以上の損失を許容できないからな」\nあなたは頷く。彼女はため息をつく。「私はここで共産主義者どもと連携していました。彼らは少なくともインサージェントであるとみなされていますし、この街には他にろくな選択肢がありません。我々は行き詰まっています。いわゆる“財団”によって、公然と襲撃されたのです」\n「忌々しい偽物どもが」彼女は毒を吐き捨てるように言った。「奴らは、任務に忠実な唯一の者たちを潰そうとしている。我々こそが唯一の希望だという事実から目を背けている、哀れな愚か者たちだ」彼女は拳を握りしめ、それからゆっくりと開いた。「だが、そんなことはどうでもいい。我々にはやるべき仕事がある。《パンガラ》が沈められて以降、この半球のセルは半分が壊滅状態だ。任務中のオペレーターがいないせいでな」\n部屋の電灯がチカリと点くと、部屋の中央には《コーディネーション・ポッド》が佇んでいる。それは川石のように滑らかで、ケーブルが織りなす薄暗い虹色で彩られている。\nポットがここにあることが、あなたには信じがたい事実だ。一体どうやって運び出したというのだろう？\nコマンダーは頷いた。「万が一に備えて街の中に隠しておいた。真の財団は、決してバックアップを欠かさない」\n「君に入ってもらう。我々が不在の間に衛星グループが織りなした複雑な絡み合いを、誰かが解きほぐさなければならない。君がそこにいる間、私は相繇での事態を処理しておく。任務を全うせよ」\nポッドが開くと、あなたの体型に完全にフィットする形の空洞が現れる。\nあなたはそこに入る。\n\n起動中…\nエラー! SCiPnet暗号化キーが無効です！\nエラー! 財団アップリンクが見つかりません！\nエラー!\n…\n起動中…\n財団データベース（1）件を読み込み中…\n神経リンクを初期化中…\n\nContainment Foundation for Security\nOrdo ab Chao\n\n------\nようこそ、オペレーター\n------\n\n開始\n\n« 胸焼け | ハブ | Syzygy »",
-      "summary_basis_type": "opening",
-      "tags": [
-        "en",
-        "goi-format",
-        "goicon-2026",
-        "インタラクティブ",
-        "オネイロイ",
-        "カオス・インサージェンシー",
-        "第三法則"
-      ],
-      "rating": 7,
-      "vote_count": 7,
-      "revision_count": 2,
-      "comment_count": 1,
-      "content_hash": "sha256:d74068103dbb2f7ff3c5dc875d7429cd23440ac88da60d4617999aa010a141b2",
-      "has_text_content": true,
-      "text_content_length": 1744,
-      "first_seen_at_jst": "2026-11-18T11:52:17.444046+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469952201"
-    },
-    {
-      "wikidot_id": "1469948885",
-      "page_name": "scp-6789",
-      "url": "https://scp-jp.wikidot.com/scp-6789",
-      "edition": "translation",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "credit_translation_responsible",
-        "credit_translation_year",
-        "credit_original_title",
-        "credit_original_url"
-      ],
-      "source_branch": "EN",
-      "source_branch_basis": "original_url",
-      "genre": "SCP報告書",
-      "article_title": "SCP-6789",
-      "subtitle": "還れ。還れ。還れ。",
-      "authors": [],
-      "original_title": "SCP-6789 - Return. ##251|Return.## ##070|Return.##",
-      "original_url": "https://scp-wiki.wikidot.com/scp-6789",
-      "original_authors": [
-        "Its A Bad Idea",
-        "Ralliston",
-        "Trotskyeet"
-      ],
-      "original_year": "2021",
-      "translation_year": "2026",
-      "translation_responsible": [
-        "radian462"
-      ],
-      "translators": [
-        "radian462"
-      ],
-      "created_at_utc": "2026-11-17T13:03:12.000Z",
-      "created_at_jst": "2026-11-17T22:03:12+09:00",
-      "created_by": "radian462",
-      "content_warnings": [],
-      "summary_basis": "説明: SCP-6789は、ポーランドのチェンストホヴァに位置するローランダー・ジェネラル・スチール工場の地下2階にあるボイラー室内に存在する、おおよそ20m×20mの空間領域です。SCP-6789内部では、生物の成長速度が著しく増加します。\n太陽光が遮られており、さらに、十分な水源を確保できないにもかかわらず、SCP-6789は動植物からなる小規模な生態系を育むことが可能です。外部現象による干渉がない限り、アノマリー内の生物は、未知の手段によって無期限に生存し続けていることが確認されています。アノマリーが発生する以前、SCP-6789が位置する部屋は、ローランダー・ジェネラル・スチール工場の主要な動力源でした。この部屋は、植物の成長により、それ以降機能不全に陥っています。\nSCP-6789の近辺にいた複数の目撃者が、内部から伝わるリズミカルな鼓動を感じたと証言しています。これらの証言の内容は未検証であり、現在調査が進められています。",
-      "summary_basis_type": "description",
-      "tags": [
-        "120の記録書庫より",
-        "6000",
-        "en",
-        "homo-sapiens-sidhe",
-        "k-クラスシナリオ",
-        "safe",
-        "scp",
-        "共著",
-        "動物",
-        "地下",
-        "外部エントロピー",
-        "夜闇の子ら",
-        "惑星",
-        "敵対的",
-        "未収容",
-        "植物",
-        "樹木",
-        "球体",
-        "生物災害",
-        "精神影響",
-        "音波",
-        "crom:series-7"
-      ],
-      "rating": 5,
-      "vote_count": 7,
-      "revision_count": 1,
-      "comment_count": 1,
-      "content_hash": "sha256:7b61724d77287b783fdcefe122623e5cd53c4fd11963e058c3d5470e2a07fe9a",
-      "has_text_content": true,
-      "text_content_length": 3198,
-      "first_seen_at_jst": "2026-11-18T11:52:17.444046+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469948885"
-    },
-    {
-      "wikidot_id": "1469946979",
-      "page_name": "scp-4707-jp",
-      "url": "https://scp-jp.wikidot.com/scp-4707-jp",
-      "edition": "jp_original",
-      "classification_confidence": "confirmed",
-      "classification_reasons": [
-        "jp_tag"
-      ],
-      "source_branch": "JP",
-      "source_branch_basis": "jp_tag",
-      "genre": "SCP報告書",
-      "article_title": "SCP-4707-JP",
-      "subtitle": "ナノアダムとナノイブ",
-      "authors": [
-        "taiyousun"
-      ],
-      "original_title": null,
-      "original_url": null,
-      "original_authors": [],
-      "original_year": null,
-      "translation_year": null,
-      "translation_responsible": [],
-      "translators": [],
-      "created_at_utc": "2026-11-17T11:11:23.000Z",
-      "created_at_jst": "2026-11-17T20:11:23+09:00",
-      "created_by": "taiyousun",
-      "content_warnings": [],
-      "summary_basis": "説明: SCP-4707-JPは、2種類の異常な芳香族化合物SCP-4707-JP-MおよびSCP-4707-JP-Fの総称です。SCP-4707-JPはナノプシャン1として知られる化合物群に類する構造を有しており、SCP-4707-JP-Mは下半身部に男性器様の構造、SCP-4707-JP-Fは胸部に乳房様の構造が付加されています。詳細な構造に関する情報はクリアランス3以上の職員のみアクセスすることが可能です。\nSCP-4707-JPは2023年、異常化学コミュニティによって考案・合成され、それぞれ「ナノアダム」「ナノイブ」の名称が与えられていました。SCP-4707-JPの構造は非常に不安定であり非異常の手順では合成が困難であったため、合成の際には異常な手段が用いられました。その際に異常な性質が見られたことがコミュニティ内で周知され、財団が把握し収容することとなりました。\nSCP-4707-JPは前述の通り不安定な構造であるにも拘らず、安定して存在することが可能です。また、単結合部分を回転・屈曲することでヒト(Homo sapiens)に類する自律運動を行います2。当該行動および後述する活動は、外部からのエネルギー供給がない場合にも行われるため、SCP-4707-JPは外部エントロピー的な性質を有しているものと見られます。\nSCP-4707-JP-MとSCP-4707-JP-Fがそれぞれ1分子以上が互いに10nm以内に存在する場合、SCP-4707-JPは自己複製を行います。SCP-4707-JP-MとSCP-4707-JP-Fは周囲の物質より炭素原子やその他必要元素を脱離し、それぞれSCP-4707-JPの一部構造を組み上げた後に持参します。その後SCP-4707-JP-MとSCP-4707-JP-Fは当該構造群を連結し新たなSCP-4707-JPを生成します。実験により、SCP-4707-JP-MとSCP-4707-JP-Fはそれぞれ約1:1の比率で生成されることが判明しています。\n複数のSCP-4707-JPが存在する場合にはコミュニケーションに類する行動が観察されています。SCP-4707-JP-MとSCP-4707-JP-Fは手部分を互いに結合する、頭部構造を互いに近づけるなどの行動が見られ、多数のSCP-4707-JPが存在する場合には手部分を互いに結合し巨大な環状構造を形成する様子も確認されました。なお、検証手段が乏しいため、SCP-4707-JPに意識体が存在するかは依然として実証されていません。",
-      "summary_basis_type": "description",
-      "tags": [
-        "jp",
-        "safe",
-        "scp",
-        "人工",
-        "人間型",
-        "化学",
-        "外部エントロピー",
-        "微視的",
-        "自己複製",
-        "自律"
-      ],
-      "rating": 40,
-      "vote_count": 46,
-      "revision_count": 2,
-      "comment_count": 3,
-      "content_hash": "sha256:7e9645a32fc18ef250302ee5d70dce444080a8e5019b2819836f8882dadabb9d",
-      "has_text_content": true,
-      "text_content_length": 3119,
-      "first_seen_at_jst": "2026-11-18T11:52:17.444046+09:00",
-      "baseline": false,
-      "is_new_this_run": false,
-      "notification_id": "1469946979"
     }
   ]
 }

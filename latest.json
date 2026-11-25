@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-11-25T02:01:14.672547+00:00",
-  "generated_at_jst": "2026-11-25T11:01:14.672547+09:00",
+  "generated_at_utc": "2026-11-25T04:08:11.658546+00:00",
+  "generated_at_jst": "2026-11-25T13:08:11.658546+09:00",
   "window_days": 30,
   "articles": [
     {
@@ -67,7 +67,7 @@
       "text_content_length": 1543,
       "first_seen_at_jst": "2026-11-25T11:01:14.672547+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1470070835"
     },
     {
@@ -117,8 +117,8 @@
         "現実改変",
         "crom:series-10"
       ],
-      "rating": 2,
-      "vote_count": 6,
+      "rating": 3,
+      "vote_count": 7,
       "revision_count": 1,
       "comment_count": 1,
       "content_hash": "sha256:1b4fa7f9e830083c76c48a67eea7d178ff3a8283570ecdb2f2033814446c5921",
@@ -126,7 +126,7 @@
       "text_content_length": 1486,
       "first_seen_at_jst": "2026-11-25T11:01:14.672547+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1470070671"
     },
     {
@@ -176,16 +176,16 @@
         "血液",
         "観測"
       ],
-      "rating": -12,
-      "vote_count": 40,
+      "rating": -11,
+      "vote_count": 45,
       "revision_count": 2,
-      "comment_count": 9,
+      "comment_count": 10,
       "content_hash": "sha256:806dcfc1f1e3cbbd2c33a4a678816313d01c2a9f1b14fb87775988a61c10b955",
       "has_text_content": true,
       "text_content_length": 873,
       "first_seen_at_jst": "2026-11-25T11:01:14.672547+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1470070320"
     },
     {
@@ -252,7 +252,7 @@
       "text_content_length": 5412,
       "first_seen_at_jst": "2026-11-25T11:01:14.672547+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1470069912"
     },
     {
@@ -314,7 +314,7 @@
       "text_content_length": 6733,
       "first_seen_at_jst": "2026-11-25T11:01:14.672547+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1470069909"
     },
     {
@@ -357,7 +357,7 @@
         "認識災害"
       ],
       "rating": -6,
-      "vote_count": 12,
+      "vote_count": 14,
       "revision_count": 2,
       "comment_count": 2,
       "content_hash": "sha256:40b2b25ebef355fba85327ae63c417da0ae79f11214fdf518f5fa1fc7fbb6ee7",
@@ -365,7 +365,7 @@
       "text_content_length": 5559,
       "first_seen_at_jst": "2026-11-25T11:01:14.672547+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1470069661"
     },
     {
@@ -417,7 +417,7 @@
       "text_content_length": 5507,
       "first_seen_at_jst": "2026-11-25T11:01:14.672547+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1470063714"
     },
     {
@@ -472,7 +472,7 @@
       "text_content_length": 4513,
       "first_seen_at_jst": "2026-11-25T11:01:14.672547+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1470063660"
     },
     {
@@ -522,7 +522,7 @@
       "text_content_length": 2745,
       "first_seen_at_jst": "2026-11-25T11:01:14.672547+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1470062202"
     },
     {
@@ -577,7 +577,7 @@
       "text_content_length": 2646,
       "first_seen_at_jst": "2026-11-25T11:01:14.672547+09:00",
       "baseline": false,
-      "is_new_this_run": true,
+      "is_new_this_run": false,
       "notification_id": "1470062020"
     },
     {
@@ -1103,11 +1103,11 @@
       ],
       "rating": 29,
       "vote_count": 31,
-      "revision_count": 2,
+      "revision_count": 3,
       "comment_count": 3,
-      "content_hash": "sha256:379907c7612032ec52bc6b4892a7d2c6396be6d7c6a78173f78816c6d5b56fb6",
+      "content_hash": "sha256:81781d394fc109928b95502b45a1c222ab3cb995da4352d70ac3f0aef28e6d1b",
       "has_text_content": true,
-      "text_content_length": 3022,
+      "text_content_length": 3016,
       "first_seen_at_jst": "2026-11-22T10:13:16.456481+09:00",
       "baseline": false,
       "is_new_this_run": false,
