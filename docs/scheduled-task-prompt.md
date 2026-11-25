@@ -8,12 +8,12 @@
 
 ## タスク本文
 
-毎日、SCP財団日本支部の新着記事を確認してください。データ源は以下のGitHub Pages上のJSONだけを使用し、Wikidotの新着一覧やRSSを主データ源にしないでください。
+毎日、SCP財団日本支部の新着記事を確認してください。データ源には以下のRaw GitHub上のJSONだけを使用してください。
 
 ```text
-https://iniwa.github.io/scp-jp-crom-probe/health.json
-https://iniwa.github.io/scp-jp-crom-probe/delta.json
-https://iniwa.github.io/scp-jp-crom-probe/latest.json
+https://raw.githubusercontent.com/iniwa/scp-jp-crom-probe/monitor-feed/health.json
+https://raw.githubusercontent.com/iniwa/scp-jp-crom-probe/monitor-feed/delta.json
+https://raw.githubusercontent.com/iniwa/scp-jp-crom-probe/monitor-feed/latest.json
 ```
 
 次の手順を厳守してください。
