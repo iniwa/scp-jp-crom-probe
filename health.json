@@ -1,50 +1,78 @@
 {
   "schema_version": 1,
-  "status": "ok",
+  "status": "degraded",
   "hotfix_version": "5.1.2",
-  "generated_at_utc": "2026-11-27T03:36:45.617415+00:00",
-  "generated_at_jst": "2026-11-27T12:36:45.617415+09:00",
-  "generated_date_jst": "2026-11-27",
-  "run_id": "45935159729",
+  "generated_at_utc": "2026-11-28T03:16:13.004615+00:00",
+  "generated_at_jst": "2026-11-28T12:16:13.004615+09:00",
+  "generated_date_jst": "2026-11-28",
+  "run_id": "46102016799",
   "repository": "iniwa/scp-jp-crom-probe",
   "mode": "incremental",
   "state_source": "previous_state",
   "query": {
     "endpoint": "https://apiv2.crom.avn.sh/graphql",
-    "since_utc": "2026-10-28T03:36:45.617415+00:00",
-    "since_jst": "2026-10-28T12:36:45.617415+09:00",
+    "since_utc": "2026-10-29T03:16:13.004615+00:00",
+    "since_jst": "2026-10-29T12:16:13.004615+09:00",
     "window_days": 30,
     "notification_retention_hours": 168,
     "snapshot_retention_days": 37,
     "truncated": false
   },
   "counts": {
-    "raw_recent_pages": 276,
-    "content_candidates": 131,
-    "details_confirmed": 131,
-    "details_fetched": 6,
-    "details_reused": 125,
+    "raw_recent_pages": 290,
+    "content_candidates": 146,
+    "details_confirmed": 141,
+    "details_fetched": 25,
+    "details_reused": 121,
     "detail_fetch_failures": 0,
     "classification_pending": 0,
-    "text_pending": 0,
+    "text_pending": 5,
     "jp_originals": 41,
-    "translations": 90,
-    "new_this_run": 4,
-    "new_jp_originals": 2,
-    "new_translations": 2,
-    "notification_candidates": 38,
-    "pending": 0,
+    "translations": 100,
+    "new_this_run": 15,
+    "new_jp_originals": 4,
+    "new_translations": 11,
+    "notification_candidates": 45,
+    "pending": 5,
     "rejected": {
       "not_monitored_content": 141,
-      "excluded_tag": 4
+      "excluded_tag": 3
     }
   },
   "rate_limit": {
     "first": 299800,
-    "last": 299358,
-    "minimum": 299358,
-    "request_count": 9
+    "last": 299225,
+    "minimum": 299225,
+    "request_count": 28
   },
-  "pending_pages": [],
-  "warnings": []
+  "pending_pages": [
+    {
+      "page_name": "art:enoch",
+      "url": "https://scp-jp.wikidot.com/art:enoch",
+      "reason": "text_content_not_ready"
+    },
+    {
+      "page_name": "art:scp001-sadwazlocker",
+      "url": "https://scp-jp.wikidot.com/art:scp001-sadwazlocker",
+      "reason": "text_content_not_ready"
+    },
+    {
+      "page_name": "art:scp-5001-a-recontainment",
+      "url": "https://scp-jp.wikidot.com/art:scp-5001-a-recontainment",
+      "reason": "text_content_not_ready"
+    },
+    {
+      "page_name": "art:scp-049-playing-card-art",
+      "url": "https://scp-jp.wikidot.com/art:scp-049-playing-card-art",
+      "reason": "text_content_not_ready"
+    },
+    {
+      "page_name": "art:still-frame",
+      "url": "https://scp-jp.wikidot.com/art:still-frame",
+      "reason": "text_content_not_ready"
+    }
+  ],
+  "warnings": [
+    "5 page(s) are pending and were not marked as seen; they will be retried."
+  ]
 }
